@@ -24,7 +24,7 @@ Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno.
 ---
 title: Journal YYYYMMDD
 date: YYYY-MM-DD
-company: casavo|mymenu|tourradar|muffin
+company: 1-casavo|2-mymenu|3-tourradar|4-muffin
 day_number: N
 tags: [daily, work, planning, career, life-lesson, research]
 mood: high|medium|low
