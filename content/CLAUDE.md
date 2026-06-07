@@ -1,33 +1,40 @@
 # Dan's Second Brain — Global Rules
 
 ## What this vault is
-
-A personal LLM Wiki following the Karpathy pattern. Sources are ingested once into `raw/`,
-compiled by Claude into structured wiki pages in `wiki/`. Knowledge compounds over time.
+A personal LLM Wiki following the Karpathy pattern, maintained by Claude.
+Sources are ingested once into raw/, compiled into structured wiki pages in wiki/.
+Knowledge compounds over time.
 
 ## Vault structure
-
-```
 vault/
-├── CLAUDE.md          ← you are here (global rules)
-├── _index.md          ← wiki homepage
-├── .quartzignore      ← excludes raw/ folders from publishing
-└── career-coach/      ← AI Career Coach (journal, esperienze, crescita professionale)
-```
+├── CLAUDE.md              ← you are here (global rules)
+├── README.md
+├── _index.md              ← wiki homepage
+├── .quartzignore
+└── career-coach/          ← AI Career Coach (journal, experiences, growth)
+    ├── CLAUDE.md          ← domain-specific rules
+    ├── raw/
+    │   ├── journal/
+    │   │   ├── 1-casavo/
+    │   │   ├── 2-mymenu/
+    │   │   ├── 3-tourradar/
+    │   │   └── 4-muffin/
+    │   ├── learning/
+    │   └── career/
+    └── wiki/
 
-Each project folder has its own `CLAUDE.md` with domain-specific rules.
-Defer to the project-level `CLAUDE.md` for all project-specific decisions.
+Other projects will be added as new top-level folders when ready:
+- football/     ← Allenatore calcio (Ardor Juniores) — coming soon
+- pmdraft/      ← PMDraft skills brand — Cowork only, no wiki needed
 
 ## Global rules
-
-- `raw/` folders contain immutable source material — never modify files after ingestion
-- `wiki/` folders contain compiled knowledge — always maintained by Claude
-- Use YAML frontmatter for structured data in all wiki pages
-- All wiki pages must have at least: `title`, `updated`, `tags`
-- Cross-link aggressively between wiki pages using `[[wikilinks]]`
+- raw/ folders contain immutable source material — never modify after ingestion
+- wiki/ folders contain compiled knowledge — always maintained by Claude
+- Use YAML frontmatter for all wiki pages (required: title, updated, tags)
+- Cross-link aggressively between wiki pages using [[wikilinks]]
 - Flag contradictions explicitly rather than silently overwriting
-- Language: Italian for personal content, English for technical content
+- Italian for personal content, English for technical content
+- Never store sensitive company data (customer data, proprietary code, financials)
 
-## Shared rules (to be expanded over time)
-
-_No shared rules yet. They will emerge and be added here._
+## Shared rules (expanded over time)
+_No shared rules yet — they will emerge and be added here._
