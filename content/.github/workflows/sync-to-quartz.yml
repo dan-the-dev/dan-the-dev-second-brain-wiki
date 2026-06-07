@@ -1,0 +1,48 @@
+name: Sync vault to Quartz wiki
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Checkout wiki
+        uses: actions/checkout@v4
+        with:
+          repository: dan-the-dev/dan-the-dev-second-brain-wiki
+          ref: v5
+          token: ${{ secrets.VAULT_PAT }}
+          path: wiki
+
+      - name: Sync vault content into content/ (excluding raw/)
+        run: |
+          mkdir -p wiki/content
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='.obsidian/' \
+            --exclude='raw/' \
+            --exclude='_index.md' \
+            vault/ wiki/content/
+          # _index.md is the vault homepage; Quartz needs it named index.md
+          cp vault/_index.md wiki/content/index.md
+
+      - name: Commit and push if changed
+        run: |
+          cd wiki
+          git config user.name "dan-the-dev"
+          git config user.email "daniele.scillia@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to sync"
+          else
+            git commit -m "Sync vault content from dan-the-dev-second-brain"
+            git push origin v5
+          fi
