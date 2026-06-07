@@ -10,9 +10,6 @@ Benvenuto nel mio secondo cervello personale, mantenuto da Claude con il pattern
 
 ## Sezioni
 
-- [[football/wiki/index|⚽ Football — Ardor Juniores]]
-- [[journal/wiki/index|📓 Journal — Personale e Lavoro]]
-- [[career/wiki/index|🎯 Career — Crescita Professionale]]
 - [[kb-tech/wiki/index|🧠 KB Tecnica — Software Engineering]]
 
 ## Dashboard

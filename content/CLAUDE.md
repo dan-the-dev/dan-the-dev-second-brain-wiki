@@ -12,9 +12,6 @@ vault/
 ├── CLAUDE.md          ← you are here (global rules)
 ├── _index.md          ← wiki homepage
 ├── .quartzignore      ← excludes raw/ folders from publishing
-├── football/          ← Allenatore calcio (Ardor Juniores)
-├── journal/           ← Journal personale/lavoro
-├── career/            ← Coach carriera
 └── kb-tech/           ← KB tecnica (ex Recall)
 ```
 
