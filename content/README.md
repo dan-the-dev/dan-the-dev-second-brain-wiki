@@ -14,7 +14,7 @@ vault/
 ├── football/          # Allenatore calcio — Ardor Juniores
 ├── journal/           # Daily journal — personal & work
 ├── career/            # Professional growth & opportunities
-└── kb-tech/           # Technical knowledge base (ex Recall)
+└── career-coach/      # AI Career Coach — journal, esperienze, crescita professionale
 ```
 
 Each project folder contains:

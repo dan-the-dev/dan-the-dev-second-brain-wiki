@@ -12,7 +12,7 @@ vault/
 ├── CLAUDE.md          ← you are here (global rules)
 ├── _index.md          ← wiki homepage
 ├── .quartzignore      ← excludes raw/ folders from publishing
-└── kb-tech/           ← KB tecnica (ex Recall)
+└── career-coach/      ← AI Career Coach (journal, esperienze, crescita professionale)
 ```
 
 Each project folder has its own `CLAUDE.md` with domain-specific rules.

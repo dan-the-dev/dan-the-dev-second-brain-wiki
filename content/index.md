@@ -10,7 +10,7 @@ Benvenuto nel mio secondo cervello personale, mantenuto da Claude con il pattern
 
 ## Sezioni
 
-- [[kb-tech/wiki/index|🧠 KB Tecnica — Software Engineering]]
+- [[career-coach/wiki/index|🎯 AI Career Coach]]
 
 ## Dashboard
 
