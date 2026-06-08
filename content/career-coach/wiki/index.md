@@ -1,6 +1,6 @@
 ---
 title: AI Career Coach — Index
-updated: 2026-06-07
+updated: 2026-06-08
 tags: [career, index]
 ---
 
@@ -19,6 +19,7 @@ tags: [career, index]
 
 ## Quick links
 - [[patterns/index|Patterns]]
+- [[people/index|People]]
 - [[skills/index|Skills]]
 - [[decisions/index|Decisions]]
 - [[learning/index|Learning]]

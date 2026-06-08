@@ -30,4 +30,11 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 - [[giulia|Giulia]] — persona vicina nella vita privata
 
 ## Tour Radar
-_da compilare_
+- [[anton|Anton]] — Engineering Manager
+- [[andy|Andy]] — collega di fiducia, primo a sapere delle dimissioni
+- [[nico|Nico]] — collega, mentee
+- [[div|Div (Divyang Dodiya)]] — collega Front-End
+- [[jakub-kwitowski|Jakub Kwitowski]] — collega tecnico, peer review su Tachyon/SERP
+- [[travis|Travis]] — CEO / leadership senior
+- [[egor|Egor]] — collega tecnico, coinvolto nel layoff
+- [[marta-muffin|Marta (Muffin)]] — referente HR/recruiting della nuova azienda Muffin
