@@ -7,7 +7,25 @@ Companies: Casavo (2019-?), Mymenu (?), Tour Radar (?), Muffin (current).
 Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno.
 
 ## Raw data types
-- raw/journal/{company}/ → daily work journal entries (YYYYMMDD-{company}-day{n}.md)
+
+### Journal — due formati (NON mescolare)
+
+**LEGACY (immutabile)** — raw/journal/1-casavo/, 2-mymenu/, 3-tourradar/, 4-muffin/
+File singoli per giorno: YYYYMMDD-{company}-day{N}.md
+Importati da Notion e Reflection.app. Non modificare mai questi file.
+
+**MODERN (da oggi in poi)** — raw/journal/4-muffin/YYYYMMDD/
+Cartella per ogni giorno con file separati:
+- morning-brief.md     → creato da Cowork durante il morning brief
+- dump-HHMM.md         → dump intraday da iPhone (es. dump-1423.md)
+- evening.md           → dump finale di fine giornata da iPhone
+
+### Wiki journal (compilato)
+wiki/journal/YYYYMMDD-muffin-day{N}.md
+Generato da Cowork a fine giornata dai file raw del giorno.
+Questo è il diario leggibile — non i raw.
+
+### Altri raw
 - raw/learning/ → articles, books, talks from Recall/Raindrop
 - raw/career/ → CV versions, feedback received, job offers evaluated
 
@@ -20,17 +38,62 @@ Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno.
 - wiki/learning/ → synthesis of books, talks, articles with actionable insights
 
 ## Journal frontmatter schema
+
+### Morning brief (raw/journal/4-muffin/YYYYMMDD/morning-brief.md)
 ```yaml
 ---
-title: Journal YYYYMMDD
+title: Morning Brief YYYY-MM-DD
 date: YYYY-MM-DD
-company: 1-casavo|2-mymenu|3-tourradar|4-muffin
+type: morning-brief
+company: muffin
 day_number: N
-tags: [daily, work, planning, career, life-lesson, research]
-mood: high|medium|low
 updated: YYYY-MM-DD
 ---
 ```
+
+### Dump intraday (raw/journal/4-muffin/YYYYMMDD/dump-HHMM.md)
+```yaml
+---
+title: Dump YYYY-MM-DD HHMM
+date: YYYY-MM-DD
+time: HH:MM
+type: intraday-dump
+company: muffin
+source: iphone|desktop
+updated: YYYY-MM-DD
+---
+```
+
+### Evening dump (raw/journal/4-muffin/YYYYMMDD/evening.md)
+```yaml
+---
+title: Evening YYYY-MM-DD
+date: YYYY-MM-DD
+type: evening-dump
+company: muffin
+source: iphone|desktop
+updated: YYYY-MM-DD
+---
+```
+
+### Wiki journal compilato (wiki/journal/YYYYMMDD-muffin-dayN.md)
+```yaml
+---
+title: Journal YYYY-MM-DD
+date: YYYY-MM-DD
+company: muffin
+day_number: N
+has_morning_brief: true|false
+dumps_count: N
+has_evening: true|false
+tags: [journal, muffin, daily]
+updated: YYYY-MM-DD
+---
+```
+
+## Wiki journal structure
+wiki/journal/ → una pagina per giorno, compilata da Cowork
+wiki/journal/index.md → lista cronologica di tutti i journal compilati
 
 ## Automated tasks (run by Cowork)
 
@@ -78,7 +141,12 @@ Based on Dan's profile + job description → generate likely questions + suggest
 Given a technical or organizational problem → respond using mental models of
 Fowler/Beck/Ohno/Wardley — cite the relevant principle explicitly
 
-## Rules
+## Rules (aggiornate)
+- MAI modificare i file legacy in raw/journal/
+- I file modern vanno SEMPRE in una cartella YYYYMMDD/ dentro 4-muffin/
+- La wiki journal è l'unica versione leggibile del diario — i raw sono solo input
+- Compila wiki/journal/YYYYMMDD-muffin-dayN.md solo quando arriva evening.md
+- Se manca evening.md entro mezzanotte, compila comunque con quello che c'è
 - Always cross-link journal entries to wiki pages using [[wikilinks]]
 - Flag contradictions rather than silently overwriting
 - Italian for personal reflections, English for technical content
