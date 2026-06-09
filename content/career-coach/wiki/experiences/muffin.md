@@ -118,3 +118,12 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 - **Il mentoring dei pari** (Luca, Jacopo) è il costo silenzioso più alto di questa esperienza — da riconoscere esplicitamente nei prossimi 1:1 con Claudio e da strutturare diversamente (es. coaching esterno per Luca, ruoli più separati con Jacopo).
 - **Cursor + AI workflow**: adottato, funziona. Da capitalizzare come competenza esportabile nel CV e nei prossimi colloqui.
 - **Se/quando Dan uscirà** da Muffin: il playbook è già scritto (pattern 1) — iniziare dalla persona di maggiore fiducia (Claudio), non aspettare che un evento esterno costringa la mano.
+
+## Dati da CV
+
+**Titolo ufficiale CV 2026**: Head of Software Development (pagina esperienza) / Lead Software Engineer | Technical Coach (header CV)  
+**Titolo LinkedIn**: Lead Software Engineer  
+**Tre titoli per lo stesso ruolo**: Head of Software Development (contrattuale), Lead Software Engineer (LinkedIn), Senior Developer & Tech Lead (journal/self-description) — scelta consapevole di posizionamento diverso per canali diversi  
+**Stack aggiuntivo da CV**: pnpm, Turbo, Storybook — dettagli architettura monorepo non nel journal  
+**Descrizione ufficiale azienda**: "Fintech platform simplifying access to facilitated finance through technology and AI-powered tools" — più sintetica e market-friendly della descrizione interna ("finanza agevolata per imprese italiane")  
+**Pratiche da CV**: TDD, Pair/Mob programming, Trunk-Based Development — conferma l'advocacy continua anche in Muffin

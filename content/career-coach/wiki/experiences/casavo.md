@@ -80,5 +80,14 @@ Dan lavora come Senior Developer in Casavo (proptech immobiliare), inserito nel 
 4. **Investire nella propria formazione anche nei momenti di transizione** mantiene motivazione e lascia un'eredità di valore al team che si lascia
 5. **Le persone restano**: la qualità delle relazioni costruite (Luca Z., Gianlu, Lorenzo, Fede) è ciò che si porta via, più di qualsiasi progetto tecnico
 
+## Dati da CV
+
+**Titolo ufficiale CV**: Senior Full-Stack Developer → Senior Backend Developer (evoluzione durante il periodo)  
+**Periodo contrattuale**: aprile 2019 → ottobre 2021 (~2,5 anni) — il journal raw copre solo gli ultimi 36 giorni  
+**Stack da CV**: PHP (Laravel e custom frameworks), Kotlin, Elixir, PostgreSQL, TypeScript, React, HTML, CSS, Tailwind  
+**Pratiche avanzate**: microservices, DDD, CQRS, Event Sourcing, Consumer-Driven Contract Testing, Pair/Mob Programming, TDD  
+**Contesto crescita**: "Joined when it was around 20 people and we were almost 300 when I left" — Dan contribuisce alla digitalizzazione dei processi immobiliari durante una fase di crescita da startup a scale-up (20→300 dipendenti)  
+**Flag**: il wiki period (2021-07-26 → 2021-10-04) copre solo il preavviso; il CV conferma che l'inizio effettivo è aprile 2019
+
 ## Tornerei?
 Probabilmente no, nelle stesse condizioni. Il prodotto e la cultura tecnica di Casavo piacciono davvero a Dan ("mi piace tantissimo quel che si sta creando in Casavo"), ma l'azienda — sul piano dell'ascolto del feedback, della qualità dei meeting e dell'attenzione al lavoro remoto — non è riuscita a rispondere ai suoi bisogni. Il ricordo che ne porta è agrodolce: nostalgia per le persone e per un ambiente tecnicamente stimolante, insieme alla convinzione che lasciare sia stata "la scelta giusta" dal punto di vista professionale.

@@ -107,5 +107,14 @@ Il diario stesso cambia forma due volte nel corso del periodo, segno di un'evolu
 6. **Le offerte esterne come specchio del proprio valore**: il momento delle proposte di Mollie e Tour Radar segna uno spartiacque psicologico — non solo un'opportunità economica, ma una conferma di crescita che sblocca decisioni rimaste in sospeso
 7. **Il bilancio finale è raramente "tutto bianco o tutto nero"**: la lettera di addio è notevole per onestà — riconosce sia i traguardi che i propri limiti ("so che a volte posso aver dato un'impressione negativa"), accettando che gli obiettivi aziendali sperati non siano stati raggiunti pur trovando senso e gratitudine nell'esperienza
 
+## Dati da CV
+
+**Titolo ufficiale CV 2023**: Senior Backend Developer & Tech Lead  
+**Titolo ufficiale CV 2024**: Senior Developer & Tech Lead  
+**Stack da CV**: PHP 8.2, Laravel 10, TypeScript, React, Next.js, NestJS — backend serverless su AWS Lambda, GitHub Actions, Laravel Vapor, Vercel, CloudWatch  
+**Flag stack**: il wiki riporta "Symfony" ma il CV usa "Laravel" — il diario potrebbe contenere entrambi; Laravel è confermato da più versioni CV  
+**Iniziative da CV non nel journal**: weekly learning days (venerdì pomeriggio), NPS surveys interne, technical 1:1, team health check setup con il CTO — pratiche strutturate di team culture che Dan introduce in prima persona  
+**Nota narrativa CV 2023**: "this is part of my path to become a Tech Lead in the future" — Dan all'epoca presentava ancora il TL come obiettivo futuro, non ruolo consolidato
+
 ## Tornerei?
 Probabilmente no, ma con un bilancio nettamente positivo. Mymenu è il capitolo in cui Dan cresce di più come Tech Lead — impara ad allenare pazienza ed empatia in una relazione difficile (Mario), a costruire cultura tecnica nel tempo, a documentare e fare mentoring in modo strutturato (C4 Model), e a gestire con cura una transizione delicata. Il distacco è sereno e reciprocamente rispettoso, segnato da gratitudine genuina ("sarò per sempre grato a Mymenu per l'opportunità che mi è stata data di dimostrare il mio valore dandomi fiducia e responsabilità"), pur restando il rammarico che gli obiettivi aziendali sperati non siano stati pienamente raggiunti.

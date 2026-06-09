@@ -112,5 +112,13 @@ Dan entra in Tour Radar (piattaforma di prenotazione viaggi organizzati) il 3 gi
 7. **Gli eventi traumatici accelerano decisioni già latenti, non le creano**: il layoff non genera il desiderio di andarsene, lo cristallizza — un pattern psicologico da osservare anche altrove
 8. **La cura nella gestione delle uscite è uno stile distintivo**: la pianificazione meticolosa delle dimissioni (chi avvisare, in che ordine, come preparare la documentazione) si ripete identica a Mymenu — segno di un tratto professionale stabile
 
+## Dati da CV
+
+**Titolo ufficiale CV 2024**: Senior Software Engineer / Agile Senior Developer  
+**Titolo LinkedIn**: Senior Software Engineer  
+**Stack da CV**: PHP 8.2, custom MVC framework basato su CodeIgniter, AWS, Atlassian suite (Bitbucket, Jira, Confluence)  
+**Progetto MySQL 5→8 da CV**: "Led a major MySQL 5 → MySQL 8 migration project, replacing a large set of database queries with a caching strategy to preserve performance and stability" — conferma e completa la descrizione del Project Tachyon  
+**Nota narrativa CV 2024**: il titolo "Agile Senior Developer" appare per la prima volta — segnale che Dan stava già ridefinendo il suo posizionamento mentre era ancora in TourRadar, probabilmente in preparazione a nuovi colloqui (WCS, poi Muffin)
+
 ## Tornerei?
 Probabilmente no. Tour Radar è il capitolo in cui Dan prova più chiaramente a esercitare una leadership tecnica visionaria (le due proposte strategiche DDD e Web Framework) ma si scontra ripetutamente con l'inerzia organizzativa — un'esperienza che culmina nella rottura di fiducia innescata dal layoff e dalla gestione poco trasparente della comunicazione da parte della leadership. Resta comunque un'esperienza di crescita tecnica solida (Tachyon, design pattern avanzati) e l'occasione in cui il suo "side-business" di divulgazione tecnica (newsletter, podcast, corsi) inizia a diventare un pilastro della sua identità professionale.
