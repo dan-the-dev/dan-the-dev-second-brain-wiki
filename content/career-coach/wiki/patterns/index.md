@@ -1,16 +1,16 @@
 ---
 title: Patterns — Index
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [patterns, index]
 ---
 
 # 🔁 Pattern ricorrenti
 
-Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente dai journal di Casavo, Mymenu e Tour Radar — letture compiute integralmente per ciascuna azienda.
+Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente dai journal di Casavo, Mymenu, Tour Radar e Muffin.
 
 ## 1. Comunicare le decisioni di uscita in modo progressivo e rispettoso dei ruoli
 
-**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]]
+**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]] — da verificare con Muffin (ancora in corso)
 
 **Frequenza**: sistematica — si ripresenta identica in tutte e tre le esperienze documentate, ogni volta che Dan decide di lasciare un'azienda.
 
@@ -28,25 +28,25 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 ## 2. Le proposte strategiche ben argomentate che restano senza seguito concreto
 
-**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]]
+**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]], [[muffin|Muffin]]
 
 **Frequenza**: ricorrente — almeno una proposta strutturale significativa per azienda, spesso più di una.
 
-**Descrizione**: in ogni esperienza Dan investe tempo ed energie per elaborare e condividere proposte di cambiamento ben argomentate — che riguardino processi (Casavo: feedback su scalability, qualità dei meeting, lavoro remoto), cultura tecnica (Mymenu: XP/TDD/Object Calisthenics/Tech Radar) o architettura organizzativa (Tour Radar: la proposta DDD/bounded context di settembre 2023 — "considerando la legge di Conway, team topologies, DDD [...] un modello tipo Spotify" — e la proposta "Web Framework" di gennaio 2024 — "Web current repo needs to die [...] but that's the target"). In tutti e tre i casi, l'adozione concreta è parziale o nulla.
+**Descrizione**: in ogni esperienza Dan investe tempo ed energie per elaborare e condividere proposte di cambiamento ben argomentate — che riguardino processi (Casavo: feedback su scalability, qualità dei meeting, lavoro remoto), cultura tecnica (Mymenu: XP/TDD/Object Calisthenics/Tech Radar) o architettura organizzativa (Tour Radar: la proposta DDD/bounded context di settembre 2023; la proposta "Web Framework" di gennaio 2024). In tutti e tre i casi precedenti, l'adozione concreta è parziale o nulla. A **Muffin** il pattern si ripresenta con variazioni: Dan porta avanti l'approccio XP/TDD/iterativo-incrementale di fronte alla resistenza di Luca e Jacopo per mesi — fino a quando il rinforzo esterno (Gianni Bombelli, Fabio Fortini, Nicola) non lo valida dall'esterno, sbloccando adozioni che la sola advocacy interna non era riuscita a ottenere. A Muffin il pattern trova quindi una parziale risoluzione attraverso la strategia dei "consulenti alleati" — ma la resistenza di Luca su alcuni temi (testing, processo) rimane.
 
-**Come l'hai gestito**: mettendo per iscritto analisi strutturate e dettagliate, condividendole con i decisori (manager, team, tribe), e continuando a portarle avanti anche di fronte alla scarsa risposta.
+**Come l'hai gestito**: mettendo per iscritto analisi strutturate e dettagliate, condividendole con i decisori (manager, team, tribe), e continuando a portarle avanti anche di fronte alla scarsa risposta. A Muffin: costruendo un'alleanza esterna (Qmates/Cemate) che valida l'approccio dall'esterno.
 
-**Cosa ha funzionato**: il processo stesso di elaborazione rafforza la credibilità di Dan come pensatore strategico e gli vale stima personale ("mi riconoscono come persona di valore"); alcune idee lasciano un segno su singoli colleghi anche quando non vengono adottate a livello aziendale (Simone DF, Simone P.).
+**Cosa ha funzionato**: il processo stesso di elaborazione rafforza la credibilità di Dan come pensatore strategico e gli vale stima personale ("mi riconoscono come persona di valore"); alcune idee lasciano un segno su singoli colleghi anche quando non vengono adottate a livello aziendale (Simone DF, Simone P.). A Muffin: l'alleanza con i consulenti esterni ha sbloccato adozioni concrete (testing, struttura team, AI boundaries) che erano bloccate da mesi.
 
-**Cosa non ha funzionato**: la mancata adozione genera frustrazione crescente e diventa, in più di un caso, l'**accelerante diretto della decisione di andarsene** — "ancora più grave che nessuno abbia risposto al mio messaggio" (Casavo); la riflessione critica post-layoff su Travis e il tech debt (Tour Radar) suggerisce lo stesso meccanismo.
+**Cosa non ha funzionato**: la mancata adozione genera frustrazione crescente e diventa, in più di un caso, l'**accelerante diretto della decisione di andarsene** — "ancora più grave che nessuno abbia risposto al mio messaggio" (Casavo); la riflessione critica post-layoff su Travis e il tech debt (Tour Radar) suggerisce lo stesso meccanismo. A Muffin la frustrazione con Luca genera episodi di "comunicazione violenta" che Dan riconosce come errori propri.
 
-**Insight**: questo è probabilmente il pattern più "costoso" emotivamente nella carriera di Dan fino a questo punto — la "frustrazione dell'intrapreneur" che propone, argomenta, e raramente vede il cambiamento realizzarsi. Vale la pena, nei prossimi capitoli, capire se e come trovare contesti dove queste proposte trovano davvero terreno fertile, o sviluppare strategie diverse per portare il cambiamento (alleanze, sperimentazioni piccole e progressive, scelta più attenta di dove investire energia).
+**Insight**: questo è probabilmente il pattern più "costoso" emotivamente nella carriera di Dan — la "frustrazione dell'intrapreneur" che propone, argomenta, e raramente vede il cambiamento realizzarsi. La novità di Muffin è che Dan trova una strategia parzialmente efficace: il rinforzo esterno come proxy del cambiamento interno (→ Pattern 6). Ma la resistenza residua di alcuni peer (Luca) suggerisce che la strategia ha limiti quando non è l'intera organizzazione a riconoscere il problema.
 
 ---
 
 ## 3. Gli eventi esterni (offerte, crisi aziendali) come specchio del proprio valore e acceleranti di decisioni latenti
 
-**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]]
+**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]], [[muffin|Muffin]] (segnale nascente)
 
 **Frequenza**: sistematica — ogni cambio di azienda nel periodo documentato è innescato da un evento esterno concreto, non da una scelta "a freddo".
 
@@ -57,6 +57,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa ha funzionato**: Dan riesce a riconoscere, in ciascun caso, il momento in cui un segnale esterno conferma (più che creare) un bisogno di cambiamento — e ad agire con decisione una volta che la conferma arriva.
 
 **Cosa non ha funzionato**: in più di un'occasione la "ricerca silenziosa" precede di mesi la rottura conclamata — segno che i segnali di insoddisfazione (feedback inascoltato, proposte senza seguito) restano a lungo senza una risposta diretta, fino a quando un evento esterno non li rende inevitabili.
+
+**Muffin**: il pattern appare in forma nascente. Il 13 marzo 2026 (day 200) Dan manda il CV a Revenue Cat "per curiosità" — "non so se mi interessa davvero, però intanto sono curioso di vedere se mi contattano". La soglia dichiarata: "se mi offrono 200k, è difficile dire di no." Non è ancora una decisione di uscita, ma è il primo "misuratore di mercato" attivo — identico per struttura all'episodio WCS di Tour Radar (feb 2024). Il pattern si sta costruendo.
 
 **Insight**: gli eventi traumatici o le offerte esterne non *creano* il desiderio di cambiare — lo *rivelano* e lo *accelerano*. Riconoscere prima i segnali di insoddisfazione latente (anziché aspettare che un evento esterno li renda visibili) potrebbe permettere a Dan di prendere decisioni di carriera in modo più proattivo e meno reattivo.
 
@@ -80,8 +82,49 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 ---
 
+---
+
+## 5. Il mentoring involontario di un pari
+
+**Aziende**: [[muffin|Muffin]]
+
+**Frequenza**: continua — presente per tutto il periodo documentato di Muffin, con il personaggio di Luca Sabena e, in misura minore, Jacopo.
+
+**Descrizione**: Dan si ritrova a fare sistematicamente da mentore operativo a persone che per ruolo istituzionale dovrebbero essere sue pari — Luca Sabena (PM) e Jacopo (UX). Non è una scelta deliberata: è una conseguenza dell'asimmetria reale tra il livello di Luca/Jacopo e il livello che il loro ruolo richiederebbe. Dan colma il gap in modo spontaneo, caricandosi di un costo emotivo e cognitivo che non è nel perimetro formale del suo ruolo.
+
+**Come si manifesta**: Dan guida Luca su dettagli operativi che un PM dovrebbe gestire autonomamente (comunicazione, follow-up, prioritizzazione); fa da mentore a Jacopo sulla parte di build e design di dettaglio; tiene traccia dei gap, propone reshape di ruolo, si confronta con Claudio. In parallelo, si irrita quando i comportamenti non cambiano — e a volte esprime l'irritazione in modo troppo diretto ("comunicazione violenta" secondo Fabio Fortini).
+
+**Cosa ha funzionato**: il reshape del 2026 (Luca guida discovery, Dan guida build con Jacopo operativo) riduce la frizione quotidiana. L'intervento esterno di Nicola (Cemate) sul mentoring di Luca alleggerisce il carico diretto.
+
+**Cosa non ha funzionato**: il mentoring involontario non è riconosciuto come tale — né da Dan né dall'organizzazione — per molto tempo. Il costo si accumula silenziosamente, emerge come frustrazione e conflitto comunicativo, e rischia di danneggiare relazioni che potrebbero essere professionalmente sane.
+
+**Insight**: quando si è Tech Lead in una startup early-stage, il "mentoring involontario dei pari" è quasi inevitabile — ma va riconosciuto esplicitamente e strutturato, non lasciato andare in modo informale. Le opzioni sono tre: (1) accettarlo consapevolmente come parte temporanea del ruolo, con limiti chiari; (2) delegarlo a un terzo (coach, consulente esterno come Nicola); (3) portarlo come conversazione esplicita con il senior management (Claudio), chiedendo un riconoscimento formale o un intervento sul gap di competenza del pari.
+
+---
+
+## 6. Il rinforzo esterno come acceleratore del cambiamento interno
+
+**Aziende**: [[muffin|Muffin]]
+
+**Frequenza**: documentata con intensità crescente nel 2025-2026, con l'ingresso progressivo di Qmates (Gianni Bombelli, Fabio Fortini) e Cemate (Nicola).
+
+**Descrizione**: Dan difende per mesi un approccio tecnico e organizzativo (XP, TDD, testing, processi iterativi, separazione dei ruoli) incontrando resistenza interna da parte di Luca e Jacopo. Poi arrivano i consulenti esterni — Gianni, Fabio, Nicola — che condividono la stessa cultura di Dan e la portano dall'esterno, con un'autorità percepita diversa. Il risultato: adozioni che Dan non era riuscito a sbloccare con l'advocacy interna si sbloccano in settimane quando un "terzo" esterno le valida.
+
+**Come si manifesta**:
+- Test automatici (end-to-end, API): introdotti con consenso dopo che Gianni e Fabio li guidano operativamente
+- Struttura dei ruoli (Luca discovery, Dan build, Jacopo operativo): solidificata dopo le conversazioni di Nicola con Fabio e con il team
+- Debito tecnico come problema strutturale (non solo codice): Fabio lo porta al tavolo in modo che Claudio e Michele lo recepiscano
+
+**Cosa ha funzionato**: la credibilità "esterna" dei consulenti bypassa la resistenza interna che si era cristallizzata contro Dan specificamente. Il cambiamento arriva — e arriva più in fretta.
+
+**Cosa non ha funzionato**: Dan deve attendere mesi prima che i consulenti entrino e validino il suo approccio. Nel frattempo accumula frustrazione, a volte si esprime male, e paga il costo relazionale della solitudine tecnica.
+
+**Insight**: questo pattern ha implicazioni operative per le prossime esperienze. Se Dan si trova in un contesto dove la resistenza interna è forte, la strategia più efficace non è "spingere più forte dall'interno" — è costruire un'alleanza con un terzo esterno credibile che porti lo stesso messaggio con un vettore diverso. La resistenza spesso non è al contenuto del messaggio, ma alla sua fonte.
+
+---
+
 ## Top 3 pattern per impatto trasversale
 
 1. **Comunicare le decisioni di uscita in modo progressivo e rispettoso dei ruoli** — il pattern più costante e meglio padroneggiato: un vero playbook personale, affinato esperienza dopo esperienza.
-2. **Le proposte strategiche ben argomentate che restano senza seguito concreto** — il pattern più "costoso" emotivamente, e probabilmente il principale motore (silenzioso ma ricorrente) delle decisioni di cambiare azienda.
+2. **Le proposte strategiche ben argomentate che restano senza seguito concreto** — il pattern più "costoso" emotivamente, e probabilmente il principale motore (silenzioso ma ricorrente) delle decisioni di cambiare azienda. A Muffin, trova una parziale risoluzione attraverso il rinforzo esterno (Pattern 6).
 3. **Gli eventi esterni come specchio del proprio valore e acceleranti di decisioni latenti** — il meccanismo che trasforma l'insoddisfazione accumulata in azione concreta, spesso con un ritardo significativo rispetto al momento in cui il bisogno di cambiamento emerge per la prima volta.

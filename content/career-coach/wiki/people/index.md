@@ -38,3 +38,15 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 - [[travis|Travis]] — CEO / leadership senior
 - [[egor|Egor]] — collega tecnico, coinvolto nel layoff
 - [[marta-muffin|Marta (Muffin)]] — referente HR/recruiting della nuova azienda Muffin
+
+## Muffin
+- [[luca-sabena|Luca Sabena]] — Product Manager, pari istituzionale e principale sfida relazionale del periodo
+- [[claudio|Claudio]] — senior leader / quasi-CTO, principale alleato strategico e partner dei 1:1
+- [[fabio-fortini|Fabio Fortini]] — consulente esterno (Qmates), alleato XP, feedback franchi
+- [[gianni-bombelli|Gianni Bombelli]] — consulente esterno (Qmates), partner di Fabio, execution tecnica
+- [[nicola-qmates|Nicola (Cemate)]] — consulente esterno (Cemate), coaching organizzativo e relazionale
+- [[alessia|Alessia]] — sviluppatrice assunta direttamente da Dan, prima hiring diretta come Tech Lead
+- [[jacopo|Jacopo]] — designer/UX, mentoring operativo da parte di Dan
+- [[andrea-morelli|Andrea Morelli]] — head of CO team, "uomo nel mezzo" tra product e consulenti
+- [[michele|Michele]] — stakeholder senior / board, pressione su velocità e costi
+- [[lino|Lino]] — sviluppatore nei primi mesi

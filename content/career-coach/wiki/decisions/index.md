@@ -17,3 +17,8 @@ Decisioni significative emerse dai journal, in ordine cronologico.
 - **2023-12-11** — [[20231211-rilascio-project-tachyon|Costruire e rilasciare Project Tachyon nonostante il rischio]] — `tourradar` — esito: misto
 - **2024-03-04** — [[20240304-rifiutare-mr2926|Rifiutare il task MR-2926 per mancanza di informazioni e tempo]] — `tourradar` — esito: positivo
 - **2024-07-29** — [[20240729-lasciare-tourradar-per-muffin|Lasciare Tour Radar per accettare l'offerta di Muffin]] — `tourradar` — esito: positivo
+- **2025-02-12** — [[20250212-esaving-war-room|War room eSaving — gestire un cliente in produzione con feature rotte]] — `muffin` — esito: misto
+- **2025-02-12** — [[20250212-hiring-alessia|Assumere Alessia come prima developer del team]] — `muffin` — esito: positivo
+- **2026-03-09** — [[20260309-ai-project-structure|Decisione architettura AI — il tool gestisce solo la data ingestion]] — `muffin` — esito: positivo
+- **2026-03-13** — [[20260313-cv-revenue-cat|Mandare il CV a Revenue Cat — segnale di curiosità verso il mercato]] — `muffin` — esito: pending
+- **2026-03-27** — [[20260327-adopt-cursor|Adottare Cursor come tool principale di sviluppo AI]] — `muffin` — esito: positivo
