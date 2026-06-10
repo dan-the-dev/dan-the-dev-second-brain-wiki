@@ -11,16 +11,24 @@ vault/
 ├── README.md
 ├── _index.md              ← wiki homepage
 ├── .quartzignore
-└── career-coach/          ← AI Career Coach (journal, experiences, growth)
+├── career-coach/          ← AI Career Coach (journal, experiences, growth)
+│   ├── CLAUDE.md          ← domain-specific rules
+│   ├── raw/
+│   │   ├── journal/
+│   │   │   ├── 1-casavo/
+│   │   │   ├── 2-mymenu/
+│   │   │   ├── 3-tourradar/
+│   │   │   └── 4-muffin/
+│   │   ├── learning/
+│   │   └── career/
+│   └── wiki/
+└── goals/                 ← Goals & habits tracking (whole-life)
     ├── CLAUDE.md          ← domain-specific rules
     ├── raw/
-    │   ├── journal/
-    │   │   ├── 1-casavo/
-    │   │   ├── 2-mymenu/
-    │   │   ├── 3-tourradar/
-    │   │   └── 4-muffin/
-    │   ├── learning/
-    │   └── career/
+    │   ├── 2026-H2-initial.md
+    │   ├── updates/
+    │   ├── retrospectives/
+    │   └── habits-log/
     └── wiki/
 
 Other projects will be added as new top-level folders when ready:
