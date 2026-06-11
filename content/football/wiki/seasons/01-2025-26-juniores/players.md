@@ -9,36 +9,36 @@ tags: [football, players, 2025-26]
 
 ## Rosa (nati 2006-2008, no fuoriquota)
 
-| Giocatore | Anno | Ruolo | Note |
-|---|---|---|---|
-| [[mattia-annoni|Mattia Annoni]] | 2007 | Attaccante | Centravanti boa, rincalzo. |
-| [[paolo-banfi|Paolo Banfi]] | 2007 | Attaccante | Numero 10, fantasista, giocatore chiave. |
-| [[luca-belotti|Luca Belotti]] | 2007 | Portiere | Secondo portiere, bravo coi piedi. |
-| [[alessandro-boniardi|Alessandro Boniardi]] | 2008 | Attaccante | Attaccante centrale/esterno, forte nel tiro. |
-| [[edoardo-boniardi|Edoardo Boniardi]] | 2008 | Difensore | Centrale/terzino aggressivo; rientrato a dicembre da infortunio. |
-| [[lorenzo-brana|Lorenzo Brana]] | 2008 | Difensore | Centrale ruvido; infortunato quasi tutta la stagione, rientrato a marzo. |
-| [[federico-celardo|Federico Celardo]] | 2006 | — | Non in rosa, viene solo ad allenarsi. |
-| [[christian-cimmino|Christian Cimmino]] | 2006 | Centrocampista | Capitano; infortunato tutto l'anno. |
-| [[gabriele-columpsi|Gabriele Columpsi]] | 2008 | Attaccante | Fisico devastante; vari infortuni, decisivo in coppa col Vigevano poi stop stagione. |
-| [[alessandro-cuzmin|Alessandro Cuzmin]] | 2008 | Difensore | Centrale/terzino, qualità altalenanti, 3 esclusioni disciplinari. |
-| [[diego-favaron|Diego Favaron]] | 2007 | Difensore | Terzino sinistro, cresciuto molto durante l'anno. |
-| [[mattia-favaron|Mattia Favaron]] | 2006 | Centrocampista | Centrocampista centrale, bravo nei passaggi e sui calci da fermo. |
-| [[mattia-ghioni|Mattia Ghioni]] | 2006 | Difensore | Terzino, uomo spogliatoio, qualche minuto giocato. |
-| [[federico-iannace|Federico Iannace]] | 2008 | Attaccante | Esterno offensivo tecnico, fatica dopo un infortunio. |
-| [[federico-irmici|Federico Irmici]] | 2007 | — | Non in rosa, viene solo ad allenarsi. |
-| [[alessandro-lapiciriella|Alessandro Lapiciriella]] | 2008 | Centrocampista | Centrocampista basso ma tecnico; perso fiducia con poco spazio. |
-| [[riccardo-lasagna|Riccardo Lasagna]] | 2007 | Centrocampista | Capitano, playmaker. |
-| [[luca-lovalvo|Luca Lovalvo]] | 2007 | Centrocampista | Centrocampista, cresciuto molto durante l'anno (anche 'Lo Valvo'). |
-| [[gabriele-mingrone|Gabriele Mingrone]] | 2008 | Attaccante | Mezzapunta/attaccante, capocannoniere, giocatore chiave. |
-| [[tommaso-minora|Tommaso Minora]] | 2007 | Difensore | Centrale alto e forte di testa, sempre presente. |
-| [[gabriele-pagliato|Gabriele Pagliato]] | 2007 | Difensore | Terzino destro 'Pitbull', fisico devastante. |
-| [[marco-palmisano|Marco Palmisano]] | 2008 | Portiere | Portiere titolare, para rigori. |
-| [[nicolo-parolini|Nicolo Parolini]] | 2007 | Difensore | Centrale, annata eccezionale. |
-| [[samuele-pedulla|Samuele Pedulla]] | 2008 | Difensore | Centrale/terzino, fuori dalle rotazioni principali. |
-| [[riccardo-picca|Riccardo Picca]] | 2007 | Centrocampista | Centrocampista fisico e tecnico; infortunio nel finale di stagione. |
-| [[mattia-portararo|Mattia Portararo]] | 2007 | Centrocampista | Esterno/terzino; rottura del crociato a inizio stagione, stagione finita. |
-| [[alessandro-riccio|Alessandro Riccio]] | 2008 | Difensore | Terzino, migliorato molto durante l'anno. |
-| [[francesco-taronna|Francesco Taronna]] | 2008 | Centrocampista | Mediano, titolare inamovibile a fine stagione. |
+| Giocatore                 |                           | Anno | Ruolo          | Note                                                                                 |
+| ------------------------- | ------------------------- | ---- | -------------- | ------------------------------------------------------------------------------------ |
+| [[mattia-annoni           | Mattia Annoni]]           | 2007 | Attaccante     | Centravanti boa, rincalzo.                                                           |
+| [[paolo-banfi             | Paolo Banfi]]             | 2007 | Attaccante     | Numero 10, fantasista, giocatore chiave.                                             |
+| [[luca-belotti            | Luca Belotti]]            | 2007 | Portiere       | Secondo portiere, bravo coi piedi.                                                   |
+| [[alessandro-boniardi     | Alessandro Boniardi]]     | 2008 | Attaccante     | Attaccante centrale/esterno, forte nel tiro.                                         |
+| [[edoardo-boniardi        | Edoardo Boniardi]]        | 2008 | Difensore      | Centrale/terzino aggressivo; rientrato a dicembre da infortunio.                     |
+| [[lorenzo-brana           | Lorenzo Brana]]           | 2008 | Difensore      | Centrale ruvido; infortunato quasi tutta la stagione, rientrato a marzo.             |
+| [[federico-celardo        | Federico Celardo]]        | 2006 | —              | Non in rosa, viene solo ad allenarsi.                                                |
+| [[christian-cimmino       | Christian Cimmino]]       | 2006 | Centrocampista | Capitano; infortunato tutto l'anno.                                                  |
+| [[gabriele-columpsi       | Gabriele Columpsi]]       | 2008 | Attaccante     | Fisico devastante; vari infortuni, decisivo in coppa col Vigevano poi stop stagione. |
+| [[alessandro-cuzmin       | Alessandro Cuzmin]]       | 2008 | Difensore      | Centrale/terzino, qualità altalenanti, 3 esclusioni disciplinari.                    |
+| [[diego-favaron           | Diego Favaron]]           | 2007 | Difensore      | Terzino sinistro, cresciuto molto durante l'anno.                                    |
+| [[mattia-favaron          | Mattia Favaron]]          | 2006 | Centrocampista | Centrocampista centrale, bravo nei passaggi e sui calci da fermo.                    |
+| [[mattia-ghioni           | Mattia Ghioni]]           | 2006 | Difensore      | Terzino, uomo spogliatoio, qualche minuto giocato.                                   |
+| [[federico-iannace        | Federico Iannace]]        | 2008 | Attaccante     | Esterno offensivo tecnico, fatica dopo un infortunio.                                |
+| [[federico-irmici         | Federico Irmici]]         | 2007 | —              | Non in rosa, viene solo ad allenarsi.                                                |
+| [[alessandro-lapiciriella | Alessandro Lapiciriella]] | 2008 | Centrocampista | Centrocampista basso ma tecnico; perso fiducia con poco spazio.                      |
+| [[riccardo-lasagna        | Riccardo Lasagna]]        | 2007 | Centrocampista | Capitano, playmaker.                                                                 |
+| [[luca-lovalvo            | Luca Lovalvo]]            | 2007 | Centrocampista | Centrocampista, cresciuto molto durante l'anno (anche 'Lo Valvo').                   |
+| [[gabriele-mingrone       | Gabriele Mingrone]]       | 2008 | Attaccante     | Mezzapunta/attaccante, capocannoniere, giocatore chiave.                             |
+| [[tommaso-minora          | Tommaso Minora]]          | 2007 | Difensore      | Centrale alto e forte di testa, sempre presente.                                     |
+| [[gabriele-pagliato       | Gabriele Pagliato]]       | 2007 | Difensore      | Terzino destro 'Pitbull', fisico devastante.                                         |
+| [[marco-palmisano         | Marco Palmisano]]         | 2008 | Portiere       | Portiere titolare, para rigori.                                                      |
+| [[nicolo-parolini         | Nicolo Parolini]]         | 2007 | Difensore      | Centrale, annata eccezionale.                                                        |
+| [[samuele-pedulla         | Samuele Pedulla]]         | 2008 | Difensore      | Centrale/terzino, fuori dalle rotazioni principali.                                  |
+| [[riccardo-picca          | Riccardo Picca]]          | 2007 | Centrocampista | Centrocampista fisico e tecnico; infortunio nel finale di stagione.                  |
+| [[mattia-portararo        | Mattia Portararo]]        | 2007 | Centrocampista | Esterno/terzino; rottura del crociato a inizio stagione, stagione finita.            |
+| [[alessandro-riccio       | Alessandro Riccio]]       | 2008 | Difensore      | Terzino, migliorato molto durante l'anno.                                            |
+| [[francesco-taronna       | Francesco Taronna]]       | 2008 | Centrocampista | Mediano, titolare inamovibile a fine stagione.                                       |
 
 ## Fuoriquota (prima squadra, nati 2005)
 
