@@ -22,17 +22,34 @@ vault/
 │   │   ├── learning/
 │   │   └── career/
 │   └── wiki/
-└── goals/                 ← Goals & habits tracking (whole-life)
+├── goals/                 ← Goals & habits tracking (whole-life)
+│   ├── CLAUDE.md          ← domain-specific rules
+│   ├── raw/
+│   │   ├── 2026-H2-initial.md
+│   │   ├── updates/
+│   │   ├── retrospectives/
+│   │   └── habits-log/
+│   └── wiki/
+└── football/              ← Allenatore calcio (Ardor Bollate Juniores)
     ├── CLAUDE.md          ← domain-specific rules
     ├── raw/
-    │   ├── 2026-H2-initial.md
-    │   ├── updates/
-    │   ├── retrospectives/
-    │   └── habits-log/
+    │   ├── seasons/
+    │   │   └── 01-2025-26-juniores/
+    │   │       ├── season-info.md
+    │   │       ├── players/
+    │   │       ├── sessions/
+    │   │       ├── matches/
+    │   │       └── notes/
+    │   ├── exercises/
+    │   └── tactics/
     └── wiki/
+        ├── index.md
+        ├── exercises/
+        ├── tactics/
+        └── seasons/
+            └── 01-2025-26-juniores/
 
 Other projects will be added as new top-level folders when ready:
-- football/     ← Allenatore calcio (Ardor Juniores) — coming soon
 - pmdraft/      ← PMDraft skills brand — Cowork only, no wiki needed
 
 ## Global rules

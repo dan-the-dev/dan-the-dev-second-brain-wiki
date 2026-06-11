@@ -10,10 +10,10 @@ tags: [index, home]
 
 - [[career-coach/wiki/index|🎯 Career Coach — Journal & Experiences]]
 - [[goals/wiki/index|🎯 Goals — Goals & Habits Tracking]]
+- [[football/wiki/index|⚽ Football — Ardor Bollate Juniores]]
 
 ## Coming soon
 
-- ⚽ Football — Ardor Juniores
 - 📦 PMDraft — skills brand
 
 ## Dashboard
