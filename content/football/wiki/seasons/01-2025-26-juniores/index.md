@@ -1,11 +1,21 @@
 ---
 title: Stagione 2025-26 — Juniores
 season: 01-2025-26
-updated: 2026-06-11
+updated: 2026-06-12
 tags: [football, season, 2025-26]
 ---
 
 # Stagione 2025-26 — Juniores
+
+## 🏆 Riepilogo stagione
+
+Stagione storica per l'Ardor Bollate Juniores: **2° posto in campionato** (22V 2P 2S, 93 gol fatti / 31
+subiti, alle spalle della sola Vigor FC, unica squadra imbattuta del girone) e **1° posto — Campioni di
+Coppa Lombardia Under 19 Provinciale**, con un percorso che ha eliminato in sequenza solo squadre arrivate
+prime o seconde nei rispettivi gironi (incluse Vigevano agli ottavi e Vigor FC in semifinale ai rigori),
+chiuso con la vittoria 1-0 in finale contro il Vidalengo.
+
+Dettagli in [[info|info stagione]], [[matches|storico partite]] e [[lessons|retrospettiva]].
 
 ## Info stagione
 [[info|📋 Informazioni base]]
