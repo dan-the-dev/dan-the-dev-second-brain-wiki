@@ -42,6 +42,90 @@ Un file per schema: {slug-schema}.md
 - wiki/exercises/index.md → libreria esercizi compilata con score e frequenza
 - wiki/tactics/index.md → schemi tattici documentati
 
+## Database Schema (sync)
+
+Quando compili la wiki di una stagione, genera ANCHE il file
+football/sync/seasons/{stagione}/data.sql con DELETE + INSERT per le
+tabelle COMPUTED relative a quella stagione, seguendo esattamente questo schema:
+
+### Tabelle per-stagione (DELETE WHERE season_code = '{stagione}' poi INSERT)
+
+seasons(code, name, category, competition, girone, delegazione,
+        year_start, year_end, piazzamento)
+
+players(id, season_code, nome, cognome, anno_nascita, ruolo, fuoriquota, note)
+  - id = slug "nome-cognome" lowercase senza accenti
+
+player_stats(player_id, season_code, presenze_allenamenti, totale_allenamenti,
+              presenze_partite, minuti_giocati, gol, assist)
+
+player_attributes(id, player_id, season_code, piede, ruolo_preferito,
+                   ruoli_alternativi, punti_forza, aree_crescita, note)
+
+player_injuries(id, player_id, season_code, data_inizio, data_fine, tipo, note)
+
+sessions(id, season_code, data, durata_minuti, score_fisico,
+         presenti_count, assenti_count, note)
+  - id = "YYYYMMDD-session"
+
+session_exercises(session_id, exercise_slug, categoria, durata_minuti, score, note)
+
+session_attendance(session_id, player_id, presente)
+  - una riga per ogni giocatore della rosa per ogni sessione
+
+matches(id, season_code, data, avversario, competizione, fase,
+        casa_trasferta, gol_fatti, gol_subiti, status, note)
+  - id = "YYYYMMDD-vs-avversario-slug"
+  - competizione = 'campionato' | 'coppa-lombardia'
+  - fase = null per campionato, altrimenti girone|trentaduesimi|sedicesimi|ottavi|quarti|semifinale|finale
+  - status = 'played' | 'scheduled'
+
+match_scorers(match_id, player_id, minuto, tipo)
+  - tipo = 'gol' | 'rigore' | 'autogol'
+
+match_assists(match_id, player_id, minuto)
+
+match_lineups(match_id, player_id, status, minuto_in, minuto_out, posizione)
+  - status = 'titolare' | 'subentrato' | 'convocato'
+
+match_cards(match_id, player_id, tipo, minuto)
+  - tipo = 'giallo' | 'rosso'
+
+formations(season_code, modulo, volte_usato, vittorie, pareggi, sconfitte,
+           gol_fatti, gol_subiti)
+
+opponents(season_code, nome, gol_fatti, gol_subiti, note)
+
+season_objectives(season_code, obiettivo, status)
+  - status = 'in corso' | 'raggiunto' | 'non raggiunto'
+
+### Tabella trasversale (UPSERT, non DELETE)
+
+exercises(slug, nome, categoria, descrizione, score_medio, volte_usato, stagioni_usato)
+  - INSERT ... ON CONFLICT (slug) DO UPDATE
+  - non filtrare per stagione, è condivisa tra tutte
+
+### Views (non generate da Claude — già create in Supabase)
+
+exercises_by_category — pubblica, statistiche esercizi per categoria squadra
+formations_by_category — riservata (global_tactics_access), statistiche tattiche per categoria squadra
+Queste si aggiornano automaticamente leggendo le tabelle COMPUTED, nessuna azione richiesta.
+
+## Regole generazione SQL
+
+- player_id = slug "nome-cognome" lowercase, spazi -> trattini, senza accenti
+- Per tabelle con season_code: DELETE FROM tabella WHERE season_code = '{stagione}'
+  poi INSERT — non toccare altre stagioni
+- Per tabelle figlie (session_exercises, session_attendance, match_*):
+  DELETE tramite join sugli id di sessions/matches della stagione, poi INSERT
+- exercises: sempre UPSERT con ON CONFLICT (slug) DO UPDATE,
+  aggiornando volte_usato e score_medio cumulativamente
+- session_attendance: genera una riga per OGNI giocatore della rosa
+  per OGNI sessione (presente = true/false), anche se non esplicitamente
+  menzionato nel dump (default: presente se non specificato altrimenti)
+- Genera SQL valido PostgreSQL, statements separati da newline
+- Salva in football/sync/seasons/{stagione}/data.sql (sovrascrivi sempre il file)
+
 ## Frontmatter schema
 
 ### Session dump
