@@ -19,12 +19,15 @@ Dettagli in [[info|info stagione]], [[matches|storico partite]] e [[lessons|retr
 
 ## Info stagione
 [[info|📋 Informazioni base]]
+[[objectives|🎯 Obiettivi stagione]]
 
 ## Squadra
 [[players|👥 Rosa e statistiche]]
+[[player-profiles|🧬 Profili giocatori]]
 
 ## Allenamenti
 [[sessions|🏃 Storico sessioni]]
+[[attendance|✅ Presenze allenamenti]]
 
 ## Partite
 [[matches|⚽ Storico partite]]
@@ -51,6 +54,8 @@ Dettagli in [[info|info stagione]], [[matches|storico partite]] e [[lessons|retr
 - [[fitness|💪 Andamento fisico, statistiche infortuni]]
   - Elenco di tutti gli infortuni avuti dai membri della squadra
   - Classifica tipi di infortuni piu spesso avvenuti
+- [[injuries|🩹 Storico infortuni]]
+  - Dettaglio per giocatore: periodo, tipo, note
 
 ## Retrospettiva
 [[lessons|💡 Cosa abbiamo imparato]]

@@ -38,6 +38,10 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/exercises-report.md → analisi esercizi usati
 - wiki/seasons/{stagione}/formations.md → moduli usati
 - wiki/seasons/{stagione}/fitness.md → andamento presenze
+- wiki/seasons/{stagione}/attendance.md → storico presenze allenamenti per giocatore
+- wiki/seasons/{stagione}/injuries.md → storico infortuni
+- wiki/seasons/{stagione}/player-profiles.md → caratteristiche/attributi giocatori
+- wiki/seasons/{stagione}/objectives.md → obiettivi stagione e status
 - wiki/seasons/{stagione}/lessons.md → retrospettiva stagione
 - wiki/exercises/index.md → libreria esercizi compilata con score e frequenza
 - wiki/tactics/index.md → schemi tattici documentati
@@ -244,6 +248,10 @@ Leggi tutti i raw della stagione e genera/aggiorna:
 - wiki/seasons/{stagione}/exercises-report.md
 - wiki/seasons/{stagione}/formations.md
 - wiki/seasons/{stagione}/fitness.md
+- wiki/seasons/{stagione}/attendance.md
+- wiki/seasons/{stagione}/injuries.md
+- wiki/seasons/{stagione}/player-profiles.md
+- wiki/seasons/{stagione}/objectives.md
 - wiki/seasons/{stagione}/lessons.md (solo su richiesta esplicita)
 
 ### ❓ DOMANDE E QUERY
