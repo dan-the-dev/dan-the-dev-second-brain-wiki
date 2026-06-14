@@ -2,7 +2,7 @@
 title: Luca Sabena
 company: [muffin]
 role: Product Manager
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [people, muffin]
 ---
 
@@ -26,6 +26,10 @@ Il reshape del 2026: Luca guida la discovery/UX research; Dan guida il build. Se
 - Day ~178 (feb 2026) — Fabio Fortini dà a Dan feedback duro: "Sei stato troppo aggressivo con Luca, comunicazione troppo violenta." Dan lo accetta ma fa notare il costo asimmetrico del mentoring involontario.
 - Day ~178 — "Luca ha 40 anni. E io non lo so, non lo so, non voglio giudicarlo."
 - Day ~185 — Reshape: "Luca si occupa della parte di shaping, quindi di discovery, UX research ad alto livello; io guido la parte di build, che include anche Jacopo."
+- Day 228 (2026-06-10) — Dan esprime frustrazione per la scelta della roadmap con stime: "Era una delle poche cose positive che ero riuscito a ottenere a Muffin." Cita anche che è stato costretto a fare "l'antipatico" per il debrief degli shadowing fatto senza di lui — stesso schema di altri episodi in cui il mancato coinvolgimento lo fa sentire non rispettato come pari.
+- Day 230 (2026-06-12) — Michele conferma a Dan in call riservata che non è contento di Luca. Interpretazione di Dan: probabilmente Luca verrà mandato via.
 
 ## Note
-Luca è il personaggio relazionale più complesso dell'esperienza Muffin — più per la struttura del rapporto che per mancanza di buona fede. Il problema non è tanto Luca in sé, ma il fatto che il ruolo di "pari mentore involontario" sia uno dei pattern più costosi nella carriera di Dan (→ [[patterns/index#mentoring-involontario|Pattern: mentoring involontario dei pari]]).
+Luca è il personaggio relazionale più complesso dell'esperienza Muffin — più per la struttura del rapporto che per mancanza di buona fede. Il problema non è tanto Luca in sé, ma il fatto che il ruolo di "pari mentore involontario" sia uno dei pattern più costosi nella carriera di Dan (→ [[patterns/index|Pattern 5: mentoring involontario dei pari]]).
+
+**⚠️ Aggiornamento critico (giu 2026)**: la posizione di Luca è a rischio. Michele ha comunicato a Dan che c'è uno "scossone" in arrivo e ha espresso insoddisfazione diretta su Luca. Da monitorare se e quando avviene il cambio, e come Dan gestirà il ruolo post-transizione (più responsabilità di PM ad interim? Nuova figura?)

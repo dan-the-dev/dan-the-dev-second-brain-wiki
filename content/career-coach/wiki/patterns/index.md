@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [patterns, index]
 ---
 
@@ -58,7 +58,7 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: in più di un'occasione la "ricerca silenziosa" precede di mesi la rottura conclamata — segno che i segnali di insoddisfazione (feedback inascoltato, proposte senza seguito) restano a lungo senza una risposta diretta, fino a quando un evento esterno non li rende inevitabili.
 
-**Muffin**: il pattern appare in forma nascente. Il 13 marzo 2026 (day 200) Dan manda il CV a Revenue Cat "per curiosità" — "non so se mi interessa davvero, però intanto sono curioso di vedere se mi contattano". La soglia dichiarata: "se mi offrono 200k, è difficile dire di no." Non è ancora una decisione di uscita, ma è il primo "misuratore di mercato" attivo — identico per struttura all'episodio WCS di Tour Radar (feb 2024). Il pattern si sta costruendo.
+**Muffin — aggiornamento giugno 2026**: il pattern si stava costruendo da marzo (CV a Revenue Cat). Adesso ha un evento concreto: l'11 giugno 2026 (day 229) Dan riceve una risposta positiva da **Ancora** per una posizione di Staff Software Engineer. Primo colloquio il 15 giugno con CTO Andrea Rusconi. RAL €70k-€95k + equity 0,3-0,5%. Contesto interno: "scossone" imminente (probabile uscita di Luca), Gianni potenzialmente in uscita da Qmates, roadmap con stime che Dan non condivide. Tutti i segnali di insoddisfazione latente sono presenti e documentati. Ancora è il classico "evento esterno" che può trasformarli in azione — esattamente come WCS a Tour Radar (feb 2024) o l'intervista Mymenu (lug 2021). Da monitorare il 15 giugno.
 
 **Insight**: gli eventi traumatici o le offerte esterne non *creano* il desiderio di cambiare — lo *rivelano* e lo *accelerano*. Riconoscere prima i segnali di insoddisfazione latente (anziché aspettare che un evento esterno li renda visibili) potrebbe permettere a Dan di prendere decisioni di carriera in modo più proattivo e meno reattivo.
 
@@ -119,7 +119,27 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: Dan deve attendere mesi prima che i consulenti entrino e validino il suo approccio. Nel frattempo accumula frustrazione, a volte si esprime male, e paga il costo relazionale della solitudine tecnica.
 
+**Aggiornamento giugno 2026**: il pattern si trova ora a rischio. La possibile uscita di Gianni da Qmates (luglio/agosto) toglierebbe uno dei pilastri del rinforzo esterno. Dan ha comunicato esplicitamente a Fabrizio di Qmates le criticità: "perdere Gianni destabilizza il team film e fa perdere credibilità a Qmates dentro Muffin." Se Gianni esce senza sostituto adeguato, Dan si ritroverebbe nuovamente nella posizione di unico portatore della cultura tecnica — riportando indietro la situazione a prima dell'ingresso di Qmates.
+
 **Insight**: questo pattern ha implicazioni operative per le prossime esperienze. Se Dan si trova in un contesto dove la resistenza interna è forte, la strategia più efficace non è "spingere più forte dall'interno" — è costruire un'alleanza con un terzo esterno credibile che porti lo stesso messaggio con un vettore diverso. La resistenza spesso non è al contenuto del messaggio, ma alla sua fonte.
+
+---
+
+## 7. La posizione contraria alle stime come scelta tecnica ricorrente
+
+**Aziende**: [[muffin|Muffin]] (emergente)
+
+**Frequenza**: documentata esplicitamente per la prima volta a giugno 2026, ma coerente con l'intero approccio XP di Dan.
+
+**Descrizione**: il 10 giugno 2026 (day 228), in un meeting sulla roadmap, il team sceglie di adottare la prioritizzazione con stime. Dan è fortemente contrario — cita esplicitamente "When Will It Be Done?" (libro di Daniel Vacanti) come riferimento per un approccio alternativo: la priorità è sufficiente, la cosa più prioritaria va davanti, punto. Non serve rispondere alla domanda "quando finisce?" se la priorità è chiara. La decisione è condivisa tra Fabio, Gianni e Luca — Dan sta cercando di accettarla ma dichiara di non condividerla. Esprime anche una tensione collaterale: la sensazione di fare troppi compromessi che gli altri non fanno (esempio: shadowing fatto senza di lui, feature branch isolati senza coinvolgerlo).
+
+**Come si manifesta**: Dan porta argomentazioni esplicite (libri, principi XP/lean) contro le stime puntali e le date di delivery. Considera le stime una fonte di false aspettative e di overhead processuale, non un valore aggiunto alla prioritizzazione.
+
+**Cosa ha funzionato**: l'approccio "no stime, solo priorità" era stato uno dei pochi punti che Dan era riuscito a ottenere a Muffin — e lo cita come qualcosa di cui è orgoglioso.
+
+**Cosa non ha funzionato**: la pressione degli stakeholder (Michele) sulla velocità percepita porta il team a reintrodurre le stime come risposta tattica. Dan non è riuscito a difendere questo principio nel lungo periodo.
+
+**Insight**: questo è un microcosmo del Pattern 2 (proposte senza seguito). La resistenza alle stime è una posizione tecnica ben argomentata ma che si scontra con la cultura aziendale della "data di consegna". Per future esperienze: il modo più efficace per evitare la pressione sulle stime non è rifiutarle — è fornire un'alternativa concreta e visibile (throughput metrics, flow metrics, simulazioni Monte Carlo come quelle che Dan sta costruendo con n8n) che risponda alla stessa domanda degli stakeholder con dati invece di promesse.
 
 ---
 

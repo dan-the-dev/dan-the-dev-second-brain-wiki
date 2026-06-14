@@ -2,7 +2,7 @@
 title: Gianni Bombelli
 company: [muffin]
 role: External Consultant (Qmates) — sviluppo
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [people, muffin, qmates]
 ---
 
@@ -17,9 +17,14 @@ Gianni è più orientato all'execution tecnica mentre Fabio è più orientato ai
 ## Dinamica
 Collaborativa, orientata al fare. Dan ne apprezza la competenza tecnica e la condivisione di valori (XP, iterativo-incrementale). Gianni chiude feature e bug in autonomia, imposta test automatici, porta valore immediato.
 
+Nota di complessità: Dan riconosce che Gianni è "in sovrapposizione con me, anzi è più bravo" — il che a volte rende difficile far coesistere il ruolo di Tech Lead con la presenza di qualcuno più capace tecnicamente nel team. Aggiunge che Gianni è tra i più scettici sull'AI, il che chiude alcune possibilità di sperimentazione.
+
 ## Citazioni o momenti significativi
 - Day ~185 — "Alessia e Gianni hanno impostato delle cose, hanno chiuso delle feature bug e hanno impostato lato testa automatici delle cose."
 - Day ~195 — Al Tech Catch-up: Dan descrive come "un sospiro di sollievo" il vedere Gianni e Alessia gestire i tavoli tecnici in autonomia, senza aver bisogno di Dan.
+- Day 229 (2026-06-11) — Fabrizio di Qmates comunica a Dan che Gianni potrebbe essere spostato su altro cliente a luglio/agosto. Dan reagisce con "sentimenti contrastanti": tristezza per la destabilizzazione del team, ma anche consapevolezza del lato potenzialmente positivo (un sostituto più aperto all'AI). Dan ha comunicato le criticità a Fabrizio in modo trasparente prima che la decisione fosse definitiva.
 
 ## Note
 Figura meno narrativamente densa di Fabio, ma componente essenziale del rinforzo Qmates. Con Gianni+Fabio+Nicola, Dan per la prima volta non è l'unico portatore della cultura tecnica che vuole affermare nel team.
+
+**⚠️ Aggiornamento critico (giu 2026)**: possibile uscita a luglio/agosto. Se confermata, rimuove uno dei pilastri del [[patterns/index|Pattern 6 (rinforzo esterno)]]. Dan ha già attivato la comunicazione con Fabrizio — da monitorare se Qmates proporrà un sostituto e con quale profilo.

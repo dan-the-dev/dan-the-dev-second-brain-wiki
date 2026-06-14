@@ -1,6 +1,6 @@
 ---
 title: People — Index
-updated: 2026-06-08
+updated: 2026-06-14
 tags: [people, index]
 ---
 
@@ -48,5 +48,6 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 - [[alessia|Alessia]] — sviluppatrice assunta direttamente da Dan, prima hiring diretta come Tech Lead
 - [[jacopo|Jacopo]] — designer/UX, mentoring operativo da parte di Dan
 - [[andrea-morelli|Andrea Morelli]] — head of CO team, "uomo nel mezzo" tra product e consulenti
-- [[michele|Michele]] — stakeholder senior / board, pressione su velocità e costi
+- [[michele|Michele]] — stakeholder senior / board, pressione su velocità e costi; a giu 2026 avverte Dan dello "scossone" in arrivo
+- [[fabrizio-qmates|Fabrizio (Qmates)]] — referente/account manager Qmates, gestione contrattuale e risorse
 - [[lino|Lino]] — sviluppatore nei primi mesi
