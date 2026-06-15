@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-06-13
+updated: 2026-06-15
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260615-muffin-day231]] — 2026-06-15 · Day 231 · Bug analysis, GDPR last-minute, sync Qmates, call Ancora (18:00)
 - [[20260612-muffin-day230]] — 2026-06-12 · Day 230 · Scossoni organizzativi, Monte Carlo n8n, visione NotebookLM, staging design system
 - [[20260611-muffin-day229]] — 2026-06-11 · Day 229 · Giornata in meeting, notizia Gianni (Qmates), colloquio Ancora
 - [[20260610-muffin-day228]] — 2026-06-10 · Day 228 · PR back-end invito pronta, call Condense, tensioni roadmap con stime
