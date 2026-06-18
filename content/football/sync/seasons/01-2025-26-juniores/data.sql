@@ -3,7 +3,7 @@
 -- Tables with no available data for this season are omitted
 -- (player_attributes, player_injuries, sessions, session_exercises,
 -- session_attendance, match_assists, match_lineups, match_cards,
--- formations, season_objectives, exercises)
+-- formations, season_objectives)
 
 -- seasons
 DELETE FROM seasons WHERE code = '01-2025-26';
@@ -147,4 +147,21 @@ INSERT INTO opponents (season_code, nome, gol_fatti, gol_subiti, note) VALUES
 ('01-2025-26', 'Vigevano Calcio', 2, 1, 'Ottavi di Coppa Lombardia: Columpsi decisivo al rientro dagli infortuni, ma si infortuna nel finale e chiude la stagione.'),
 ('01-2025-26', 'Tradate Abbiate', 3, 1, NULL),
 ('01-2025-26', 'Vidalengo', 1, 0, 'Finale di Coppa Lombardia, vinta 1-0 grazie al rigore di Gabriele Mingrone — Campioni!');
+
+-- exercises (UPSERT — tabella trasversale, non per stagione)
+INSERT INTO exercises (slug, nome, categoria, descrizione, video_url, score_medio, volte_usato, stagioni_usato) VALUES
+('riscaldamento-ottagono-passaggi-dribbling', 'Octagon Passing & Dribbling Exercise - Warm-Up', 'riscaldamento', 'Esercizio di riscaldamento tecnico in forma di ottagono con combinazioni di passaggi e dribbling. Migliora la tecnica di passaggio, la coordinazione e il movimento senza palla.', 'https://www.youtube.com/watch?v=beBjPSEBYAk', 0, 0, '{}'),
+('riscaldamento-combinazione-5-uomini', '5-Man Passing Combination Exercise - Warm-Up', 'riscaldamento', 'Combinazione di passaggio a 5 giocatori in forma strutturata. I giocatori si muovono seguendo pattern prestabiliti, sviluppando timing e sincronizzazione nel passaggio.', 'https://www.youtube.com/watch?v=ejs4tIaj8jg&t=850s', 0, 0, '{}'),
+('riscaldamento-diamante-passaggi-4-varianti', 'Diamond Passing Warm-Up | 4 Variations | Football/Soccer Training', 'riscaldamento', 'Schema di riscaldamento tecnico a forma di diamante con 4 varianti di difficoltà crescente. Lavora su passaggi in diagonale, combinazioni e cambio gioco in spazio ridotto.', 'https://www.youtube.com/watch?v=ScA0uJkV9CY', 0, 0, '{}'),
+('riscaldamento-passaggio-ricezione-due-palloni', 'Passing and Receiving Drill With Two Balls | 3 Variation | Football/Soccer', 'riscaldamento', 'Esercitazione di passaggio e ricezione con due palloni in contemporanea. I giocatori gestiscono la ricezione e il passaggio con attenzione divisa, sviluppando reattività e qualità tecnica sotto stimolo cognitivo.', 'https://www.youtube.com/watch?v=mFeIDXHwrd0', 0, 0, '{}'),
+('riscaldamento-passaggi-porticine-3-varianti', 'Passing Warm-up with Small Goals | 3 Variation | Football/Soccer Training | U13+', 'riscaldamento', 'Riscaldamento tecnico con passaggi orientati alle porticine e 3 varianti. Introduce l''elemento del gol nel riscaldamento, aumentando motivazione e finalizzazione del passaggio. Indicato per U13+.', 'https://www.youtube.com/watch?v=taDNefJYIXU', 0, 0, '{}'),
+('riscaldamento-passaggio-dribbling-5-varianti', 'Passing & Dribbling Warm Up | 5 Variation | Football/Soccer Drill', 'riscaldamento', 'Esercizio di riscaldamento tecnico completo che combina passaggio e dribbling in 5 varianti di difficoltà crescente. Adattabile a qualsiasi durata del riscaldamento.', 'https://www.youtube.com/watch?v=2WmImvXDHVY', 0, 0, '{}')
+ON CONFLICT (slug) DO UPDATE SET
+  nome = EXCLUDED.nome,
+  categoria = EXCLUDED.categoria,
+  descrizione = EXCLUDED.descrizione,
+  video_url = EXCLUDED.video_url,
+  score_medio = EXCLUDED.score_medio,
+  volte_usato = EXCLUDED.volte_usato,
+  stagioni_usato = EXCLUDED.stagioni_usato;
 

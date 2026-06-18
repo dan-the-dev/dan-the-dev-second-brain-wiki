@@ -105,7 +105,8 @@ season_objectives(season_code, obiettivo, status)
 
 ### Tabella trasversale (UPSERT, non DELETE)
 
-exercises(slug, nome, categoria, descrizione, score_medio, volte_usato, stagioni_usato)
+exercises(slug, nome, categoria, descrizione, video_url,
+          score_medio, volte_usato, stagioni_usato)
   - INSERT ... ON CONFLICT (slug) DO UPDATE
   - non filtrare per stagione, è condivisa tra tutte
 
@@ -196,6 +197,7 @@ title: ""
 slug: ""
 categoria: riscaldamento|possesso|tattica|fisico|calci-piazzati|partitella
 descrizione: ""
+video_url: ""   # link YouTube o Instagram, opzionale
 durata_consigliata_minuti: 0
 numero_giocatori: ""
 materiale: []
