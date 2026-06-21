@@ -2,7 +2,7 @@
 title: Jacopo
 company: [muffin]
 role: Designer / UX
-updated: 2026-06-09
+updated: 2026-06-21
 tags: [people, muffin]
 ---
 
@@ -21,6 +21,11 @@ Con qualche attrito. Luca si lamenta spesso del comportamento di Jacopo (atteggi
 - Day ~195 — "Luca si lamenta quotidianamente di Jacopo con me [...] però poi fa le stesse cose che fa Jacopo."
 - Day ~185 — "Prima c'è Jacopo, poi il resto del team che facciamo un piccolo reshape."
 - Day ~195 — "I temi più operativi — stesura del Figma, design definitivo — su quei temi sarò io a supportarlo operativamente."
+- Day 234 (18 giu 2026) — Refinement su ricerca progetti: "Dan sta cercando di stimolare Jacopo a portare competenze di user experience vere sul tavolo: pattern, reference, ragionamenti espliciti. Attualmente sembra lavorare più su gut feeling / gusto personale — il ragionamento c'è probabilmente, ma non viene mai comunicato né argomentato. È junior, va aiutato a sbloccarsi."
+
+## Gap UX identificato (giugno 2026)
+
+Nel refinement del 18 giugno (ricerca progetti), Dan nota che Jacopo lavora su gut feeling e gusto personale senza mai esplicitare il ragionamento sottostante. Il problema non è che il ragionamento non ci sia — probabilmente c'è — ma che non viene mai comunicato né argomentato. Dan sta cercando attivamente di sbloccare questa dinamica: stimolarlo a portare al tavolo pattern di UX, reference concrete e ragionamenti espliciti. Questo è un classico caso di mentoring "sblocca il pensiero" — non "insegna il contenuto" ma "aiuta a rendere visibile il processo".
 
 ## Note
 Jacopo è uno dei casi in cui Dan si trova a gestire una risorsa che avrebbe bisogno di più mentoring di quanto il ruolo di Tech Lead formalmente preveda. La struttura del reshape del 2026 cerca di correggere questo, assegnando a Jacopo una guida operativa chiara (Dan) invece di una direzione ambigua condivisa tra Dan e Luca.

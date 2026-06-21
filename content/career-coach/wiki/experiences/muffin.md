@@ -2,10 +2,10 @@
 title: Muffin — In Progress
 company: muffin
 period: 2024-10-07 → presente
-total_days: 230
+total_days: 234
 stack: [TypeScript, NestJS, React, Next.js, PostgreSQL, Docker, AWS, Hubspot, Mixpanel, Metabase, n8n, Jira, Figma, Cursor]
 status: in-progress
-last_updated: 2026-06-14
+last_updated: 2026-06-21
 tags: [experience, muffin, in-progress]
 ---
 
@@ -45,6 +45,10 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 | 2026-06-11 | day 229 | Opportunità Ancora (Staff Software Engineer): colloquio 15/06 con CTO Andrea Rusconi — RAL €70k-€95k + equity |
 | 2026-06-11 | day 229 | Notizia: Gianni (Qmates) potrebbe essere spostato su altro cliente a luglio/agosto |
 | 2026-06-12 | day 230 | Call riservata con Michele: "scossone" in arrivo — probabile uscita di Luca, budget Qmates a rischio |
+| 2026-06-15 | day 231 | Call conoscitiva Ancora con Andrea Rusconi (CTO) — impressione non positiva: non conosceva XP, Dan stesso incerto sul match. Probabilmente non si proseguirà. |
+| 2026-06-16 | day 232 | [DECISIONE] Sync con Luca strutturato male: troppo disordine, da migliorare. Roadmap presentata al business — andata bene. 1:1 Alessia: goals strutturati (AI fluency, AWS, Tech Lead?) |
+| 2026-06-17 | day 233 | Luca inizia a usare la roadmap come scadenze — campanello d'allarme. Dan preferisce "far bollire". Alessia coinvolta in artifact infrastruttura — ottimo passo TL |
+| 2026-06-18 | day 234 | Feature invito rilasciata in prod ✅. Bug autore template certificati risolto ✅. Refinement con Jacopo su ricerca progetti. Settimana "super super super positiva" |
 
 ## Stack tecnologico
 
@@ -67,7 +71,7 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 
 **AI — data ingestion bandi** — Da day 195 (mar 2026): tool AI esterno gestisce solo l'ingestion dei dati dei bandi; la piattaforma fa poi pull per generare schede bando, sommari, recap. Dan definisce l'architettura del confine e i "paletti" per evitare interferenze tra sistemi.
 
-**Invito da progetto (feature BE)** — Da day 227 (giu 2026): feature che permette ai consulenti di invitare aziende clienti direttamente da un progetto. Backend: partita IVA obbligatoria + automatismo di associazione automatica dei progetti quando una nuova azienda si registra o accetta una relazione. Dan fa pair con Alessia per l'intera settimana. Aggiunta complessità: logica solo per aziende beneficiarie, con verifica della consultant enterprise corretta. PR pronta entro day 230.
+**Invito da progetto (feature BE)** — Da day 227 (giu 2026): feature che permette ai consulenti di invitare aziende clienti direttamente da un progetto. Backend: partita IVA obbligatoria + automatismo di associazione automatica dei progetti quando una nuova azienda si registra o accetta una relazione. Dan fa pair con Alessia per l'intera settimana. Aggiunta complessità: logica solo per aziende beneficiarie, con verifica della consultant enterprise corretta. **Rilasciata in produzione il 18 giugno 2026 (day 234).** ✅
 
 **Monte Carlo simulation (forecast delivery)** — Day 229-230 (giu 2026): Dan costruisce un simulatore Monte Carlo con n8n per supportare le stime di delivery del team. Input manuale (da calcoli prefatti via form), output forecast generato dal tool. Risposta tecnica alla pressione di adottare un approccio basato su stime.
 
@@ -99,14 +103,18 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 - **Test end-to-end e test API** introdotti con consenso del team — "sospiro di sollievo: si è visto come posso tranquillamente non essere ai tavoli tecnici"
 - **Mood generale in stabilizzazione** (day 205, apr 2026): "sono sereno, sto lasciando andare" — dopo i mesi più turbolenti di feb-mar 2026
 - **Roadmap condivisa** costruita con Fabio e Nicola e presentata a Claudio — momento di allineamento molto positivo (day 166)
+- **Feature invito rilasciata in prod** (day 234, giu 2026): dopo una settimana di pair con Alessia, feature completata e mandata in produzione. Corner case complessi gestiti bene. Segnale di buona collaborazione e pair programming efficace.
+- **Settimana 15-18 giugno "super super super positiva"**: anche in un contesto di tensione strategica elevata, il team operativo funziona. Fabio e Dan iniziano i live update per progetti di aziende non registrate.
+- **Alessia in crescita**: coinvolta in decisioni infrastrutturali, goals chiari dal 1:1, percorso verso Tech Lead avviato concretamente.
 
 ## Sfide attuali ⚠️
 
 - **"Scossone" imminente** (day 230, giu 2026): Michele ha fatto capire in una call riservata che ci saranno cambiamenti. Probabile uscita di Luca. Jacopo status incerto. Dan ha dichiarato esplicitamente: "Se tocca Alessia è guerra vera." Variabile critica: il budget Qmates — se non si riesce a tenerli anche nel 2027, serve una strategia alternativa per il refactor della piattaforma.
-- **Luca Sabena** — la relazione con il PM è la sfida relazionale principale e più costosa del periodo. A giugno 2026 Michele conferma di non essere contento di Luca — la sua posizione appare a rischio.
+- **Luca Sabena** — la relazione con il PM è la sfida relazionale principale e più costosa del periodo. A giugno 2026 Michele conferma di non essere contento di Luca — la sua posizione appare a rischio. Aggravante week 15-18 giugno: Luca inizia a usare la roadmap come scadenze da rispettare (day 233) — esattamente il problema già anticipato, ora manifesto. Dan preferisce "far bollire" prima di reagire; Fabio lo ha sentito in privato.
+- **Sync Luca da ristrutturare** (day 232, 16 giu 2026): Luca arrivato 20 min in ritardo, voleva andare dopo 5 min. Problema emesso su gestione colonna: la decisione era già stata presa ma Luca non ricordava dove l'aveva messa. [DECISIONE] Il sync mattiniero con Luca va strutturato meglio.
 - **Roadmap con stime** (day 228, giu 2026): decisione presa da Fabio/Gianni/Luca di prioritizzare con stime. Dan è fortemente contrario — ha letto "When Will It Be Done?" proprio per evitare questo approccio e considera la priorità sufficiente. Sta cercando di accettarla ma non la condivide.
 - **Possibile uscita di Gianni** (day 229, giu 2026): Qmates potrebbe spostare Gianni su altro cliente a luglio/agosto. Dan ha comunicato a Fabrizio (Qmates) le criticità in modo trasparente: destabilizzazione del team, perdita di credibilità di Qmates dentro Muffin. Nota a margine: la presenza di Gianni, più bravo e più scettico sull'AI, rende a volte difficile il ruolo di Tech Lead di Dan.
-- **Opportunità esterna Ancora** (day 229): primo colloquio conoscitivo il 15 giugno con CTO Andrea Rusconi — Staff Software Engineer, 3ª hire tecnica, RAL €70k-€95k + 0,3-0,5% equity. Se convincente, complica significativamente la giustificazione di restare a Muffin.
+- **Opportunità esterna Ancora — risultato non positivo** (day 231, 15 giu 2026): call conoscitiva con Andrea Rusconi (CTO). Segnali preoccupanti: non conosceva XP (Extreme Programming); risposta poco chiara alla domanda "perché microservizi?"; Dan stesso incerto se sia un match corretto. Impressione generale: probabilmente non si proseguirà. Il pattern "evento esterno come accelerante" si è attivato — ma l'opportunità specifica non sembra quella giusta. → [[patterns/index|Pattern 3]].
 - **Jacopo** — il designer/UX mostra gap di seniority; Dan definisce un reshape dei ruoli: Luca guida discovery, Dan guida il build con Jacopo sul versante operativo
 - **Strategia ambigua** — "Muffin vende network o bandi (software)?" ancora non risolto; la mancanza di direzione chiara complica la prioritizzazione della roadmap
 - **Competizione in arrivo** — day 226 (mag 2026): urgenza di accelerare vs. competitori
@@ -125,10 +133,11 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 | Mar 2026 (day 185–205) | in risalita | Cursor, AI, nuova struttura team, Revenue Cat come segnale di mercato |
 | Apr–Mag 2026 (day 205–226) | medio-alto | "Sono sereno, sto lasciando andare"; attenzione sulla competizione |
 | Giu 2026 (day 227–230) | misto/teso | Giornata in ufficio + pair positiva (day 227); poi tensione crescente: roadmap con stime, Gianni a rischio, "scossone" Michele, opportunità Ancora. "Un po' triste per la situazione complessiva, ma lucido." |
+| Giu 2026 (day 231–234) | positivo/operativo | Settimana "super super super positiva" nonostante la tensione strategica. Feature invito in prod. Collaborazione con Alessia e Fabio fluida. Call Ancora non positiva — ridimensiona l'urgenza esterna ma non la lascia cadere. |
 
 ## Note per il futuro
 
-- **Ancora** (day 229, 2026-06-11): primo colloquio il 15 giugno con CTO Andrea Rusconi. Ruolo: Staff Software Engineer, 3ª hire tecnica, greenfield, daily deploy, RAL €70k-€95k + equity 0,3-0,5%. Stack: service layer piattaforma contabilità AI-native. Forte overlap tecnico (architettura, AI/LLM, PostgreSQL, ownership); gap potenziale su fintech/contabilità italiana e Go/Java. Questo è il segnale esterno più concreto finora — più avanzato del solo CV mandato a Revenue Cat. Se l'impressione del colloquio è positiva, complica seriamente la giustificazione di restare. → [[patterns/index|Pattern 3: eventi esterni come acceleranti]].
+- **Ancora — aggiornamento post-call** (day 231, 2026-06-15): il colloquio conoscitivo con Andrea Rusconi (CTO) non ha dato l'impressione positiva attesa. Rusconi non conosceva XP; la domanda sui microservizi non ha avuto risposta chiara; Dan stesso non è sicuro che sia un match corretto. Il processo potrebbe non proseguire. Questo NON chiude il capitolo mercato — conferma solo che l'opportunità specifica non è quella giusta. → [[patterns/index|Pattern 3]].
 - **"Scossone" imminente**: la call con Michele (day 230) porta notizie che cambiano lo scenario. Da monitorare: (1) Luca esce? Quando? Chi lo sostituisce? (2) Budget Qmates confermato per 2027? (3) Se Gianni esce, chi porta avanti il rinforzo tecnico? (4) Alessia è intoccabile — se fosse coinvolta, Dan ha dichiarato "è guerra vera".
 - **Visione refactor piattaforma**: la visione NotebookLM-inspired esplora un AI-repo nuovo con pratiche XP amplificate. Questo potrebbe essere il progetto che giustifica un altro anno a Muffin — ma solo se ci sono le condizioni (Qmates, budget, leadership stabile).
 - **Revenue Cat** (day 200, 2026-03-13): Dan ha mandato il CV "per curiosità" — primo segnale di apertura al mercato. Superato da Ancora (day 229) come segnale più concreto.

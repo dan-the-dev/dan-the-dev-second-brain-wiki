@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-06-14
+updated: 2026-06-21
 tags: [patterns, index]
 ---
 
@@ -58,9 +58,9 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: in più di un'occasione la "ricerca silenziosa" precede di mesi la rottura conclamata — segno che i segnali di insoddisfazione (feedback inascoltato, proposte senza seguito) restano a lungo senza una risposta diretta, fino a quando un evento esterno non li rende inevitabili.
 
-**Muffin — aggiornamento giugno 2026**: il pattern si stava costruendo da marzo (CV a Revenue Cat). Adesso ha un evento concreto: l'11 giugno 2026 (day 229) Dan riceve una risposta positiva da **Ancora** per una posizione di Staff Software Engineer. Primo colloquio il 15 giugno con CTO Andrea Rusconi. RAL €70k-€95k + equity 0,3-0,5%. Contesto interno: "scossone" imminente (probabile uscita di Luca), Gianni potenzialmente in uscita da Qmates, roadmap con stime che Dan non condivide. Tutti i segnali di insoddisfazione latente sono presenti e documentati. Ancora è il classico "evento esterno" che può trasformarli in azione — esattamente come WCS a Tour Radar (feb 2024) o l'intervista Mymenu (lug 2021). Da monitorare il 15 giugno.
+**Muffin — aggiornamento giugno 2026**: il pattern si stava costruendo da marzo (CV a Revenue Cat). L'11 giugno 2026 (day 229) Dan riceve una risposta positiva da **Ancora** per una posizione di Staff Software Engineer. Primo colloquio il 15 giugno con CTO Andrea Rusconi — ma il risultato non è stato positivo: Rusconi non conosceva XP, le risposte tecniche erano poco convincenti, e Dan stesso è incerto sul match. L'opportunità probabilmente non proseguirà. Questo è un caso interessante di evento esterno che *non diventa* accelerante: il segnale si è attivato (contesto interno deteriorato + opportunità esterna), ma l'opportunità specifica non ha retto all'esame ravvicinato. Il meccanismo del pattern è presente — la condizione interna è matura — ma l'evento esterno deve essere il giusto evento. Da monitorare: Ancora potrebbe ancora proseguire, e nuove opportunità potrebbero emergere.
 
-**Insight**: gli eventi traumatici o le offerte esterne non *creano* il desiderio di cambiare — lo *rivelano* e lo *accelerano*. Riconoscere prima i segnali di insoddisfazione latente (anziché aspettare che un evento esterno li renda visibili) potrebbe permettere a Dan di prendere decisioni di carriera in modo più proattivo e meno reattivo.
+**Insight**: gli eventi traumatici o le offerte esterne non *creano* il desiderio di cambiare — lo *rivelano* e lo *accelerano*. Riconoscere prima i segnali di insoddisfazione latente (anziché aspettare che un evento esterno li renda visibili) potrebbe permettere a Dan di prendere decisioni di carriera in modo più proattivo e meno reattivo. Aggiunta dal 2026: non tutti gli eventi esterni sono il segnale giusto — la qualità dell'opportunità conta quanto la presenza di un'opportunità.
 
 ---
 
@@ -138,6 +138,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa ha funzionato**: l'approccio "no stime, solo priorità" era stato uno dei pochi punti che Dan era riuscito a ottenere a Muffin — e lo cita come qualcosa di cui è orgoglioso.
 
 **Cosa non ha funzionato**: la pressione degli stakeholder (Michele) sulla velocità percepita porta il team a reintrodurre le stime come risposta tattica. Dan non è riuscito a difendere questo principio nel lungo periodo.
+
+**Aggiornamento settimana 15-18 giugno 2026**: il pattern si aggrava. Luca Sabena inizia a usare la roadmap come scadenze da rispettare (day 233, 17 giugno) — esattamente la degenerazione che Dan aveva anticipato. Dan preferisce "far bollire" prima di reagire; Fabio lo ha sentito in privato. Questo conferma che l'adozione delle stime non è rimasta "tecnica" ma è diventata una fonte di pressione organizzativa concreta.
 
 **Insight**: questo è un microcosmo del Pattern 2 (proposte senza seguito). La resistenza alle stime è una posizione tecnica ben argomentata ma che si scontra con la cultura aziendale della "data di consegna". Per future esperienze: il modo più efficace per evitare la pressione sulle stime non è rifiutarle — è fornire un'alternativa concreta e visibile (throughput metrics, flow metrics, simulazioni Monte Carlo come quelle che Dan sta costruendo con n8n) che risponda alla stessa domanda degli stakeholder con dati invece di promesse.
 
