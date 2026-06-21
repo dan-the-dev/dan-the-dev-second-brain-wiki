@@ -1,12 +1,12 @@
 ---
 title: Abitudini attive
-updated: 2026-06-14
+updated: 2026-06-21
 tags: [habits, wiki]
 ---
 
 # Abitudini attive
 
-> Ultimo check-in: W24 (14 giugno 2026) — Fase pre-start. H2 inizia il 1° luglio.
+> Ultimo check-in: W25 (21 giugno 2026) — Fase pre-start. H2 inizia il 1° luglio.
 
 ## 🧠 Professionale
 | Abitudine | Goal collegato | Frequenza | Status | Streak |
