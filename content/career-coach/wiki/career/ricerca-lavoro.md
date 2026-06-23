@@ -28,7 +28,7 @@ tags: [career, job-search]
 ## Candidature
 
 ### 1. Ancora — Staff Software Engineer
-**Stato**: ⏳ Attesa feedback
+**Stato**: 🔴 Chiuso — non proseguono
 **Data candidatura**: ~2026-06-11
 **Link JD**: https://www.linkedin.com/jobs/view/4416635056/
 
@@ -77,6 +77,8 @@ Investor: Ithaca, Angel Invest, 2100 Ventures.
 - Dan stesso non è sicuro che sia il match giusto
 
 **Valutazione Dan**: 🤔 Da riflettere. Non è detto si prosegua.
+
+**Esito finale (23/06)**: Ancora ha comunicato che non proseguiranno. Dan se lo aspettava — i dubbi percepiti in call erano reciproci. Distanza culturale troppo grande da entrambe le parti. Capitolo chiuso senza rimpianti.
 
 ---
 
