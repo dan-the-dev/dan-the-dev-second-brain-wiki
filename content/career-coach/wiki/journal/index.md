@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260624-muffin-day237]] — 2026-06-24 · Day 237 · Design sbloccato da Luca, showcase pronto, frizione Jacopo/Luca
 - [[20260623-muffin-day236]] — 2026-06-23 · Day 236 · Banner clienti non invitati, Ancora chiusa, refinement difficile Jacopo/Luca
 - [[20260619-muffin-day235]] — 2026-06-19 · Day 235 · Doppio rilascio, filtro azienda con Jacopo, linter da fare
 - [[20260618-muffin-day234]] — 2026-06-18 · Day 234 · Rilascio in prod, piani corporate pronti, live update con Fabio, refinement Jacopo
