@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-06-21
+updated: 2026-06-28
 tags: [patterns, index]
 ---
 
@@ -58,7 +58,7 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: in più di un'occasione la "ricerca silenziosa" precede di mesi la rottura conclamata — segno che i segnali di insoddisfazione (feedback inascoltato, proposte senza seguito) restano a lungo senza una risposta diretta, fino a quando un evento esterno non li rende inevitabili.
 
-**Muffin — aggiornamento giugno 2026**: il pattern si stava costruendo da marzo (CV a Revenue Cat). L'11 giugno 2026 (day 229) Dan riceve una risposta positiva da **Ancora** per una posizione di Staff Software Engineer. Primo colloquio il 15 giugno con CTO Andrea Rusconi — ma il risultato non è stato positivo: Rusconi non conosceva XP, le risposte tecniche erano poco convincenti, e Dan stesso è incerto sul match. L'opportunità probabilmente non proseguirà. Questo è un caso interessante di evento esterno che *non diventa* accelerante: il segnale si è attivato (contesto interno deteriorato + opportunità esterna), ma l'opportunità specifica non ha retto all'esame ravvicinato. Il meccanismo del pattern è presente — la condizione interna è matura — ma l'evento esterno deve essere il giusto evento. Da monitorare: Ancora potrebbe ancora proseguire, e nuove opportunità potrebbero emergere.
+**Muffin — aggiornamento giugno 2026**: il pattern si stava costruendo da marzo (CV a Revenue Cat). L'11 giugno 2026 (day 229) Dan riceve una risposta positiva da **Ancora** per una posizione di Staff Software Engineer. Primo colloquio il 15 giugno con CTO Andrea Rusconi — il risultato non è stato positivo (no XP, visione "in futuro non si scrive più codice", risposta poco convincente sui microservizi). Il 23 giugno (day 236) Ancora ha comunicato che non proseguirà — Dan se lo aspettava, distanza culturale reciproca. Capitolo chiuso senza rimpianti. Questo è un caso di evento esterno che *non diventa* accelerante: il meccanismo era presente (condizione interna matura + opportunità esterna), ma l'opportunità specifica non era quella giusta. La ricerca rimane esplorativa.
 
 **Insight**: gli eventi traumatici o le offerte esterne non *creano* il desiderio di cambiare — lo *rivelano* e lo *accelerano*. Riconoscere prima i segnali di insoddisfazione latente (anziché aspettare che un evento esterno li renda visibili) potrebbe permettere a Dan di prendere decisioni di carriera in modo più proattivo e meno reattivo. Aggiunta dal 2026: non tutti gli eventi esterni sono il segnale giusto — la qualità dell'opportunità conta quanto la presenza di un'opportunità.
 
@@ -98,7 +98,9 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: il mentoring involontario non è riconosciuto come tale — né da Dan né dall'organizzazione — per molto tempo. Il costo si accumula silenziosamente, emerge come frustrazione e conflitto comunicativo, e rischia di danneggiare relazioni che potrebbero essere professionalmente sane.
 
-**Insight**: quando si è Tech Lead in una startup early-stage, il "mentoring involontario dei pari" è quasi inevitabile — ma va riconosciuto esplicitamente e strutturato, non lasciato andare in modo informale. Le opzioni sono tre: (1) accettarlo consapevolmente come parte temporanea del ruolo, con limiti chiari; (2) delegarlo a un terzo (coach, consulente esterno come Nicola); (3) portarlo come conversazione esplicita con il senior management (Claudio), chiedendo un riconoscimento formale o un intervento sul gap di competenza del pari.
+**Aggiornamento settimana 22-26 giugno 2026**: il pattern con Jacopo raggiunge un punto di esplicitazione. Durante la settimana (day 236-237), sia Dan che Luca convergono sull'osservazione che Jacopo porta ogni scelta di design come "gusto" o "arte personale" — senza framework, pattern o ragionamento UX verificabile. Non c'è modo di spostare la conversazione. Dan identifica la conversazione necessaria con Jacopo: non "devi fare meglio" ma "devi cambiare come parli del tuo lavoro — il ragionamento c'è probabilmente, ma non viene mai comunicato." Questo è un caso di mentoring su meta-skill comunicative, non tecniche. Il costo emotivo è descritto come "sofferenza" — ma il risultato della settimana (design approvato da Luca) mostra che il mentoring, anche silenzioso e doloroso, funziona.
+
+**Insight**: quando si è Tech Lead in una startup early-stage, il "mentoring involontario dei pari" è quasi inevitabile — ma va riconosciuto esplicitamente e strutturato, non lasciato andare in modo informale. Le opzioni sono tre: (1) accettarlo consapevolmente come parte temporanea del ruolo, con limiti chiari; (2) delegarlo a un terzo (coach, consulente esterno come Nicola); (3) portarlo come conversazione esplicita con il senior management (Claudio), chiedendo un riconoscimento formale o un intervento sul gap di competenza del pari. La settimana del 22-26 giugno aggiunge una quarta dimensione: il mentoring su *come si comunica il lavoro* è diverso dal mentoring sul *lavoro stesso* — e potrebbe richiedere strumenti diversi (es. mostrare esempi di presentazione UX ben argomentata, non solo correggere il metodo).
 
 ---
 
@@ -140,6 +142,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: la pressione degli stakeholder (Michele) sulla velocità percepita porta il team a reintrodurre le stime come risposta tattica. Dan non è riuscito a difendere questo principio nel lungo periodo.
 
 **Aggiornamento settimana 15-18 giugno 2026**: il pattern si aggrava. Luca Sabena inizia a usare la roadmap come scadenze da rispettare (day 233, 17 giugno) — esattamente la degenerazione che Dan aveva anticipato. Dan preferisce "far bollire" prima di reagire; Fabio lo ha sentito in privato. Questo conferma che l'adozione delle stime non è rimasta "tecnica" ma è diventata una fonte di pressione organizzativa concreta.
+
+**Aggiornamento settimana 22-26 giugno 2026**: nessuna escalation diretta sulla questione stime questa settimana — la settimana è stata prevalentemente operativa (rilasci, design sbloccato). La pressione delle stime resta sullo sfondo come variabile latente.
 
 **Insight**: questo è un microcosmo del Pattern 2 (proposte senza seguito). La resistenza alle stime è una posizione tecnica ben argomentata ma che si scontra con la cultura aziendale della "data di consegna". Per future esperienze: il modo più efficace per evitare la pressione sulle stime non è rifiutarle — è fornire un'alternativa concreta e visibile (throughput metrics, flow metrics, simulazioni Monte Carlo come quelle che Dan sta costruendo con n8n) che risponda alla stessa domanda degli stakeholder con dati invece di promesse.
 
