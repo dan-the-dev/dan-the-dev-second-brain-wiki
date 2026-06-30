@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260630-muffin-day240]] — 2026-06-30 · Day 240 · Buona giornata con Luca, poi convocazione 3 luglio — team giù
 - [[20260629-muffin-day239]] — 2026-06-29 · Day 239 · Product Update ok, Metabase fuori, tech catchup avanza
 - [[20260626-muffin-day238]] — 2026-06-26 · Day 238 · Giornata formazione, Fantapic side project, Cursor skill/prompt
 - [[20260624-muffin-day237]] — 2026-06-24 · Day 237 · Design sbloccato da Luca, showcase pronto, frizione Jacopo/Luca
