@@ -3,7 +3,7 @@ title: Ricerca Lavoro
 started: 2026-06-11
 status: exploratory
 urgency: low
-updated: 2026-06-15
+updated: 2026-06-30
 tags: [career, job-search]
 ---
 
@@ -79,6 +79,38 @@ Investor: Ithaca, Angel Invest, 2100 Ventures.
 **Valutazione Dan**: 🤔 Da riflettere. Non è detto si prosegua.
 
 **Esito finale (23/06)**: Ancora ha comunicato che non proseguiranno. Dan se lo aspettava — i dubbi percepiti in call erano reciproci. Distanza culturale troppo grande da entrambe le parti. Capitolo chiuso senza rimpianti.
+
+---
+
+### 2. Medicilio — Engineering Lead
+**Stato**: 🔵 Candidato
+**Data candidatura**: 2026-06-30
+**Ref**: 86ca1xejx
+
+#### L'azienda
+Healthcare tech, remote-first EU (uffici facoltativi Milano e Sicilia). Stack: Python (Django/FastAPI), TypeScript (React), PostgreSQL, GCP. AI-assisted engineering workflows con Claude, Cursor, MCP, sandboxed agents. Valori: Trust, Care, Curiosity, Expansion, Joy.
+
+#### Il ruolo
+Engineering Lead che riporta al Head of Engineering. Ownership di un dominio: persone, codice, direzione tecnica. Lead di più pod. Mani nel codice (PR review, architettura, pattern). Artifact-driven delivery model con AI-assisted execution. Partner del Product Lead su roadmap e trade-off.
+
+**RAL**: €55.000–€85.000. Equity possibile (discusso all'offer stage).
+
+#### Fit con Dan
+- ✅ AI-assisted workflows con Claude/Cursor/MCP — Dan lo fa in produzione
+- ✅ Valori XP-aligned: piccoli pod, ownership, clarity over process, psychological safety
+- ✅ Tech Lead con direct report (Alessia), 1to1, growth conversations
+- ✅ Artifact-driven delivery, CLAUDE.md — Dan ha costruito questo per sé stesso
+- ✅ GDPR awareness (esperienza Muffin)
+- ✅ TypeScript/React ✅
+- ✅ Italiano nativo (nice-to-have valorizzato)
+- ⚠️ Python/Django/FastAPI — da valutare quanto è solido il background backend Python
+- ⚠️ Healthcare/regulated environments — nessuna esperienza diretta (nice-to-have)
+
+#### Colloqui
+| Data | Tipo | Interlocutore | Note | Esito |
+|------|------|---------------|------|-------|
+
+#### Note e impressioni
 
 ---
 
