@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260702-muffin-day242]] — 2026-07-02 · Day 242 · Rilasci, pratiche sbloccate, eve della convocazione Michele
 - [[20260701-muffin-day241]] — 2026-07-01 · Day 241 · Gianni va via (Qmates), Claudio silenzio anomalo, venerdì si avvicina
 - [[20260630-muffin-day240]] — 2026-06-30 · Day 240 · Buona giornata con Luca, poi convocazione 3 luglio — team giù
 - [[20260629-muffin-day239]] — 2026-06-29 · Day 239 · Product Update ok, Metabase fuori, tech catchup avanza
