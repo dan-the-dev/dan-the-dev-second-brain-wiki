@@ -32,3 +32,7 @@ tags: [career, index]
 - [[career/education|Formazione]] — ITIS Corni, certificazioni, lingue
 - [[career/speaking|Speaking & Talks]] — talk pubblici e community
 - [[career/recommendations|Raccomandazioni & Endorsement LinkedIn]]
+
+## 🔍 Ricerca Lavoro 2026
+- [[career/ricerca-lavoro-2026|Dashboard ricerca 2026]] 🔴 ATTIVA — 2 mesi di finestra
+- [[career/candidature/medicilio|Medicilio — Engineering Lead]] · 🔵 In corso
