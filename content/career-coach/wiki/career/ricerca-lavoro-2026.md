@@ -13,34 +13,46 @@ tags: [career, job-search, 2026]
 
 **Avviata attivamente**: 3 luglio 2026
 **Trigger**: Muffin comunica problemi di liquidità — 2 mesi di riduzione ore al 50%. Dan firma ma cerca subito.
-**Urgenza**: 🔴 Alta — finestra di 2 mesi per trovare qualcosa di buono.
+**Urgenza**: 🔴 Alta — finestra di ~2 mesi per trovare qualcosa di buono.
 
 **Cosa cerca Dan**:
 - Contesto tecnico sano, cultura di feedback e crescita
-- Ruolo da Engineering Lead / Tech Lead con responsabilità reale su persone e architettura
+- Ruolo da Engineering Lead / Head of Engineering con responsabilità reale su persone e architettura
 - AI-assisted workflows come modo di lavorare, non come buzzword
 - RAL superiore al 50% di Muffin attuale
-- Preferibilmente remote-first o ibrido flessibile
+- Preferibilmente remote-first o ibrido flessibile (da Lainate, Milano è raggiungibile)
 
-**Criteri di scelta**:
-- Allineamento culturale (XP, ownership, feedback diretto, autonomia)
-- Crescita economica reale
-- Contesto stimolante e non tossico
+**Criteri di scelta**: allineamento culturale (XP, ownership, feedback diretto, autonomia) + crescita economica + contesto non tossico.
+
+→ **[[ranking|Ranking completo aggiornato]]**
 
 ---
 
 ## Candidature attive
 
-| # | Azienda | Ruolo | Stato | Data | Link |
-|---|---------|-------|-------|------|------|
-| 1 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔵 In corso | 2026-06-30 | [LinkedIn](https://www.linkedin.com/jobs/view/4388277419/) |
-| 2 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | 2026-07-03 | [LinkedIn](https://www.linkedin.com/jobs/view/4388277419/) |
+| # | Azienda | Ruolo | Stato | RAL | Data | Rank |
+|---|---------|-------|-------|-----|------|------|
+| 1 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔵 In corso | €55-85k | 2026-06-30 | 🥇 1 |
+| 2 | [[candidature/exein\|Exein]] | Head of Engineering | 🔵 In corso | €120-150k | 2026-07-03 | 🥇 2 |
+| 3 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | €65-80k+bonus | 2026-07-03 | 🥇 3 |
+| 4 | [[candidature/kapa\|kapa.ai]] | Software Engineer Full-stack | 🔵 In corso | $100-150k+equity | 2026-07-03 | 🥈 4 |
+| 5 | [[candidature/consortia\|Consortia]] | Senior Product Engineer | 🔵 In corso | £90-110k | 2026-07-03 | 🥈 5 |
+| 6 | [[candidature/alfadocs\|AlfaDocs]] | Senior Full Stack/Backend | 🔵 In corso | €60-70k | 2026-07-03 | 🥈 6 |
+| 7 | [[candidature/bain\|Bain & Company]] | Lead Software Engineering | 🔵 In corso | €66k+10%bonus | 2026-07-03 | 🥈 7 |
+| 8 | [[candidature/satispay\|Satispay]] | Staff Software Engineer | 🔵 In corso | €64-88k | 2026-07-03 | 🥉 8 |
+| 9 | [[candidature/klarna\|Klarna]] | Senior Fullstack Engineer | 🔵 In corso | €63-70k | 2026-07-03 | 🥉 9 |
+| 10 | [[candidature/lexroom\|Lexroom]] | Backend Engineer | 🔵 In corso | €40-100k | 2026-07-03 | 🥉 10 |
+| 11 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 11 |
+| 12 | [[candidature/deel\|Deel]] | Tech Lead Infra | 🔵 In corso | $60-130k | 2026-07-03 | 🥉 12 |
 
 ---
 
 ## Candidature chiuse
 
-*(nessuna — Ancora è tracciata in [[ricerca-lavoro]] come ricerca esplorativa pre-luglio)*
+| # | Azienda | Ruolo | Esito | Note |
+|---|---------|-------|-------|------|
+| — | Ancora | Staff Software Engineer | 🔴 Chiuso (23/06) | Mismatch culturale — tracciata in [[ricerca-lavoro]] |
+| — | Keyrock | ? | 🔴 Non adatto | Dan non idoneo, scartata |
 
 ---
 
@@ -48,4 +60,4 @@ tags: [career, job-search, 2026]
 
 - Ogni candidatura ha una pagina dedicata in `wiki/career/candidature/`
 - Aggiornare stato dopo ogni contatto/colloquio
-- Usare questo indice come dashboard della ricerca
+- Ranking aggiornato in `[[ranking]]` — riveditelo dopo ogni colloquio
