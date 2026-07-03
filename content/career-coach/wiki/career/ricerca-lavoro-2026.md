@@ -33,7 +33,8 @@ tags: [career, job-search, 2026]
 
 | # | Azienda | Ruolo | Stato | Data | Link |
 |---|---------|-------|-------|------|------|
-| 1 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔵 In corso | 2026-06-30 | [JD](#) |
+| 1 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔵 In corso | 2026-06-30 | [LinkedIn](https://www.linkedin.com/jobs/view/4388277419/) |
+| 2 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | 2026-07-03 | [LinkedIn](https://www.linkedin.com/jobs/view/4388277419/) |
 
 ---
 
