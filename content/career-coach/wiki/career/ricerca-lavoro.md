@@ -12,7 +12,7 @@ tags: [career, job-search]
 ## Contesto
 
 **Data di inizio**: giugno 2026 (candidatura Ancora)
-**Urgenza**: bassa — ricerca esplorativa, non c'è fretta
+**Urgenza**: 🔴 ALTA — dal 03/07/2026, Muffin ha comunicato problemi di liquidità e richiesto 2 mesi di riduzione ore al 50%. Trovare lavoro è ora priorità attiva.
 **Motivi**:
 - Ambiente Muffin non positivo: comunicazione accusatoria, poca cultura di feedback e crescita
 - Incertezza organizzativa crescente (possibile uscita Luca, situazione Qmates)
