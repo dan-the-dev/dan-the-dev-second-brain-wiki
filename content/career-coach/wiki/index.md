@@ -35,5 +35,5 @@ tags: [career, index]
 
 ## 🔍 Ricerca Lavoro 2026
 - [[career/ricerca-lavoro-2026|Dashboard ricerca 2026]] 🔴 ATTIVA — 2 mesi di finestra
-- [[career/ranking|🏆 Ranking candidature]] — 12 candidature attive
-- Top 3: Medicilio · Exein · Gemmo AI
+- [[career/ranking|🏆 Ranking candidature]] — 13 candidature attive
+- Top 3: Medicilio · WeRoad · Exein
