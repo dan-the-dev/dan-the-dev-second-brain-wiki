@@ -2,11 +2,11 @@
 title: Muffin — In Progress
 company: muffin
 period: 2024-10-07 → presente
-total_days: 238
+total_days: 243
 stack: [TypeScript, NestJS, React, Next.js, PostgreSQL, Docker, AWS, Hubspot, Mixpanel, Metabase, n8n, Jira, Figma, Cursor]
-status: in-progress
-last_updated: 2026-06-28
-tags: [experience, muffin, in-progress]
+status: in-progress-crisis
+last_updated: 2026-07-03
+tags: [experience, muffin, in-progress, crisis]
 ---
 
 # Muffin — In Progress
