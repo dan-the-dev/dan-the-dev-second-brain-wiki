@@ -42,6 +42,13 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ## 🥈 Tier 2 — Buone opportunità con riserve
 
+### 4. [[candidature/mollie|Mollie]] — Engineering Manager
+**Perché**: PHP esplicitamente richiesto (raro a livello EM), hands-on EM model perfetto per Dan, scala europea reale (850 persone, 250K clienti), brand fintech riconoscibile. Contatto interno disponibile. JVM come alternativa coperta da Dan lato PHP.
+**Rischio principale**: ⚠️ Location — "relocation not offered" suggerisce presenza in sede (Amsterdam, Londra, Lisbona, Colonia). Mollie non ha uffici a Milano. **Da chiarire subito con il contatto interno se accettano EU remote.** Se sì: sale in Tier 1. Fintech/payments nuovo per Dan, gap formale su managing teams.
+`RAL n.d. · Location da verificare · Engineering Manager · 🔑 contatto interno`
+
+---
+
 ### 5. [[candidature/kapa|kapa.ai]] — Software Engineer Full-stack
 **Perché**: Il prodotto che Dan trova più genuinamente interessante (RAG/AI assistants su knowledge base tecnica). YC S23, founding team diretto. Compensazione eccellente ($100-150k + equity 0.1-0.3%). Remote.
 **Rischio**: Ruolo IC (no leadership di persone). Python primario (weakness di Dan). Startup molto piccola (22 persone).
@@ -72,27 +79,25 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ## 🥉 Tier 3 — Candidature deboli o con mismatch tecnico
 
-### 9. [[candidature/satispay|Satispay]] — Staff Software Engineer
+### 9. ~~Lexroom~~ — 🔴 Rifiutato
+
+---
+
+### 10. [[candidature/satispay|Satispay]] — Staff Software Engineer
 **Perché**: Brand ottimo, benefit eccellenti (unlimited PTO, health, stock). Pensiero tecnico di alto livello.
 **Problema**: Java è il requisito principale. Dan ha 1.5 anni di Java a livello intermedio. Staff level in Java richiede profondità che non è nel suo profilo attuale.
 `RAL €64-88k · Milano hybrid · IC Staff · ✅ Applicato`
 
 ---
 
-### 10. [[candidature/klarna|Klarna]] — Senior Fullstack Engineer
+### 11. [[candidature/klarna|Klarna]] — Senior Fullstack Engineer
 **Perché**: Stack TypeScript/Node.js/React perfetto. XP practices esplicitamente citate (TDD, Pairing). Team autonomi piccoli.
 **Problema**: RAL €63-70k — il più basso del pool per un Senior. IC, non leadership. Klarna sta facendo mass layoff AI-driven: ambiente instabile proprio ora. Presenza Milano richiesta.
 `RAL €63-70k · Milano · IC Senior · ✅ Applicato`
 
 ---
 
-### 11. [[candidature/lexroom|Lexroom]] — Backend Engineer
-**Problema**: Backend Python puro (Django/FastAPI) — mismatch tecnico principale. Range salariale €40-100k opaco. IC, non leadership. Startup italiana early-stage con alcuni segnali culturali da valutare ("rockstars", "sales school").
-`RAL €40-100k · Milano hybrid · IC Backend · ✅ Applicato`
-
----
-
-### 12. [[candidature/rain|Rain]] — Tech Lead
+### 12. [[candidature/rain|Rain]] — Tech Lead  
 **Problema**: Go expert level richiesto — Go non è nel profilo di Dan. Kafka richiesto. RAL non dichiarata. Mismatch tecnico significativo su requisiti fondamentali.
 `RAL n.d. · Remote · Tech Lead · ✅ Applicato`
 

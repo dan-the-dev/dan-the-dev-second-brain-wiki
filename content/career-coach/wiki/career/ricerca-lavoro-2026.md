@@ -42,7 +42,7 @@ tags: [career, job-search, 2026]
 | 8 | [[candidature/bain\|Bain & Company]] | Lead Software Engineering | 🔵 In corso | €66k+10%bonus | 2026-07-03 | 🥈 8 |
 | 9 | [[candidature/satispay\|Satispay]] | Staff Software Engineer | 🔵 In corso | €64-88k | 2026-07-03 | 🥉 9 |
 | 10 | [[candidature/klarna\|Klarna]] | Senior Fullstack Engineer | 🔵 In corso | €63-70k | 2026-07-03 | 🥉 10 |
-| 11 | [[candidature/lexroom\|Lexroom]] | Backend Engineer | 🔵 In corso | €40-100k | 2026-07-03 | 🥉 11 |
+| 11 | [[candidature/mollie\|Mollie]] | Engineering Manager | 🟡 Pre-apply (attesa referral) | n.d. | — | 🥈 4* |
 | 12 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 12 |
 | 13 | [[candidature/deel\|Deel]] | Tech Lead Infra | 🔵 In corso | $60-130k | 2026-07-03 | 🥉 13 |
 
@@ -54,6 +54,7 @@ tags: [career, job-search, 2026]
 |---|---------|-------|-------|------|
 | — | Ancora | Staff Software Engineer | 🔴 Chiuso (23/06) | Mismatch culturale — tracciata in [[ricerca-lavoro]] |
 | — | Keyrock | ? | 🔴 Non adatto | Dan non idoneo, scartata |
+| — | [[candidature/lexroom\|Lexroom]] | Backend Engineer | 🔴 Rifiutato | — |
 
 ---
 
