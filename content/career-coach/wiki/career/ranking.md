@@ -12,28 +12,42 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ## 🥇 Tier 1 — Fortemente consigliato
 
-### 1. [[candidature/medicilio|Medicilio]] — Engineering Lead
+### 1. [[candidature/tonsser|Tonsser]] — Lead Backend Engineer
+**Perché**: La combinazione più rara del pool. Tre vantaggi simultanei impossibili da replicare: (1) dominio calcio — Dan tifa Milan e Sassuolo, capisce il prodotto a livello viscerale, non "un cliente qualsiasi"; (2) cercano esplicitamente qualcuno che setti lo standard AI nel team e nel prodotto — esattamente il differenziatore più forte di Dan in questo momento; (3) "not dogmatic about the stack" scritto in modo esplicito — il background PHP/TS non è un gap, è irrilevante by design. Engagement freelance→permanent si allinea perfettamente con la situazione Muffin attuale.
+**Rischio**: Ruby non è nel background di Dan (gestito dalla JD stessa). RAL non dichiarata. Team molto piccolo.
+`RAL n.d. · Freelance→permanent · Remote EU · Lead Backend · ✅ Applicato`
+
+---
+
+### 3. [[candidature/medicilio|Medicilio]] — Engineering Lead
 **Perché**: È il match più completo. I valori aziendali (Trust, Care, Curiosity, Expansion, Joy) sono una riscrittura dei principi XP. Il modello artifact-driven con CLAUDE.md è esattamente quello che Dan ha costruito per sé stesso. Engineering Lead con ownership di dominio + persone + architettura. Remote-first. RAL €55-85k con top band per chi dimostra ownership reale — Dan può ambire al top.
 **Rischio**: Python non è il punto di forza di Dan. Da gestire bene in colloquio.
 `RAL €55-85k · Remote EU · Engineering Lead · ✅ Applicato`
 
 ---
 
-### 2. [[candidature/weroad|WeRoad]] — Head of Product Engineering
+### 4. [[candidature/weroad|WeRoad]] — Head of Product Engineering
 **Perché**: Stack tecnico raro e perfetto per Dan — Laravel/PHP esplicitamente richiesto, e Claude Code + Cursor menzionati come strumenti attesi (non buzzword, strumenti reali). Head of Product Engineering su 5 team, riporto diretto al CTPO che Dan conosce personalmente — vantaggio competitivo enorme. RAL €90-110k + benefit eccezionali (viaggio gratis annuale, trust-based holidays, €3.600/anno per genitori per 3 anni). Remote o hybrid Milan.
 **Rischio**: Gap sulla gestione di Engineering Managers in org 20+ — il ruolo richiede 4+ anni managing managers. Dan ha 1 direct report attuale. Nuxt/Vue (non React). Il CTPO connection compensa ma il gap non va ignorato — da gestire esplicitamente in colloquio.
 `RAL €90-110k+bonus · Remote/Hybrid Milan · Head of Product Engineering · 🔑 CTPO connection`
 
 ---
 
-### 3. [[candidature/exein|Exein]] — Head of Engineering
+### 5. [[candidature/exein|Exein]] — Head of Engineering
 **Perché**: La compensazione più alta del pool (€120-150k). Ruolo Head of Engineering con ownership completa del team (backend, frontend, infra, QA) — è il livello giusto per Dan. Remote EMEA. Riporto diretto al CTO. Team tecnico con forte cultura del craft.
 **Rischio**: Dominio cybersecurity/embedded è specializzato. Dan non ha background security. Se il CTO cerca qualcuno che capisca il dominio in profondità, è un ostacolo. Se cerca un engineering leader che sappia scalare team tecnici in domini difficili, Dan può farcela. Vale la pena scoprirlo.
 `RAL €120-150k · Remote EMEA · Head of Engineering · ✅ Applicato`
 
 ---
 
-### 4. [[candidature/gemmo|Gemmo AI]] — Head of Engineering
+### 6. [[candidature/safi|Safi]] — Staff Software Engineer / Tech Lead
+**Perché**: IC con vera ownership tecnica — architettura, direzione tecnica, 0→1. GCP + PostgreSQL + React in produzione. AI/ML integration (trasformare output modelli in UI reale) è il differenziatore di Dan più forte qui. Travel mensile Londra da Milano fattibile.
+**Rischio**: Python/Django è lo stack principale — gap reale. React Native non dichiarato. Dominio industrial completamente nuovo. IC, no people management.
+`RAL n.d. · Remote EU + travel London mensile · Staff IC · ✅ Applicato`
+
+---
+
+### 7. [[candidature/gemmo|Gemmo AI]] — Head of Engineering
 **Perché**: Head of Engineering in un AI lab con Claude/Anthropic nel tech stack. Dan usa Claude in produzione — match diretto. Team piccolo, lean, fondatori tecnici. Buona compensazione con bonus strutturati. Ambiente stimolante.
 **Rischio**: Modello consulting (progetti clienti) è diverso da product company. Azure come cloud (Dan non è Azure-first). Milano 3 gg/sett (ok da Lainate).
 `RAL €65-80k + bonus · Milano 3gg · Head of Engineering · ✅ Applicato`
@@ -97,7 +111,16 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ---
 
-### 12. [[candidature/rain|Rain]] — Tech Lead  
+### 12. [[candidature/rain|Rain]] — Tech Lead
+
+---
+
+### 14. [[candidature/kalepa|Kalepa]] — Software Engineer (Client Integrations)
+**Problema**: Python è lo stack principale — non è il primario di Dan. Ruolo IC, no leadership. Piccola startup con cultura "hustle/grit". Dan stesso ha bassa aspettativa sulla candidatura.
+**Apertura**: "open to strong OO backgrounds" + LLMs/AI come bonus esplicito.
+`RAL n.d. · Remote? · IC Backend · ✅ Applicato (bassa priorità)`
+
+---
 **Problema**: Go expert level richiesto — Go non è nel profilo di Dan. Kafka richiesto. RAL non dichiarata. Mismatch tecnico significativo su requisiti fondamentali.
 `RAL n.d. · Remote · Tech Lead · ✅ Applicato`
 
@@ -111,8 +134,9 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ## Azioni prioritarie
 
-1. **WeRoad** — scrivere subito al CTPO (contatto diretto!) prima o in parallelo alla candidatura formale LinkedIn
-2. **Medicilio** — seguire con priorità, è il match più forte per fit culturale
+1. **Tonsser** — candidatura personale (short note) con angolo calcio + AI leadership
+2. **WeRoad** — scrivere al CTPO (contatto diretto!) in parallelo alla candidatura formale
+3. **Medicilio** — seguire con priorità, fit culturale forte
 3. **Exein** — candidatura da curare: preparare come spiegare la mancanza di background security
 4. **Consortia** — scoprire subito chi è il cliente finale (tom@consortia.com)
 5. **Gemmo** — buona candidatura, aspettare feedback
