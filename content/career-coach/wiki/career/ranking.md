@@ -47,14 +47,37 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 
 ---
 
-### 7. [[candidature/gemmo|Gemmo AI]] — Head of Engineering
+### 7. [[candidature/truelayer|TrueLayer]] — Senior Software Engineer
+**Perché**: Unica JD del pool con range RAL dichiarato sopra 70k (€65,750-79,000 + equity). Remote Italy + Milano hybrid 2gg — perfetto da Lainate. Company seria ($300M raised, Stripe investor, RyanAir cliente). Distributed systems, TDD, observability: background solido. "Training available" è un'apertura esplicita.
+**Rischio**: Stack Rust + .NET — il più lontano dal profilo di Dan nel pool. Java/Go come alternative ma Dan non ha profondità. IC role. Per 99.5% SLA payment infra, preferiscono chi già conosce lo stack.
+`RAL €65-79k + equity · Remote Italy + Milano 2gg · IC Senior · ✅ Applicato`
+
+---
+
+### 8. [[candidature/gemmo|Gemmo AI]] — Head of Engineering
 **Perché**: Head of Engineering in un AI lab con Claude/Anthropic nel tech stack. Dan usa Claude in produzione — match diretto. Team piccolo, lean, fondatori tecnici. Buona compensazione con bonus strutturati. Ambiente stimolante.
 **Rischio**: Modello consulting (progetti clienti) è diverso da product company. Azure come cloud (Dan non è Azure-first). Milano 3 gg/sett (ok da Lainate).
 `RAL €65-80k + bonus · Milano 3gg · Head of Engineering · ✅ Applicato`
 
 ---
 
+## ⚡ Tier Speciale — Equity bet (profilo di rischio diverso)
+
+### [[candidature/pakira-love-it-baby|Love It Baby (Pakira)]] — Founding Engineer
+**Perché**: Candidatura con il fit LLM più diretto del pool — cercano qualcuno AI-native che capisca orchestration, cost, latency in produzione, non solo "so chiamare un'API". Dan ha questo. In più: il prodotto parte dall'Italia targeting saloni/estetiste — Dan è italiano, conosce il mercato, può parlare direttamente con le prime clienti. Founder credibile (exit Bending Spoons). €64K ARR in 3 mesi è traction reale. Equity 1.5-3% con upside concreto.
+**Rischio**: Cash non dichiarata — da verificare prima di impegnarsi. Stage pre-seed. Cultura intensissima. Profilo di rischio completamente diverso dalle altre candidature — è una scommessa, non un lavoro stabile.
+`Equity 1.5-3% + cash n.d. · Full remote · Founding Engineer · Form: forms.gle/CZC3E2iXsX`
+
+---
+
 ## 🥈 Tier 2 — Buone opportunità con riserve
+
+### [[candidature/mimica|Mimica]] — Head of Engineering *(stretch)*
+**Perché**: Valori perfettamente allineati (psychological safety, servant leadership, ownership). AI company che traina modelli propri. "First HoE" significa costruire da zero, non gestire l'esistente. Remote EU. Stock options su Series B.
+**Rischio**: Gap di seniority più grande del pool. Richiede esperienza da HoE/VP in org simile — Dan è Head of Software Development in una startup piccola. Gestione EMs formale assente. 8 team da coordinare è un ordine di grandezza superiore. Ruolo non hands-on: potrebbe essere mismatch di fit personale oltre che di seniority.
+`RAL n.d. generous + stock · Remote EU · Head of Engineering · ✅ Applicato`
+
+---
 
 ### 4. [[candidature/mollie|Mollie]] — Engineering Manager
 **Perché**: PHP esplicitamente richiesto (raro a livello EM), hands-on EM model perfetto per Dan, scala europea reale (850 persone, 250K clienti), brand fintech riconoscibile. Contatto interno disponibile. JVM come alternativa coperta da Dan lato PHP.

@@ -33,6 +33,7 @@ tags: [career, job-search, 2026]
 | # | Azienda | Ruolo | Stato | RAL | Data | Rank |
 |---|---------|-------|-------|-----|------|------|
 | 1 | [[candidature/tonsser\|Tonsser]] | Lead Backend Engineer | 🔵 In corso | n.d. (freelance→perm) | 2026-07-03 | 🥇 1 |
+| 2 | [[candidature/pakira-love-it-baby\|Love It Baby]] | Founding Engineer | 🔵 In corso | equity 1.5-3% + cash n.d. | 2026-07-03 | 🥈 ⚡ |
 | 2 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔵 In corso | €55-85k | 2026-06-30 | 🥇 2 |
 | 2 | [[candidature/weroad\|WeRoad]] | Head of Product Engineering | 🔵 In corso | €90-110k+bonus | 2026-07-03 | 🥇 2 |
 | 3 | [[candidature/exein\|Exein]] | Head of Engineering | 🔵 In corso | €120-150k | 2026-07-03 | 🥇 3 |
@@ -44,6 +45,8 @@ tags: [career, job-search, 2026]
 | 9 | [[candidature/satispay\|Satispay]] | Staff Software Engineer | 🔵 In corso | €64-88k | 2026-07-03 | 🥉 9 |
 | 10 | [[candidature/klarna\|Klarna]] | Senior Fullstack Engineer | 🔵 In corso | €63-70k | 2026-07-03 | 🥉 10 |
 | 11 | [[candidature/mollie\|Mollie]] | Engineering Manager | 🟡 Pre-apply (attesa referral) | n.d. | — | 🥈 4* |
+| 16 | [[candidature/mimica\|Mimica]] | Head of Engineering | 🔵 In corso | n.d. (generous + stock) | 2026-07-03 | 🥈 stretch |
+| 17 | [[candidature/truelayer\|TrueLayer]] | Senior Software Engineer | 🔵 In corso | €65-79k + equity | 2026-07-03 | 🥈 8 |
 | 12 | [[candidature/safi\|Safi]] | Staff SWE / Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥈 7 |
 | 13 | [[candidature/kalepa\|Kalepa]] | Software Engineer | 🔵 In corso | n.d. | 2026-07-03 | 🥉 15 |
 | 13 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 12 |
