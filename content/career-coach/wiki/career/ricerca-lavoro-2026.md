@@ -47,6 +47,7 @@ tags: [career, job-search, 2026]
 | 11 | [[candidature/mollie\|Mollie]] | Engineering Manager | 🟡 Pre-apply (attesa referral) | n.d. | — | 🥈 4* |
 | 16 | [[candidature/mimica\|Mimica]] | Head of Engineering | 🔵 In corso | n.d. (generous + stock) | 2026-07-03 | 🥈 stretch |
 | 17 | [[candidature/truelayer\|TrueLayer]] | Senior Software Engineer | 🔵 In corso | €65-79k + equity | 2026-07-03 | 🥈 8 |
+| 18 | Shopfully | Senior Backend SWE | 🔵 In corso (aspettativa €75k dichiarata) | €50-65k (range) | 2026-07-05 | 🥉 — |
 | 12 | [[candidature/safi\|Safi]] | Staff SWE / Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥈 7 |
 | 13 | [[candidature/kalepa\|Kalepa]] | Software Engineer | 🔵 In corso | n.d. | 2026-07-03 | 🥉 15 |
 | 13 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 12 |
