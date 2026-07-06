@@ -2,7 +2,7 @@
 title: Gianni Bombelli
 company: [muffin]
 role: External Consultant (Qmates) — sviluppo
-updated: 2026-06-14
+updated: 2026-07-03
 tags: [people, muffin, qmates]
 ---
 
@@ -23,8 +23,11 @@ Nota di complessità: Dan riconosce che Gianni è "in sovrapposizione con me, an
 - Day ~185 — "Alessia e Gianni hanno impostato delle cose, hanno chiuso delle feature bug e hanno impostato lato testa automatici delle cose."
 - Day ~195 — Al Tech Catch-up: Dan descrive come "un sospiro di sollievo" il vedere Gianni e Alessia gestire i tavoli tecnici in autonomia, senza aver bisogno di Dan.
 - Day 229 (2026-06-11) — Fabrizio di Qmates comunica a Dan che Gianni potrebbe essere spostato su altro cliente a luglio/agosto. Dan reagisce con "sentimenti contrastanti": tristezza per la destabilizzazione del team, ma anche consapevolezza del lato potenzialmente positivo (un sostituto più aperto all'AI). Dan ha comunicato le criticità a Fabrizio in modo trasparente prima che la decisione fosse definitiva.
+- Day 241 (2026-07-01) — Gianni comunica ufficiosamente che lascerà Muffin: va a Nimega. Causa: difficoltà economiche di Qmates stessa (clienti persi), non una scelta di sviluppo di carriera. Tempi molto brevi. Si scoprirà due giorni dopo che questa uscita fa parte della stessa crisi di liquidità che colpisce Muffin — i due eventi non sono indipendenti.
 
 ## Note
 Figura meno narrativamente densa di Fabio, ma componente essenziale del rinforzo Qmates. Con Gianni+Fabio+Nicola, Dan per la prima volta non è l'unico portatore della cultura tecnica che vuole affermare nel team.
 
 **⚠️ Aggiornamento critico (giu 2026)**: possibile uscita a luglio/agosto. Se confermata, rimuove uno dei pilastri del [[patterns/index|Pattern 6 (rinforzo esterno)]]. Dan ha già attivato la comunicazione con Fabrizio — da monitorare se Qmates proporrà un sostituto e con quale profilo.
+
+**Aggiornamento confermato (1 lug 2026)**: l'uscita di Gianni è confermata, causata da difficoltà economiche di Qmates. Il 3 luglio si scopre che questa è parte della stessa crisi di liquidità che ha colpito Muffin (i fornitori esterni vengono interrotti nella stessa operazione). Il rinforzo esterno perde uno dei suoi pilastri per una causa economica esogena, non per scelta organizzativa di Muffin. Emerso anche un gap contrattuale: l'accordo Qmates non prevedeva preavviso simmetrico per lo spostamento di persone.

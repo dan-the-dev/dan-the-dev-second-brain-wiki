@@ -2,7 +2,7 @@
 title: Fabrizio (Qmates)
 company: [muffin]
 role: Referente / Account Manager (Qmates)
-updated: 2026-06-14
+updated: 2026-07-03
 tags: [people, muffin, qmates]
 ---
 
@@ -22,3 +22,5 @@ Professionale e diretta. Dan sembra avere un rapporto franco con Fabrizio — qu
 
 ## Note
 Fabrizio è il punto di contatto "di sistema" di Qmates — utile da tenere aggiornato su criticità prima che diventino emergenze. La decisione di Dan di comunicare proattivamente le perplessità su Gianni (prima della decisione finale) è coerente con il suo approccio generale di trasparenza proattiva nelle comunicazioni critiche.
+
+**Aggiornamento (1-3 lug 2026)**: la previsione di Fabrizio si conferma — Gianni lascia Muffin (destinazione Nimega) per difficoltà economiche di Qmates. Il 3 luglio emerge che questa uscita coincide con la crisi di liquidità dello stesso Muffin, che interrompe i fornitori esterni nella stessa operazione con cui riduce le ore ai dipendenti. Punto per il futuro: negli accordi con fornitori esterni, prevedere clausole di preavviso simmetriche (Muffin richiedeva 30 giorni per cambiare un consulente, senza reciprocità).
