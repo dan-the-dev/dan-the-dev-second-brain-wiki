@@ -10,6 +10,7 @@ tags: [job-search, candidatura, 2026]
 ---
 
 # Medicilio — Engineering Lead
+https://www.linkedin.com/jobs/view/4425792951/?trk=eml-email_jobs_viewed_job_reminder_01-job_card-0-jobcard_body_4425792951&refId=4Ew4rIzGQb%2BXPI6bvchBHg%3D%3D&trackingId=SBxTmOFfS4au5Z5Wx9AT1A%3D%3D
 
 ## L'azienda
 
@@ -60,13 +61,27 @@ tags: [job-search, candidatura, 2026]
 
 | Step | Formato | Note |
 |------|---------|-------|
-| ? | ? | Da chiarire |
+| 1 | Video call 30 min | Screening con VP of Engineering (Jörg Stommel) |
+| 2+ | Da definire | — |
 
 ## Colloqui
 
 | Data | Tipo | Interlocutore | Note | Esito |
 |------|------|---------------|------|-------|
-| — | — | — | Candidatura inviata il 30/06, ref 86ca1xejx | ⏳ Attesa |
+| 30/06 | — | — | Candidatura inviata, ref 86ca1xejx | ✅ |
+| **08/07 ore 14:00** | **Video call 30 min** | **Jörg Stommel — VP of Engineering** | Screening iniziale | ⏳ Programmato |
+
+## Domande da fare a Jörg
+
+1. **AI workflow in pratica**: "The JD mentions an artifact-driven, AI-assisted delivery model — how does that actually look day-to-day today, and what's the gap between where you are and where you want to be?"
+
+2. **Struttura del team**: "How many engineers would I be leading in my domain, and how does the Engineering Lead interface with the Head of Engineering on cross-domain technical decisions?"
+
+3. **La sfida più grossa adesso**: "What's the biggest technical or organizational challenge the engineering team is working through right now?"
+
+4. **Impatto del contesto healthcare**: "How does working in a regulated healthcare environment affect your engineering cadence — in terms of compliance, data handling, and pace of shipping?"
+
+5. **Definizione di successo**: "What would make someone in this role clearly successful after the first 6 months?"
 
 ## Fit con Dan
 
