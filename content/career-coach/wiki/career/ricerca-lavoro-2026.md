@@ -54,7 +54,7 @@ tags: [career, job-search, 2026]
 | 13 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 12 |
 | 14 | [[candidature/deel\|Deel]] | Tech Lead Infra | 🔴 Rifiutato | $60-130k | 2026-07-03 | — |
 | 15 | [[candidature/shippypro\|ShippyPro]] | Team Leader, Fulfillment Pod | 🔵 In corso | €52-72k | 2026-07-10 | 🥉 15 |
-| 16 | [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔵 In corso | €52-72k | 2026-07-10 | 🥉 16 |
+| 16 | [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔴 Rifiutato | €52-72k | 2026-07-10 | — |
 
 ---
 

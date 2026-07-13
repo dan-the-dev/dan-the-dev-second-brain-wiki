@@ -2,8 +2,9 @@
 title: Candidatura — Tenth Revolution Group Software Engineering Team Lead
 company: Tenth Revolution Group (azienda anonima)
 role: Software Engineering Team Lead
-status: in-progress
+status: rejected
 applied: 2026-07-10
+rejected: 2026-07-10
 updated: 2026-07-10
 tags: [job-search, candidatura, 2026]
 ---
