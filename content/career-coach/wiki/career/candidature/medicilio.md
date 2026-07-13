@@ -92,7 +92,7 @@ https://www.linkedin.com/jobs/view/4425792951/?trk=eml-email_jobs_viewed_job_rem
 |------|------|---------------|------|-------|
 | 30/06 | — | — | Candidatura inviata, ref 86ca1xejx | ✅ |
 | 08/07 ore 14:00 | Video call 30 min | Jörg Stommel — VP of Engineering | Screening iniziale | ✅ Passato — fit culturale confermato |
-| 14/07 | Technical call 2 ore | Alessio Ferrara — Head of Engineering | Confermato | ⏳ In prep |
+| 14/07 | Technical call 2 ore | Alessio Ferrara — Head of Engineering | Svolta — impressione positiva, andati avanti dopo pausa | ✅ Passato |
 
 ## Note dal colloquio 08/07
 
@@ -192,9 +192,35 @@ Come si interfaccia un Engineering Lead con l'HoE su decisioni che toccano più 
 
 ---
 
+## Note dal colloquio 14/07 — Alessio Ferrara
+
+### Com'è andata
+Complessivamente molto positiva. La call era divisa in due parti:
+- **Prima metà — tecnica**: domande su sistemi distribuiti, microservizi, disaccoppiamento. Pausa intermedia — hanno deciso di continuare, segnale quasi sempre positivo.
+- **Seconda metà — alto livello**: ragionamento su un problema reale del loro sistema. Dan ha centrato i punti descrivendo le soluzioni (outbox pattern, retry, disaccoppiamento) anche senza ricordarsi i nomi esatti. Pochi controbattiti, impressione di feeling positivo.
+
+### Contesto tecnico emerso
+- Hanno microservizi probabilmente non tagliati benissimo — c'è lavoro da fare sulla loro architettura
+- Il tema sync/async non è chiarissimo da come lo ha raccontato Alessio — da approfondire nel prossimo step
+- Dan come Engineering Lead (60/40) non dovrà necessariamente risolverlo da solo — ma dovrà guidare il team in quella direzione
+
+### Cose non ricordate durante la call (da tenere a mente)
+- **Outbox pattern** — descritto correttamente ma senza il nome
+- **Exponential backoff** — spiegato "a pane e salame" ma concetto corretto
+
+### Cose da chiedere nel prossimo step
+- Sede fisica e politica hybrid/remote concreta (non è stato chiesto)
+- Approfondire architettura sync/async — non è chiaro dal racconto di Alessio
+- Struttura del dominio che Dan andrebbe a guidare
+
+### Next steps
+- Jörg torna dalle vacanze dopo il **20 luglio**
+- Alessio vuole confrontarsi con Jörg prima di procedere
+- Si rifaranno vivi dopo il 20
+
 ## Note e impressioni
 
-*(da aggiornare dopo il colloquio del 14/07)*
+Candidatura che Dan sente molto — bella impressione dell'azienda e del team. Al netto di qualche nome tecnico non ricordato sul momento, la call è andata liscia con pochi controbattiti. Da seguire con attenzione dopo il 20/07.
 
 ---
 
