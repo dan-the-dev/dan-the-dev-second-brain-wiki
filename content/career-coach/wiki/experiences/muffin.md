@@ -2,10 +2,10 @@
 title: Muffin — In Progress
 company: muffin
 period: 2024-10-07 → presente
-total_days: 243
+total_days: 244
 stack: [TypeScript, NestJS, React, Next.js, PostgreSQL, Docker, AWS, Hubspot, Mixpanel, Metabase, n8n, Jira, Figma, Cursor]
 status: in-progress-crisis
-last_updated: 2026-07-03
+last_updated: 2026-07-06
 tags: [experience, muffin, in-progress, crisis]
 ---
 
@@ -57,6 +57,7 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 | 2026-07-01 | day 241 | Gianni (Qmates) comunica ufficiosamente che lascerà Muffin per Nimega (difficoltà economiche Qmates, clienti persi). Claudio annulla il 1:1 senza spiegazioni — prima rottura di pattern comunicativo con Dan. Rilasci ok, supporto a Luca/Vanessa su de minimis. |
 | 2026-07-02 | day 242 | Ultima giornata prima della convocazione. Pratiche aziende non registrate finalmente sbloccate. Design system avviato con Luca/Jacopo. [DECISIONE-LEARNING] serve clausola di preavviso simmetrica nei contratti con fornitori esterni. Dan sceglie consapevolmente di non raccogliere informazioni prima dell'annuncio. |
 | 2026-07-03 | day 243 | **Convocazione**: Michele, Claudio, Marta HR comunicano crisi di liquidità — fornitori interrotti da subito, dipendenti invitati a ridurre orario al 50% (50% stipendio) per 2 mesi. [DECISIONE] Dan firma senza dispute (il calcolo NASPI rende la resistenza economicamente svantaggiosa, >€15k di perdita potenziale) ma esplicita la contraddizione con la promessa di 6 mesi prima ("i soldi non erano un problema"). Ricerca lavoro passa da esplorativa ad attiva — candidatura Medicilio già in corso. |
+| 2026-07-06 | day 244 | Primo giorno effettivo con orario ridotto al 50% — "veramente brutto e strano", il taglio diventa reale e non più solo un accordo firmato. Chiacchierata con Luca, stand-up di team, conversazione diretta con Alessia — mood generale basso ("siamo tutti un po' giù"). Claudio (nel dump indicato come "Pier Claudio") percepito da Dan come confuso e come se l'avesse presa male. Sul fronte operativo: Claudio dà indicazioni per la due diligence, primo step del team è valutare feature back office per l'autonomia degli utenti — aggiornamenti attesi mercoledì 8/7. [DECISIONE] Dan anticipa il rilancio di Learn Agile Practices, indipendente dalla situazione Muffin. FantaPic e candidature percepite come "bloccate". |
 
 ## Stack tecnologico
 
@@ -147,11 +148,13 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 | Giu 2026 (day 231–234) | positivo/operativo | Settimana "super super super positiva" nonostante la tensione strategica. Feature invito in prod. Collaborazione con Alessia e Fabio fluida. Call Ancora non positiva — ridimensiona l'urgenza esterna ma non la lascia cadere. |
 | Giu 2026 (day 235–238) | misto/positivo | Ancora chiusa definitivamente (senza rimpianti). Design sbloccato mercoledì — soddisfazione operativa. Frustrazione crescente su Jacopo ("è tutto gusto"). Giornata formazione + Fantapic il venerdì — energia positiva fuori da Muffin. Banner "progetti senza clienti" quasi completi, showcase pronto per lunedì. |
 | Giu–Lug 2026 (day 239–243) | in caduta / crisi | Settimana che parte bene (Metabase deciso fuori, tech catchup solido) e precipita: convocazione annunciata (30/6), uscita Gianni + rottura pattern Claudio (1/7), pratiche sbloccate ma clima pesante (2/7), crisi di liquidità e riduzione ore al 50% comunicata il 3/7. Dan "giù", team "giù". Chiusura: lucidità pratica (firma senza dispute, calcolo NASPI) e attivazione immediata della ricerca lavoro. |
+| Lug 2026 (day 244) | basso | Primo giorno reale di orario ridotto al 50% — "veramente brutto e strano", il taglio smette di essere astratto. Mood diffuso basso nel team. Operativamente si va avanti (due diligence, back office autonomia utenti). Segnale positivo isolato: Dan decide di anticipare il rilancio dei contenuti Learn Agile Practices, energia indirizzata fuori da Muffin. |
 
 ## Note per il futuro
 
 - **[AGGIORNATO] "Scossone" — verdetto**: la call con Michele (day 230) anticipava correttamente un evento organizzativo grave, ma l'interpretazione di Dan (uscita di Luca) era parzialmente sbagliata — la vera causa era una crisi di liquidità aziendale, con riduzione ore per tutti e interruzione fornitori (incluso Gianni/Qmates). Luca resta in azienda, almeno per ora, ma il suo destino individuale è oscurato dalla crisi più ampia. Lezione: i segnali organizzativi deboli (HR presente, linguaggio formale, no sessioni individuali) erano corretti, ma Dan li ha interpretati attraverso la narrativa più familiare (i problemi con Luca) invece di considerare un ventaglio più ampio di cause.
-- **Ricerca lavoro: da esplorativa ad attiva (dal 3/7/2026)** — priorità numero uno adesso. Tracciata separatamente in `wiki/career/ricerca-lavoro-2026.md` (candidatura Medicilio già in corso). Il capitolo Muffin non è chiuso, ma la permanenza è ora condizionata dalla ricerca economica del datore di lavoro, non dalla soddisfazione professionale di Dan.
+- **Ricerca lavoro: da esplorativa ad attiva (dal 3/7/2026)** — priorità numero uno adesso. Tracciata separatamente in `wiki/career/ricerca-lavoro-2026.md` (candidatura Medicilio già in corso; il 10/7 inviate anche Tenth Revolution Group — Software Engineering Team Lead e ShippyPro — Team Leader Fulfillment Pod, entrambe Tier 3). Il capitolo Muffin non è chiuso, ma la permanenza è ora condizionata dalla ricerca economica del datore di lavoro, non dalla soddisfazione professionale di Dan.
+- **FantaPic e candidature percepiti come "bloccati" (6/7/2026)** — nonostante l'attivazione della ricerca, il day 244 registra un senso di stallo personale su entrambi i fronti. Da monitorare se è un blocco temporaneo (mood da primo giorno di orario ridotto) o un segnale più strutturale.
 - **La promessa tradita**: 6 mesi fa (~gennaio 2026), di fronte alla scelta se restare o esplorare altrove, a Dan era stato garantito che "i soldi non erano un problema". Cinque mesi dopo: riduzione al 50%. Dato da tenere presente per valutare la credibilità di futuri impegni verbali, a Muffin e altrove.
 - **Visione refactor piattaforma**: la visione NotebookLM-inspired esplora un AI-repo nuovo con pratiche XP amplificate. Con la crisi di liquidità in corso, la fattibilità di questo progetto a lungo termine è in forte dubbio.
 - **Revenue Cat** (day 200, 2026-03-13) e **Ancora** (day 229-236): entrambi capitoli chiusi. Segnali di mercato pre-crisi, utili come base per la ricerca ora attiva.

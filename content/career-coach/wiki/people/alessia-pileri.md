@@ -3,7 +3,7 @@ title: Alessia Pileri
 role: Software Engineer
 company: muffin
 manager: Daniele Scillia
-updated: 2026-06-18
+updated: 2026-07-06
 tags: [people, muffin, direct-report]
 ---
 
@@ -101,3 +101,5 @@ Interesse a crescere sulla parte infrastrutturale, anche in ottica di collaboraz
 Alessia è una figura su cui vale la pena investire. Il profilo ha le caratteristiche per crescere verso un ruolo da Tech Lead: proattività, capacità di lavorare in autonomia, buona ricezione del feedback, autoconsapevolezza. Il principale ostacolo non è tecnico ma di sicurezza nelle decisioni — che si risolve con esposizione graduale e mentoring esplicito, non con delega passiva.
 
 Dan la considera un elemento chiave del team, tanto che la linea rossa esplicita in caso di scossoni organizzativi è: *"se tocca Alessia è guerra vera"* (dump 12/06).
+
+**Aggiornamento (6 lug 2026, day 244)**: primo giorno di orario ridotto al 50% per tutta l'azienda (Alessia inclusa, per estensione — non specificato esplicitamente nel raw se coinvolta 1:1 sulla stessa riduzione). Dan ha una conversazione diretta con lei nella giornata (contenuto non dettagliato). Da verificare in una prossima 1to1 come sta vivendo la riduzione oraria, dato il suo ruolo di prima assunzione diretta e persona su cui Dan ha investito di più.

@@ -3,7 +3,7 @@ title: Ricerca Lavoro 2026
 started: 2026-07-03
 status: active
 urgency: high
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [career, job-search, 2026]
 ---
 
@@ -34,7 +34,7 @@ tags: [career, job-search, 2026]
 |---|---------|-------|-------|-----|------|------|
 | 1 | [[candidature/tonsser\|Tonsser]] | Lead Backend Engineer | 🔵 In corso | n.d. (freelance→perm) | 2026-07-03 | 🥇 1 |
 | 2 | [[candidature/pakira-love-it-baby\|Love It Baby]] | Founding Engineer | 🔵 In corso | equity 1.5-3% + cash n.d. | 2026-07-03 | 🥈 ⚡ |
-| 2 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🟢 Colloquio 08/07 | €55-85k | 2026-06-30 | 🥇 2 |
+| 2 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🟢 Step 1 ✅ → Technical call TBD | €55-85k | 2026-06-30 | 🥇 2 |
 | 2 | [[candidature/weroad\|WeRoad]] | Head of Product Engineering | 🔵 In corso | €90-110k+bonus | 2026-07-03 | 🥇 2 |
 | 3 | [[candidature/exein\|Exein]] | Head of Engineering | 🔵 In corso | €120-150k | 2026-07-03 | 🥇 3 |
 | 4 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | €65-80k+bonus | 2026-07-03 | 🥈 4 |
@@ -47,12 +47,14 @@ tags: [career, job-search, 2026]
 | 11 | [[candidature/mollie\|Mollie]] | Engineering Manager | 🟡 Pre-apply (attesa referral) | n.d. | — | 🥈 4* |
 | 16 | [[candidature/mimica\|Mimica]] | Head of Engineering | 🔵 In corso | n.d. (generous + stock) | 2026-07-03 | 🥈 stretch |
 | 17 | [[candidature/truelayer\|TrueLayer]] | Senior Software Engineer | 🔵 In corso | €65-79k + equity | 2026-07-03 | 🥈 8 |
-| 18 | Shopfully | Senior Backend SWE | 🔵 In corso (aspettativa €75k dichiarata) | €50-65k (range) | 2026-07-05 | 🥉 — |
+| 18 | Shopfully | Senior Backend SWE | 🔴 Rifiutato | €50-65k (range) | 2026-07-05 | — |
 | 19 | Docebo | Senior Product Engineer II | 🔵 In corso (€75k target + referral) | €54-70k (range) | 2026-07-05 | 🥉 — |
 | 12 | [[candidature/safi\|Safi]] | Staff SWE / Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥈 7 |
 | 13 | [[candidature/kalepa\|Kalepa]] | Software Engineer | 🔵 In corso | n.d. | 2026-07-03 | 🥉 15 |
 | 13 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 | 🥉 12 |
-| 14 | [[candidature/deel\|Deel]] | Tech Lead Infra | 🔵 In corso | $60-130k | 2026-07-03 | 🥉 13 |
+| 14 | [[candidature/deel\|Deel]] | Tech Lead Infra | 🔴 Rifiutato | $60-130k | 2026-07-03 | — |
+| 15 | [[candidature/shippypro\|ShippyPro]] | Team Leader, Fulfillment Pod | 🔵 In corso | €52-72k | 2026-07-10 | 🥉 15 |
+| 16 | [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔵 In corso | €52-72k | 2026-07-10 | 🥉 16 |
 
 ---
 

@@ -2,7 +2,7 @@
 title: Luca Sabena
 company: [muffin]
 role: Product Manager
-updated: 2026-07-03
+updated: 2026-07-06
 tags: [people, muffin]
 ---
 
@@ -37,3 +37,5 @@ Luca è il personaggio relazionale più complesso dell'esperienza Muffin — pi�
 **⚠️ Aggiornamento critico (giu 2026)**: la posizione di Luca è a rischio. Michele ha comunicato a Dan che c'è uno "scossone" in arrivo e ha espresso insoddisfazione diretta su Luca. Da monitorare se e quando avviene il cambio, e come Dan gestirà il ruolo post-transizione (più responsabilità di PM ad interim? Nuova figura?)
 
 **Aggiornamento (3 lug 2026) — ipotesi da rivedere**: la convocazione del 3 luglio ha rivelato una crisi di liquidità aziendale, non (necessariamente) l'uscita di Luca. L'ipotesi di Dan sull'uscita imminente di Luca era un'interpretazione plausibile ma non confermata dai fatti — un caso di lettura corretta dei segnali deboli ma con conclusione specifica probabilmente errata (→ [[patterns/index|Pattern 8]]). Lo status di Luca resta quindi da chiarire: potrebbe essere ancora a rischio nel medio periodo (Michele resta insoddisfatto), oppure la crisi economica ridefinisce le priorità dell'azienda in modo da rendere la sua posizione meno centrale nel breve periodo.
+
+**Aggiornamento (6 lug 2026, day 244)**: primo giorno di orario ridotto al 50%. Chiacchierata con Dan nella giornata (contenuto non dettagliato nel raw) prima dello stand-up di team. Nessun nuovo elemento sullo status della sua posizione — il quadro resta quello aperto post-convocazione.

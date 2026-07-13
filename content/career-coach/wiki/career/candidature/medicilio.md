@@ -5,7 +5,7 @@ role: Engineering Lead
 status: in-progress
 applied: 2026-06-30
 ref: 86ca1xejx
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -61,15 +61,78 @@ https://www.linkedin.com/jobs/view/4425792951/?trk=eml-email_jobs_viewed_job_rem
 
 | Step | Formato | Note |
 |------|---------|-------|
-| 1 | Video call 30 min | Screening con VP of Engineering (Jörg Stommel) |
-| 2+ | Da definire | — |
+| 1 | Video call 30 min | Screening con Jörg Stommel (VP of Engineering) ✅ |
+| 2 | Technical call 2 ore | Lunedì — con Alessio Ferrara (Head of Engineering) |
+
+## Preparazione colloquio tecnico (weekend 12-13/07)
+
+**Interlocutore**: [Alessio Ferrara](https://www.linkedin.com/in/ale-ferrara/) — Head of Engineering
+- Background: Nexi Digital (Java/Spring, 1 anno) → Medicilio Software Engineer → Senior → HoE (2 anni 10 mesi totali)
+- Percorso molto rapido all'interno di Medicilio — forte tecnicamente sullo stack interno (Python/GCP)
+- Probabile focus sulla profondità tecnica, meno sulla filosofia di leadership
+
+**Piano weekend**
+
+*Sabato*
+- Mattina (2h): Python quickstart — list comprehensions, decorators, context managers, type hints, classi
+- Pomeriggio (3h): Django + DRF — setup, models, serializers, views, urls, CRUD funzionante
+
+*Domenica*
+- Build progetto realistico: **Patient Monitoring API**
+  - Models: `Patient`, `Measurement` (tipo, valore, timestamp)
+  - `POST /measurements/` — registra misurazione
+  - `GET /patients/{id}/measurements/` — lista con flag `warning` su threshold
+  - Test con `pytest-django`
+- AI-assisted workflow: CLAUDE.md con regole progetto, Claude Code per scaffolding, Dan approva ogni step
+- Obiettivo: poter dire "ho costruito questa mini API Django nel weekend" con codice da mostrare
 
 ## Colloqui
 
 | Data | Tipo | Interlocutore | Note | Esito |
 |------|------|---------------|------|-------|
 | 30/06 | — | — | Candidatura inviata, ref 86ca1xejx | ✅ |
-| **08/07 ore 14:00** | **Video call 30 min** | **Jörg Stommel — VP of Engineering** | Screening iniziale | ⏳ Programmato |
+| 08/07 ore 14:00 | Video call 30 min | Jörg Stommel — VP of Engineering | Screening iniziale | ✅ Passato — fit culturale confermato |
+| 14/07 | Technical call 2 ore | Alessio Ferrara — Head of Engineering | Confermato | ⏳ In prep |
+
+## Note dal colloquio 08/07
+
+### Prodotti Medicilio
+- **Prodotto 1 — Radiologia digitale**: paziente fa la lastra → immagine sincronizzata sul cloud → medico scrive report → inviato al paziente senza andare in ospedale
+- **Prodotto 2 — Remote Patient Monitoring** (introdotto 2.5 anni fa): post-chirurgia, il medico aggiunge il paziente alla piattaforma con il pathway (misurazioni, giorni), Medicilio spedisce i device + tablet al paziente, setup assistito, misurazioni streamed live, il medico riceve notifiche su trend/escalation/threshold
+
+### Scala e crescita
+- Pazienti attuali: ~300
+- In arrivo: **10.000-15.000 pazienti** — won a government tender da 100-150M insieme ad altri ospedali
+- Team engineering attuale: **8 persone** → target: **16**
+- Il tender è il momento di scala — da qui la necessità di dividere in sub-team (struttura che non c'è ancora) e di assumere Engineering Lead
+
+### Artifact-driven model (Jörg's words)
+L'intero product lifecycle è strutturato in step con artifact immutabili:
+- Requirements gathering → PRD → design/prototyping → planning tecnico → PR review → QA → deployment → reconciliation → data gathering (loop)
+- Ogni step ha un artifact chiaro, immutabile, allegato al ticket o codebase
+- Gli umani firmano ogni step (accountability + traceability)
+
+**Tre tier**:
+- **Tier 1**: development completamente autonomo (AI crea PR, AI PR agent verifica contro standard, AI fixup, engineer firma alla fine)
+- **Tier 2**: developer-driven con AI assistance
+- **Tier 3**: green field con scaffold AI su standard esistenti
+
+**Punto chiave di Jörg**: "If you have a good code base, AI amplifies it x100. If you have a shitty code base, it amplifies the shitty code base x100." → loro hanno buona architettura, design patterns, standard → posizione ottimale per sfruttare l'AI.
+
+### Ruolo cercato
+- Engineering Lead che abbraccia questo approccio E contribuisce a migliorarlo
+- Separato: stanno cercando anche un "AI enablement engineer" dedicato a rollout per tutta l'azienda (non solo engineering)
+
+### Contesto azienda
+- Azienda italiana, mercato italiano
+- Full remote (nata remote-first)
+- Ufficio nuovo a Milano — vogliono persone che ci vengano con regolarità, non ogni giorno
+- Jörg parla in inglese — dinamiche internazionali nonostante mercato IT
+
+### Dan nel colloquio
+- Framing dell'uscita da Muffin: "messy situation, company trying to understand direction, values might change" — onesto, non allarmante ✅
+- Buon fit culturale confermato da Jörg
+- Connessione su XP, pair programming, 1:1s, growth ladder
 
 ## Domande da fare a Jörg
 
@@ -99,9 +162,39 @@ https://www.linkedin.com/jobs/view/4425792951/?trk=eml-email_jobs_viewed_job_rem
 - Python/Django/FastAPI: ⚠️ da valutare profondità background backend Python
 - Healthcare/regulated environments: ⚠️ nessuna esperienza diretta (è nice-to-have)
 
+## Temi da preparare — Technical call 14/07
+
+Temi ad alto livello da cui ci si aspettano domande, basati sulla JD e sul contesto Medicilio.
+
+### 1. Stack Python e profondità tecnica
+Alessio viene da Java/Spring, conosce bene lo stack interno. Si aspetta che Dan sappia orientarsi su Python/Django/FastAPI anche senza anni di esperienza — e che sia onesto sulla lacuna. Il tema non è "sai Python?" ma "come ti muovi quando devi imparare uno stack nuovo?"
+
+### 2. System design feature-driven
+Non modellare i dati upfront. Partire dagli scenari utente (medico, paziente, pathway), costruire la slice più sottile che funziona end-to-end, lasciare emergere il modello. Il sistema di patient monitoring è il caso d'uso centrale — threshold, notifiche, scalabilità da 300 a 15K pazienti.
+
+### 3. Testing e qualità del codice
+Come garantisci la qualità in un contesto healthcare dove un bug può avere conseguenze reali? TDD come approccio, acceptance test che descrivono il comportamento atteso, CI che blocca le regressioni. Il collegamento tra qualità tecnica e sicurezza del paziente è il frame giusto.
+
+### 4. AI-assisted workflow e artifact-driven model
+Come funziona concretamente il workflow AI-assisted che Dan usa? Come si collega al modello a 3 tier di Medicilio? Punto di forza — prepararsi a descriverlo in modo specifico, non astratto. CLAUDE.md, contesto di dominio fornito all'AI, PR review assistita, approvazione umana su ogni step.
+
+### 5. Scalabilità organizzativa — team da 8 a 16
+Come si struttura un team che raddoppia? Come si introduce la figura dell'Engineering Lead senza rompere quello che già funziona? Come si preserva la cultura tecnica mentre si scala? Questo è il problema reale che Medicilio sta cercando di risolvere assumendo questa figura.
+
+### 6. Leadership tecnica e people management
+Come si conduce una 1:1 strutturata? Come si valuta la crescita di un engineer? Come si gestisce il technical bar in un dominio? Non aspettarsi domande filosofiche — Alessio è giovane e pragmatico, probabilmente chiede esempi concreti.
+
+### 7. Contesto healthcare e dati sensibili
+Nessuna esperienza diretta richiesta, ma aspettarsi domande su come si ragiona in un ambiente regolamentato: audit trail, data integrity, chi può accedere a cosa, implicazioni di un bug su dati medici. Frame: cautela ingegneristica, non burocrazia.
+
+### 8. Ownership e decisioni cross-dominio
+Come si interfaccia un Engineering Lead con l'HoE su decisioni che toccano più domini? Come si porta una proposta tecnica senza aspettare il permesso per ogni cosa? Il rapporto con Alessio stesso è il caso d'uso — utile riflettere su come lo immagina Dan.
+
+---
+
 ## Note e impressioni
 
-*(da aggiornare dopo i colloqui)*
+*(da aggiornare dopo il colloquio del 14/07)*
 
 ---
 

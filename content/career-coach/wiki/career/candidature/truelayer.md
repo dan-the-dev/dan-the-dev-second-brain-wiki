@@ -4,7 +4,7 @@ company: TrueLayer
 role: Senior Software Engineer
 status: in-progress
 applied: 2026-07-05
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -75,7 +75,13 @@ tags: [job-search, candidatura, 2026]
 - IC role, no leadership formale
 - Fintech/payments: dominio nuovo per Dan (ma Casavo aveva payment flows)
 
+**Nice-to-haves dalla JD**: protocol buffers / gRPC, message queues, AWS + Terraform, open source involvement.
+
 **Conclusione**: RAL giusta, location perfetta, company solida — vale la candidatura nonostante il gap su Rust/.NET. Nel peggiore dei casi si fallisce il take-home. "Training available" è un'apertura da sfruttare in lettera.
+
+## Note
+- ✅ Candidatura inviata 05/07/2026
+- JD republished 10/07 — candidatura già attiva, nessuna azione necessaria. Follow-up possibile dopo 2-3 settimane senza risposta.
 
 ---
 [[../ricerca-lavoro-2026|← Ricerca Lavoro 2026]]

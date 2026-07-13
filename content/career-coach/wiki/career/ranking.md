@@ -6,7 +6,7 @@ tags: [job-search, ranking, 2026]
 
 # 🏆 Ranking Candidature — Ricerca Lavoro 2026
 
-Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit tecnico, livello del ruolo, compensazione, stabilità, location.
+Ranking aggiornato al 10/07/2026 (15 candidature). Criteri: fit culturale, fit tecnico, livello del ruolo, compensazione, stabilità, location.
 
 ---
 
@@ -152,6 +152,19 @@ Ranking aggiornato al 03/07/2026 (13 candidature). Criteri: fit culturale, fit t
 ### 13. [[candidature/deel|Deel]] — Tech Lead Infra
 **Problema**: Ruolo infra puro (Kubernetes mastery, 5+ anni infra). Dan è un product/application engineer. Go richiesto. Nessuna responsabilità sulle persone. Mismatch tecnico più importante del pool.
 `RAL $60-130k · Remote · Tech Lead Infra (no mgmt) · ✅ Applicato`
+
+---
+
+### 15. [[candidature/shippypro|ShippyPro]] — Team Leader, Fulfillment Pod
+**Perché**: Migliore del Tier 3. Azienda nominata ($15M Series B), cultura "lead by doing", riporto diretto al COO, AI con Anthropic nel stack. Processo trasparente.
+**Problema**: RAL cap €72k borderline. PHP nel stack. Dominio logistica/shipping neutro. Live coding challenge nel processo.
+`RAL €52-72k · Remote-first · Team Lead · ✅ Applicato 10/07`
+
+---
+
+### 16. [[candidature/tenth-revolution|Tenth Revolution Group]] — Software Engineering Team Lead
+**Problema**: Azienda finale anonima — red flag principale. Stessa RAL di ShippyPro (€52-72k), stesso stack, stesso dominio (logistica). Meno interessante di ShippyPro su tutti i fronti.
+`RAL €52-72k · Remote · Team Lead · ✅ Applicato 10/07`
 
 ---
 

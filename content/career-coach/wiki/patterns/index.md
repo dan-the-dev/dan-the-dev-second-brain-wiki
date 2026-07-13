@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [patterns, index]
 ---
 
@@ -63,6 +63,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Muffin — aggiornamento 3 luglio 2026 (day 243)**: il pattern si manifesta nella sua forma più forte finora — ma con una variante strutturale. Non è un'offerta esterna a innescare la decisione: è una **crisi interna dell'azienda** (problemi di liquidità, riduzione ore al 50% per 2 mesi, interruzione dei fornitori esterni tra cui Gianni/Qmates) comunicata in convocazione formale il 3 luglio. A differenza di Casavo/Mymenu/Tour Radar, qui l'evento non conferma un'insoddisfazione già latente verso l'azienda — solo due settimane prima Dan viveva una fase "super super super positiva". L'evento esterno stavolta *crea* l'urgenza ex novo più che rivelarla: la ricerca lavoro passa da "esplorativa" (Revenue Cat, Ancora) ad "attiva" nel giro di una singola giornata. Elemento aggravante: una promessa esplicita ricevuta ~6 mesi prima ("i soldi non sono un problema") si è rivelata falsa — la rottura di fiducia pesa quanto la pressione economica in sé.
 
 **Insight**: gli eventi traumatici o le offerte esterne non *creano* sempre il desiderio di cambiare — a volte lo *rivelano* e lo *accelerano* (Casavo, Mymenu, Tour Radar), altre volte lo generano da zero a partire da un contesto che Dan viveva positivamente (Muffin, luglio 2026). Riconoscere prima i segnali di insoddisfazione latente resta utile, ma il caso Muffin mostra che anche una situazione soddisfacente può essere interrotta da fattori esterni alla relazione personale di Dan con l'azienda — la salute finanziaria del datore di lavoro è una variabile da valutare esplicitamente nella scelta di un'azienda (dimensione, runway, dipendenza da pochi clienti), non solo cultura e ruolo. Aggiunta dal 2026: non tutti gli eventi esterni sono il segnale giusto — la qualità dell'opportunità conta quanto la presenza di un'opportunità.
+
+**Muffin — aggiornamento settimana 6-10 luglio 2026**: il primo giorno di orario ridotto reale (6/7, day 244) porta un calo di mood diffuso nel team ("siamo tutti un po' giù"), ma la ricerca lavoro attiva prosegue concretamente: il 10/7 vengono inviate due nuove candidature (Tenth Revolution Group — Software Engineering Team Lead; ShippyPro — Team Leader Fulfillment Pod), entrambe classificate Tier 3. Segnale che la fase "attiva" della ricerca, aperta il 3/7, si sta traducendo in azioni concrete e non solo in intenzione — coerente con il pattern storico di Dan (Casavo, Mymenu, Tour Radar) di muoversi con decisione una volta rotta l'inerzia iniziale.
 
 ---
 

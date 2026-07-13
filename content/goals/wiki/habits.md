@@ -1,12 +1,12 @@
 ---
 title: Abitudini attive
-updated: 2026-07-05
+updated: 2026-07-12
 tags: [habits, wiki]
 ---
 
 # Abitudini attive
 
-> Ultimo check-in: W27 (5 luglio 2026) — prima settimana reale di H2 (partita 1° luglio), ma senza dati journal (cartella non montata nella sessione automatizzata). Streak non aggiornabili, restano a 0.
+> Ultimo check-in: W28 (12 luglio 2026) — quinto check-in consecutivo (W24–W28) senza dati journal (cartella `career-coach/raw/journal/4-muffin/` mai montata nella sessione automatizzata). Streak non aggiornabili, restano a 0. Serve intervento manuale per collegare la cartella.
 
 ## 🧠 Professionale
 | Abitudine | Goal collegato | Frequenza | Status | Streak |
