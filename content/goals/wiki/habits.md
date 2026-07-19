@@ -1,12 +1,12 @@
 ---
 title: Abitudini attive
-updated: 2026-07-12
+updated: 2026-07-19
 tags: [habits, wiki]
 ---
 
 # Abitudini attive
 
-> Ultimo check-in: W28 (12 luglio 2026) — quinto check-in consecutivo (W24–W28) senza dati journal (cartella `career-coach/raw/journal/4-muffin/` mai montata nella sessione automatizzata). Streak non aggiornabili, restano a 0. Serve intervento manuale per collegare la cartella.
+> Ultimo check-in: W29 (19 luglio 2026) — sesto check-in consecutivo (W24–W29) senza dati journal (cartella `career-coach/raw/journal/4-muffin/` mai montata nella sessione automatizzata). Streak non aggiornabili, restano a 0. Serve intervento manuale per collegare la cartella.
 
 ## 🧠 Professionale
 | Abitudine | Goal collegato | Frequenza | Status | Streak |
