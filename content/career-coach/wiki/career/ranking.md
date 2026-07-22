@@ -100,7 +100,14 @@ Ranking aggiornato al 22/07/2026 (18 candidature). Criteri: fit culturale, fit t
 
 ---
 
-### 7. [[candidature/smartness|Smartness]] — Fullstack Team Leader
+### 7. [[candidature/lago|Lago]] — Product Engineer
+**Perché**: RAL €70-100k è tra le più alte del pool in euro. Lago è un progetto OSS serio con clienti Mistral AI, PayPal, Groq. Il ruolo Product Engineer con ownership end-to-end (requisiti → sviluppo → produzione) è XP in pratica. AI tools daily = differenziatore di Dan. React/TypeScript ✅. Contributo open source pubblico visibile.
+**Rischio**: Ruby on Rails — gap tecnico principale, stesso pattern di Python/Medicilio. IC puro, nessuna leadership formale. Billing/metering è dominio nuovo.
+`RAL €70-100k · Remote · IC Product Engineer · ✅ Applicato 22/07`
+
+---
+
+### 8. [[candidature/smartness|Smartness]] — Fullstack Team Leader
 **Perché**: Fit tecnico tra i più alti del pool — PHP + Laravel è lo stack storico primario di Dan (Mymenu era Laravel, Fantapick è in Laravel attivo). Ruolo Team Leader hands-on che centra perfettamente i 10+ anni e i 3-5 anni TL richiesti. Node.js significant plus che Dan ha. AI adoption come requisito esplicito — differenziatore principale di Dan. Equity inclusa. 4k clienti in 40 paesi = scala reale. Remote.
 **Rischio**: ⚠️ Cultura hustle — "work much harder than most" + stress menzionato esplicitamente + disclaimer "we may need to part ways" nella JD. Da sondare in colloquio. RAL cap €75k è il tetto, non il medio.
 `RAL €45-75k + equity · Remote · Team Leader · ✅ Applicato 22/07`

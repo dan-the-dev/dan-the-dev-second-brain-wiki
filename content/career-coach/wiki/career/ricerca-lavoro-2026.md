@@ -57,6 +57,7 @@ tags: [career, job-search, 2026]
 | 16 | [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔴 Rifiutato | €52-72k | 2026-07-10 | — |
 | 17 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ (Zone 3) | 2026-07-14 | 🥇 ⭐ |
 | 18 | [[candidature/smartness\|Smartness]] | Fullstack Team Leader - PHP & Node.js | 🔵 In corso | €45-75k + equity | 2026-07-22 | 🥈 ⭐ |
+| 19 | [[candidature/lago\|Lago]] | Product Engineer | 🔵 In corso | €70-100k | 2026-07-22 | 🥈 ⭐ |
 
 ---
 
