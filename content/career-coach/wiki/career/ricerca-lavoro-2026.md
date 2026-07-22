@@ -56,6 +56,7 @@ tags: [career, job-search, 2026]
 | 15 | [[candidature/shippypro\|ShippyPro]] | Team Leader, Fulfillment Pod | 🔵 In corso | €52-72k | 2026-07-10 | 🥉 15 |
 | 16 | [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔴 Rifiutato | €52-72k | 2026-07-10 | — |
 | 17 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ (Zone 3) | 2026-07-14 | 🥇 ⭐ |
+| 18 | [[candidature/smartness\|Smartness]] | Fullstack Team Leader - PHP & Node.js | 🔵 In corso | €45-75k + equity | 2026-07-22 | 🥈 ⭐ |
 
 ---
 

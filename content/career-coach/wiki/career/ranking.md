@@ -6,7 +6,7 @@ tags: [job-search, ranking, 2026]
 
 # 🏆 Ranking Candidature — Ricerca Lavoro 2026
 
-Ranking aggiornato al 10/07/2026 (15 candidature). Criteri: fit culturale, fit tecnico, livello del ruolo, compensazione, stabilità, location.
+Ranking aggiornato al 22/07/2026 (18 candidature). Criteri: fit culturale, fit tecnico, livello del ruolo, compensazione, stabilità, location.
 
 ---
 
@@ -100,7 +100,14 @@ Ranking aggiornato al 10/07/2026 (15 candidature). Criteri: fit culturale, fit t
 
 ---
 
-### 7. [[candidature/alfadocs|AlfaDocs]] — Senior Full Stack/Backend Engineer
+### 7. [[candidature/smartness|Smartness]] — Fullstack Team Leader
+**Perché**: Fit tecnico tra i più alti del pool — PHP + Laravel è lo stack storico primario di Dan (Mymenu era Laravel, Fantapick è in Laravel attivo). Ruolo Team Leader hands-on che centra perfettamente i 10+ anni e i 3-5 anni TL richiesti. Node.js significant plus che Dan ha. AI adoption come requisito esplicito — differenziatore principale di Dan. Equity inclusa. 4k clienti in 40 paesi = scala reale. Remote.
+**Rischio**: ⚠️ Cultura hustle — "work much harder than most" + stress menzionato esplicitamente + disclaimer "we may need to part ways" nella JD. Da sondare in colloquio. RAL cap €75k è il tetto, non il medio.
+`RAL €45-75k + equity · Remote · Team Leader · ✅ Applicato 22/07`
+
+---
+
+### 8. [[candidature/alfadocs|AlfaDocs]] — Senior Full Stack/Backend Engineer
 **Perché**: PHP è il linguaggio più forte di Dan — raramente richiesto a questo livello. Healthcare (settore già incontrato). Remote. Mentoring del team. DDD richiesto (pattern che Dan conosce bene).
 **Rischio**: Contratto fixed-term 1 anno (da valutare in un momento instabile). RAL €60-70k bassa. IC, non leadership formale.
 `RAL €60-70k · Remote EU · IC Senior · ✅ Applicato`
