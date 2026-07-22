@@ -220,9 +220,30 @@ Complessivamente molto positiva. La call era divisa in due parti:
 - Alessio vuole confrontarsi con Jörg prima di procedere
 - Si rifaranno vivi dopo il 20
 
+## Scambio post-rifiuto
+
+### Email di rifiuto — Jörg (22/07)
+Rifiuto gentile dopo "careful consideration". Nessun dettaglio sulla motivazione.
+
+### Risposta di Dan a Jörg
+Ringraziamento, dispiacere genuino (era la prima scelta), richiesta di feedback, porta aperta per il futuro.
+
+### Feedback di Alessio (risposta personale)
+> "The decision wasn't about technical ability. Your knowledge and hands-on experience with the stack came through clearly, and on depth alone you were genuinely strong."
+
+Motivazione del rifiuto: mancanza di segnale sulla dimensione **facilitazione e apertura** — cercavano qualcuno che "actively draws out and champions other people's ideas, stays open when their own approach gets challenged, and facilitates decisions across functions rather than driving toward a preferred solution."
+
+> "We saw a lot of conviction in your own thinking, which is a real asset in many contexts, but we didn't get as much signal on that facilitation-and-openness dimension as the role demands."
+
+### Risposta di Dan ad Alessio
+Accettato il feedback con rispetto. Sottolineato che facilitazione, apertura e crescita del team sono valori fondanti di XP (collective ownership, pair programming, feedback, respect) — non qualcosa di aggiunto, ma il modo in cui Dan lavora ogni giorno. Espresso stupore genuino che questo non sia emerso. Ribadita la porta aperta per future occasioni.
+
+### Riflessione
+Feedback da portare nei prossimi colloqui: la conviction può oscurare il listening anche quando il listening c'è. Mostrare esplicitamente comportamenti di facilitazione — fare domande, lasciare spazio, non arrivare con la soluzione già pronta.
+
 ## Note e impressioni
 
-Candidatura che Dan sente molto — bella impressione dell'azienda e del team. Al netto di qualche nome tecnico non ricordato sul momento, la call è andata liscia con pochi controbattiti. Da seguire con attenzione dopo il 20/07.
+Candidatura più sentita del pool. Fit culturale e tecnico reale. Rifiuto inaspettato — motivazione sulla dimensione facilitazione contrasta con il background XP e con i feedback ricevuti in passato. Porta lasciata aperta da entrambe le parti.
 
 ---
 
