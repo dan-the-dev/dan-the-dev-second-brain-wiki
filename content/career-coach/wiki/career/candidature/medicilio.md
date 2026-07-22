@@ -2,10 +2,11 @@
 title: Candidatura — Medicilio Engineering Lead
 company: Medicilio
 role: Engineering Lead
-status: in-progress
+status: rejected
 applied: 2026-06-30
 ref: 86ca1xejx
-updated: 2026-07-10
+updated: 2026-07-22
+rejected: 2026-07-22
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -93,6 +94,7 @@ https://www.linkedin.com/jobs/view/4425792951/?trk=eml-email_jobs_viewed_job_rem
 | 30/06 | — | — | Candidatura inviata, ref 86ca1xejx | ✅ |
 | 08/07 ore 14:00 | Video call 30 min | Jörg Stommel — VP of Engineering | Screening iniziale | ✅ Passato — fit culturale confermato |
 | 14/07 | Technical call 2 ore | Alessio Ferrara — Head of Engineering | Svolta — impressione positiva, andati avanti dopo pausa | ✅ Passato |
+| 22/07 | — | Jörg Stommel | Rifiuto via email — "after careful consideration" | 🔴 Rifiutato |
 
 ## Note dal colloquio 08/07
 

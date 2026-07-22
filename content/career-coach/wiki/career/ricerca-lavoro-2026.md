@@ -34,7 +34,7 @@ tags: [career, job-search, 2026]
 |---|---------|-------|-------|-----|------|------|
 | 1 | [[candidature/tonsser\|Tonsser]] | Lead Backend Engineer | 🔵 In corso | n.d. (freelance→perm) | 2026-07-03 | 🥇 1 |
 | 2 | [[candidature/pakira-love-it-baby\|Love It Baby]] | Founding Engineer | 🔵 In corso | equity 1.5-3% + cash n.d. | 2026-07-03 | 🥈 ⚡ |
-| 2 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🟢 Step 2 ✅ → attesa Jörg (rientro 20/07) | €55-85k | 2026-06-30 | 🥇 2 |
+| 2 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔴 Rifiutato (22/07) | €55-85k | 2026-06-30 | — |
 | 2 | [[candidature/weroad\|WeRoad]] | Head of Product Engineering | 🔵 In corso | €90-110k+bonus | 2026-07-03 | 🥇 2 |
 | 3 | [[candidature/exein\|Exein]] | Head of Engineering | 🔵 In corso | €120-150k | 2026-07-03 | 🥇 3 |
 | 4 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | €65-80k+bonus | 2026-07-03 | 🥈 4 |
