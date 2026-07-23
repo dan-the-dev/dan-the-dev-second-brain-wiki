@@ -61,7 +61,10 @@ https://www.linkedin.com/jobs/...
 
 ## Processo di selezione
 
-*(da verificare)*
+| Step | Stato | Data |
+|------|-------|------|
+| TestGorilla (Critical Thinking + video questions) | ✅ Completato | 23/07 |
+| HR Interview 30 min | 📅 Schedulato | Mercoledì 29/07 |
 
 ## Fit con Dan
 
