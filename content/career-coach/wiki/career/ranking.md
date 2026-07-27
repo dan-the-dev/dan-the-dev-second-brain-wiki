@@ -12,6 +12,13 @@ Ranking aggiornato al 22/07/2026 (18 candidature). Criteri: fit culturale, fit t
 
 ## 🥇 Tier 1 — Fortemente consigliato
 
+### 2. [[candidature/duvo|Duvo]] — Product Engineer
+**Perché**: La compensazione più alta del pool in euro (€110-220K base, offerta specifica ~€125K). Stack TypeScript-first senza gap. Il prodotto — agenti AI che eseguono lavoro end-to-end per enterprise — è esattamente il dominio in cui Dan lavora quotidianamente. "Ship within a week", AI budget illimitato, feedback diretto: è XP scritto con altre parole. Ownership completa UI→API→data→deployment, clienti enterprise reali che usano quello che si shippa.
+**Rischio**: IC role (no people management). GCP vs AWS (learnable). On-site trial 2 giorni: location da verificare. Retail/CPG come dominio verticale — meno stimolante di altri.
+`RAL €110-220K + equity · Remote EU · IC Product Engineer · ✅ Applicato 27/07`
+
+---
+
 ### 1. [[candidature/tonsser|Tonsser]] — Lead Backend Engineer
 **Perché**: La combinazione più rara del pool. Tre vantaggi simultanei impossibili da replicare: (1) dominio calcio — Dan tifa Milan e Sassuolo, capisce il prodotto a livello viscerale, non "un cliente qualsiasi"; (2) cercano esplicitamente qualcuno che setti lo standard AI nel team e nel prodotto — esattamente il differenziatore più forte di Dan in questo momento; (3) "not dogmatic about the stack" scritto in modo esplicito — il background PHP/TS non è un gap, è irrilevante by design. Engagement freelance→permanent si allinea perfettamente con la situazione Muffin attuale.
 **Rischio**: Ruby non è nel background di Dan (gestito dalla JD stessa). RAL non dichiarata. Team molto piccolo.

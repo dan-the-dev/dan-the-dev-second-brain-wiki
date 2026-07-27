@@ -74,6 +74,7 @@ tags: [career, job-search, 2026]
 | 25 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ | 2026-07-14 |
 | 26 | [[candidature/doctolib\|Doctolib]] | Senior/Staff AI Engineer | 🔵 In corso | €70-100k (Staff) | 2026-07-25 |
 | 27 | [[candidature/datapizza\|Datapizza]] | Founding AI Engineer (TBD) | 🟠 Processo attivo | n.d. | 2026-07-27 |
+| 28 | [[candidature/duvo\|Duvo]] | Product Engineer | 🔵 In corso | €110-220k | 2026-07-27 |
 
 ---
 
