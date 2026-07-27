@@ -1,6 +1,6 @@
 ---
 title: Decisions — Index
-updated: 2026-06-08
+updated: 2026-07-22
 tags: [decisions, index]
 ---
 
@@ -22,3 +22,4 @@ Decisioni significative emerse dai journal, in ordine cronologico.
 - **2026-03-09** — [[20260309-ai-project-structure|Decisione architettura AI — il tool gestisce solo la data ingestion]] — `muffin` — esito: positivo
 - **2026-03-13** — [[20260313-cv-revenue-cat|Mandare il CV a Revenue Cat — segnale di curiosità verso il mercato]] — `muffin` — esito: pending
 - **2026-03-27** — [[20260327-adopt-cursor|Adottare Cursor come tool principale di sviluppo AI]] — `muffin` — esito: positivo
+- **2026-07-22** — [[20260722-fantapick-stabilita-prima-community|Fantapick — stabilità del prodotto prima di community e social]] — `personal` — esito: pending

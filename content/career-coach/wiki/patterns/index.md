@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-07-10
+updated: 2026-07-22
 tags: [patterns, index]
 ---
 
@@ -65,6 +65,10 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Insight**: gli eventi traumatici o le offerte esterne non *creano* sempre il desiderio di cambiare — a volte lo *rivelano* e lo *accelerano* (Casavo, Mymenu, Tour Radar), altre volte lo generano da zero a partire da un contesto che Dan viveva positivamente (Muffin, luglio 2026). Riconoscere prima i segnali di insoddisfazione latente resta utile, ma il caso Muffin mostra che anche una situazione soddisfacente può essere interrotta da fattori esterni alla relazione personale di Dan con l'azienda — la salute finanziaria del datore di lavoro è una variabile da valutare esplicitamente nella scelta di un'azienda (dimensione, runway, dipendenza da pochi clienti), non solo cultura e ruolo. Aggiunta dal 2026: non tutti gli eventi esterni sono il segnale giusto — la qualità dell'opportunità conta quanto la presenza di un'opportunità.
 
 **Muffin — aggiornamento settimana 6-10 luglio 2026**: il primo giorno di orario ridotto reale (6/7, day 244) porta un calo di mood diffuso nel team ("siamo tutti un po' giù"), ma la ricerca lavoro attiva prosegue concretamente: il 10/7 vengono inviate due nuove candidature (Tenth Revolution Group — Software Engineering Team Lead; ShippyPro — Team Leader Fulfillment Pod), entrambe classificate Tier 3. Segnale che la fase "attiva" della ricerca, aperta il 3/7, si sta traducendo in azioni concrete e non solo in intenzione — coerente con il pattern storico di Dan (Casavo, Mymenu, Tour Radar) di muoversi con decisione una volta rotta l'inerzia iniziale.
+
+**Muffin — aggiornamento settimana 20-22 luglio 2026 (day 246)**: il 22/7 Medicilio comunica il rifiuto — a differenza dei capitoli chiusi senza rimpianti finora (Ancora, Tenth Revolution), questo rifiuto colpisce più duramente perché Medicilio era posizionata in alto nel ranking delle candidature per fit culturale. Dan lo descrive esplicitamente come "il momento più difficile della ricerca": l'ansia sale non per la qualità del match mancato, ma per il vincolo economico reale (la riduzione ore Muffin ha una durata definita di 2 mesi, e non c'è ancora un'alternativa concreta all'orizzonte). Nello stesso periodo Muffin stessa rallenta (due diligence "lenta, un po' di noia"), togliendo anche la distrazione operativa. Variante del pattern: qui l'evento esterno (il rifiuto) non accelera una decisione — aggrava una pressione già in corso, senza offrire una via d'uscita alternativa. L'unico contrappeso energetico del periodo è un progetto personale (Fantapick) vicino al lancio, non collegato a Muffin.
+
+**Insight aggiuntivo (22/7/2026)**: quando la ricerca attiva prosegue per settimane senza un esito positivo, il rischio non è solo l'ansia crescente ma anche l'esaurimento delle fonti di energia compensativa — finora Fantapick ha retto quel ruolo, ma è un progetto in fase di chiusura (verso community/manutenzione), non una fonte di energia rinnovabile all'infinito. Da monitorare nelle prossime settimane: cosa sostituirà Fantapick come valvola di sfogo se la ricerca lavoro continua a non chiudersi.
 
 ---
 

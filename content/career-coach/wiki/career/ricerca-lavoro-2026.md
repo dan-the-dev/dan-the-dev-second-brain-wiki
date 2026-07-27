@@ -71,6 +71,7 @@ tags: [career, job-search, 2026]
 | 23 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Processo attivo | Equity | 2026-07-21 |
 | 24 | [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 In corso | $180-240k | 2026-07-22 |
 | 25 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ | 2026-07-14 |
+| 26 | [[candidature/doctolib\|Doctolib]] | Senior/Staff AI Engineer | 🔵 In corso | €70-100k (Staff) | 2026-07-25 |
 
 ---
 
