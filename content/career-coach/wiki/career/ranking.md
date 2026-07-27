@@ -72,6 +72,13 @@ Ranking aggiornato al 22/07/2026 (18 candidature). Criteri: fit culturale, fit t
 
 ## 🥈 Tier 2 — Buone opportunità con riserve
 
+### [[candidature/datapizza|Datapizza]] — Founding AI Engineer *(ruolo TBD)*
+**Perché**: Stanno costruendo un'agent platform di nuova generazione — il contesto più allineato al modo di lavorare di Dan (coding agents, Claude Code, agentic workflows) nell'intero pool. Team giovane (20-22 anni): Dan porta seniority e cultura XP che mancano. Ruolo non ancora definito → Dan può influenzare scope e titolo. Nuovo round di finanziamento = crescita.
+**Rischio**: RAL sconosciuta — dato più critico da sbloccare. Componente custom delivery enterprise (Dan preferisce prodotto puro). Datapizza è nota come community/media AI: ancora da capire quanto è solido come software company. Ruolo completamente TBD — alto rischio di aspettative disallineate se non si chiarisce la JD.
+`RAL n.d. · TBD · Founding AI Engineer · 🟠 Eval tecnica in corso · 27/07`
+
+---
+
 ### [[candidature/mimica|Mimica]] — Head of Engineering *(stretch)*
 **Perché**: Valori perfettamente allineati (psychological safety, servant leadership, ownership). AI company che traina modelli propri. "First HoE" significa costruire da zero, non gestire l'esistente. Remote EU. Stock options su Series B.
 **Rischio**: Gap di seniority più grande del pool. Richiede esperienza da HoE/VP in org simile — Dan è Head of Software Development in una startup piccola. Gestione EMs formale assente. 8 team da coordinare è un ordine di grandezza superiore. Ruolo non hands-on: potrebbe essere mismatch di fit personale oltre che di seniority.

@@ -36,6 +36,7 @@ tags: [career, job-search, 2026]
 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 In attesa Guido | Max €65k (gap €5k) | Attesa risposta su flessibilità RAL |
 | [[candidature/universo\|Universo]] | Senior SWE AI Solutions | 🟡 Colloquio martedì 28/07 | €60-80k | Chiedi: azienda finale, stack, giorni Milano |
 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |
+| [[candidature/datapizza\|Datapizza]] | Founding AI Engineer | 🟡 Email da inviare oggi | n.d. | Call 27/07 ✅ — invia email con materiale tecnico entro domani |
 | [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 Candidatura inviata | $180-240k | Attesa risposta |
 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 Candidatura inviata | $144k+ (Zone 3) | Attesa risposta |
 | [[candidature/lago\|Lago]] | Product Engineer | 🔵 Candidatura inviata | €70-100k | Attesa risposta |
@@ -72,6 +73,7 @@ tags: [career, job-search, 2026]
 | 24 | [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 In corso | $180-240k | 2026-07-22 |
 | 25 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ | 2026-07-14 |
 | 26 | [[candidature/doctolib\|Doctolib]] | Senior/Staff AI Engineer | 🔵 In corso | €70-100k (Staff) | 2026-07-25 |
+| 27 | [[candidature/datapizza\|Datapizza]] | Founding AI Engineer (TBD) | 🟠 Processo attivo | n.d. | 2026-07-27 |
 
 ---
 
