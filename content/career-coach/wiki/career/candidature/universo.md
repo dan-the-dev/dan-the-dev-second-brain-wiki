@@ -1,88 +1,110 @@
 ---
-title: Candidatura — Universo / Senior Software Engineer AI Solutions
-company: Universo (cliente anonimo)
-role: Senior Software Engineer - AI Solutions & Generative AI
+title: Candidatura — Yellow Tech / Senior Software Engineer AI
+company: Yellow Tech (via Universo)
+role: Senior Software Engineer - AI
 status: in-progress
 applied: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-27
 tags: [job-search, candidatura, 2026]
 ---
 
-# Universo — Senior Software Engineer AI Solutions
+# Yellow Tech — Senior Software Engineer AI
+
+https://yellowtech.it
+Recruiter: Maria Giulia @ Universo Agenzia per il Lavoro
 
 ## L'azienda
 
-**Recruiter**: Universo Agenzia per il Lavoro
-**Azienda finale**: ⚠️ Anonima — "realtà italiana in forte crescita specializzata in Generative AI per enterprise"
-**Modello**: Consulenza/prodotti AI custom per enterprise (AI Agent, LLM integration, process automation)
-**Inserimento**: Diretto in azienda (non in Universo)
-**Sede**: Milano (headquarter)
+**Nome**: Yellow Tech SRL
+**Sede**: Via Carlo Boncompagni 3B, 20139 Milano (zona **Corvetto**)
+**Cosa sono**: AI Transformation Company — formazione AI + agenti AI per enterprise italiane
+**Dimensione**: 13 persone (dic 2025) → 30 (lug 2026) → obiettivo 50 (gen 2027) 🚀
+**Clienti**: 500+ organizzazioni. Tra cui: Bocconi, Schneider Electric, Reale Mutua, Santander, Credit Agricole Vita, Groupama, Politecnico di Milano, Accor, WeRoad, Edenred
+**Partner tech**: OpenAI, Anthropic ✅, Google, Microsoft Copilot, n8n, Make, Lovable, Clay, ElevenLabs
 
-⚠️ **Red flag**: azienda finale non dichiarata — da scoprire prima di avanzare nel processo.
+### I due servizi core
+
+**1. AI Adoption** — formazione strutturata all'AI per le organizzazioni:
+- AI Leadership, AI Upskilling (tutti i livelli), AI Policy, programma AI Champion
+- 20.000+ persone formate
+
+**2. AI Agents** — sviluppo agenti AI specializzati in 4 aree:
+- Finance & Document Automation
+- Customer Operations Automation
+- Sales & Revenue Automation
+- AI Governance & Compliance
+- 300+ agenti AI in produzione, break-even medio <6 mesi
+
+**Iniziative**: Italian Hackathon League (primo campionato italiano AI applicata, 1.000+ candidature EU)
 
 ## Il ruolo
 
-**Titolo**: Senior Software Engineer — AI Solutions & Generative AI 
-**Natura**: IC + mentoring junior
-**Location**: Ibrida su Milano ⚠️ (non remote — quanti giorni da chiarire)
-**Contratto**: Tempo determinato / indeterminato / P.IVA — da definire 
+**Titolo**: Senior Software Engineer — AI
+**Natura**: IC Senior con coaching di junior — **NON un ruolo da lead formale**
+**Descrizione reale** (interpretazione di Maria Giulia):
+> Yellow Tech è molto verticale sull'AI. Sentono di aver perso buone pratiche di software engineering e buon design del codice. Cercano qualcuno molto forte su software engineering — non necessariamente forte sull'AI — che contamini il team portando cultura tecnica solida, lavorando con chi è verticale AI, anche su figure junior che usano AI in modo safe.
 
-### Responsabilità
-- Sviluppo AI Agent e applicazioni LLM in produzione
-- Architettura software scalabile e manutenibile
-- Workflow agentici: orchestrazione, tool use, memory, RAG, evaluation
-- Qualità, sicurezza, observability, gestione failure in produzione
-- AI coding assistant quotidiano
-- Mentoring junior
-
-## Stack tecnico
-
-- Non dichiarato esplicitamente — probabile Python-heavy sul lato AI
-- RAG, framework orchestrazione agentica (LangChain/LlamaIndex?)
-- Cloud non specificato
+**In sintesi**: Dan porta XP/TDD/clean code, il team porta AI. La contaminazione è bidirezionale.
 
 ## Compensazione
 
 | Voce | Dettaglio |
 |------|-----------|
-| RAL | €60.000 – €80.000 + bonus variabile |
-| Stock option | ✅ |
-| Buoni pasto | €8/giorno |
-| Location | Ibrida Milano — giorni da chiarire |
+| **RAL** | Max **€80.000** — Dan ha chiesto da €75K in su |
+| **Contratto** | Indeterminato ✅ |
+| **Buoni pasto** | ✅ |
+| **Smart working** | ⚠️ **10 giorni/trimestre** = ~1 giorno/settimana remote |
 
-**Target Dan**: €70k+ → raggiungibile nel range, ma da posizionarsi nella parte alta.
+⚠️ **Smart working CRITICO**: 10 giorni/trimestre = praticamente full-time in ufficio a Corvetto. Maria Giulia ha detto esplicitamente: *"chi è committato è quello che va in presenza"*. Da Lainate ogni giorno è pesante. Servirebbe almeno flessibilità oraria.
 
-## Processo
+## Processo di selezione
 
-| Step | Stato |
-|------|-------|
-| Candidatura | ✅ Inviata 22/07 |
-| Primo colloquio conoscitivo | 📅 Martedì 28/07 |
+| Step | Stato | Note |
+|------|-------|------|
+| Screening Maria Giulia (Universo) | ✅ 27/07 | Call andata bene |
+| Test tecnico async (TestGorilla-style) | Prossimo | |
+| HR (Maria Giulia) | ⏳ Maria Giulia rientra il **16 agosto** | **18 giorni di attesa minimo** |
+| Colloquio tecnico team tech | In attesa | |
+
+⚠️ **Processo molto lento** — nessuna risposta prima del 16 agosto.
+
+## Cosa si costruisce internamente
+
+Yellow Tech non ha un prodotto SaaS proprio. Il lavoro è:
+- Costruire agenti AI custom su misura per clienti enterprise (consulenza)
+- Sviluppare framework, template, tooling interno per accelerare i progetti
+- Formare i dipendenti dei clienti all'AI (lato adoption — non direttamente il ruolo di Dan)
+
+Il ruolo di Dan è sul lato **AI Agents** (sviluppo), non formazione.
 
 ## Fit con Dan
 
 **Punti di forza**:
-- "Non è richiesta esperienza Generative AI" ma Dan ce l'ha — vantaggio diretto
-- AI coding assistant quotidiano (Claude Code, Cursor) = differenziatore
-- RAG, agent, orchestrazione: uso reale in produzione
-- 12+ anni vs 7/10 richiesti
-- Mentoring: esperienza diretta
+- ✅ **L'interpretazione di Maria Giulia è perfetta per Dan** — portare XP/TDD/clean code in un team AI-first è esattamente il contributo di Dan
+- ✅ **Coaching di junior che usano AI** — Dan sa fare mentoring, l'ha fatto a Muffin
+- ✅ **Anthropic partner** — Dan usa Claude quotidianamente, sarà credibile
+- ✅ **Crescita rapida** (x2.3 in 7 mesi) → opportunità di crescere col team
+- ✅ **€80K** — sopra target (marginalmente)
+- ✅ **Contratto indeterminato**
 
 **Punti di attenzione**:
-- ⚠️ Azienda cliente anonima — rischio mismatch culturale scoperto tardi
-- Modello consulting enterprise (progetti clienti, non prodotto proprio) — meno interessante per Dan
-- Ibrida Milano: giorni da verificare
-- Stack non dichiarato — probabile gap Python
-- Contratto incerto (TD/TI/P.IVA)
+- 🔴 **Smart working 10gg/trimestre** — praticamente full-time Corvetto. Da Lainate è pesante ogni giorno. Questo è il discriminante principale.
+- 🔴 **"Chi è committato è quello che va in presenza"** — cultura esplicita che non valuta il remote come scelta altrettanto valida. Difficile da cambiare.
+- ⚠️ **Consulenza, non prodotto** — Dan preferisce prodotto. I progetti sono per clienti enterprise con delivery.
+- ⚠️ **Apertura al bastian contrario** — Dan si chiede se c'è spazio per portare opinioni contrarie con serenità. Da verificare nel tech interview.
+- ⚠️ **Max €80K** — poco margine di negoziazione, nessun equity dichiarato
+- ⚠️ **Processo lentissimo** — Aug 16+ per sentirli. Nel frattempo altri processi avanzano.
+- **IC puro** — nessuna crescita verso lead formale nell'immediato
 
-## Domande da fare al primo colloquio
-1. Chi è l'azienda finale?
-2. Modello di lavoro: prodotto interno o progetti clienti?
-3. Quanti giorni in sede a Milano?
-4. Tipo di contratto previsto per il profilo?
-5. Stack tecnico effettivo?
+## Valutazione complessiva
+
+Interessante per la fit tecnica (portare XP in team AI-junior), ma con due problemi seri al momento non negoziabili: policy smart working e natura consulenza. Se Yellow Tech avesse apertura per accettare un profilo che porta opinioni contrarie con serenità e trovasse un modo per bilanciare la presenza, i presupposti ci sono. Ma il segnale sulla cultura della presenza è pesante.
+
+**Verdict**: si va avanti, ma è la candidatura con più punti interrogativi del processo attivo.
 
 ---
 
 **Risorse**
+- Sito: https://yellowtech.it
 - [[../ricerca-lavoro-2026|← Ricerca Lavoro 2026]]
+- [[../ranking|← Ranking]]

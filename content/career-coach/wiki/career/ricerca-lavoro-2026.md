@@ -34,7 +34,7 @@ tags: [career, job-search, 2026]
 |---------|-------|-------|-----|-----------|
 | [[candidature/smartness\|Smartness]] | Fullstack Team Leader | 🟡 HR call mercoledì 29/07 | €45-75k + equity | TestGorilla ✅ — call mercoledì |
 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 In attesa Guido | Max €65k (gap €5k) | Attesa risposta su flessibilità RAL |
-| [[candidature/universo\|Universo]] | Senior SWE AI Solutions | 🟡 Colloquio martedì 28/07 | €60-80k | Chiedi: azienda finale, stack, giorni Milano |
+| [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🟠 Test tecnico → HR 16/08 | Max €80k | ⚠️ 10gg smart/trimestre, consulenza, lento |
 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |
 | [[candidature/freename\|Freename]] | Engineering Lead | 🟡 Processo attivo | €85k + bonus + stock | Call con Rob ✅ — attesa step 1 CEO+COO |
 | [[candidature/datapizza\|Datapizza]] | Founding AI Engineer | 🟡 Email da inviare oggi | n.d. | Call 27/07 ✅ — invia email con materiale tecnico entro domani |
