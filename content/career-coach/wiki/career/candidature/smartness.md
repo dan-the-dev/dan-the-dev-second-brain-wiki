@@ -89,6 +89,75 @@ Smartness era già nei radar di Dan nel 2023-2024 (2 job salvati su LinkedIn: So
 
 ---
 
+## 🏨 Analisi prodotti Smartness (per il colloquio)
+
+> Sito reale: **smartness.com** (smartness.io è in vendita su GoDaddy — non usarlo)
+> Sede legale: Smartness Srl / Helium Srl — Arco (TN), Italia
+
+### Il business in breve
+
+Vertical SaaS B2B per l'hospitality: hotel, B&B, affitti vacanze, property manager con 5-150 unità. La proposta di valore è aiutare le strutture a crescere, ridurre la dipendenza dalle OTA (Booking.com, Airbnb) e automatizzare le operazioni quotidiane.
+
+**Traction reale (2026)**:
+- **5.000+ clienti** in **41 paesi**
+- **€47M Series B** — round appena chiuso, crescita 6x dal Series A 2023
+- **#1 fastest-growing B2B hospitality SaaS in Europa** (Sifted 250)
+- Riconosciuta da Hotel Tech Report
+
+### La suite di prodotti — tutto si chiama "Smart"
+
+| Prodotto | Categoria | Cosa fa |
+|----------|-----------|---------|
+| **SmartPMS** ← *il tuo team* | Operations | All-in-one PMS: gestione prenotazioni, front desk, self check-in, payments, accounting, compliance. Automatizza il 90% delle operazioni. Multi-user, multi-property, multi-company. |
+| **Smartpricing** | Revenue | Dynamic pricing AI: calcola il prezzo ottimale in tempo reale. +30% revenue annuo medio dichiarato. |
+| **Smartchat** | Guest experience | AI chatbot 24/7 su Booking.com, WhatsApp, Airbnb, email. Gestisce il 70% delle domande degli ospiti. |
+| **Smartconnect** | Marketing & CRM | Email marketing automatizzato, segmentazione clienti, marketplace di servizi/esperienze. |
+| **Smartpay** | Payments | Pagamenti integrati: depositi, rimborsi, riconciliazioni, reminder automatici. |
+| **Smartads** | Marketing | Gestione campagne Google e Meta, traffico verso sito diretto. |
+| **Smartreputation** | Guest experience | Gestione recensioni, sentiment analysis, visibilità. |
+| **Smartsite** | Marketing | Website builder per strutture ricettive, template ottimizzati. |
+| **Smartresults** | Pay-per-result | Modello a performance: si paga in base ai risultati generati. |
+| **Booking Engine** | Distribution | Canale di vendita diretto integrato nel sito della struttura. |
+| **Channel Manager** | Distribution | Sync prezzi e disponibilità su 100+ OTA, GDS, metasearch, wholesaler. |
+
+### SmartPMS in dettaglio — il prodotto del tuo team
+
+SmartPMS è il core della piattaforma — tutto il resto ci si integra sopra. È il prodotto tecnicamente più complesso della suite.
+
+**Funzionalità principali:**
+- Dashboard operativa (revenue, prenotazioni, arrivi/partenze del giorno)
+- Front desk planner + calendario prenotazioni con 20+ filtri
+- Self check-in e gestione dati ospiti (conformità GDPR + invio dati autorità locali)
+- Housekeeping & CMMS (manutenzione): task automatici, assegnazione, tracking real-time
+- Accounting: fatture, ricevute, split pagamenti owner/guest, report finanziari
+- Booking engine integrato (fino a +50% direct bookings dichiarato)
+- Channel manager (100+ OTA in sync)
+- Dynamic pricing nativo (integrazione Smartpricing)
+- Quote builder, upselling integrato
+- Owner portal (per property manager con più clienti/proprietari)
+
+**Multi-tenant**: multi-user, multi-property, multi-company — architettura complessa
+
+**Integrazioni esistenti**: Stripe, Vikey, Salto, Nuki, Feratel, Paytourist, Sevdesk, HBenchmark e altri
+
+### Il mercato e i competitor
+
+Smartness compete nel mercato PMS hospitality con:
+- **PMS tradizionali** (Cloudbeds, Little Hotelier, Mews, Opera Cloud)
+- **Revenue management standalone** (RateGain, Duetto)
+- **Nuovi entranti AI-first** (startup varie)
+
+Il differenziatore principale è l'integrazione verticale: tutto in uno stack unico invece di best-of-breed disconnesso. Il modello Smartresults (pay-per-result) è innovativo nel settore.
+
+### Cosa aspettarsi ti chiedano al colloquio HR
+
+- "Cosa sai di Smartness e del prodotto SmartPMS?" → usa questa sezione
+- "Perché hospitality tech?" → dominio internazionale, prodotto B2B SaaS complesso, clienti PMI (un contesto che Dan conosce)
+- "Come gestiresti la qualità del codice con un team che usa AI tools?" → XP + review discipline
+- "Hai esperienza con integrazioni complesse?" → sì, channel manager = OTA APIs, payment gateways, compliance locale = complessità reale
+
+---
+
 **Risorse**
 - [[../ricerca-lavoro-2026|← Ricerca Lavoro 2026]]
 - [[../ranking|← Ranking]]
