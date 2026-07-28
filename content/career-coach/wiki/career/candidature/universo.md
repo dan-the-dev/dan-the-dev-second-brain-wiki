@@ -22,10 +22,10 @@ tags: [job-search, candidatura, 2026]
 
 ## Il ruolo
 
-**Titolo**: Senior Software Engineer — AI Solutions & Generative AI
+**Titolo**: Senior Software Engineer — AI Solutions & Generative AI 
 **Natura**: IC + mentoring junior
 **Location**: Ibrida su Milano ⚠️ (non remote — quanti giorni da chiarire)
-**Contratto**: Tempo determinato / indeterminato / P.IVA — da definire
+**Contratto**: Tempo determinato / indeterminato / P.IVA — da definire 
 
 ### Responsabilità
 - Sviluppo AI Agent e applicazioni LLM in produzione
