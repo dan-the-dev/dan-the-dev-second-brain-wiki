@@ -12,6 +12,13 @@ Ranking aggiornato al 22/07/2026 (18 candidature). Criteri: fit culturale, fit t
 
 ## 🥇 Tier 1 — Fortemente consigliato
 
+### 3. [[candidature/freename|Freename]] — Engineering Lead
+**Perché**: Il match più diretto con il modo in cui Dan lavora oggi. La JD dice letteralmente "Claude is core to how you work" e "keep AI-built codebase from drifting" — il secondo è esattamente il problema che Dan ha risolto costruendo agent personali che mantengono standard XP. TL hands-on con team di 5 → Dan ha sempre lavorato in questo range. Path verso VP/Engineering Lead esplicito. Founder seriale (Davide Vicini: $150M+ raised, 2 exit). Entrée Capital come lead investor. €85K + KPI + stock. Milano mostly remote, Lugano ~1/mese tutto spesato.
+**Rischio**: Web3 come dominio di prodotto (blockchain, wallet, multi-chain) — Dan conosce poco il settore specifico. Nessun engineer del team ha voluto fare TL (da esplorare perché). Stack non dichiarato. Series B incoming = runway da verificare. P.IVA/contratto da strutturare.
+`RAL €85K + bonus + stock · Milano remote · Engineering Lead → VP · 🟡 Call Rob ✅ · 27/07`
+
+---
+
 ### 2. [[candidature/duvo|Duvo]] — Product Engineer
 **Perché**: La compensazione più alta del pool in euro (€110-220K base, offerta specifica ~€125K). Stack TypeScript-first senza gap. Il prodotto — agenti AI che eseguono lavoro end-to-end per enterprise — è esattamente il dominio in cui Dan lavora quotidianamente. "Ship within a week", AI budget illimitato, feedback diretto: è XP scritto con altre parole. Ownership completa UI→API→data→deployment, clienti enterprise reali che usano quello che si shippa.
 **Rischio**: IC role (no people management). GCP vs AWS (learnable). On-site trial 2 giorni: location da verificare. Retail/CPG come dominio verticale — meno stimolante di altri.
