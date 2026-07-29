@@ -62,11 +62,13 @@ Recruiter: Maria Giulia @ Universo Agenzia per il Lavoro
 | Step | Stato | Note |
 |------|-------|------|
 | Screening Maria Giulia (Universo) | ✅ 27/07 | Call andata bene |
-| Test tecnico async (TestGorilla-style) | Prossimo | |
+| Video quiz async (6 domande) | ⏳ Da registrare | Domande ricevute in anteprima da Maria Giulia ✅ |
 | HR (Maria Giulia) | ⏳ Maria Giulia rientra il **16 agosto** | **18 giorni di attesa minimo** |
 | Colloquio tecnico team tech | In attesa | |
 
 ⚠️ **Processo molto lento** — nessuna risposta prima del 16 agosto.
+
+→ **[[yellow-tech-quiz|📋 Appunti per il video quiz]]**
 
 ## Cosa si costruisce internamente
 
