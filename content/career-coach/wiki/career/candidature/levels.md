@@ -74,9 +74,18 @@ Membro chiave del team (entrato come SW engineer, cresciuto verso ruolo simil te
 | Step | Stato | Note |
 |------|-------|------|
 | 1 — Screening CV + call Welyk | ✅ | |
-| 2 — Colloquio tecnico con Pieralberto (tech mentor esterno) | 📅 Mercoledì 29/07 | Architettura AWS, document processing |
+| 2 — Colloquio tecnico con Welik (29/07) | ✅ | Architettura + infra + tech + esperienze |
 | 3 — Colloquio tecnico con team Levels | In attesa | Sfide reali di architettura, requisiti non definiti |
 | 4 — Colloquio culturale/motivazionale founder | In attesa | |
+
+## Note post colloquio tecnico (29/07)
+
+**Focus**: domande architetturali generali + infrastruttura AWS + tecnologie/linguaggi + esperienze
+
+**Emerso positivo**: approccio, proattività, product-driven mindset, accettare trade-off → fit percepito come totale
+**Emerso gap**: Python + infra specifica — non autonomia dal giorno uno, ma Dan ha dichiarato disponibilità a studiare e mettersi in gioco in modo importante
+**Preoccupazione**: Dan non sicuro di aver convinto pienamente il tecnico sulle domande di trade-off — le domande che ha fatto su quel tema erano migliorabili
+**Wildcard**: incertezza sull'impressione del tecnico — Dan confida nel rapporto con Guido per arrivare almeno alla call con l'azienda
 
 ## Fit con Dan
 
