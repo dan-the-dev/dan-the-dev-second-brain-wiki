@@ -32,7 +32,7 @@ tags: [career, job-search, 2026]
 
 | Azienda | Ruolo | Stato | RAL | Next step |
 |---------|-------|-------|-----|-----------|
-| [[candidature/smartness\|Smartness]] | Fullstack Team Leader | 🟡 HR call mercoledì 29/07 | €45-75k + equity | TestGorilla ✅ — call mercoledì |
+| [[candidature/smartness\|Smartness]] | Fullstack Team Leader | 🟠 Tech challenge in arrivo | €75k + ticket + equity | HR ✅ Anna Torbetto — challenge PHP/JS/Node |
 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 In attesa Guido | Max €65k (gap €5k) | Attesa risposta su flessibilità RAL |
 | [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🟠 Test tecnico → HR 16/08 | Max €80k | ⚠️ 10gg smart/trimestre, consulenza, lento |
 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |

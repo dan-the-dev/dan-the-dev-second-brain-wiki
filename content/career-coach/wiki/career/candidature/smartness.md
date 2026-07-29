@@ -64,7 +64,32 @@ https://www.linkedin.com/jobs/...
 | Step | Stato | Data |
 |------|-------|------|
 | TestGorilla (Critical Thinking + video questions) | ✅ Completato | 23/07 |
-| HR Interview 30 min | 📅 Schedulato | Mercoledì 29/07 |
+| HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
+| Technical challenge ~1h (PHP, JS, Node) | ⏳ Prossimo | — |
+| Review esercizio da parte del PM | In attesa | — |
+| Call con PM | In attesa | — |
+| Call con CDO (?) | In attesa | — |
+| Offerta | In attesa | — |
+
+⚠️ Agosto = possibili rallentamenti per ferie.
+
+## Note post HR call (29/07 — Anna Torbetto)
+
+**Confermato:**
+- Full remote ✅
+- €75K ci stanno (forse era anche un po' basso) + ticket pasto quotidiani ✅
+- Prima settimana di onboarding a Rovereto — logistica da organizzare
+- Il ruolo è TL sull'**UNICO progetto ancora in PHP** — tutto il resto della suite è Node + Vue.js
+- Team diretto: TL (Dan) + PM dedicato SmartPMS + CDO
+- 130 persone totali — azienda stabile, cambiamenti forse più lenti
+
+**Impressione:**
+Anna Torbetto ottima — conversazione trasparente, Dan ha condiviso alcune situazioni complesse e le risposte di Anna sono piaciute molto. Approccio diretto e serio.
+
+**⚠️ Preoccupazione crescita:**
+Dan parte già al top del range standard (€75K). Da chiarire nelle fasi successive se c'è un percorso di crescita economica reale o se ci si ferma lì per anni. È il punto critico da sondare con PM/CDO.
+
+---
 
 ## Fit con Dan
 
