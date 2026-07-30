@@ -137,6 +137,52 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 
 ---
 
+## 🧪 Osservazioni post-test prodotti (29/07)
+
+> Appunti schematici per tirarli fuori in conversazione con Davide + Mattia.
+
+### freename.com
+
+**Cosa ho notato**
+- Suggerisce molti domini, simile ai competitor — nessun differenziatore evidente nell'UX di ricerca
+- Suggerimenti Web3 TLD sembravano poco correlati alla query — quality dei risultati da migliorare
+
+**Domande da portare**
+- *"Ha senso continuare a investire sui domini Web2 classici, anche solo per posizionamento e credibilità ICANN?"*
+  - → mia ipotesi: sì. ICANN accreditation è rara tra registrar Web3. Legittimità. Funnel verso TLD custom. Revenue più stabile.
+  - → vale chiedere: qual è il mix di revenue Web2/Web3 oggi?
+- *"Quanto siete preoccupati che competitor più grandi (Unstoppable Domains, Cloudflare, ENS) replicchino qualcosa di simile a NOTO?"*
+  - → patent US #12,401,618 protegge ma non è eterno. Come si difende la moat?
+
+---
+
+### freename.ai
+
+**Cosa ho notato**
+- **Bug**: inserendo la descrizione business e andando avanti alla registrazione, il prompt viene perso — da riscrivere da capo
+- **Positivo**: il sito generato era bello e originale, non "AI slop"
+- **Solo X nei social** — LinkedIn e Instagram assenti. API restriction o scelta di priorità?
+
+**Domande da portare**
+- *"Come mai solo X? È un vincolo API o una scelta?"*
+- *"Qual è la roadmap su freename.ai nei prossimi 6 mesi? Cosa aggiungete per supportare meglio i business?"*
+  - → possibili aree: più social, Google Ads integration, analytics, e-commerce, multilingual content
+
+---
+
+### NOTO Protocol
+
+**Use case business interessanti** *(per portare idee in conversazione)*
+- **Brand protection**: `shop.nike` → nessuno registra sotto il tuo TLD, zero typosquatting
+- **Developer ecosystem**: `app.tuapiattaforma` → come funziona .app/.dev per i dev tools
+- **Community/membership**: sottodominio = NFT = accesso — loyalty tokenizzata
+- **Intranet aziendale**: DNS privato su blockchain, senza dipendere da provider centralizzato
+- **Vertical marketplace geografico**: chi possiede `.milan` vende `hotel.milan`, `restaurant.milan` e incassa royalties
+
+**Da testare**: app Mac per risolvere TLD custom → dimostra che funziona nel browser normale senza estensioni — questo è il punto di differenziazione reale vs ENS/.eth
+
+---
+
 **Risorse**
 - JD (privata): https://rob-freename-eng-lead.netlify.app/#role
 - Notion pack (privato): https://app.notion.com/p/Freename-Candidate-Pack-3a56753f1ff1810bb122fad596285188?source=copy_link
