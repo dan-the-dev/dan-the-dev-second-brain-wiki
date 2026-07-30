@@ -83,9 +83,25 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 | Step | Stato | Note |
 |------|-------|------|
 | Screening con Rob (DeFinitive) | ✅ 27/07 | Fit giudicato molto forte da Rob |
-| 1 — CEO + COO (Davide + Mattia) | In attesa | Valutazione culturale e motivazionale |
-| 2 — CTO Paolo | In attesa | Domande tecniche: AI, agenti, best practices, preoccupazioni |
-| 3 — Advisor Entrée Capital | In attesa | Valutazione investor |
+| 1 — CEO + COO (Davide + Mattia) | ✅ 30/07 | Call andata abbastanza bene |
+| 2 — CTO Paolo + PM | ⏳ Settimana prossima | Dan riceverà link per schedulare |
+| 3 — Advisor Entrée Capital | In attesa | |
+
+## Note post call CEO + COO (30/07 — Davide Vicini + Mattia Martone)
+
+**Impressione**: abbastanza bene. Contesto molto demanding e pressante, ma stimolante.
+
+**Exit plan ⚠️**: puntano a vendere l'azienda entro **2 anni**. Questo è il punto di riflessione principale. Pro: crescita tecnica intensa in 2 anni in ambiente AI-native. Contro: chi compra? Quale ruolo dopo l'exit?
+
+**Opzioni contrattuali discusse**:
+- Contratto svizzero (opzione principale)
+- **P.IVA** — apertura dichiarata (preferenza loro)
+- **Revolut come EOR** — hanno accordi con Revolut per assumerlo con contratto italiano tramite EOR
+- Permesso G (frontaliere) menzionato come possibilità con contratto svizzero
+
+⚠️ **Problema Permesso G + Lainate**: Lainate (MI) è a ~40-50km dal confine svizzero. Il regime fiscale frontaliere richiede residenza in un comune entro **20km** dal confine. Lainate probabilmente NON qualifica. Da verificare con un commercialista prima di scegliere il contratto svizzero.
+
+**Non chiesto**: frequenza trasferte a Lugano — da chiedere con CTO/PM.
 
 **Aspettative colloquio tecnico (info da Rob)**:
 - Utilizzo AI e agenti in produzione
@@ -117,6 +133,112 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 - ⚠️ **Stack non dichiarato** — da verificare con Paolo.
 - ⚠️ **Contratto svizzero/P.IVA** — implicazioni fiscali da valutare con cura. P.IVA = 1 mese per aprirla.
 - **"15M+ users"** — via partner integrations, non utenti organici diretti. Importante capire la distinzione per ragionare sulla scala reale.
+
+## 💰 Analisi contratto & fisco (ricerca 30/07)
+
+> ⚠️ Questi numeri sono stime indicative. Per una decisione definitiva serve un commercialista specializzato in fiscalità internazionale.
+
+### Permesso G — cos'è e il problema di Lainate
+
+**Permesso G (lavoro)**: il visto svizzero per lavoratori frontalieri UE. Permette di lavorare in Svizzera vivendo in Italia, rientrando almeno una volta a settimana. Dan può ottenerlo anche da Lainate — la distanza dal confine NON è un limite per il PERMESSO DI LAVORO.
+
+**Status fiscale "frontaliere"**: completamente diverso dal permesso. Richiede residenza in un comune entro **20km dal confine svizzero**. Lainate (MI) è a ~50km dal confine di Chiasso. **Lainate NON rientra nella fascia dei 20km** → Dan NON ha lo status di "frontaliere fiscale".
+
+Questa distinzione è cruciale perché cambia completamente la tassazione.
+
+---
+
+### Confronto netto €85K — tre scenari
+
+**Ipotesi**: RAL/compenso lordo equivalente a €85.000 in tutti e tre i casi. Calcoli 2026, single senza figli, Lombardia.
+
+#### Scenario A — Contratto italiano (o EOR Revolut)
+| Voce | Importo |
+|------|---------|
+| RAL lordo | €85.000 |
+| INPS dipendente (~9.2%) | -€7.820 |
+| IRPEF + addizionali | -€27.200 |
+| **Netto annuo** | **~€49.980** |
+| **Netto mensile** | **~€4.165/mese** |
+
+#### Scenario B — Contratto svizzero, Dan come FRONTALIERE FISCALE (se fosse entro 20km)
+| Voce | Importo |
+|------|---------|
+| Lordo svizzero | €85.000 |
+| Contributi CH (AVS/AI/AD/AINP, ~8%) | -€6.800 |
+| LPP 2° pilastro (risparmio pensionistico, ~5%) | -€4.250 |
+| Imposta alla fonte CH (80% dell'ordinaria, ~10%) | -€6.800 |
+| Swiss net | €67.150 |
+| Imposte italiane nette (credito imposta + franchigia €10K) | -€15.600/anno |
+| **Netto effettivo mensile** | **~€4.300/mese** |
+| Netto se LPP considerato risparmio (non costo) | ~€4.650/mese |
+
+→ Questo scenario è circa €135-480/mese meglio dell'italiano. **Ma Dan NON qualifica per questo scenario.**
+
+#### Scenario C — Contratto svizzero, Dan come NON-FRONTALIERE (Lainate >20km) ⚠️ realistico
+| Voce | Importo |
+|------|---------|
+| Lordo svizzero | €85.000 |
+| Contributi CH (~8%) | -€6.800 |
+| LPP (~5%) | -€4.250 |
+| Imposta alla fonte CH (100% ordinaria, ~10%) | -€8.500 |
+| Swiss net | €65.450 |
+| Imposte italiane (no franchigia, full IRPEF, credito imposta) | -€18.400/anno |
+| **Netto effettivo mensile** | **~€3.920/mese** |
+
+→ **~€245/mese PEGGIORE del contratto italiano.** Perché senza la franchigia €10K e senza il tetto all'80% dell'imposta CH, la doppia tassazione pesa di più.
+
+---
+
+### Schema rischi Permesso G per Dan
+
+| Rischio | Dettaglio |
+|---------|-----------|
+| ⚠️ **Lainate fuori fascia 20km** | NON è frontaliere fiscale → Scenario C, non B |
+| ⚠️ **Obbligo rientro settimanale** | Con contratto svizzero e Permesso G, deve rientrare in Italia almeno 1x/settimana |
+| ⚠️ **Pressione a stare a Lugano** | Freename potrebbe aver bisogno di giustificare il Permesso G con presenza fisica → chiedere esplicitamente quante giornate prevedono a Lugano |
+| ⚠️ **Smart working cap 25%** | Anche se fosse frontaliere, non può fare remote >25% senza perdere lo status. 1 giorno/mese a Lugano = safe, 2 settimane/mese no |
+| ℹ️ **LPP (2° pilastro)** | Le trattenute LPP sono risparmio pensionistico svizzero che recuperi alla fine. Non è soldi persi, ma non sono liquidità immediata |
+
+---
+
+### Opzioni contrattuali — valutazione
+
+| Opzione | Netto stimato | Pro | Contro |
+|---------|--------------|-----|--------|
+| **Revolut EOR (italiano)** | ~€4.165/mese | Semplicità fiscale, tutele italiane | Freename paga costi EOR (~15%) |
+| **P.IVA forfettario** | Dipende (da calc.) | Potenzialmente il più conveniente (<€85K soglia) | Meno tutele, gestione admin |
+| **Contratto svizzero** | ~€3.920/mese | Niente (se Lainate fuori fascia) | Peggiore del caso italiano |
+
+→ **Conclusione provvisoria**: chiedere a Freename se l'€85K è fisso indipendentemente dall'opzione contrattuale. Se il gross cresce in scenario svizzero (es. CHF 95-100K perché non pagano contributi datore italiani), cambia il calcolo.
+
+#### Scenario D — P.IVA ordinaria a €85K fatturato
+
+| Voce | Importo |
+|------|---------|
+| Fatturato | €85.000 |
+| Costi aziendali deducibili (stima) | -€4.000 |
+| Reddito netto | €81.000 |
+| INPS Gestione Separata (26.23%) | -€21.246 |
+| Base imponibile IRPEF | €59.754 |
+| IRPEF lorda (scaglioni) | €18.334 |
+| Detrazioni personali (mutuo, mediche, ecc.) | -€3.000 (stima) |
+| IRPEF netta | €15.334 |
+| Addizionali regionali + comunali | -€1.393 |
+| **Netto annuo** | **~€43.000** |
+| **Netto mensile** | **~€3.583/mese** |
+
+⚠️ P.IVA ordinaria a €85K fatturato = **€582/mese in meno** del contratto dipendente. Per pareggiare il dipendente a €85K RAL, la P.IVA ordinaria richiederebbe circa **€100K di fatturato** a Freename.
+
+Note: il vantaggio della P.IVA (risparmio INPS sistema = ~€24K datore dipendente) teoricamente potrebbe essere "ceduto" da Freename a Dan se pagassero €100-109K alla P.IVA invece di €85K RAL. Dipende dalla negoziazione.
+
+### ⚡ Azioni da fare prima di ricevere un'offerta
+1. Verificare se Lainate è nella lista ufficiale dei comuni entro 20km (PDF allegato all'accordo 2023)
+2. Chiedere a Freename: quante giornate previste a Lugano? Mensili, non solo "~1x/mese"
+3. Consultare un commercialista fiscalista internazionale con la situazione specifica
+4. Capire se €85K è il lordo in tutti e tre gli scenari o varia
+
+---
 
 ## Domande preparate per i colloqui
 
