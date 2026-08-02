@@ -175,6 +175,10 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Insight**: Dan ha una capacità solida di pattern-matching organizzativo, ma tende a interpretare i segnali ambigui attraverso il problema che sta già vivendo (bias di conferma). Per il futuro: quando emergono segnali multipli e ambigui, vale la pena elencare esplicitamente più scenari alternativi con probabilità relative — non solo lo scenario più "comodo" da un punto di vista narrativo — prima di agire o comunicare la propria ipotesi al team.
 
+**Aggiornamento 27 luglio 2026 (day 247)**: il pattern si ripresenta quasi identico, a tre settimane di distanza. La nomina di [[alessandro-messina|Alessandro Messina]] a Presidente Esecutivo è seguita da una comunicazione interna con gli stessi marcatori del 3/7: linguaggio formale ("vi convochiamo... decisioni definitive"), target ristretto (solo team prodotto, Sales esplicitamente escluso), nessun contesto pregresso condiviso su esito o stato della due diligence. Questa volta Dan applica esplicitamente la lezione del caso precedente: invece di ancorarsi a un'unica ipotesi, elenca tre scenari con probabilità relative (chiusura/riduzione drastica ~55%, ridefinizione perimetro ~30%, nuova direzione con Messina ~15%) — un'applicazione diretta dell'insight di giugno. Anche la risposta comportamentale è coerente col pattern: nessuna ricerca affannosa di informazioni extra, ma una decisione esplicita di trattare i colloqui della settimana come "piano A, non un'opzione".
+
+**Insight aggiuntivo (27/7/2026)**: quando lo stesso schema di segnali deboli si ripete a distanza di settimane nella stessa organizzazione, vale la pena trattarlo come un pattern riconosciuto dell'azienda stessa (probabilmente riflette come il board comunica le decisioni sensibili), non solo come un caso isolato da interpretare da zero. Dan ha effettivamente applicato la lezione di giugno (scenari multipli invece di ipotesi singola) — segnale di apprendimento reale dal pattern, non solo di riconoscimento teorico.
+
 ---
 
 ## Top 3 pattern per impatto trasversale
