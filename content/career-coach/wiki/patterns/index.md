@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-07-22
+updated: 2026-07-30
 tags: [patterns, index]
 ---
 
@@ -69,6 +69,10 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Muffin — aggiornamento settimana 20-22 luglio 2026 (day 246)**: il 22/7 Medicilio comunica il rifiuto — a differenza dei capitoli chiusi senza rimpianti finora (Ancora, Tenth Revolution), questo rifiuto colpisce più duramente perché Medicilio era posizionata in alto nel ranking delle candidature per fit culturale. Dan lo descrive esplicitamente come "il momento più difficile della ricerca": l'ansia sale non per la qualità del match mancato, ma per il vincolo economico reale (la riduzione ore Muffin ha una durata definita di 2 mesi, e non c'è ancora un'alternativa concreta all'orizzonte). Nello stesso periodo Muffin stessa rallenta (due diligence "lenta, un po' di noia"), togliendo anche la distrazione operativa. Variante del pattern: qui l'evento esterno (il rifiuto) non accelera una decisione — aggrava una pressione già in corso, senza offrire una via d'uscita alternativa. L'unico contrappeso energetico del periodo è un progetto personale (Fantapick) vicino al lancio, non collegato a Muffin.
 
 **Insight aggiuntivo (22/7/2026)**: quando la ricerca attiva prosegue per settimane senza un esito positivo, il rischio non è solo l'ansia crescente ma anche l'esaurimento delle fonti di energia compensativa — finora Fantapick ha retto quel ruolo, ma è un progetto in fase di chiusura (verso community/manutenzione), non una fonte di energia rinnovabile all'infinito. Da monitorare nelle prossime settimane: cosa sostituirà Fantapick come valvola di sfogo se la ricerca lavoro continua a non chiudersi.
+
+**Muffin — aggiornamento settimana 27-30 luglio 2026 (day 247-249)**: la settimana mostra la convergenza più netta finora tra i due lati del pattern. Nello stesso arco di giorni in cui Muffin genera una nuova fonte di incertezza organizzativa (nomina di Messina + convocazione team prodotto, 27-29/7 — → Pattern 8), la ricerca lavoro entra nella fase più densa da quando è stata aperta: colloquio Datapizza (27/7), HR call Smartness + tecnico Levels lo stesso giorno (29/7, in coincidenza diretta con la convocazione Muffin delle 9:15), colloquio CEO/COO Freename (30/7). A differenza delle settimane precedenti, qui non è un singolo evento esterno ad accelerare una decisione — è il volume stesso di processi paralleli in stato avanzato a diventare il fattore stabilizzante: Dan ha più opzioni reali in corso proprio mentre l'incertezza interna su Muffin si riaffaccia, riducendo la dipendenza psicologica dall'esito di un singolo colloquio (a differenza del colpo subito con il rifiuto Medicilio il 22/7).
+
+**Insight aggiuntivo (30/7/2026)**: la strategia di "non mettere tutte le uova in un solo paniere" — mantenere attivi contemporaneamente più processi in stato avanzato — sembra funzionare anche come contromisura emotiva, non solo come tattica di ricerca: l'ansia da singolo rifiuto (Medicilio) è strutturalmente diversa dall'ansia distribuita su quattro processi in corso. Per il futuro: quando la ricerca è sotto pressione di tempo, accelerare il numero di processi paralleli in stato avanzato non è solo più efficiente statisticamente — riduce anche il rischio di un singolo evento esterno negativo che destabilizza in modo sproporzionato (variante difensiva del pattern).
 
 ---
 
