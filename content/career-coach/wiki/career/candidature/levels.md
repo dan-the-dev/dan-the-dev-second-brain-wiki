@@ -75,7 +75,7 @@ Membro chiave del team (entrato come SW engineer, cresciuto verso ruolo simil te
 |------|-------|------|
 | 1 — Screening CV + call Welyk | ✅ | |
 | 2 — Colloquio tecnico con Welik (29/07) | ✅ | Architettura + infra + tech + esperienze |
-| 3 — Colloquio tecnico con team Levels | In attesa | Sfide reali di architettura, requisiti non definiti |
+| 3 — Colloquio tecnico con team Levels | ⏳ In attesa conferma | Slot proposti: mer pomeriggio o ven pomeriggio (settimana del 04/08) |
 | 4 — Colloquio culturale/motivazionale founder | In attesa | |
 
 ## Note post colloquio tecnico (29/07)

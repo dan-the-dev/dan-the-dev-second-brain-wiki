@@ -65,7 +65,7 @@ https://www.linkedin.com/jobs/...
 |------|-------|------|
 | TestGorilla (Critical Thinking + video questions) | ✅ Completato | 23/07 |
 | HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
-| Technical challenge ~1h (PHP, JS, Node) | ⏳ Prossimo | — |
+| Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna, in attesa risposta |
 | Review esercizio da parte del PM | In attesa | — |
 | Call con PM | In attesa | — |
 | Call con CDO (?) | In attesa | — |

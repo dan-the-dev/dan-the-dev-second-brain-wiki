@@ -84,7 +84,7 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 |------|-------|------|
 | Screening con Rob (DeFinitive) | ✅ 27/07 | Fit giudicato molto forte da Rob |
 | 1 — CEO + COO (Davide + Mattia) | ✅ 30/07 | Call andata abbastanza bene |
-| 2 — CTO Paolo + PM | ⏳ Settimana prossima | Dan riceverà link per schedulare |
+| 2 — CTO Paolo + PM | ⏳ Giovedì 07/08 ore 12:00 | Confermato |
 | 3 — Advisor Entrée Capital | In attesa | |
 
 ## Note post call CEO + COO (30/07 — Davide Vicini + Mattia Martone)
