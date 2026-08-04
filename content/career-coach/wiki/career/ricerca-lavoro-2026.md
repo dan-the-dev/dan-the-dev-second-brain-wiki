@@ -32,7 +32,7 @@ tags: [career, job-search, 2026]
 
 | Azienda | Ruolo | Stato | RAL | Next step |
 |---------|-------|-------|-----|-----------|
-| [[candidature/smartness\|Smartness]] | Fullstack Team Leader | 🟠 Challenge completata (problemi tecnici) | €75k + ticket + equity | 2ª challenge JS ⚠️ piattaforma down — in attesa risposta Anna |
+| [[candidature/smartness\|Smartness]] | Fullstack TL Node.js/Vue.js | 🔴 Colloquio domani 05/08 ore 17:00 | €75k + equity | Pivot su nuovo ruolo Node/Vue — call con Anna domani |
 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 Ultimi 2 step in scheduling | Max €65k (gap €5k) | Tecnico ✅ 29/07 — team tech + founders in settimana |
 | [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🟠 Test tecnico → HR 16/08 | Max €80k | ⚠️ 10gg smart/trimestre, consulenza, lento |
 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |

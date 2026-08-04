@@ -11,7 +11,7 @@ tags: [job-search, candidatura, 2026]
 # Smartness — Fullstack Team Leader (SmartPMS)
 
 https://www.linkedin.com/jobs/...
-
+Seconda job description -> https://people-jobs.com/smartness/position/fullstack-team-leader-node-js-vue-js-a28fa4e1-e5a8-47a4-b396-aaaccc380612
 ## L'azienda
 
 **Sito**: [smartness.io](https://smartness.io)
@@ -25,7 +25,8 @@ https://www.linkedin.com/jobs/...
 
 ## Il ruolo
 
-**Titolo**: Fullstack Team Leader — SmartPMS Engineering
+**Titolo originale**: Fullstack Team Leader — SmartPMS Engineering (PHP)
+**Nuovo ruolo proposto**: Fullstack Team Leader — Node.js & Vue.js (colloquio 05/08)
 **Team**: SmartPMS Engineering team
 **Natura**: Leadership + hands-on coding (non ruolo puramente manageriale)
 **Location**: Remote ✅
@@ -65,11 +66,9 @@ https://www.linkedin.com/jobs/...
 |------|-------|------|
 | TestGorilla (Critical Thinking + video questions) | ✅ Completato | 23/07 |
 | HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
-| Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna, in attesa risposta |
-| Review esercizio da parte del PM | In attesa | — |
-| Call con PM | In attesa | — |
-| Call con CDO (?) | In attesa | — |
-| Offerta | In attesa | — |
+| Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna |
+| **Colloquio con Anna — ruolo Node.js/Vue.js** | ⏳ Domani 05/08 ore 17:00 | Nuovo ruolo proposto: Fullstack TL Node.js & Vue.js |
+| Step successivi | In attesa | — |
 
 ⚠️ Agosto = possibili rallentamenti per ferie.
 
