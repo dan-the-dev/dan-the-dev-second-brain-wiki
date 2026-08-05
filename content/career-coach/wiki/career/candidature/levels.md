@@ -75,7 +75,7 @@ Membro chiave del team (entrato come SW engineer, cresciuto verso ruolo simil te
 |------|-------|------|
 | 1 — Screening CV + call Welyk | ✅ | |
 | 2 — Colloquio tecnico con Welik (29/07) | ✅ | Architettura + infra + tech + esperienze |
-| 3 — Colloquio tecnico con team Levels | ⏳ In attesa conferma | Slot proposti: mer pomeriggio o ven pomeriggio (settimana del 04/08) |
+| 3 — Colloquio tecnico con team Levels | ✅ 05/08 | Esercizio pipeline documenti + discussione approccio XP — vedi note |
 | 4 — Colloquio culturale/motivazionale founder | In attesa | |
 
 ## Note post colloquio tecnico (29/07)
@@ -211,6 +211,20 @@ Risposta:
 4. **"L'espansione a food e pharma è già in corso o in roadmap?"** — valuta la scalabilità del rule engine e quanto il codice è già astratto per questo
 
 5. **"Come gestite il debito tecnico nelle 20k righe di CloudFormation?"** — capisce approccio pragmatismo vs qualità, allineamento XP
+
+## Note post colloquio team tech (05/08)
+
+**Esercizio**: pipeline documenti async (SQS, Step Functions, config-driven, aggregated view eventual consistency). Andato bene.
+
+**Segnale positivo**: Dan ha nominato problemi reali che il team aveva già percepito — riconosciuto esplicitamente durante la call. Ragazzi giovani, entusiasti, mente aperta, bravi tecnicamente.
+
+**Segnale di attenzione**: preoccupazione sul bilanciamento XP/TDD/trunk-based con la velocità. Gap culturale evidente ma con apertura. Opportunità di mini-academy interna — c'è tantissimo lavoro da fare su best practices, technical excellence, pratiche agili.
+
+**Gap confermato**: CloudFormation infra (~20k righe), modifiche settimanali — da studiare attivamente.
+
+**Non chiesto**: frequenza presenza ufficio (menzionato 1-2 giorni). Da chiarire con i founder.
+
+**Valutazione**: se RAL raggiunge almeno livello Muffin attuale → potrebbe essere prima opzione.
 
 ## Domande da tenere per i founder (step 4)
 
