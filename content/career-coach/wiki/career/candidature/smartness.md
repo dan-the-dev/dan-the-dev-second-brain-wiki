@@ -67,8 +67,8 @@ Seconda job description -> https://people-jobs.com/smartness/position/fullstack-
 | TestGorilla (Critical Thinking + video questions) | ✅ Completato | 23/07 |
 | HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
 | Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna |
-| **Colloquio con Anna — ruolo Node.js/Vue.js** | ⏳ Domani 05/08 ore 17:00 | Nuovo ruolo proposto: Fullstack TL Node.js & Vue.js |
-| Step successivi | In attesa | — |
+| **HM & Tech Interview — Emanuele Micheletti** | ✅ 05/08 ore 17:00 | Coding live a sorpresa — Dan si è impappinato ma ha ragionato a voce alta |
+| "Big over interview" | ⏳ A breve | Potrebbe includere coding — CTO/PO/futuro riporto (da confermare) |
 
 ⚠️ Agosto = possibili rallentamenti per ferie.
 
@@ -106,6 +106,50 @@ Dan parte già al top del range standard (€75K). Da chiarire nelle fasi succes
 - ⚠️ **Cultura hustle**: JD contiene segnali da leggere con attenzione — "work much harder than most", stress menzionato esplicitamente ("even though it might come with its stress"), disclaimer "we may need to part ways". Vale sondare in colloquio.
 - Hospitality tech: dominio nuovo ma internazionale e stimolante
 - RAL cap €75k — è il tetto, non il medio
+
+## Prep colloquio Emanuele Micheletti (05/08 ore 17:00)
+
+### Chi è Emanuele
+- SWE su **Smartpricing** (prodotto Smartness) — pricing engine per 5K+ hotel
+- Stack: Node.js, Kubernetes, Kafka, Nats, Redis, Opensearch, Docker
+- Ha **raddoppiato le performance del pricing engine** — orientato fortemente all'ottimizzazione
+- Ha creato una libreria di parsing usata da **80+ servizi interni**
+- Lead di un team di 3 su Smartpaying (nuovo prodotto CRM 2024)
+- Core maintainer di **mitmproxy** (44k stars su GitHub) — lavora in Rust, Swift, C
+- Ha sviluppato Proxelar (1k stars) — MITM proxy toolkit
+- Ha finanziato l'università con una web agency propria (Hekti)
+- Laurea Magistrale Finance Math Engineering @ PoliTo (2023)
+- Giovane (~26-27 anni) ma tecnicamente eccellente e con mentalità da builder
+
+### 5 domande probabili da Emanuele
+
+**Q1 — Node.js performance / profiling**
+> "Hai mai ottimizzato un servizio Node.js con problemi di performance? Com'hai identificato il bottleneck?"
+Ha raddoppiato le performance del pricing engine. Risposta: event loop blocking, profiling con clinic.js o node --prof, CPU-bound vs I/O-bound, caching strategico.
+
+**Q2 — Sistema distribuito: ordering e idempotenza**
+> "Come gestisci l'ordering dei messaggi e l'idempotenza in un sistema con più consumer in parallelo?"
+Stack con Kafka + Nats. Risposta: Kafka partition key per ordering per entità, idempotency key su ogni messaggio, upsert idempotente sul DB, deduplication window.
+
+**Q3 — Design: sistema real-time su migliaia di entità**
+> "Come progetteresti un sistema che aggiorna i prezzi di 5000+ hotel in base a dati in tempo reale?"
+È letteralmente il suo lavoro. Vogliono il ragionamento: fan-out strategy, caching per-hotel, invalidation, SLA per update latency.
+
+**Q4 — Leadership: gestire disaccordi tecnici**
+> "Com'hai gestito una situazione in cui il team aveva visioni diverse su una decisione architetturale?"
+Risposta: approccio XP di decisione collettiva, ADR per documentare, esempi concreti da Mymenu/Muffin.
+
+**Q5 — Vue.js gap**
+> "La nostra suite usa Vue.js — hai esperienza?"
+Risposta onesta: "Non è il mio framework primario, vengo da React. Stesso paradigma — composition API, Pinia. Ho già iniziato a guardarci."
+
+### 5 domande da fare tu
+
+1. "Ho visto che sei core maintainer di mitmproxy — come influenza il lavoro open source il modo in cui approcci il codice in produzione?"
+2. "Il pricing engine gestisce 5K+ hotel — com'è strutturata l'architettura per garantire latenza e consistenza in tempo reale?"
+3. "Avete sia Kafka che Nats — come avete deciso cosa va su uno vs l'altro?"
+4. "Smartpaying è un nuovo prodotto — quali trade-off hai fatto costruendolo da zero?"
+5. "Come team, quanto spazio c'è per introdurre nuove pratiche tecniche?"
 
 ## Note
 
