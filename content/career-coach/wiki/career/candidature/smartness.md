@@ -68,7 +68,7 @@ Seconda job description -> https://people-jobs.com/smartness/position/fullstack-
 | HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
 | Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna |
 | **HM & Tech Interview — Emanuele Micheletti** | ✅ 05/08 ore 17:00 | Coding live a sorpresa — Dan si è impappinato ma ha ragionato a voce alta |
-| "Big over interview" | ⏳ A breve | Potrebbe includere coding — CTO/PO/futuro riporto (da confermare) |
+| Colloquio CTO | ⏳ In scheduling serale | Originale 01/09 → anticipato su richiesta Dan (urgenza offerta Levels) |
 
 ⚠️ Agosto = possibili rallentamenti per ferie.
 

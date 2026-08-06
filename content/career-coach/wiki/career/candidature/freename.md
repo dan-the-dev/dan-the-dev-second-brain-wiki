@@ -87,6 +87,41 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 | 2 — CTO Paolo + PM | ⏳ Giovedì 07/08 ore 12:00 | Confermato |
 | 3 — Advisor Entrée Capital | In attesa | |
 
+## Prep colloquio CTO Paolo Domenighetti (07/08 ore 12:00)
+
+### Chi è Paolo
+CTO di Freename, focus su R&D e direction tecnica di lungo periodo. Non gestisce la delivery quotidiana — è esattamente per questo che cercano un Engineering Lead. Il colloquio sarà su visione tecnica, AI development philosophy e fit strategico più che su dettagli implementativi.
+
+### 5 domande probabili da Paolo
+
+**Q1 — AI development: filosofia e pratiche concrete**
+> "Come usi Claude Code nel flusso quotidiano? Cosa hai imparato su come integrarlo senza abbassare la qualità?"
+È la domanda più importante. Risposta: XP come guardrail (TDD, review, deploy gates), agenti custom per automatizzare i controlli di qualità, la filosofia "AI amplifica l'eccellenza, non la bypassa."
+
+**Q2 — Codebase drift: come previeni che l'AI degradi il codice nel tempo?**
+> "Hai mai visto una codebase degradare per uso non controllato dell'AI? Come si previene?"
+È letteralmente la responsabilità #2 del ruolo. Risposta: trunk-based development (diff piccoli e reviewabili), test coverage automatica come gate, agenti che fanno review disciplinata anche quando si è sotto pressione.
+
+**Q3 — Velocity del team di 5 senior senza perdere qualità**
+> "Come gestiresti la velocity di un team di senior engineers che vogliono muoversi veloci?"
+Risposta con i numeri: Muffin 1/mese → 4/giorno, failure rate 5 → 0.8. La velocità aumenta con le pratiche XP, non diminuisce.
+
+**Q4 — Web3 / dominio che non conosci**
+> "Hai esperienza con sistemi blockchain o Web3?"
+Risposta onesta: no esperienza diretta. Ma Dan ha imparato proptech (Casavo), fintech (Muffin), foodtech (Mymenu). L'approccio è sistematico: domanda "why", legge specifiche, costruisce mentale model veloce.
+
+**Q5 — Product direction da engineering**
+> "Come porta engineering idee e direction al prodotto, non solo execution?"
+Dan ha fatto questo a Muffin senza CTO sopra. Esempi concreti: ha proposto cambi architetturali, ha negoziato roadmap con PM, ha introdotto metriche di delivery come input alle decisioni di prodotto.
+
+### 5 domande da fare io
+
+1. **"Come CTO focalizzato su R&D, come immagini la collaborazione con l'Engineering Lead sulla delivery quotidiana? Dove passa il confine delle responsabilità?"** — fondamentale capire il working relationship reale
+2. **"Sulla codebase attuale — quanto 'drift' c'è già dall'uso intensivo di AI? Qual è la priorità #1 per il nuovo EL nei primi 90 giorni?"** — capisce cosa Dan trova quando entra
+3. **"L'exit plan a 2 anni — cosa succede al team engineering? C'è una tesi su come un buyer valuterebbe il team tecnico?"** — la preoccupazione principale emersa con CEO+COO
+4. **"Qual è il vostro stack tecnico principale? E come usate Claude Code nel workflow — hai esempi di agenti che avete già in produzione?"** — capisce la maturità AI del team
+5. **"Frequenza trasferte a Lugano — quante volte al mese, e come sono strutturate quelle giornate?"** — non chiesto al CEO+COO, va chiarito ora
+
 ## Note post call CEO + COO (30/07 — Davide Vicini + Mattia Martone)
 
 **Impressione**: abbastanza bene. Contesto molto demanding e pressante, ma stimolante.
