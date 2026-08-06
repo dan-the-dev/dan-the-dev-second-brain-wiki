@@ -84,8 +84,23 @@ Il team usa Claude daily in produzione. Stack probabilmente TypeScript/Node data
 |------|-------|------|
 | Screening con Rob (DeFinitive) | ✅ 27/07 | Fit giudicato molto forte da Rob |
 | 1 — CEO + COO (Davide + Mattia) | ✅ 30/07 | Call andata abbastanza bene |
-| 2 — CTO Paolo + PM | ⏳ Giovedì 07/08 ore 12:00 | Confermato |
+| 2 — CTO Paolo Domenighetti | ✅ 07/08 ore 12:00 | Red flags significative — vedi note |
 | 3 — Advisor Entrée Capital | In attesa | |
+
+## Note post colloquio CTO (07/08 — Paolo Domenighetti)
+
+**Impressione personale**: Paolo persona piacevole, calmo, sereno. Prima parte andata bene su Dan e AI philosophy — Paolo si è dichiarato allineato.
+
+**Red flags emerse:**
+- 🔴 **Metriche = linee di codice** — valutano la produttività così. In un contesto AI-first è la ricetta per il codebase drift che il ruolo dovrebbe prevenire.
+- 🔴 **Formazione: sì ma no** — "incoraggiata" ma no budget, no tempo. Contraddice il "level up del team" come responsabilità core.
+- 🔴 **TDD: silenzio** — Dan ha chiesto direttamente "chi non sa fare TDD deve studiare a casa?". Paolo non ha risposto.
+- ⚠️ **Feature factory glissata** — Dan ha sollevato il rischio, Paolo ha detto "non è un problema che abbiamo" senza spiegare perché.
+- ⚠️ **Impatto mai discusso** — outcome vs output non è un tema che sembra interessarli.
+
+**Valutazione**: divergenza valoriale significativa. Dan crede che probabilmente non proseguiranno. Se proseguissero, l'unico razionale sarebbe scommettere sull'exit a 2 anni (RAL + stock options massimizzati). Ma dopo Muffin, aggiungere instabilità valoriale non è appetibile.
+
+[DECISIONE] Freename scende significativamente nelle priorità.
 
 ## Prep colloquio CTO Paolo Domenighetti (07/08 ore 12:00)
 

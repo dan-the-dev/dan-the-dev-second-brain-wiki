@@ -36,7 +36,7 @@ tags: [career, job-search, 2026]
 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 Ultimi 2 step in scheduling | Max €65k (gap €5k) | Tecnico ✅ 29/07 — team tech + founders in settimana |
 | [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🟠 Test tecnico → HR 16/08 | Max €80k | ⚠️ 10gg smart/trimestre, consulenza, lento |
 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |
-| [[candidature/freename\|Freename]] | Engineering Lead | 🟠 CTO call giovedì 07/08 | €85k + bonus + stock | CEO+COO ✅ 30/07 — CTO Paolo 07/08 ore 12:00 |
+| [[candidature/freename\|Freename]] | Engineering Lead | 🔴 Red flags valoriali — in attesa risposta | €85k + bonus + stock | CTO ✅ 07/08 — divergenza su metriche, formazione, TDD |
 | [[candidature/datapizza\|Datapizza]] | Founding AI Engineer | 🟡 Email da inviare oggi | n.d. | Call 27/07 ✅ — invia email con materiale tecnico entro domani |
 | [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 Candidatura inviata | $180-240k | Attesa risposta |
 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 Candidatura inviata | $144k+ (Zone 3) | Attesa risposta |
