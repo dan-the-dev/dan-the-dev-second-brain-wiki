@@ -4,7 +4,7 @@ company: Yellow Tech (via Universo)
 role: Senior Software Engineer - AI
 status: in-progress
 applied: 2026-07-22
-updated: 2026-07-27
+updated: 2026-08-07
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -62,11 +62,11 @@ Recruiter: Maria Giulia @ Universo Agenzia per il Lavoro
 | Step | Stato | Note |
 |------|-------|------|
 | Screening Maria Giulia (Universo) | ✅ 27/07 | Call andata bene |
-| Video quiz async (6 domande) | ⏳ Da registrare | Domande ricevute in anteprima da Maria Giulia ✅ |
-| HR (Maria Giulia) | ⏳ Maria Giulia rientra il **16 agosto** | **18 giorni di attesa minimo** |
-| Colloquio tecnico team tech | In attesa | |
+| Video quiz async (6 domande) | ✅ Completato | — |
+| HR call Yellow Tech | ✅ 07/08 | Con HR junior (non Maria Giulia). Vedi note post-call. |
+| Colloquio tecnico team tech | ⏳ In attesa | Se passano a step successivo |
 
-⚠️ **Processo molto lento** — nessuna risposta prima del 16 agosto.
+⚠️ **Attesa**: Dan si aspetta che chiudano — ha sondato la presenza e la risposta è stata chiara. Vediamo.
 
 → **[[yellow-tech-quiz|📋 Appunti per il video quiz]]**
 
@@ -98,11 +98,26 @@ Il ruolo di Dan è sul lato **AI Agents** (sviluppo), non formazione.
 - ⚠️ **Processo lentissimo** — Aug 16+ per sentirli. Nel frattempo altri processi avanzano.
 - **IC puro** — nessuna crescita verso lead formale nell'immediato
 
+## Note post HR call (07/08)
+
+- **HR Junior** — non Maria Giulia. Meno fluida come comunicazione, meno informativa.
+- **Ruolo confermato**: focus IAI, coerente con quanto descritto da Maria Giulia. Interessante.
+- **RAL confermata**: fino a €80K + buoni pasto, come da annuncio. Nessun margine oltre.
+- **Presenza: 3 giorni/mese remoto** — confermato con bassa flessibilità. Praticamente full-time Corvetto.
+
+**Il problema concreto della presenza**:
+- Corvetto da Lainate = ~45 min di metro a tratta
+- Abbonamento: ~€500-600/anno di costo aggiuntivo
+- Allenamento (inizio ore 7): quasi impossibile da conciliare con il pendolarismo quotidiano
+- Per bilanciare i costi logistici e il discomfort, Dan dovrebbe chiedere ~€85K — il che rende l'offerta quasi impossibile
+
+**Colpo di grazia**: l'HR era a Corvetto anche lui, Dan ci ha fatto i conti in diretta.
+
 ## Valutazione complessiva
 
-Interessante per la fit tecnica (portare XP in team AI-junior), ma con due problemi seri al momento non negoziabili: policy smart working e natura consulenza. Se Yellow Tech avesse apertura per accettare un profilo che porta opinioni contrarie con serenità e trovasse un modo per bilanciare la presenza, i presupposti ci sono. Ma il segnale sulla cultura della presenza è pesante.
+Il ruolo tecnico è genuinamente interessante — portare XP/TDD in un team AI-junior è la proposta di valore giusta. Ma la policy di presenza è un vincolo strutturale, non negoziabile, e la logistica da Lainate a Corvetto tutti i giorni ha un costo reale (economico, fisico, qualità di vita).
 
-**Verdict**: si va avanti, ma è la candidatura con più punti interrogativi del processo attivo.
+**Verdict**: 🔴 Molto difficile. Dan attende feedback sul prossimo step, ma non si aspetta — né auspica — di andare avanti a queste condizioni.
 
 ---
 

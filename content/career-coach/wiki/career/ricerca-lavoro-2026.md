@@ -3,7 +3,7 @@ title: Ricerca Lavoro 2026
 started: 2026-07-03
 status: active
 urgency: high
-updated: 2026-07-23
+updated: 2026-08-07
 tags: [career, job-search, 2026]
 ---
 
@@ -12,70 +12,77 @@ tags: [career, job-search, 2026]
 ## Contesto
 
 **Avviata attivamente**: 3 luglio 2026
-**Trigger**: Muffin comunica problemi di liquidità — 2 mesi di riduzione ore al 50%. Dan firma ma cerca subito.
-**Urgenza**: 🔴 Alta — finestra di ~2 mesi per trovare qualcosa di buono.
+**Trigger**: Muffin comunica problemi di liquidità — riduzione ore al 50%, confermata anche per settembre.
+**Urgenza**: 🔴 Alta — Levels potrebbe fare offerta entro questa settimana.
 
 **Cosa cerca Dan**:
 - Contesto tecnico sano, cultura di feedback e crescita
-- Ruolo da Engineering Lead / Head of Engineering con responsabilità reale su persone e architettura
+- Ruolo da Engineering Lead / Tech Lead con responsabilità reale su persone e architettura
 - AI-assisted workflows come modo di lavorare, non come buzzword
-- RAL superiore al 50% di Muffin attuale
-- Preferibilmente remote-first o ibrido flessibile (da Lainate, Milano è raggiungibile)
+- RAL ≥ €70k
+- Remote-first o ibrido flessibile (da Lainate, Milano è raggiungibile)
 
 **Criteri di scelta**: allineamento culturale (XP, ownership, feedback diretto, autonomia) + crescita economica + contesto non tossico.
 
-→ **[[ranking|Ranking completo aggiornato]]**
+---
+
+## 🥊 Levels vs Smartness — la scelta
+
+Queste sono le due opportunità reali sul tavolo. Tutto il resto è chiuso o in pausa.
+
+### [[candidature/levels|Levels]] — Startup piccolissima, impatto massimo
+
+| Voce | Dettaglio |
+|------|-----------|
+| **Ruolo** | Software Engineer Backend → path CTO esplicito |
+| **RAL** | €55-65k ⚠️ sotto target. In negoziazione via Guido |
+| **Team** | 12 persone, metà sales. Dan sarebbe il più senior |
+| **Stage** | Early — €400k ARR, ~€1M funding, SAFE non firmato |
+| **Stack** | TypeScript/Node.js, AWS Lambda + Step Functions, Next.js, CloudFormation |
+| **Remote** | Negoziabile per profili eccezionali |
+| **Timing** | Offerta possibile entro questa settimana |
+
+**Pro**: path CTO concreto e immediato, autonomia totale, impatto visibile dal giorno 1, AI dal day one, XP da costruire da zero su terreno vergine, team entusiasta e ricettivo.
+
+**Contro**: RAL sotto target (gap €5-15k), funding leggero e runway incerto, infra gap da coprire (CloudFormation), team molto giovane — meno da cui imparare dai pari, nessuna struttura sopra Dan.
+
+**La domanda chiave**: sei pronto a scommettere sulla crescita di una startup early con €400k ARR, sapendo che potresti ritrovarti CTO in 12 mesi o dover cercare di nuovo in 6?
 
 ---
 
-## 🔥 Candidature con processo attivo (priorità ora)
+### [[candidature/smartness|Smartness]] — Scale-up strutturata, crescita più sicura
 
-| Azienda | Ruolo | Stato | RAL | Next step |
-|---------|-------|-------|-----|-----------|
-| [[candidature/smartness\|Smartness]] | Fullstack TL Node.js/Vue.js | 🔴 Colloquio domani 05/08 ore 17:00 | €75k + equity | Pivot su nuovo ruolo Node/Vue — call con Anna domani |
-| [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 Ultimi 2 step in scheduling | Max €65k (gap €5k) | Tecnico ✅ 29/07 — team tech + founders in settimana |
-| [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🟠 Test tecnico → HR 16/08 | Max €80k | ⚠️ 10gg smart/trimestre, consulenza, lento |
-| [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Prima call con Cristiano | Equity (cash da chiarire) | Risposta inviata — attesa slot |
-| [[candidature/freename\|Freename]] | Engineering Lead | 🔴 Red flags valoriali — in attesa risposta | €85k + bonus + stock | CTO ✅ 07/08 — divergenza su metriche, formazione, TDD |
-| [[candidature/datapizza\|Datapizza]] | Founding AI Engineer | 🟡 Email da inviare oggi | n.d. | Call 27/07 ✅ — invia email con materiale tecnico entro domani |
-| [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 Candidatura inviata | $180-240k | Attesa risposta |
-| [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 Candidatura inviata | $144k+ (Zone 3) | Attesa risposta |
-| [[candidature/lago\|Lago]] | Product Engineer | 🔵 Candidatura inviata | €70-100k | Attesa risposta |
+| Voce | Dettaglio |
+|------|-----------|
+| **Ruolo** | Fullstack Team Leader Node.js & Vue.js |
+| **RAL** | Fino a €75k + equity ✅ |
+| **Team** | ~130 persone totali, altri TL presenti, struttura HR |
+| **Stage** | Scale-up — €47M Series B, 5.000+ clienti, 40+ paesi |
+| **Stack** | Node.js, Vue.js, Kafka, Nats, Redis, Kubernetes |
+| **Remote** | Full remote ✅ |
+| **Timing** | Big over interview CTO da schedulare (slot serale in arrivo) |
+
+**Pro**: RAL più alta (€75k), colleghi senior da cui imparare, struttura di crescita definita, performance review sistematizzata, budget formazione, realtà già affermata con traction reale.
+
+**Contro**: Vue.js gap (React → Vue), JD con warning cultura hustle ("work much harder", stress, "part ways"), impatto meno diretto su architettura, potenzialmente più politica interna, big over interview ancora da fare.
+
+**La domanda chiave**: vuoi un ambiente più strutturato e colleghi forti con cui confrontarti, accettando meno ownership e un possibile contesto ad alta pressione?
 
 ---
 
-## Candidature attive (in attesa)
+### Il trade-off in una riga
 
-| # | Azienda | Ruolo | Stato | RAL | Data |
-|---|---------|-------|-------|-----|------|
-| 1 | [[candidature/tonsser\|Tonsser]] | Lead Backend Engineer | 🔵 In corso | n.d. | 2026-07-03 |
-| 2 | [[candidature/pakira-love-it-baby\|Love It Baby]] | Founding Engineer | 🔵 In corso | equity 1.5-3% | 2026-07-03 |
-| 3 | [[candidature/weroad\|WeRoad]] | Head of Product Engineering | 🔵 In corso | €90-110k+bonus | 2026-07-03 |
-| 4 | [[candidature/exein\|Exein]] | Head of Engineering | 🔵 In corso | €120-150k | 2026-07-03 |
-| 5 | [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔵 In corso | €65-80k+bonus | 2026-07-03 |
-| 6 | [[candidature/kapa\|kapa.ai]] | Software Engineer Full-stack | 🔵 In corso | $100-150k+equity | 2026-07-03 |
-| 7 | [[candidature/consortia\|Consortia]] | Senior Product Engineer | 🔵 In corso | £90-110k | 2026-07-03 |
-| 8 | [[candidature/alfadocs\|AlfaDocs]] | Senior Full Stack/Backend | 🔵 In corso | €60-70k | 2026-07-03 |
-| 9 | [[candidature/bain\|Bain & Company]] | Lead Software Engineering | 🔵 In corso | €66k+10%bonus | 2026-07-03 |
-| 10 | [[candidature/satispay\|Satispay]] | Staff Software Engineer | 🔵 In corso | €64-88k | 2026-07-03 |
-| 11 | [[candidature/klarna\|Klarna]] | Senior Fullstack Engineer | 🔵 In corso | €63-70k | 2026-07-03 |
-| 12 | [[candidature/mimica\|Mimica]] | Head of Engineering | 🔵 In corso | n.d. + stock | 2026-07-03 |
-| 13 | [[candidature/truelayer\|TrueLayer]] | Senior Software Engineer | 🔵 In corso | €65-79k + equity | 2026-07-03 |
-| 14 | [[candidature/safi\|Safi]] | Staff SWE / Tech Lead | 🔵 In corso | n.d. | 2026-07-03 |
-| 15 | [[candidature/kalepa\|Kalepa]] | Software Engineer | 🔵 In corso | n.d. | 2026-07-03 |
-| 16 | [[candidature/rain\|Rain]] | Tech Lead | 🔵 In corso | n.d. | 2026-07-03 |
-| 17 | [[candidature/shippypro\|ShippyPro]] | Team Leader, Fulfillment Pod | 🔵 In corso | €52-72k | 2026-07-10 |
-| 18 | Docebo | Senior Product Engineer II | 🔵 In corso | €54-70k | 2026-07-05 |
-| 19 | [[candidature/smartness\|Smartness]] | Fullstack Team Leader | 🟠 Processo attivo | €45-75k + equity | 2026-07-22 |
-| 20 | [[candidature/lago\|Lago]] | Product Engineer | 🔵 In corso | €70-100k | 2026-07-22 |
-| 21 | [[candidature/levels\|Levels]] | Software Engineer Backend | 🟠 Processo attivo | Max €65k | 2026-07-22 |
-| 22 | [[candidature/universo\|Universo]] | Senior SWE AI Solutions | 🟠 Processo attivo | €60-80k | 2026-07-22 |
-| 23 | [[candidature/mira\|Mira (Your Own Circle)]] | Founding CTO | 🟠 Processo attivo | Equity | 2026-07-21 |
-| 24 | [[candidature/dub\|Dub]] | Senior Software Engineer | 🔵 In corso | $180-240k | 2026-07-22 |
-| 25 | [[candidature/sourcegraph\|Sourcegraph]] | Software Engineer/Team Lead IC5 | 🔵 In corso | $144k+ | 2026-07-14 |
-| 26 | [[candidature/doctolib\|Doctolib]] | Senior/Staff AI Engineer | 🔵 In corso | €70-100k (Staff) | 2026-07-25 |
-| 27 | [[candidature/datapizza\|Datapizza]] | Founding AI Engineer (TBD) | 🟠 Processo attivo | n.d. | 2026-07-27 |
-| 28 | [[candidature/duvo\|Duvo]] | Product Engineer | 🔵 In corso | €110-220k | 2026-07-27 |
+**Levels** = rischio startup, impatto enorme, RAL più bassa, nessuna struttura sopra.
+**Smartness** = sicurezza relativa, colleghi forti, RAL più alta, meno autonomia.
+
+---
+
+## 🟡 In osservazione
+
+| Azienda | Ruolo | Stato | RAL | Note |
+|---------|-------|-------|-----|------|
+| [[candidature/universo\|Yellow Tech (via Universo)]] | Senior SWE AI | 🔴 HR call fatta (07/08) — attesa esito | Max €80k | ❌ 3gg/mese remoto confermato, bassa flessibilità. Da Lainate insostenibile. |
+| [[candidature/freename\|Freename]] | Engineering Lead | 🔴 In pausa — red flags | €85k + bonus + stock | CTO call 07/08: divergenza valoriale su metriche, formazione, TDD |
 
 ---
 
@@ -84,13 +91,38 @@ tags: [career, job-search, 2026]
 | Azienda | Ruolo | Esito | Note |
 |---------|-------|-------|------|
 | [[candidature/medicilio\|Medicilio]] | Engineering Lead | 🔴 Rifiutato (22/07) | Feedback: facilitation/openness gap |
-| [[candidature/tenth-revolution\|Tenth Revolution Group]] | Software Engineering Team Lead | 🔴 Rifiutato (10/07) | Azienda anonima, same-day reject |
-| [[candidature/deel\|Deel]] | Tech Lead Infra | 🔴 Rifiutato | Mismatch tecnico (infra puro) |
-| Shopfully | Senior Backend SWE | 🔴 Rifiutato | — |
-| [[candidature/mollie\|Mollie]] | Engineering Manager | 🔴 Scaduta (nessuna risposta) | Location Amsterdam non confermata remote |
+| [[candidature/tenth-revolution\|Tenth Revolution Group]] | SWE Team Lead | 🔴 Rifiutato (10/07) | Same-day reject |
+| [[candidature/deel\|Deel]] | Tech Lead Infra | 🔴 Rifiutato | Mismatch tecnico |
+| [[candidature/mollie\|Mollie]] | Engineering Manager | 🔴 Nessuna risposta | — |
 | [[candidature/lexroom\|Lexroom]] | Backend Engineer | 🔴 Rifiutato | — |
-| Ancora | Staff Software Engineer | 🔴 Chiuso (23/06) | Mismatch culturale |
-| Keyrock | ? | 🔴 Non adatto | Dan non idoneo |
+| Ancora | Staff SWE | 🔴 Chiuso (23/06) | Mismatch culturale |
+| Keyrock | — | 🔴 Non adatto | — |
+| Shopfully | Senior Backend SWE | 🔴 Rifiutato | — |
+| [[candidature/mira\|Mira]] | Founding CTO | 🔴 Persa | Nessuna risposta |
+| [[candidature/datapizza\|Datapizza]] | Founding AI Engineer | 🔴 Persa | Email non inviata in tempo |
+| [[candidature/dub\|Dub]] | Senior SWE | 🔴 Nessuna risposta | — |
+| [[candidature/sourcegraph\|Sourcegraph]] | SWE/TL IC5 | 🔴 Nessuna risposta | — |
+| [[candidature/lago\|Lago]] | Product Engineer | 🔴 Nessuna risposta | — |
+| [[candidature/tonsser\|Tonsser]] | Lead Backend Engineer | 🔴 Nessuna risposta | — |
+| [[candidature/weroad\|WeRoad]] | Head of Product Engineering | 🔴 Nessuna risposta | — |
+| [[candidature/exein\|Exein]] | Head of Engineering | 🔴 Nessuna risposta | — |
+| [[candidature/gemmo\|Gemmo AI]] | Head of Engineering | 🔴 Nessuna risposta | — |
+| [[candidature/kapa\|kapa.ai]] | SWE Full-stack | 🔴 Nessuna risposta | — |
+| [[candidature/consortia\|Consortia]] | Senior Product Engineer | 🔴 Nessuna risposta | — |
+| [[candidature/alfadocs\|AlfaDocs]] | Senior Full Stack | 🔴 Nessuna risposta | — |
+| [[candidature/bain\|Bain & Company]] | Lead SWE | 🔴 Nessuna risposta | — |
+| [[candidature/satispay\|Satispay]] | Staff SWE | 🔴 Nessuna risposta | — |
+| [[candidature/klarna\|Klarna]] | Senior Fullstack | 🔴 Nessuna risposta | — |
+| [[candidature/mimica\|Mimica]] | Head of Engineering | 🔴 Nessuna risposta | — |
+| [[candidature/truelayer\|TrueLayer]] | Senior SWE | 🔴 Nessuna risposta | — |
+| [[candidature/safi\|Safi]] | Staff SWE / TL | 🔴 Nessuna risposta | — |
+| [[candidature/kalepa\|Kalepa]] | SWE | 🔴 Nessuna risposta | — |
+| [[candidature/rain\|Rain]] | Tech Lead | 🔴 Nessuna risposta | — |
+| [[candidature/shippypro\|ShippyPro]] | Team Leader | 🔴 Nessuna risposta | — |
+| Docebo | Senior Product Engineer II | 🔴 Nessuna risposta | — |
+| [[candidature/doctolib\|Doctolib]] | Senior/Staff AI Engineer | 🔴 Nessuna risposta | — |
+| [[candidature/duvo\|Duvo]] | Product Engineer | 🔴 Nessuna risposta | — |
+| [[candidature/pakira-love-it-baby\|Love It Baby]] | Founding Engineer | 🔴 Nessuna risposta | — |
 
 ---
 
@@ -98,4 +130,3 @@ tags: [career, job-search, 2026]
 
 - Ogni candidatura ha una pagina dedicata in `wiki/career/candidature/`
 - Aggiornare stato dopo ogni contatto/colloquio
-- Ranking aggiornato in `[[ranking]]` — riveditelo dopo ogni colloquio

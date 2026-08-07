@@ -4,7 +4,7 @@ company: Levels
 role: Software Engineer (Backend Focused)
 status: in-progress
 applied: 2026-07-22
-updated: 2026-07-24
+updated: 2026-08-07
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -226,7 +226,23 @@ Risposta:
 
 **Valutazione**: se RAL raggiunge almeno livello Muffin attuale → potrebbe essere prima opzione.
 
-## Domande da tenere per i founder (step 4)
+## Note post colloquio founder (07/08)
+
+**Impressione generale**: andato bene. Conversazione fluida, allineamento su visione tecnica e approccio.
+
+**Il tema critico — RAL vs equity**:
+Dan ha messo i numeri sul tavolo senza giochini: l'offerta attuale (€65k top band) è un passo indietro rispetto alla RAL Muffin. Ha spiegato esplicitamente che aumentare l'equity per compensare non risolve il problema — anzi lo peggiora: se Dan prende un calo di stipendio, l'ansia del calo rimane indipendentemente dalle stock option future. L'obiettivo era che i founder ne tenessero conto prima di strutturare l'offerta, non dopo.
+
+Gap reale: €5k lordi = ~€7-8k netti. Per un'azienda con €400k ARR non dovrebbe essere un ostacolo insuperabile, ma da vedere come lo prendono.
+
+**Presenza**:
+- Vanno in ufficio il **lunedì** (Talent Garden Calabiana)
+- Per Dan è un problema logistico, ma i founder sembrano **più aperti e flessibili** sull'orario
+- La flessibilità oraria potrebbe mitigare l'impatto — da definire meglio
+
+**Status**: in attesa di risposta/offerta. Non è chiaro se il discorso RAL li ha scoraggiati o no.
+
+**Domande da tenere per i founder (step 4)**
 
 - RAL + equity terms concreti
 - Runway attuale in mesi di cassa
