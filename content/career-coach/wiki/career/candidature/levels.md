@@ -4,7 +4,7 @@ company: Levels
 role: Software Engineer (Backend Focused)
 status: in-progress
 applied: 2026-07-22
-updated: 2026-08-07
+updated: 2026-08-10
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -76,7 +76,8 @@ Membro chiave del team (entrato come SW engineer, cresciuto verso ruolo simil te
 | 1 — Screening CV + call Welyk | ✅ | |
 | 2 — Colloquio tecnico con Welik (29/07) | ✅ | Architettura + infra + tech + esperienze |
 | 3 — Colloquio tecnico con team Levels | ✅ 05/08 | Esercizio pipeline documenti + discussione approccio XP — vedi note |
-| 4 — Colloquio culturale/motivazionale founder | In attesa | |
+| 4 — Colloquio founder | ✅ 07/08 | Andato bene. Discussione RAL/equity. Vedi note. |
+| **Offerta ricevuta** | ✅ 10/08 | Deadline risposta: **giovedì 13 agosto** |
 
 ## Note post colloquio tecnico (29/07)
 
@@ -225,6 +226,25 @@ Risposta:
 **Non chiesto**: frequenza presenza ufficio (menzionato 1-2 giorni). Da chiarire con i founder.
 
 **Valutazione**: se RAL raggiunge almeno livello Muffin attuale → potrebbe essere prima opzione.
+
+## 🟢 Offerta ricevuta (10/08) — da Dario
+
+| Voce | Dettaglio |
+|------|-----------|
+| **RAL** | €75.000 ✅ (sopra target €70k) |
+| **Equity** | 1% — vesting 4 anni, cliff 2 anni. 0.5% dopo 24 mesi, poi mensile fino a 48 |
+| **Contratto** | Indeterminato con 6 mesi di prova (non determinato) ✅ |
+| **Presenza** | 1 giorno/settimana + flessibilità (più presenza nel periodo iniziale) ✅ |
+| **Welfare** | Opzione: -€2k RAL + €1k buoni acquisto + ~€1.6k buoni pasto (€8/gg) |
+| **Ruolo** | Mix 70% operativo / 30% team & processi inizialmente |
+| **Contratto equity** | Separato — da ricevere e leggere |
+| **Inizio** | ASAP — min 7 settembre, max fine settembre |
+| **Deadline risposta** | **Giovedì 13 agosto** |
+
+**Testo email Dario (10/08)**:
+> 75K di RAL + 1% equity (4 anni vesting, 2 anni cliff) + 1 giorno presenza + flessibilità. Contratto indeterminato con 6 mesi di prova in arrivo. Welfare opzionale su Satispay: -2k RAL +1k buoni acquisto +1.6k buoni pasto. Deadline giovedì 13/08.
+
+---
 
 ## Note post colloquio founder (07/08)
 
