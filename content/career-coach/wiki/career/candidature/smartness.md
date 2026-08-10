@@ -68,7 +68,9 @@ Seconda job description -> https://people-jobs.com/smartness/position/fullstack-
 | HR Interview 30 min con Anna Torbetto | ✅ Completato | 29/07 |
 | Technical challenge JS (seconda chance da Anna) | ⚠️ Completato con problemi | 03/08 — piattaforma Testlify ha dato errori, segnalato ad Anna |
 | **HM & Tech Interview — Emanuele Micheletti** | ✅ 05/08 ore 17:00 | Coding live a sorpresa — Dan si è impappinato ma ha ragionato a voce alta |
-| Colloquio CTO | ⏳ In scheduling serale | Originale 01/09 → anticipato su richiesta Dan (urgenza offerta Levels) |
+| **Colloquio CTO — Eugenio Bancaro** | ✅ 10/08 | Andato bene. Vedi note. |
+| Referenze | ⏳ In corso | Claudio + Alessia (Muffin), Anton (TourRadar), Simone Delle Fave (Mymenu) |
+| Offerta | ⏳ Attesa entro questa settimana | — |
 
 ⚠️ Agosto = possibili rallentamenti per ferie.
 
@@ -223,6 +225,29 @@ Il differenziatore principale è l'integrazione verticale: tutto in uno stack un
 - "Perché hospitality tech?" → dominio internazionale, prodotto B2B SaaS complesso, clienti PMI (un contesto che Dan conosce)
 - "Come gestiresti la qualità del codice con un team che usa AI tools?" → XP + review discipline
 - "Hai esperienza con integrazioni complesse?" → sì, channel manager = OTA APIs, payment gateways, compliance locale = complessità reale
+
+## Note post colloquio CTO Eugenio Bancaro (10/08)
+
+**Impressione generale**: andato bene. Conversazione fluida, buon allineamento su visione ad alto livello.
+
+**Domanda tecnica — indici DB**: Eugenio ha chiesto come funziona internamente la creazione di un indice. Dan non ha saputo rispondere nel dettaglio (B+ tree). Eugenio ha confermato che questo riflette il profilo di Dan: T-shaped, forte su alto livello e prodotto, meno su specifiche a basso livello. Non è stato un dealbreaker — era coerente con quanto Dan stava dicendo di sé.
+
+**Due team possibili**:
+- **SmartPMS** (PHP, legacy, feature-driven) — più lavoro da fare, più politica interna
+- **Payments** (Node.js, sistema più piccolo e focalizzato) — non approfondito molto
+
+**🟡 Yellow flag — cultura AI**:
+Dan ha parlato con entusiasmo di figure di riferimento da Casavo (Gabriel Ana Tondi, Nick Moretto, ecc.). Eugenio ha risposto che li vede "troppo scettici e poco aperti sull'AI". Dan ha provato a contestualizzare: l'approccio XP/deliberato sull'AI non è scetticismo, è rigore. Non è chiaro se la discussione abbia fatto perdere punti. La preoccupazione di Dan: Smartness potrebbe essere un ambiente dove l'entusiasmo per l'AI è poco negoziabile, con poco spazio per chi vuole adottarla con criterio invece che in modo acritico.
+
+**Presenza**: confermata come problema. Non cambia la valutazione.
+
+**Referenze**: Eugenio ha chiesto referenze. Dan ha indicato Claudio + Alessia (Muffin), Anton (TourRadar), Simone Delle Fave (Mymenu).
+
+**Timing**: Smartness vuole fare offerta entro questa settimana. Se arriva prima di Levels, Dan deve chiedere 2 settimane di tempo a Levels per allineare le tempistiche.
+
+**Valutazione post-call**: Dan indeciso. Luca (collega di fiducia) è gasato per Smartness. La yellow flag sulla cultura AI pesa. A Levels Dan avrebbe più autonomia sulla direzione tecnica e tecnologica.
+
+---
 
 ## Prep colloquio CTO Eugenio Bancaro (10/08)
 
