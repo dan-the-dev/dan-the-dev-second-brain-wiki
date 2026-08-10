@@ -2,7 +2,7 @@
 title: Claudio
 company: [muffin]
 role: Senior Leader / quasi-CTO / Board
-updated: 2026-07-06
+updated: 2026-08-03
 tags: [people, muffin]
 ---
 
@@ -31,3 +31,8 @@ Claudio è la figura di fiducia istituzionale più alta per Dan in Muffin. Il mo
 **Aggiornamento critico (1-3 lug 2026)**: il silenzio improvviso di Claudio prima della convocazione (1:1 cancellato senza spiegazione) è un segnale anomalo rispetto a una relazione fin lì di piena trasparenza — verosimilmente perché sapeva già della crisi di liquidità e non poteva condividerla prima dell'annuncio ufficiale. Non risulta compromessa la fiducia di fondo: il comportamento è coerente con vincoli di riservatezza aziendale più che con un allontanamento personale. Da osservare come evolve la relazione ora che la crisi è di dominio comune.
 
 **Aggiornamento (6 lug 2026, day 244)**: primo giorno di orario ridotto al 50%. Dan percepisce Claudio (nel raw indicato una volta come "Pier Claudio" — verosimilmente la stessa persona, da verificare se si tratta di refuso o nome completo) come confuso e come se avesse preso male la situazione. Segnale coerente con l'ipotesi che Claudio stia vivendo la crisi con un peso emotivo proprio, non solo come comunicatore neutrale verso il team. Operativamente resta attivo: dà indicazioni per la due diligence e sul primo step (feature back office per l'autonomia utenti), con aggiornamento atteso mercoledì 8/7.
+
+**Aggiornamento critico (3 ago 2026, day 250)**: Claudio condivide con Dan confidenze pesanti sulla situazione interna — il ruolo di confidente principale resta attivo e anzi si approfondisce. Rivela: [[alessandro-messina|Messina]] (ora descritto come "nuovo CEO") sarebbe "un uomo di [[michele|Michele]]"; Michele avrebbe sperato che la due diligence portasse a galla elementi critici su **Fabio Sferruzzi**; ci sono giochi di potere in corso nell'azionariato. Rassicura Dan che non ci saranno licenziamenti, ma anticipa "un'ulteriore complicazione" senza poter dire cosa, "per non esporsi lui stesso" — segnale che Claudio sta gestendo informazioni sensibili sotto vincolo di riservatezza più stretto del solito. Elemento nuovo e significativo: **Claudio stesso starebbe valutando la propria posizione** in azienda — la prima volta che il confidente più stabile di Dan mostra segnali di incertezza sulla propria permanenza, non solo su quella del team o dell'azienda in generale.
+
+## Note aggiuntive
+Con questa confidenza, il ruolo di Claudio evolve da "alleato interno stabile" a "persona che condivide la stessa incertezza esistenziale di Dan rispetto a Muffin" — un cambiamento di dinamica rilevante se Dan dovesse uscire: Claudio potrebbe non essere più un punto fermo dell'organizzazione a cui affidare la transizione (→ [[patterns/index|Pattern 1]], da rivalutare per questa esperienza).

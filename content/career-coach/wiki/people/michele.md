@@ -2,7 +2,7 @@
 title: Michele
 company: [muffin]
 role: Stakeholder senior / Board
-updated: 2026-07-03
+updated: 2026-08-03
 tags: [people, muffin]
 ---
 
@@ -30,3 +30,5 @@ Michele è la voce del "risultato business" nell'ecosistema Muffin. La sua preoc
 **Aggiornamento critico (giu 2026)**: Michele ha comunicato in forma riservata a Dan che ci sarà uno "scossone" organizzativo. La lettura di Dan: probabile uscita di Luca. Il fatto che Michele abbia avuto questa conversazione direttamente con Dan (e non tramite Claudio) suggerisce che consideri Dan una figura stabile e fidata nel contesto del cambiamento in arrivo. Dan ha risposto con lucidità, sollevando la questione del budget Qmates e della continuità per il refactor della piattaforma.
 
 **⚠️ Aggiornamento critico (3 lug 2026)**: lo "scossone" anticipato da Michele non era la questione Luca, ma una crisi di liquidità aziendale — riduzione ore al 50% per tutti, fornitori interrotti (inclusi i consulenti Qmates). Michele aveva dato a Dan un segnale reale (privatamente, prima degli altri) ma la sua conversazione riservata con Dan a giugno, letta col senno di poi, sembra aver anticipato solo una parte del quadro (l'insoddisfazione su Luca), non la crisi economica più ampia — o forse Michele stesso non aveva ancora piena visibilità sulla gravità della situazione a quel punto. Rilevante anche la contraddizione sollevata da Dan in convocazione: 6 mesi prima Michele/Muffin avevano garantito che "i soldi non erano un problema" — dichiarazione che Dan ha esplicitamente contestato senza però fare resistenza formale (calcolo economico su NASPI). → [[patterns/index|Pattern 8: segnali organizzativi deboli]].
+
+**⚠️ Aggiornamento critico (3 ago 2026, day 250)**: da una confidenza di [[claudio|Claudio]] emerge un quadro più politico di Michele. [[alessandro-messina|Alessandro Messina]] (nominato Presidente Esecutivo/CEO a fine luglio) viene descritto come "un uomo di Michele" — suggerendo che la nomina non sia stata neutra ma una mossa di Michele per rafforzare la propria influenza nel board. Inoltre, Michele avrebbe sperato che la due diligence in corso portasse a galla elementi critici su **Fabio Sferruzzi** (persona non ancora documentata altrove — verosimilmente un altro socio o dirigente). Questo riposiziona Michele da "stakeholder preoccupato per i costi" a partecipante attivo in una dinamica di potere interna all'azionariato, con la due diligence usata anche come strumento politico oltre che come processo di verifica economica.

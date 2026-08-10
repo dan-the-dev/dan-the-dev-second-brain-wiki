@@ -1,8 +1,8 @@
 ---
 title: Alessandro Messina
 company: [muffin]
-role: Presidente Esecutivo
-updated: 2026-07-27
+role: Presidente Esecutivo / CEO
+updated: 2026-08-03
 tags: [people, muffin]
 ---
 
@@ -17,4 +17,5 @@ Dan non ha ancora avuto interazioni dirette documentate con Messina al 27/7/2026
 ## Note
 - La nomina arriva nello stesso periodo della crisi di liquidità (riduzione ore al 50%, iniziata 3/7/2026) e della due diligence interna, di cui non è mai stato reso noto un esito.
 - Dan legge la convocazione con gli stessi segnali deboli osservati il 3/7 (linguaggio formale, target ristretto al team prodotto, nessuna sessione individuale) e stima ~55% di probabilità che l'esito sia una chiusura o riduzione drastica della funzione prodotto. → [[patterns/index|Pattern 8]]
-- **Esito della convocazione del 29/7 non ancora documentato** — nessuna interazione diretta di Dan con Messina risulta nei journal fino al 30/7. Da aggiornare quando emergono nuovi elementi.
+- **Esito della convocazione del 29/7 non ancora documentato direttamente** — nessuna interazione diretta di Dan con Messina risulta nei journal fino al 7/8.
+- **Aggiornamento (3 ago 2026, day 250)**: da una confidenza di [[claudio|Claudio]], Messina viene ora descritto come "nuovo CEO" (non più solo Presidente Esecutivo) e come "un uomo di [[michele|Michele]]" — la nomina sembra quindi meno una scelta neutra del board e più una mossa di rafforzamento dell'influenza di Michele. Nessun licenziamento confermato, ma resta pendente "un'ulteriore complicazione" non specificata. Da chiarire: se Messina come CEO stia guidando la due diligence che coinvolge Fabio Sferruzzi, e con quale grado di autonomia rispetto a Michele.

@@ -1,6 +1,6 @@
 ---
 title: People — Index
-updated: 2026-07-27
+updated: 2026-08-03
 tags: [people, index]
 ---
 
@@ -51,4 +51,5 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 - [[michele|Michele]] — stakeholder senior / board, pressione su velocità e costi; a giu 2026 avverte Dan dello "scossone" in arrivo
 - [[fabrizio-qmates|Fabrizio (Qmates)]] — referente/account manager Qmates, gestione contrattuale e risorse
 - [[lino|Lino]] — sviluppatore nei primi mesi
-- [[alessandro-messina|Alessandro Messina]] — board member, da luglio 2026 Presidente Esecutivo (tutto tranne Sales)
+- [[alessandro-messina|Alessandro Messina]] — board member, da luglio 2026 Presidente Esecutivo/CEO (tutto tranne Sales), descritto da Claudio come "uomo di Michele"
+- [[fabio-sferruzzi|Fabio Sferruzzi]] — ruolo non chiaro (da verificare), coinvolto nei giochi di potere del board emersi il 3/8/2026
