@@ -1,8 +1,8 @@
 ---
 title: Ricerca Lavoro 2026
 started: 2026-07-03
-status: active
-urgency: high
+status: closed
+urgency: resolved
 updated: 2026-08-07
 tags: [career, job-search, 2026]
 ---
@@ -13,7 +13,7 @@ tags: [career, job-search, 2026]
 
 **Avviata attivamente**: 3 luglio 2026
 **Trigger**: Muffin comunica problemi di liquidità — riduzione ore al 50%, confermata anche per settembre.
-**Urgenza**: 🔴 Alta — Levels potrebbe fare offerta entro questa settimana.
+**Urgenza**: ✅ Risolta — offerta Levels accettata l'11 agosto 2026.
 
 **Cosa cerca Dan**:
 - Contesto tecnico sano, cultura di feedback e crescita

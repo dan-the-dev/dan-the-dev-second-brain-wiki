@@ -2,9 +2,9 @@
 title: Candidatura — Levels Software Engineer (Backend Focused)
 company: Levels
 role: Software Engineer (Backend Focused)
-status: in-progress
+status: accepted
 applied: 2026-07-22
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [job-search, candidatura, 2026]
 ---
 
@@ -77,7 +77,8 @@ Membro chiave del team (entrato come SW engineer, cresciuto verso ruolo simil te
 | 2 — Colloquio tecnico con Welik (29/07) | ✅ | Architettura + infra + tech + esperienze |
 | 3 — Colloquio tecnico con team Levels | ✅ 05/08 | Esercizio pipeline documenti + discussione approccio XP — vedi note |
 | 4 — Colloquio founder | ✅ 07/08 | Andato bene. Discussione RAL/equity. Vedi note. |
-| **Offerta ricevuta** | ✅ 10/08 | Deadline risposta: **giovedì 13 agosto** |
+| **Offerta ricevuta** | ✅ 10/08 | 73k + welfare |
+| **✅ ACCETTATA** | ✅ 11/08 | Lettera di impegno in arrivo |
 
 ## Note post colloquio tecnico (29/07)
 
@@ -226,6 +227,18 @@ Risposta:
 **Non chiesto**: frequenza presenza ufficio (menzionato 1-2 giorni). Da chiarire con i founder.
 
 **Valutazione**: se RAL raggiunge almeno livello Muffin attuale → potrebbe essere prima opzione.
+
+## ✅ Transizione
+
+| Voce | Data |
+|------|------|
+| Ultimo giorno Muffin | **5 settembre 2026** |
+| Pausa | 6–13 settembre |
+| Primo giorno Levels | **14 settembre 2026** |
+
+**In corso**: conferma scritta uscita Muffin (mail con Marta, Claudio, Michele in copia). Richiesta cessione MacBook aziendale.
+
+---
 
 ## 🟢 Offerta ricevuta (10/08) — da Dario
 
