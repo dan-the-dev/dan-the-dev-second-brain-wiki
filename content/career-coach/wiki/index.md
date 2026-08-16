@@ -7,15 +7,17 @@ tags: [career, index]
 # 🎯 AI Career Coach
 
 ## Current status
-- **Company:** Muffin
-- **Role:** Lead Software Engineer / Head of Software Development
-- **Journal:** day 238 (2026-06-26) — in corso
+- **Company:** Levels (inizio 14 settembre 2026)
+- **Role:** Senior Software Engineer
+- **Ultimo giorno Muffin:** 5 settembre 2026
+- **Journal Levels:** day 0 (16/08/2026) — pre-onboarding
 
 ## Experiences
 - [[experiences/casavo|Casavo]]
 - [[experiences/mymenu|Mymenu]]
 - [[experiences/tourradar|Tour Radar]]
-- [[experiences/muffin|Muffin]] ← current
+- [[experiences/muffin|Muffin]]
+- [[experiences/levels|Levels]] ← **prossima** (inizio 14 set 2026)
 
 ## Quick links
 - [[patterns/index|Patterns]]

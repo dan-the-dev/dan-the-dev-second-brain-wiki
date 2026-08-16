@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260816-levels-day0]] — 2026-08-16 · **Levels Day 0** · Pre-onboarding — offerta accettata, contratto firmato, innamoramento in corso
 - [[20260706-muffin-day244]] — 2026-07-06 · Day 244 · Primo giorno part-time — brutto e strano, team giù, due diligence avviata, Learn Agile Practices rilancio anticipato
 - [[20260703-muffin-day243]] — 2026-07-03 · Day 243 · CONVOCAZIONE: Muffin in crisi liquidità, 2 mesi 50% ore/stipendio, Dan firma e cerca lavoro
 - [[20260702-muffin-day242]] — 2026-07-02 · Day 242 · Rilasci, pratiche sbloccate, eve della convocazione Michele
