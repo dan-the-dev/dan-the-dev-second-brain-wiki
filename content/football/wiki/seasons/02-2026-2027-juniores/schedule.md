@@ -1,10 +1,10 @@
 ---
-title: Calendario — Juniores Regionali 2026/27
+title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
 updated: 2026-08-16
 ---
 
-# Calendario 2026/27
+# Calendari allenamenti 2026/27
 
 **Allenamenti regolari:** Lunedì · Mercoledì · Giovedì · ore 19:00–20:30
 **Campo:** C.S. Oratoriale "Mons. G. Sala" — Via Repubblica 6, Bollate
