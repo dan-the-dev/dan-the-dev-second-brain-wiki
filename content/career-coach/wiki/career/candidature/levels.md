@@ -286,5 +286,6 @@ Gap reale: €5k lordi = ~€7-8k netti. Per un'azienda con €400k ARR non dovr
 ---
 
 **Risorse**
+- [[../../experiences/levels|→ Pagina esperienza Levels]] ← contratto, team, journal, onboarding
 - [[../ricerca-lavoro-2026|← Ricerca Lavoro 2026]]
 - ⚠️ Contesto da documento riservato Welyk — non citare in colloquio
