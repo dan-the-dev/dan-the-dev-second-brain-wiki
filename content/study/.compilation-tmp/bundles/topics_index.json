@@ -1,0 +1,798 @@
+{
+  "communication": [
+    {
+      "id": "10-things-you-would-expect-from-a-technical-lead",
+      "type": "article",
+      "title": "10 Things You Would Expect From a Technical Lead"
+    },
+    {
+      "id": "il-peggior-modo-di-fare-una-riunione",
+      "type": "article",
+      "title": "Il peggior modo di fare una riunione"
+    },
+    {
+      "id": "the-scientifically-proven-step-by-step-guide-to",
+      "type": "article",
+      "title": "The scientifically proven, step-by-step guide to having a breakthrough conversation across party lines"
+    }
+  ],
+  "tech-lead": [
+    {
+      "id": "10-things-you-would-expect-from-a-technical-lead",
+      "type": "article",
+      "title": "10 Things You Would Expect From a Technical Lead"
+    },
+    {
+      "id": "20-principles-to-learn-and-lead",
+      "type": "article",
+      "title": "20 Principles To Learn and Lead"
+    },
+    {
+      "id": "cose-il-debito-tecnico-e-come-affrontarlo-in-modo",
+      "type": "article",
+      "title": "Cos\u2019\u00e8 il debito tecnico e come affrontarlo in modo Agile - Product Heroes"
+    },
+    {
+      "id": "okay-vs-excellent-engineering-teams",
+      "type": "article",
+      "title": "\"okay\" vs excellent engineering teams"
+    },
+    {
+      "id": "tech-debt-explained-to-everyone",
+      "type": "article",
+      "title": "Tech debt explained to everyone"
+    },
+    {
+      "id": "accelerate",
+      "type": "book",
+      "title": "Accelerate"
+    },
+    {
+      "id": "implementing-lean-software-development",
+      "type": "book",
+      "title": "Implementing Lean software Development"
+    },
+    {
+      "id": "slack-getting-past-burnout-busywork-and-the-myth",
+      "type": "book",
+      "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+    },
+    {
+      "id": "talking-with-tech-leads-from-novices-to",
+      "type": "book",
+      "title": "Talking with Tech Leads: From Novices to Practitioners"
+    },
+    {
+      "id": "when-will-it-be-done",
+      "type": "book",
+      "title": "When will it be done"
+    }
+  ],
+  "leadership": [
+    {
+      "id": "20-principles-to-learn-and-lead",
+      "type": "article",
+      "title": "20 Principles To Learn and Lead"
+    },
+    {
+      "id": "okay-vs-excellent-engineering-teams",
+      "type": "article",
+      "title": "\"okay\" vs excellent engineering teams"
+    },
+    {
+      "id": "psychological-safety-plasticblog",
+      "type": "article",
+      "title": "Psychological Safety - PlasticBlog"
+    },
+    {
+      "id": "six-rules-for-designing-company-goals",
+      "type": "article",
+      "title": "Six Rules for Designing Company Goals"
+    },
+    {
+      "id": "the-engineer-executive-translation-layer",
+      "type": "article",
+      "title": "The Engineer \u2192 Executive Translation Layer \ud83d\udd00"
+    },
+    {
+      "id": "non-violent-communication-the-best-way-to-connect",
+      "type": "book",
+      "title": "Non-Violent Communication: The Best Way to Connect with Others and Build the Foundations of a Healthy Relationship, Through A Language in Harmony with The Universe"
+    },
+    {
+      "id": "talking-with-tech-leads-from-novices-to",
+      "type": "book",
+      "title": "Talking with Tech Leads: From Novices to Practitioners"
+    },
+    {
+      "id": "01-05-l-essenziale-05-il-progetto-aristotele-le",
+      "type": "podcast",
+      "title": "01.05 L'Essenziale 05 - Il Progetto Aristotele - Le cinque caratteristiche di un team efficente"
+    },
+    {
+      "id": "11-principi-fondamentali-che-dovresti-tenere-a",
+      "type": "video",
+      "title": "11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno..."
+    }
+  ],
+  "learning": [
+    {
+      "id": "20-principles-to-learn-and-lead",
+      "type": "article",
+      "title": "20 Principles To Learn and Lead"
+    }
+  ],
+  "ai": [
+    {
+      "id": "36-le-36-skill-di-claude-che-cambieranno-il-tuo",
+      "type": "article",
+      "title": "#36 | Le 36 Skill di Claude che cambieranno il tuo modo di lavorare"
+    },
+    {
+      "id": "ai-systems-engineering-patterns",
+      "type": "article",
+      "title": "AI Systems Engineering Patterns"
+    },
+    {
+      "id": "code-is-cheap-now-software-isnt",
+      "type": "article",
+      "title": "Code Is Cheap Now. Software Isn\u2019t."
+    },
+    {
+      "id": "dora-balancing-ai-tensions-moving-from-ai",
+      "type": "article",
+      "title": "DORA | Balancing AI tensions: Moving from AI adoption to effective SDLC use"
+    },
+    {
+      "id": "humans-and-agents-in-software-engineering-loops",
+      "type": "article",
+      "title": "Humans and Agents in Software Engineering Loops"
+    },
+    {
+      "id": "the-golden-rules-of-agent-first-product",
+      "type": "article",
+      "title": "The golden rules of agent-first product engineering"
+    },
+    {
+      "id": "claude-cowork-la-guida-completa-per-creare-i-tuoi",
+      "type": "video",
+      "title": "Claude Cowork: la guida completa per creare i tuoi agenti AI personali da zero"
+    },
+    {
+      "id": "come-non-usare-l-ai-per-programmare-reaction-a",
+      "type": "video",
+      "title": "Come (non) usare l'AI per programmare? - Reaction a @antirez"
+    }
+  ],
+  "technology": [
+    {
+      "id": "36-le-36-skill-di-claude-che-cambieranno-il-tuo",
+      "type": "article",
+      "title": "#36 | Le 36 Skill di Claude che cambieranno il tuo modo di lavorare"
+    },
+    {
+      "id": "ai-systems-engineering-patterns",
+      "type": "article",
+      "title": "AI Systems Engineering Patterns"
+    },
+    {
+      "id": "claude-cowork-the-complete-guide-for-pms",
+      "type": "article",
+      "title": "Claude Cowork: The Complete Guide for PMs"
+    },
+    {
+      "id": "code-is-cheap-now-software-isnt",
+      "type": "article",
+      "title": "Code Is Cheap Now. Software Isn\u2019t."
+    },
+    {
+      "id": "how-lennyrpg-was-built-in-8-hours-by-ben-shih-in",
+      "type": "article",
+      "title": "How LennyRPG was built in 8 hours | by Ben Shih | in Bootcamp - Freedium"
+    },
+    {
+      "id": "ai-for-typescript-developers",
+      "type": "course",
+      "title": "AI for Typescript Developers"
+    },
+    {
+      "id": "claude-cowork-la-guida-completa-per-creare-i-tuoi",
+      "type": "video",
+      "title": "Claude Cowork: la guida completa per creare i tuoi agenti AI personali da zero"
+    },
+    {
+      "id": "come-non-usare-l-ai-per-programmare-reaction-a",
+      "type": "video",
+      "title": "Come (non) usare l'AI per programmare? - Reaction a @antirez"
+    }
+  ],
+  "personal-growth": [
+    {
+      "id": "a-random-walk",
+      "type": "article",
+      "title": "A Random Walk"
+    },
+    {
+      "id": "practice-perfect-42-rules-for-getting-better-at",
+      "type": "book",
+      "title": "Practice Perfect: 42 Rules for Getting Better at Getting Better"
+    },
+    {
+      "id": "11-principi-fondamentali-che-dovresti-tenere-a",
+      "type": "video",
+      "title": "11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno..."
+    },
+    {
+      "id": "everything-we-learned-at-stanford-business-school",
+      "type": "video",
+      "title": "Everything We Learned at Stanford Business School in 19 Minutes"
+    }
+  ],
+  "ai-development": [
+    {
+      "id": "ai-systems-engineering-patterns",
+      "type": "article",
+      "title": "AI Systems Engineering Patterns"
+    },
+    {
+      "id": "claude-cowork-the-complete-guide-for-pms",
+      "type": "article",
+      "title": "Claude Cowork: The Complete Guide for PMs"
+    },
+    {
+      "id": "how-lennyrpg-was-built-in-8-hours-by-ben-shih-in",
+      "type": "article",
+      "title": "How LennyRPG was built in 8 hours | by Ben Shih | in Bootcamp - Freedium"
+    },
+    {
+      "id": "ai-for-typescript-developers",
+      "type": "course",
+      "title": "AI for Typescript Developers"
+    },
+    {
+      "id": "come-non-usare-l-ai-per-programmare-reaction-a",
+      "type": "video",
+      "title": "Come (non) usare l'AI per programmare? - Reaction a @antirez"
+    }
+  ],
+  "agile-software-development": [
+    {
+      "id": "book-summary-for-lean-software-development-an",
+      "type": "article",
+      "title": "Book summary for Lean Software Development: An Agile Toolkit"
+    },
+    {
+      "id": "breaking-through-that-first-tdd-block",
+      "type": "article",
+      "title": "Breaking Through That First TDD Block"
+    },
+    {
+      "id": "cose-il-debito-tecnico-e-come-affrontarlo-in-modo",
+      "type": "article",
+      "title": "Cos\u2019\u00e8 il debito tecnico e come affrontarlo in modo Agile - Product Heroes"
+    },
+    {
+      "id": "doerr-s-law-on-product-teams",
+      "type": "article",
+      "title": "Doerr's Law on Product Teams"
+    },
+    {
+      "id": "dora-balancing-ai-tensions-moving-from-ai",
+      "type": "article",
+      "title": "DORA | Balancing AI tensions: Moving from AI adoption to effective SDLC use"
+    },
+    {
+      "id": "humans-and-agents-in-software-engineering-loops",
+      "type": "article",
+      "title": "Humans and Agents in Software Engineering Loops"
+    },
+    {
+      "id": "is-high-quality-software-worth-the-cost",
+      "type": "article",
+      "title": "Is High Quality Software Worth the Cost?"
+    },
+    {
+      "id": "learned-and-actual-helplessness",
+      "type": "article",
+      "title": "Learned (And Actual) Helplessness"
+    },
+    {
+      "id": "productivity",
+      "type": "article",
+      "title": "Productivity"
+    },
+    {
+      "id": "tech-debt-explained-to-everyone",
+      "type": "article",
+      "title": "Tech debt explained to everyone"
+    },
+    {
+      "id": "the-elephant-carpaccio-intre",
+      "type": "article",
+      "title": "The Elephant Carpaccio - Intr\u00e9"
+    },
+    {
+      "id": "the-golden-rules-of-agent-first-product",
+      "type": "article",
+      "title": "The golden rules of agent-first product engineering"
+    },
+    {
+      "id": "the-three-ways-the-principles-underpinning-devops",
+      "type": "article",
+      "title": "The Three Ways: The Principles Underpinning DevOps"
+    },
+    {
+      "id": "the-three-year-bill-why-fast-teams-slow-down",
+      "type": "article",
+      "title": "The Three-Year Bill: Why Fast Teams Slow Down"
+    },
+    {
+      "id": "trunk-based-development-and-branch-by-abstraction",
+      "type": "article",
+      "title": "Trunk-Based Development And Branch By Abstraction"
+    },
+    {
+      "id": "tutto-quello-che-ho-imparato-su-team-topologies",
+      "type": "article",
+      "title": "Tutto quello che ho imparato su Team Topologies - Intr\u00e9"
+    },
+    {
+      "id": "accelerate",
+      "type": "book",
+      "title": "Accelerate"
+    },
+    {
+      "id": "agile-technical-practices-distilled-a-learning",
+      "type": "book",
+      "title": "Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design"
+    },
+    {
+      "id": "clean-code-a-handbook-of-agile-software",
+      "type": "book",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship"
+    },
+    {
+      "id": "domain-driven-design-distilled",
+      "type": "book",
+      "title": "Domain-Driven Design: Distilled"
+    },
+    {
+      "id": "implementing-lean-software-development",
+      "type": "book",
+      "title": "Implementing Lean software Development"
+    },
+    {
+      "id": "lean-inception",
+      "type": "book",
+      "title": "Lean inception"
+    },
+    {
+      "id": "practices-of-an-agile-developer",
+      "type": "book",
+      "title": "Practices of an Agile developer"
+    },
+    {
+      "id": "refactoring-improving-the-design-of-existing-code",
+      "type": "book",
+      "title": "Refactoring: Improving the Design of Existing Code"
+    },
+    {
+      "id": "slack-getting-past-burnout-busywork-and-the-myth",
+      "type": "book",
+      "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+    },
+    {
+      "id": "test-driven-development-by-example",
+      "type": "book",
+      "title": "Test-Driven Development: By Example"
+    },
+    {
+      "id": "the-phoenix-project-a-novel-about-it-devops-and",
+      "type": "book",
+      "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+    },
+    {
+      "id": "italian-agile-days-2021",
+      "type": "conference",
+      "title": "Italian Agile Days 2021"
+    },
+    {
+      "id": "tdd-conference-2021",
+      "type": "conference",
+      "title": "TDD Conference 2021"
+    },
+    {
+      "id": "eventstorming-facilitation",
+      "type": "course",
+      "title": "Eventstorming facilitation"
+    },
+    {
+      "id": "01-05-l-essenziale-05-il-progetto-aristotele-le",
+      "type": "podcast",
+      "title": "01.05 L'Essenziale 05 - Il Progetto Aristotele - Le cinque caratteristiche di un team efficente"
+    },
+    {
+      "id": "ep-78-hexagonal-architecture-con-alessandro",
+      "type": "podcast",
+      "title": "Ep.78 - Hexagonal Architecture con Alessandro Minoccheri (flowing)"
+    },
+    {
+      "id": "async-code-reviews-are-choking-your-companys",
+      "type": "video",
+      "title": "Async Code Reviews Are Choking Your Company\u2019s Throughput - Dragan Stepanovic (Serbian)"
+    },
+    {
+      "id": "greg-young-cqrs-and-event-sourcing-code-on-the",
+      "type": "video",
+      "title": "Greg Young - CQRS and Event Sourcing - Code on the Beach 2014"
+    },
+    {
+      "id": "l-effetto-sistemico-di-extreme-programming-con",
+      "type": "video",
+      "title": "L'effetto sistemico di eXtreme Programming con Nicola Moretto"
+    },
+    {
+      "id": "who-should-enable-tdd-scrum-master-line-manager",
+      "type": "video",
+      "title": "Who Should Enable TDD? - Scrum Master | Line Manager | Tech Lead"
+    },
+    {
+      "id": "xpug-bg-27-01-2026-luca-giovenzana-bounded",
+      "type": "video",
+      "title": "XPUG Bg 27-01-2026, Luca Giovenzana, Bounded Context: un modo incrementale per liberarsi del legacy"
+    }
+  ],
+  "lean": [
+    {
+      "id": "book-summary-for-lean-software-development-an",
+      "type": "article",
+      "title": "Book summary for Lean Software Development: An Agile Toolkit"
+    },
+    {
+      "id": "implementing-lean-software-development",
+      "type": "book",
+      "title": "Implementing Lean software Development"
+    },
+    {
+      "id": "lean-inception",
+      "type": "book",
+      "title": "Lean inception"
+    },
+    {
+      "id": "slack-getting-past-burnout-busywork-and-the-myth",
+      "type": "book",
+      "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+    }
+  ],
+  "product-development": [
+    {
+      "id": "che-cos-e-una-feature-factory",
+      "type": "article",
+      "title": "Che cos'\u00e8 una feature factory?"
+    },
+    {
+      "id": "doerr-s-law-on-product-teams",
+      "type": "article",
+      "title": "Doerr's Law on Product Teams"
+    },
+    {
+      "id": "is-high-quality-software-worth-the-cost",
+      "type": "article",
+      "title": "Is High Quality Software Worth the Cost?"
+    },
+    {
+      "id": "the-product-engineer-company-how-portkey-works",
+      "type": "article",
+      "title": "The Product Engineer Company: How Portkey Works and Builds Its Product"
+    },
+    {
+      "id": "implementing-lean-software-development",
+      "type": "book",
+      "title": "Implementing Lean software Development"
+    },
+    {
+      "id": "when-will-it-be-done",
+      "type": "book",
+      "title": "When will it be done"
+    },
+    {
+      "id": "working-backwards",
+      "type": "book",
+      "title": "Working backwards"
+    },
+    {
+      "id": "eventstorming-facilitation",
+      "type": "course",
+      "title": "Eventstorming facilitation"
+    },
+    {
+      "id": "github-deanpeters-product-manager-skills-product",
+      "type": "resource",
+      "title": "GitHub - deanpeters/Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents."
+    }
+  ],
+  "software-development": [
+    {
+      "id": "code-is-cheap-now-software-isnt",
+      "type": "article",
+      "title": "Code Is Cheap Now. Software Isn\u2019t."
+    },
+    {
+      "id": "the-developer-productivity-trap",
+      "type": "article",
+      "title": "The Developer Productivity Trap"
+    },
+    {
+      "id": "from-objects-to-functions-build-your-software",
+      "type": "book",
+      "title": "From Objects to Functions: Build Your Software Faster and Safer With Functional Programming and Kotlin : Barbini, Uberto: Amazon.it: Libri"
+    },
+    {
+      "id": "professional-php-building-maintainable-and-secure",
+      "type": "book",
+      "title": "Professional PHP: Building maintainable and secure applications"
+    },
+    {
+      "id": "programming-elixir-1-6",
+      "type": "book",
+      "title": "Programming Elixir 1.6"
+    },
+    {
+      "id": "php-day-2024",
+      "type": "conference",
+      "title": "PHP Day 2024"
+    },
+    {
+      "id": "ai-for-typescript-developers",
+      "type": "course",
+      "title": "AI for Typescript Developers"
+    }
+  ],
+  "tech-debt": [
+    {
+      "id": "cose-il-debito-tecnico-e-come-affrontarlo-in-modo",
+      "type": "article",
+      "title": "Cos\u2019\u00e8 il debito tecnico e come affrontarlo in modo Agile - Product Heroes"
+    },
+    {
+      "id": "tech-debt-explained-to-everyone",
+      "type": "article",
+      "title": "Tech debt explained to everyone"
+    }
+  ],
+  "technical-excellence": [
+    {
+      "id": "cose-il-debito-tecnico-e-come-affrontarlo-in-modo",
+      "type": "article",
+      "title": "Cos\u2019\u00e8 il debito tecnico e come affrontarlo in modo Agile - Product Heroes"
+    },
+    {
+      "id": "is-high-quality-software-worth-the-cost",
+      "type": "article",
+      "title": "Is High Quality Software Worth the Cost?"
+    },
+    {
+      "id": "tech-debt-explained-to-everyone",
+      "type": "article",
+      "title": "Tech debt explained to everyone"
+    },
+    {
+      "id": "agile-technical-practices-distilled-a-learning",
+      "type": "book",
+      "title": "Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design"
+    },
+    {
+      "id": "clean-code-a-handbook-of-agile-software",
+      "type": "book",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship"
+    },
+    {
+      "id": "practices-of-an-agile-developer",
+      "type": "book",
+      "title": "Practices of an Agile developer"
+    },
+    {
+      "id": "refactoring-improving-the-design-of-existing-code",
+      "type": "book",
+      "title": "Refactoring: Improving the Design of Existing Code"
+    },
+    {
+      "id": "tdd-conference-2021",
+      "type": "conference",
+      "title": "TDD Conference 2021"
+    },
+    {
+      "id": "ep-78-hexagonal-architecture-con-alessandro",
+      "type": "podcast",
+      "title": "Ep.78 - Hexagonal Architecture con Alessandro Minoccheri (flowing)"
+    },
+    {
+      "id": "greg-young-cqrs-and-event-sourcing-code-on-the",
+      "type": "video",
+      "title": "Greg Young - CQRS and Event Sourcing - Code on the Beach 2014"
+    }
+  ],
+  "product-teams": [
+    {
+      "id": "doerr-s-law-on-product-teams",
+      "type": "article",
+      "title": "Doerr's Law on Product Teams"
+    }
+  ],
+  "dora": [
+    {
+      "id": "dora-balancing-ai-tensions-moving-from-ai",
+      "type": "article",
+      "title": "DORA | Balancing AI tensions: Moving from AI adoption to effective SDLC use"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "il-peggior-modo-di-fare-una-riunione",
+      "type": "article",
+      "title": "Il peggior modo di fare una riunione"
+    }
+  ],
+  "psychological-safety": [
+    {
+      "id": "psychological-safety-plasticblog",
+      "type": "article",
+      "title": "Psychological Safety - PlasticBlog"
+    },
+    {
+      "id": "non-violent-communication-the-best-way-to-connect",
+      "type": "book",
+      "title": "Non-Violent Communication: The Best Way to Connect with Others and Build the Foundations of a Healthy Relationship, Through A Language in Harmony with The Universe"
+    },
+    {
+      "id": "01-05-l-essenziale-05-il-progetto-aristotele-le",
+      "type": "podcast",
+      "title": "01.05 L'Essenziale 05 - Il Progetto Aristotele - Le cinque caratteristiche di un team efficente"
+    }
+  ],
+  "conflict-resolution": [
+    {
+      "id": "the-scientifically-proven-step-by-step-guide-to",
+      "type": "article",
+      "title": "The scientifically proven, step-by-step guide to having a breakthrough conversation across party lines"
+    }
+  ],
+  "devops": [
+    {
+      "id": "the-three-ways-the-principles-underpinning-devops",
+      "type": "article",
+      "title": "The Three Ways: The Principles Underpinning DevOps"
+    },
+    {
+      "id": "accelerate",
+      "type": "book",
+      "title": "Accelerate"
+    },
+    {
+      "id": "the-phoenix-project-a-novel-about-it-devops-and",
+      "type": "book",
+      "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+    }
+  ],
+  "trunk-based-development": [
+    {
+      "id": "trunk-based-development-and-branch-by-abstraction",
+      "type": "article",
+      "title": "Trunk-Based Development And Branch By Abstraction"
+    }
+  ],
+  "ddd": [
+    {
+      "id": "agile-technical-practices-distilled-a-learning",
+      "type": "book",
+      "title": "Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design"
+    },
+    {
+      "id": "domain-driven-design-distilled",
+      "type": "book",
+      "title": "Domain-Driven Design: Distilled"
+    },
+    {
+      "id": "greg-young-cqrs-and-event-sourcing-code-on-the",
+      "type": "video",
+      "title": "Greg Young - CQRS and Event Sourcing - Code on the Beach 2014"
+    },
+    {
+      "id": "xpug-bg-27-01-2026-luca-giovenzana-bounded",
+      "type": "video",
+      "title": "XPUG Bg 27-01-2026, Luca Giovenzana, Bounded Context: un modo incrementale per liberarsi del legacy"
+    }
+  ],
+  "clean-code": [
+    {
+      "id": "clean-code-a-handbook-of-agile-software",
+      "type": "book",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship"
+    }
+  ],
+  "extreme-programming": [
+    {
+      "id": "extreme-programming-explained",
+      "type": "book",
+      "title": "Extreme Programming: Explained"
+    },
+    {
+      "id": "async-code-reviews-are-choking-your-companys",
+      "type": "video",
+      "title": "Async Code Reviews Are Choking Your Company\u2019s Throughput - Dragan Stepanovic (Serbian)"
+    },
+    {
+      "id": "l-effetto-sistemico-di-extreme-programming-con",
+      "type": "video",
+      "title": "L'effetto sistemico di eXtreme Programming con Nicola Moretto"
+    }
+  ],
+  "nonviolent-communication": [
+    {
+      "id": "non-violent-communication-the-best-way-to-connect",
+      "type": "book",
+      "title": "Non-Violent Communication: The Best Way to Connect with Others and Build the Foundations of a Healthy Relationship, Through A Language in Harmony with The Universe"
+    }
+  ],
+  "coaching": [
+    {
+      "id": "practice-perfect-42-rules-for-getting-better-at",
+      "type": "book",
+      "title": "Practice Perfect: 42 Rules for Getting Better at Getting Better"
+    }
+  ],
+  "php": [
+    {
+      "id": "professional-php-building-maintainable-and-secure",
+      "type": "book",
+      "title": "Professional PHP: Building maintainable and secure applications"
+    },
+    {
+      "id": "php-day-2024",
+      "type": "conference",
+      "title": "PHP Day 2024"
+    }
+  ],
+  "elixir": [
+    {
+      "id": "programming-elixir-1-6",
+      "type": "book",
+      "title": "Programming Elixir 1.6"
+    }
+  ],
+  "refactoring": [
+    {
+      "id": "refactoring-improving-the-design-of-existing-code",
+      "type": "book",
+      "title": "Refactoring: Improving the Design of Existing Code"
+    }
+  ],
+  "product": [
+    {
+      "id": "earnings-before-interest-taxes-depreciation-and",
+      "type": "concept",
+      "title": "Earnings before interest, taxes, depreciation and amortization"
+    }
+  ],
+  "eventstorming": [
+    {
+      "id": "eventstorming-facilitation",
+      "type": "course",
+      "title": "Eventstorming facilitation"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "ep-78-hexagonal-architecture-con-alessandro",
+      "type": "podcast",
+      "title": "Ep.78 - Hexagonal Architecture con Alessandro Minoccheri (flowing)"
+    }
+  ],
+  "business-development": [
+    {
+      "id": "everything-we-learned-at-stanford-business-school",
+      "type": "video",
+      "title": "Everything We Learned at Stanford Business School in 19 Minutes"
+    }
+  ]
+}
