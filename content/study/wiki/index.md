@@ -1,7 +1,7 @@
 ---
 title: Study LLM Wiki
 type: index
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Study LLM Wiki
@@ -10,12 +10,13 @@ Panoramica del Learning Plan di Daniele: cosa vuole imparare, attraverso quali c
 
 ## Stato attuale
 
-Il piano vero e proprio non contiene ancora Topic o Learning Item: `raw/learning/current.yml` resta vuoto lato piano — vedi la Decision History per il contesto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
+Il piano è ora popolato: **6 Topic attivi** in `raw/learning/current.yml`, ciascuno con un Learning Item principe, più **8 aree di backlog** con contenuti non prioritari non ancora promossi a Topic — vedi la vista compilata [[plan/learning-plan|Learning Plan]]. Nessuno Study Period è stato ancora definito. Vedi la Decision History per il contesto di creazione del progetto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
 
-È stato invece importato e **compilato integralmente** lo storico della knowledge base precedente (Notion, poi Recall): **186 contenuti catturati** in `raw/knowledge/`, di cui **75 con un concetto di studio** (book, article, video, conference, podcast, course) sono ora disponibili come pagine wiki leggibili in `wiki/content/`, organizzate anche per argomento in **34 pagine Topic** (`wiki/topics/`). Nessuno di questi contenuti è ancora formalmente agganciato al piano (`current.yml`): restano un archivio di conoscenza pregresso, navigabile ma distinto dal piano futuro.
+È stato inoltre importato e **compilato integralmente** lo storico della knowledge base precedente (Notion, poi Recall): **186 contenuti catturati** in `raw/knowledge/`, di cui **75 con un concetto di studio** (book, article, video, conference, podcast, course) sono ora disponibili come pagine wiki leggibili in `wiki/content/`, organizzate anche per argomento in **34 pagine Topic** (`wiki/topics/`). Questi contenuti restano in gran parte un archivio di conoscenza pregresso, distinto dal piano: alcuni titoli del piano/backlog risultano già presenti in archivio (vedi le note in [[plan/learning-plan|Learning Plan]]), ma il collegamento formale Topic-del-piano ↔ contenuto-già-studiato non è ancora sistematico.
 
 ## Viste disponibili
 
+- [[plan/learning-plan|Learning Plan]] — Topic attivi, Learning Item, backlog e Study Period del piano, compilati da `raw/learning/current.yml`
 - [[by-type|By Type]] — tutti i 75 contenuti organizzati per tipo (book, article, video, conference, podcast, course), con i topic associati
 - [[completed|Completati]] — elenco alfabetico completo dei 75 contenuti compilati (senza timeline cronologica: le date di studio non erano recuperabili dall'export originale)
 - [[knowledge-archive|Archivio Recall importato]] — inventario di lavoro dell'intero import (186 voci, incluse le 111 entità di riferimento senza concetto di studio)
@@ -23,14 +24,14 @@ Il piano vero e proprio non contiene ancora Topic o Learning Item: `raw/learning
 
 ## Struttura
 
-- **Learning Plan** → `raw/learning/current.yml` (source of truth) — non ancora popolato
+- **Learning Plan** → `raw/learning/current.yml` (source of truth) — vedi la vista compilata [[plan/learning-plan|Learning Plan]]
 - **Decision History** → `raw/learning/decisions/` — perché il piano è organizzato così — vedi [[decisions/index|Decisioni]]
 - **Knowledge Base** → `raw/knowledge/` — cosa è stato effettivamente studiato o catturato — vedi [[knowledge-archive|Archivio Recall importato]]
-- **Wiki compilata** → `wiki/content/`, `wiki/topics/`, `wiki/by-type.md`, `wiki/completed.md` — viste derivate, mai fonte di verità
+- **Wiki compilata** → `wiki/plan/`, `wiki/content/`, `wiki/topics/`, `wiki/by-type.md`, `wiki/completed.md` — viste derivate, mai fonte di verità
 
 ## Prossimi passi
 
-Aggiungere i primi Topic e Learning Item a `raw/learning/current.yml`, ad esempio tramite richieste naturali:
+Il piano continua a crescere ed evolvere tramite richieste naturali, ad esempio:
 - "Per i prossimi mesi voglio concentrarmi su Continuous Integration"
 - "Aggiungi questo libro al piano"
 - "Questo libro non voglio leggerlo integralmente, trasformalo in book summary"
