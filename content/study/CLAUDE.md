@@ -200,6 +200,20 @@ wiki/
 
 La wiki è una **rappresentazione** del piano, non una seconda source of truth: non va mai modificata a mano come se fosse dato grezzo. Va rigenerata dai dati raw quando il piano cambia in modo significativo. Le pagine vuote/non ancora rilevanti (es. `timeline.md` finché non esistono Study Period) non vanno create finché non c'è contenuto reale da mostrare.
 
+## Standard di compilazione — pagine di contenuto (wiki/content/)
+
+Regola numero 1, non negoziabile: **tutto quello che sta negli appunti raw (`raw/knowledge/.../content.md`) deve essere presente nella pagina compilata.** Compilare non significa riassumere: significa riscrivere meglio, organizzare, e integrare con valore aggiunto — mai tagliare. Se gli appunti raw elencano N elementi con nome (es. "i 12 principi Agile", "i 5 valori di XP", "le pratiche primarie"), la pagina compilata deve nominarli ed esplicitarli tutti, N su N — non "i principi includono X, Y e altri legati a Z". Se un elenco enumerato del genere è presente ma incompleto negli appunti raw, e l'argomento è toccato in modo centrale (non marginale) dal contenuto, va completato con una ricerca web — mai lasciato a metà.
+
+Formattazione degli elenchi enumerati con nome (valori, principi, pratiche, leggi, regole...): ogni elemento dell'elenco (ogni valore, ogni principio, ogni pratica) ha diritto al proprio paragrafo dedicato — nome in grassetto, spiegazione in prosa. Non comprimere l'elenco in un unico paragrafo-fiume. La pagina può allungarsi: è corretto, è quello che deve succedere.
+
+Esempio di riferimento per una pagina libro fatta bene: `wiki/content/book/slack-getting-past-burnout-busywork-and-the-myth.md` (Slack, Tom DeMarco) — sezioni tematiche distinte, ogni concetto ha spazio proprio, niente compressione.
+
+## Standard di compilazione — pagine Topic (wiki/topics/)
+
+L'obiettivo di una pagina Topic **non è un indice di collegamenti ai contenuti** (niente meta-citazione tipo "si veda l'articolo X per approfondire Y"). L'obiettivo è un **paper tecnico**: la pagina raccoglie e sintetizza in prosa continua tutta la conoscenza sull'argomento presente nei Learning Item collegati, come se chi scrive fosse la fonte diretta di quella conoscenza — i contenuti sorgente restano linkati (in "Vedi anche" o inline dove naturale) ma non sono la sostanza del testo, lo sono i concetti stessi. Priorità delle fonti: prima tutto ciò che è già stato compilato nelle pagine di contenuto collegate (non ririassumere debolmente quello che è già stato scritto bene altrove — riportarlo, svilupparlo, collegarlo), poi ricerca aggiuntiva per completare, contestualizzare, storicizzare.
+
+Pagina di riferimento (obiettivo di qualità): `wiki/topics/tdd.md`. Ogni pagina Topic deve tendere a quello standard: sezioni tematiche multiple, prosa densa non elenchi striminziti, box `> [!info] Approfondimento aggiunto in fase di compilazione` per il contesto storico/di ricerca aggiuntivo, una sezione di sintesi finale, link a persone/organizzazioni/topic collegati.
+
 ## Regole fondamentali
 
 1. **Non inventare**: libri, contenuti, topic, autori, date, priorità, motivazioni, Study Period. Se un'informazione non è nota, ometterla o segnalarla come non definita.
