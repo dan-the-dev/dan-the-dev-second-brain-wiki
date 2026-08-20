@@ -9,6 +9,8 @@ topics: ["coaching", "personal-growth"]
 status: done
 study:
   method: full_reading
+  started_at: "2022-11-07"
+  completed_at: "2022-12-02"
 raw_source: raw/knowledge/book/practice-perfect-42-rules-for-getting-better-at/content.md
 updated: 2026-08-19
 ---

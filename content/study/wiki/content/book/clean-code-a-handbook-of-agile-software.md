@@ -7,6 +7,8 @@ topics: ["agile-software-development", "clean-code", "technical-excellence"]
 status: done
 study:
   method: full_reading
+  started_at: "2022-01-10"
+  completed_at: "2022-02-11"
 raw_source: raw/knowledge/book/clean-code-a-handbook-of-agile-software/content.md
 updated: 2026-08-19
 ---

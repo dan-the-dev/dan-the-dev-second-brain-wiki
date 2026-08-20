@@ -44,7 +44,7 @@ Il video è breve ma preciso nell'evitare una risposta semplicistica: non indivi
 
 ## Collegamenti
 
-- Topic: [[../topics/tdd|TDD]] · [[../topics/agile-software-development|Agile Software Development]]
+- Topic: [[../../topics/tdd|TDD]] · [[../../topics/agile-software-development|Agile Software Development]]
 - Contenuti collegati: [[../book/test-driven-development-by-example|Test-Driven Development: By Example]] · [[../conference/tdd-conference-2021|TDD Conference 2021]]
 - Autrice: [[../person/emily-bache|Emily Bache]]
 - Concetto collegato: [[../concept/scrum-project-management|Scrum]]

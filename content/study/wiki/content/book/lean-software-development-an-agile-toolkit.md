@@ -8,6 +8,8 @@ topics: ["lean", "agile-software-development"]
 status: done
 study:
   method: full_reading
+  started_at: "2022-05-02"
+  completed_at: "2022-05-20"
 raw_source: raw/knowledge/book/lean-software-development-an-agile-toolkit/content.md
 updated: 2026-08-19
 ---

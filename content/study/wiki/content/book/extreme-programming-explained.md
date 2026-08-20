@@ -7,6 +7,8 @@ topics: ["extreme-programming"]
 status: done
 study:
   method: full_reading
+  started_at: "2020-02-17"
+  completed_at: "2020-03-13"
 raw_source: raw/knowledge/book/extreme-programming-explained/content.md
 updated: 2026-08-19
 ---

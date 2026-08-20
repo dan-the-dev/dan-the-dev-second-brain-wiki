@@ -7,6 +7,8 @@ topics: ["agile-software-development", "ddd"]
 status: done
 study:
   method: full_reading
+  started_at: "2021-09-27"
+  completed_at: "2021-10-15"
 raw_source: raw/knowledge/book/domain-driven-design-distilled/content.md
 updated: 2026-08-19
 ---

@@ -1,18 +1,55 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Completati
 
-Elenco alfabetico dei 75 contenuti già studiati e compilati in questo archivio (25 book, 33 article, 9 video, 3 conference, 3 podcast, 2 course) — l'intero storico importato da Notion/Recall, con status `done` nella rispettiva pagina compilata. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco dei 75 contenuti già studiati e compilati in questo archivio (25 book, 33 article, 9 video, 3 conference, 3 podcast, 2 course) — l'intero storico importato da Notion/Recall, con status `done` nella rispettiva pagina compilata. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
-## Nota sulla timeline
+## Timeline (cronologia parziale, a memoria di Daniele)
 
-Questa pagina sostituisce, per ora, una vera timeline cronologica: le date di inizio/fine studio (`study.started_at` / `study.completed_at`) non sono state recuperabili dall'esportazione Notion/Recall originaria e sono state lasciate vuote in tutte le pagine compilate, per non inventare informazioni non note. Una timeline reale (`wiki/timeline.md`) verrà costruita solo se e quando Daniele definirà Study Period concreti in `raw/learning/current.yml`, come previsto da `CLAUDE.md` — non prima, per non forzare una cronologia che i dati grezzi non supportano.
+22 contenuti hanno una data di studio (`study.started_at` / `study.completed_at`) ricostruita il 2026-08-20 a partire dal racconto diretto di Daniele sull'ordine e il contesto lavorativo in cui li ha letti, incrociato con le date reali dei suoi ruoli (fonte: `career-coach/raw/career/linkedin/Positions.csv`). Sono date **generiche e approssimative** — mese/settimana indicativi, non i giorni esatti — non un dato oggettivo recuperato da un sistema di tracking. I restanti 53 contenuti (perlopiù article, video, podcast, conference e i libri con appunti grezzi più poveri) non hanno una data nota e non compaiono in questa sezione, per non inventarla: restano nell'elenco alfabetico sottostante.
 
-## Elenco completo
+### Casavo — Full Stack Developer (apr 2019 – ott 2021; studio da inizio 2020)
+
+- **2020-01 → 2020-02** — [[content/book/agile-technical-practices-distilled-a-learning|Agile Technical Practices Distilled]] (primo libro di questo percorso)
+- **2020-02 → 2020-03** — [[content/book/extreme-programming-explained|Extreme Programming: Explained]]
+- **2020-03 → 2020-04** — [[content/book/test-driven-development-by-example|Test-Driven Development: By Example]]
+- **2020-05** — [[content/book/non-violent-communication-the-best-way-to-connect|Non-Violent Communication]] (consigliato da un engineering manager di Casavo)
+- **2021-06 → 2021-07** — [[content/book/the-phoenix-project-a-novel-about-it-devops-and|The Phoenix Project]] (estate 2021)
+- **2021-07 → 2021-08** — [[content/book/professional-php-building-maintainable-and-secure|Professional PHP]] (lavorava in PHP)
+- **2021-08 → 2021-09** — [[content/book/programming-elixir-1-6|Programming Elixir 1.6]] (usato in Casavo)
+- **2021-09 → 2021-10** — [[content/book/domain-driven-design-distilled|Domain-Driven Design: Distilled]] (usato in Casavo)
+
+### MyMenu — Senior Backend Developer & Tech Lead (ott 2021 – mag 2023)
+
+- **2021-11** — [[content/book/practices-of-an-agile-developer|Practices of an Agile Developer]]
+- **2022-01 → 2022-02** — [[content/book/clean-code-a-handbook-of-agile-software|Clean Code]]
+- **2022-05** — [[content/book/lean-software-development-an-agile-toolkit|Lean Software Development: An Agile Toolkit]]
+- **2022-05** — [[content/article/book-summary-for-lean-software-development-an|Book Summary for Lean Software Development: An Agile Toolkit]]
+- **2022-11 → 2022-12** — [[content/book/practice-perfect-42-rules-for-getting-better-at|Practice Perfect]]
+
+### TourRadar — Software Engineer (giu 2023 – set 2024)
+
+- **2023-07** — [[content/book/refactoring-improving-the-design-of-existing-code|Refactoring]]
+- **2023-09** — [[content/book/working-backwards|Working Backwards]] (il CTO di TourRadar veniva da Amazon)
+- **2023-11 → 2023-12** — [[content/book/slack-getting-past-burnout-busywork-and-the-myth|Slack]] (visto un video di Nicola Moretto che lo consigliava)
+- **2024-01 → 2024-02** — [[content/book/accelerate|Accelerate]]
+- **2024-02 → 2024-03** — [[content/book/implementing-lean-software-development|Implementing Lean Software Development]]
+- **2024-03 → 2024-04** — [[content/book/when-will-it-be-done|When Will It Be Done?]]
+- **2024-04 → 2024-05** — [[content/book/talking-with-tech-leads-from-novices-to|Talking with Tech Leads]]
+- **2024-05** — [[content/article/trunk-based-development-and-branch-by-abstraction|Trunk-Based Development And Branch By Abstraction]]
+- **2024-06** — [[content/book/lean-inception|Lean Inception]]
+
+## Nota metodologica
+
+Durante questa ricostruzione è emerso che 21 di questi 22 contenuti avevano già un campo `study.started_at`/`completed_at` valorizzato da un tentativo precedente (stesso giorno, 2026-08-19) — ma con date incoerenti rispetto ai periodi lavorativi reali (es. *Working Backwards*, legato esplicitamente da Daniele al periodo TourRadar iniziato a giugno 2023, risultava datato agosto 2022). Le date sono state corrette per rispettare sia l'ordine raccontato sia i confini reali dei ruoli lavorativi. Ogni file raw aggiornato riporta un campo `date_reconstruction_note` che segnala esplicitamente la natura approssimativa di queste date.
+
+I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto diretto li copre, e non è stato possibile recuperarne una dall'export Notion/Recall originario. Una timeline realmente completa richiederebbe altri ricordi di Daniele, contenuto per contenuto.
+
+## Elenco completo (alfabetico)
 
 - **01.05 L'Essenziale 05 — Il Progetto Aristotele** (podcast) — [[content/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le|pagina]]
 - **10 Things You Would Expect From a Technical Lead** (article) — [[content/article/10-things-you-would-expect-from-a-technical-lead|pagina]]

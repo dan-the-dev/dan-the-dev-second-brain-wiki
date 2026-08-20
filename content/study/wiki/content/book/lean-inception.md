@@ -7,6 +7,8 @@ topics: ["agile-software-development", "lean"]
 status: done
 study:
   method: full_reading
+  started_at: "2024-06-03"
+  completed_at: "2024-06-24"
 raw_source: raw/knowledge/book/lean-inception/content.md
 updated: 2026-08-19
 ---

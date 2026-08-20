@@ -3,8 +3,13 @@ title: "Agile Technical Practices Distilled"
 type: book
 author: [Pedro M. Santos, Marco Consolaro, Alessandro Di Gioia]
 topics: [agile-software-development, ddd, tdd, technical-excellence]
+status: done
+study:
+  method: full_reading
+  started_at: "2020-01-06"
+  completed_at: "2020-02-07"
 raw_source: raw/knowledge/book/agile-technical-practices-distilled-a-learning/content.md
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Agile Technical Practices Distilled
@@ -190,8 +195,8 @@ Il capitolo chiude riportando per intero i dodici principi del Manifesto Agile, 
 
 ## Collegamenti
 
-- Topic: [[../topics/agile-software-development|Agile Software Development]] · [[../topics/ddd|DDD]] · [[../topics/tdd|TDD]] · [[../topics/technical-excellence|Technical Excellence]]
-- Contenuti collegati sul TDD: [[test-driven-development-by-example|Test-Driven Development: By Example]] · [[breaking-through-that-first-tdd-block|Breaking Through That First TDD Block]] · [[../conference/tdd-conference-2021|TDD Conference 2021]]
+- Topic: [[../../topics/agile-software-development|Agile Software Development]] · [[../../topics/ddd|DDD]] · [[../../topics/tdd|TDD]] · [[../../topics/technical-excellence|Technical Excellence]]
+- Contenuti collegati sul TDD: [[test-driven-development-by-example|Test-Driven Development: By Example]] · [[../article/breaking-through-that-first-tdd-block|Breaking Through That First TDD Block]] · [[../conference/tdd-conference-2021|TDD Conference 2021]]
 - Autori: [[../person/pedro-m-santos|Pedro M. Santos]] · [[../person/marco-consolaro|Marco Consolaro]] · [[../person/alessandro-di-gioia|Alessandro Di Gioia]]
 
 ## Fonte

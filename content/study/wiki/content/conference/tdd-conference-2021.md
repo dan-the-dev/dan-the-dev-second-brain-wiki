@@ -75,7 +75,7 @@ La conferenza, nel suo insieme, restituisce un'immagine del TDD che va ben oltre
 
 ## Collegamenti
 
-- Topic: [[../topics/tdd|TDD]] · [[../topics/agile-software-development|Agile Software Development]] · [[../topics/technical-excellence|Technical Excellence]]
+- Topic: [[../../topics/tdd|TDD]] · [[../../topics/agile-software-development|Agile Software Development]] · [[../../topics/technical-excellence|Technical Excellence]]
 - Contenuti collegati: [[../book/test-driven-development-by-example|Test-Driven Development: By Example]] · [[../book/agile-technical-practices-distilled-a-learning|Agile Technical Practices Distilled]] · [[../article/breaking-through-that-first-tdd-block|Breaking Through That First TDD Block]]
 
 ## Fonte

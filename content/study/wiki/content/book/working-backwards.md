@@ -8,6 +8,8 @@ topics: ["product-development"]
 status: done
 study:
   method: full_reading
+  started_at: "2023-09-04"
+  completed_at: "2023-09-29"
 raw_source: raw/knowledge/book/working-backwards/content.md
 updated: 2026-08-19
 ---

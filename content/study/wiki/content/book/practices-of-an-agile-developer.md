@@ -8,6 +8,8 @@ topics: ["agile-software-development", "technical-excellence"]
 status: done
 study:
   method: full_reading
+  started_at: "2021-11-01"
+  completed_at: "2021-11-26"
 raw_source: raw/knowledge/book/practices-of-an-agile-developer/content.md
 updated: 2026-08-19
 ---

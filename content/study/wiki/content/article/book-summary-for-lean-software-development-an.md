@@ -3,8 +3,12 @@ title: "Book summary for Lean Software Development: An Agile Toolkit"
 type: article
 topics: ["agile-software-development", "lean"]
 status: done
+study:
+  method: read
+  started_at: "2022-05-23"
+  completed_at: "2022-05-23"
 raw_source: raw/knowledge/article/book-summary-for-lean-software-development-an/content.md
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Book summary for Lean Software Development: An Agile Toolkit

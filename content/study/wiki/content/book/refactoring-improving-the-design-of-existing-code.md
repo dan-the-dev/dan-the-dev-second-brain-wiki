@@ -7,6 +7,8 @@ topics: ["agile-software-development", "refactoring", "technical-excellence"]
 status: done
 study:
   method: full_reading
+  started_at: "2023-07-03"
+  completed_at: "2023-07-28"
 raw_source: raw/knowledge/book/refactoring-improving-the-design-of-existing-code/content.md
 updated: 2026-08-19
 ---

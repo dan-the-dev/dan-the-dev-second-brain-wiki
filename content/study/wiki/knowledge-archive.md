@@ -6,7 +6,7 @@ updated: 2026-08-19
 
 # Archivio Recall importato
 
-Storico della knowledge base precedente (Notion, poi Recall), importato in blocco in `raw/knowledge/` il 2026-08-19. Vedi [[decisions/2026-08-19|Decision History]] per il contesto.
+Storico della knowledge base precedente (Notion, poi Recall), importato in blocco in `raw/knowledge/` il 2026-08-19. Vedi [[../raw/learning/decisions/2026-08-19|Decision History]] per il contesto.
 
 **Stato**: tutti i 186 contenuti hanno `status: captured` — sono stati catturati ma non ancora agganciati a nessun Topic o Learning Item del piano (`raw/learning/current.yml` è ancora vuoto). Le date di inizio/fine studio non sono state recuperabili da Notion e sono state lasciate vuote.
 

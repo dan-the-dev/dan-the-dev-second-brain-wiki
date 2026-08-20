@@ -8,6 +8,8 @@ topics: ["agile-software-development", "lean", "product-development", "tech-lead
 status: done
 study:
   method: full_reading
+  started_at: "2024-02-12"
+  completed_at: "2024-03-08"
 raw_source: raw/knowledge/book/implementing-lean-software-development/content.md
 updated: 2026-08-19
 ---

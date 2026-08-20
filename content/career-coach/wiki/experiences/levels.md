@@ -3,7 +3,7 @@ title: Levels — Esperienza
 company: levels
 started: 2026-09-14
 status: active
-updated: 2026-08-16
+updated: 2026-08-20
 tags: [experience, levels, regtech, ai]
 ---
 

@@ -9,6 +9,8 @@ topics: ["agile-software-development", "devops"]
 status: done
 study:
   method: full_reading
+  started_at: "2021-06-07"
+  completed_at: "2021-07-02"
 raw_source: raw/knowledge/book/the-phoenix-project-a-novel-about-it-devops-and/content.md
 updated: 2026-08-19
 ---

@@ -30,27 +30,41 @@ vault/
 │   │   ├── retrospectives/
 │   │   └── habits-log/
 │   └── wiki/
-└── football/              ← Allenatore calcio (Ardor Bollate Juniores)
+├── football/              ← Allenatore calcio (Ardor Bollate Juniores)
+│   ├── CLAUDE.md          ← domain-specific rules
+│   ├── raw/
+│   │   ├── seasons/
+│   │   │   └── 01-2025-26-juniores/
+│   │   │       ├── season-info.md
+│   │   │       ├── players/
+│   │   │       ├── sessions/
+│   │   │       ├── matches/
+│   │   │       └── notes/
+│   │   ├── exercises/
+│   │   └── tactics/
+│   └── wiki/
+│       ├── index.md
+│       ├── exercises/
+│       ├── tactics/
+│       └── seasons/
+│           └── 01-2025-26-juniores/
+└── study/                 ← Study LLM Wiki (Learning Plan & Knowledge Base)
     ├── CLAUDE.md          ← domain-specific rules
     ├── raw/
-    │   ├── seasons/
-    │   │   └── 01-2025-26-juniores/
-    │   │       ├── season-info.md
-    │   │       ├── players/
-    │   │       ├── sessions/
-    │   │       ├── matches/
-    │   │       └── notes/
-    │   ├── exercises/
-    │   └── tactics/
+    │   ├── learning/
+    │   │   ├── current.yml
+    │   │   └── decisions/
+    │   └── knowledge/
     └── wiki/
         ├── index.md
-        ├── exercises/
-        ├── tactics/
-        └── seasons/
-            └── 01-2025-26-juniores/
+        ├── content/
+        ├── topics/
+        ├── by-type.md
+        └── completed.md
 
-Other projects will be added as new top-level folders when ready:
-- pmdraft/      ← PMDraft skills brand — Cowork only, no wiki needed
+Other projects will be added as new top-level folders when ready.
+
+Deprecato: pmdraft/ (PMDraft skills brand) — progetto interrotto ad agosto 2026, non verrà più aggiunto come cartella attiva. Storico e obiettivi passati restano tracciati in `goals/` e `career-coach/`.
 
 ## Global rules
 - raw/ folders contain immutable source material — never modify after ingestion

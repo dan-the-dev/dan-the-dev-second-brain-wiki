@@ -7,6 +7,8 @@ topics: ["product-development", "tech-lead"]
 status: done
 study:
   method: full_reading
+  started_at: "2024-03-18"
+  completed_at: "2024-04-12"
 raw_source: raw/knowledge/book/when-will-it-be-done/content.md
 updated: 2026-08-19
 ---

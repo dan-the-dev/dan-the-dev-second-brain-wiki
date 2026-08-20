@@ -7,6 +7,8 @@ topics: ["agile-software-development", "lean", "tech-lead"]
 status: done
 study:
   method: full_reading
+  started_at: "2023-11-06"
+  completed_at: "2023-12-01"
 raw_source: raw/knowledge/book/slack-getting-past-burnout-busywork-and-the-myth/content.md
 updated: 2026-08-19
 ---

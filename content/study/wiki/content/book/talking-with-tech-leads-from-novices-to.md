@@ -7,6 +7,8 @@ topics: ["leadership", "tech-lead"]
 status: done
 study:
   method: full_reading
+  started_at: "2024-04-22"
+  completed_at: "2024-05-17"
 raw_source: raw/knowledge/book/talking-with-tech-leads-from-novices-to/content.md
 updated: 2026-08-19
 ---

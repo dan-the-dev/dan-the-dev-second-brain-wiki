@@ -3,8 +3,13 @@ title: "Test-Driven Development: By Example"
 type: book
 author: Kent Beck
 topics: [tdd, agile-software-development]
+status: done
+study:
+  method: full_reading
+  started_at: "2020-03-23"
+  completed_at: "2020-04-24"
 raw_source: raw/knowledge/book/test-driven-development-by-example/content.md
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Test-Driven Development: By Example
@@ -137,8 +142,8 @@ La terza parte del libro, la più interessante per chi il TDD lo pratica già da
 
 ## Collegamenti
 
-- Topic: [[../topics/tdd|TDD]] · [[../topics/agile-software-development|Agile Software Development]]
-- Altri contenuti sullo stesso argomento: [[breaking-through-that-first-tdd-block|Breaking Through That First TDD Block]] · [[../book/agile-technical-practices-distilled-a-learning|Agile Technical Practices Distilled]] · [[../conference/tdd-conference-2021|TDD Conference 2021]] · [[../video/who-should-enable-tdd-scrum-master-line-manager|Who Should Enable TDD?]]
+- Topic: [[../../topics/tdd|TDD]] · [[../../topics/agile-software-development|Agile Software Development]]
+- Altri contenuti sullo stesso argomento: [[../article/breaking-through-that-first-tdd-block|Breaking Through That First TDD Block]] · [[../book/agile-technical-practices-distilled-a-learning|Agile Technical Practices Distilled]] · [[../conference/tdd-conference-2021|TDD Conference 2021]] · [[../video/who-should-enable-tdd-scrum-master-line-manager|Who Should Enable TDD?]]
 - Concetto collegato: [[../concept/test-driven-development|Test-driven development (Wikipedia)]]
 - Autore: [[../person/kent-beck|Kent Beck]]
 

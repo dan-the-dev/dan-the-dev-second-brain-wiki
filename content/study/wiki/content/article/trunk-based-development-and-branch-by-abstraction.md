@@ -3,8 +3,12 @@ title: "Trunk-Based Development And Branch By Abstraction"
 type: article
 topics: ["agile-software-development", "trunk-based-development"]
 status: done
+study:
+  method: read
+  started_at: "2024-05-20"
+  completed_at: "2024-05-20"
 raw_source: raw/knowledge/article/trunk-based-development-and-branch-by-abstraction/content.md
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Trunk-Based Development And Branch By Abstraction

@@ -9,6 +9,8 @@ topics: ["agile-software-development", "devops", "tech-lead"]
 status: done
 study:
   method: full_reading
+  started_at: "2024-01-08"
+  completed_at: "2024-02-02"
 raw_source: raw/knowledge/book/accelerate/content.md
 updated: 2026-08-19
 ---

@@ -7,6 +7,8 @@ topics: ["elixir", "software-development"]
 status: done
 study:
   method: full_reading
+  started_at: "2021-08-23"
+  completed_at: "2021-09-17"
 raw_source: raw/knowledge/book/programming-elixir-1-6/content.md
 updated: 2026-08-19
 ---

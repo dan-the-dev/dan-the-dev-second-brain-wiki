@@ -7,6 +7,8 @@ topics: ["leadership", "nonviolent-communication", "psychological-safety"]
 status: done
 study:
   method: full_reading
+  started_at: "2020-05-04"
+  completed_at: "2020-05-29"
 raw_source: raw/knowledge/book/non-violent-communication-the-best-way-to-connect/content.md
 updated: 2026-08-19
 ---

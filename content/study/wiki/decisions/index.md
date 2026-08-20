@@ -8,4 +8,4 @@ updated: 2026-08-19
 
 Indice cronologico delle decisioni importanti sul Learning Plan. I file completi vivono in `raw/learning/decisions/`.
 
-- [[2026-08-19|2026-08-19 — Creazione del progetto Study LLM Wiki]] (aggiornata con l'import dello storico Recall)
+- [[../../raw/learning/decisions/2026-08-19|2026-08-19 — Creazione del progetto Study LLM Wiki]] (aggiornata con l'import dello storico Recall)

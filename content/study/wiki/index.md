@@ -10,7 +10,7 @@ Panoramica del Learning Plan di Daniele: cosa vuole imparare, attraverso quali c
 
 ## Stato attuale
 
-Il piano vero e proprio non contiene ancora Topic o Learning Item: `raw/learning/current.yml` resta vuoto lato piano — vedi la Decision History per il contesto: [[decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
+Il piano vero e proprio non contiene ancora Topic o Learning Item: `raw/learning/current.yml` resta vuoto lato piano — vedi la Decision History per il contesto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
 
 È stato invece importato e **compilato integralmente** lo storico della knowledge base precedente (Notion, poi Recall): **186 contenuti catturati** in `raw/knowledge/`, di cui **75 con un concetto di studio** (book, article, video, conference, podcast, course) sono ora disponibili come pagine wiki leggibili in `wiki/content/`, organizzate anche per argomento in **34 pagine Topic** (`wiki/topics/`). Nessuno di questi contenuti è ancora formalmente agganciato al piano (`current.yml`): restano un archivio di conoscenza pregresso, navigabile ma distinto dal piano futuro.
 

@@ -19,7 +19,7 @@ Thoughtworks è una società di consulenza tecnologica nota per il ruolo di prim
 ## Indice dei contenuti collegati in questo archivio
 
 - [[../person/martin-fowler-software-engineer|Martin Fowler]] (affiliazione storica)
-- [[../topics/tdd|Topic: TDD]] (riferimento indiretto tramite London School)
+- [[../../topics/tdd|Topic: TDD]] (riferimento indiretto tramite London School)
 
 ## Fonte
 

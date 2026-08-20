@@ -7,6 +7,8 @@ topics: ["php", "software-development"]
 status: done
 study:
   method: full_reading
+  started_at: "2021-07-12"
+  completed_at: "2021-08-13"
 raw_source: raw/knowledge/book/professional-php-building-maintainable-and-secure/content.md
 updated: 2026-08-19
 ---

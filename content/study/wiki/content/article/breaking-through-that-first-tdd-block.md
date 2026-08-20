@@ -63,7 +63,7 @@ L'articolo è breve, ma il suo valore sta proprio nella sua specificità: non di
 
 ## Collegamenti
 
-- Topic: [[../topics/tdd|TDD]] · [[../topics/agile-software-development|Agile Software Development]]
+- Topic: [[../../topics/tdd|TDD]] · [[../../topics/agile-software-development|Agile Software Development]]
 - Contenuti collegati: [[../book/test-driven-development-by-example|Test-Driven Development: By Example]] · [[../book/agile-technical-practices-distilled-a-learning|Agile Technical Practices Distilled]]
 - Autore: [[../person/jb-rainsberger|J.B. Rainsberger]]
 - Persona citata: [[../person/kent-beck|Kent Beck]] (esercizio originale via tweet)
