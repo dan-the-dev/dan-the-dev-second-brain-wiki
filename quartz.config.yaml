@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dan-the-dev.github.io/dan-the-dev-second-brain-wiki
+  baseUrl: m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io
   ignorePatterns:
     - private
     - templates

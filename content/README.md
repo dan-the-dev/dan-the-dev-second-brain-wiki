@@ -39,4 +39,4 @@ Claude handles all writes — just send dumps in chat.
 ## Related
 
 - [📖 Architecture & Roadmap (Notion)](https://app.notion.com/p/37891dd7ceba81c88c32db99c90e5529)
-- [🌐 Wiki (Quartz)](https://dan-the-dev.github.io/dan-the-dev-second-brain-wiki)
+- [🌐 Wiki (Quartz)](https://m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io)
