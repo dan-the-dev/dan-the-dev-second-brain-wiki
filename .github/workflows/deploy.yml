@@ -105,7 +105,7 @@ jobs:
             "$COOLIFY_WEBHOOK_URL"
       - name: Notify Telegram
         run: |
-          MESSAGE=$'✅ Wiki aggiornata e live!\nhttp://m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io/'
+          MESSAGE=$'✅ Wiki aggiornata e live!\nhttps://m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io/'
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             --data-urlencode "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
             --data-urlencode "text=$MESSAGE"
