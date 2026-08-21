@@ -1,4 +1,4 @@
-name: Deploy Quartz site to GitHub Pages
+name: Deploy wiki image to GHCR
 
 on:
   push:
@@ -7,12 +7,10 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
   packages: write
 
 concurrency:
-  group: "pages"
+  group: wiki-ghcr
   cancel-in-progress: false
 
 jobs:
@@ -45,33 +43,11 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
       - name: Upload site for Coolify image
         uses: actions/upload-artifact@v4
         with:
           name: quartz-site
           path: public
-
-  deploy:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-      - name: Notify Telegram
-        run: |
-          MESSAGE=$'✅ Wiki aggiornata e live!\nhttps://dan-the-dev.github.io/dan-the-dev-second-brain-wiki/'
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-            --data-urlencode "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
-            --data-urlencode "text=$MESSAGE"
 
   docker:
     name: Push wiki image to GHCR
@@ -118,4 +94,9 @@ jobs:
             exit 0
           fi
           curl -fsS "$COOLIFY_WEBHOOK_URL"
-
+      - name: Notify Telegram
+        run: |
+          MESSAGE=$'✅ Wiki aggiornata e live!\nhttp://m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io/'
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+            --data-urlencode "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+            --data-urlencode "text=$MESSAGE"
