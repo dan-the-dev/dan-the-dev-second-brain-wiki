@@ -98,8 +98,10 @@ jobs:
             echo "COOLIFY_TOKEN not set; /api/v1/deploy requires a Bearer token"
             exit 1
           fi
-          curl -fsS -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
             -H "Accept: application/json" \
+            -H "Content-Type: application/json" \
             "$COOLIFY_WEBHOOK_URL"
       - name: Notify Telegram
         run: |
