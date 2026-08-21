@@ -88,12 +88,19 @@ jobs:
       - name: Trigger Coolify deploy
         env:
           COOLIFY_WEBHOOK_URL: ${{ secrets.COOLIFY_WEBHOOK_URL }}
+          COOLIFY_TOKEN: ${{ secrets.COOLIFY_TOKEN }}
         run: |
           if [ -z "$COOLIFY_WEBHOOK_URL" ]; then
             echo "COOLIFY_WEBHOOK_URL not set; skip Coolify webhook"
             exit 0
           fi
-          curl -fsS "$COOLIFY_WEBHOOK_URL"
+          if [ -z "$COOLIFY_TOKEN" ]; then
+            echo "COOLIFY_TOKEN not set; /api/v1/deploy requires a Bearer token"
+            exit 1
+          fi
+          curl -fsS -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
+            -H "Accept: application/json" \
+            "$COOLIFY_WEBHOOK_URL"
       - name: Notify Telegram
         run: |
           MESSAGE=$'✅ Wiki aggiornata e live!\nhttp://m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io/'
