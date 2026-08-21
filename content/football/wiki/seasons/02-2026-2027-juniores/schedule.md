@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-16
+updated: 2026-08-21
 ---
 
 # Calendari allenamenti 2026/27
@@ -19,8 +19,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 |------|--------|--------|------|-------------|-------|
 | 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 29/08 | Sab | 11:00–12:30 | 🏋️ allenamento | mattina | programmato |
-| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | pomeriggio | programmato |
+| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | — | programmato |
 | 31/08 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 
 ---
@@ -32,13 +31,14 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 01/09 | Mar | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 02/09 | Mer | 20:30 | 🤝 amichevole | — | programmato |
 | 03/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 05/09 | Sab | 18:00 | ⚽ partita | Coppa Lombardia (tbd) | programmato |
+| 05/09 | Sab | 16:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio | programmato |
 | 07/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 08/09 | Mar | 20:30 | 🤝 amichevole | — | programmato |
 | 09/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 12/09 | Sab | 18:00 | ⚽ partita | 🏠 G1 vs FC Parabiago | programmato |
 | 14/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport | programmato |
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 19/09 | Sab | 18:00 | ⚽ partita | ✈️ G2 vs Centro Giov. Boffalorese | programmato |
@@ -47,6 +47,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 24/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 26/09 | Sab | 18:00 | ⚽ partita | 🏠 G3 vs Accademia Inveruno | programmato |
 | 28/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 29/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 3 vs Sempione Half 1919 | programmato |
 | 30/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 
 ---

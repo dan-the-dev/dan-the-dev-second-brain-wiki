@@ -1,62 +1,65 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-16
+updated: 2026-08-21
 ---
 
 # Partite — Juniores Regionali 2026/27
 
-**Campionato:** Juniores Regionali U19 — Girone H
-**Classifica live:** [tuttocampo.it](https://www.tuttocampo.it/Lombardia/JunioresRegionaliU19/GironeH/Risultati)
-**Campo di casa:** C.S. Oratoriale "Mons. G. Sala" — Via Repubblica 6, Bollate · ore 18:00
+## 🏆 Competizioni
+
+**Campionato — Juniores Regionali U19, Girone H**
+- Classifica live: [tuttocampo.it](https://www.tuttocampo.it/Lombardia/JunioresRegionaliU19/GironeH/Risultati)
+- 15 giornate di andata + 15 di ritorno (30 totali)
+- Campo di casa: C.S. Oratoriale "Mons. G. Sala" — Via Repubblica 6, Bollate · ore 18:00
+
+**Coppa Lombardia — Girone Under 19 Provinciale**
+- Classifica live: [tuttocampo.it](https://www.tuttocampo.it/Lombardia/JunioresRegionaliU19/GironeCoppaLombardiaJunioresU19/Risultati)
+- Girone a 4 squadre, andata secca (3 giornate): Bresso Calcio, **Ardor Bollate**, Leone XIII Sport, Sempione Half 1919
 
 ---
 
-## Girone di andata
+## Calendario partite
 
-| G | Data | Casa/Trasferta | Avversario | Risultato |
-|---|------|----------------|------------|-----------|
-| 1 | 12/09/2026 | 🏠 Casa | Football Club Parabiago | — |
-| 2 | 19/09/2026 | ✈️ Trasferta | Centro Giov. Boffalorese | — |
-| 3 | 26/09/2026 | 🏠 Casa | Accademia Inveruno | — |
-| 4 | 03/10/2026 | ✈️ Trasferta | Vighi 1967 | — |
-| 5 | 10/10/2026 | 🏠 Casa | Accademia Bustese | — |
-| 6 | 17/10/2026 | ✈️ Trasferta | Accademia BMV | — |
-| 7 | 24/10/2026 | ✈️ Trasferta | Vela Mesero | — |
-| 8 | 31/10/2026 | 🏠 Casa | Triestina 1946 | — |
-| 9 | 07/11/2026 | ✈️ Trasferta | Castanese | — |
-| 10 | 14/11/2026 | 🏠 Casa | Solese | — |
-| 11 | 21/11/2026 | ✈️ Trasferta | OSL Calcio Garbagnate | — |
-| 12 | 28/11/2026 | 🏠 Casa | OSAF | — |
-| 13 | 05/12/2026 | ✈️ Trasferta | SC United | — |
-| 14 | 12/12/2026 | 🏠 Casa | Base 96 Seveso | — |
-| 15 | 19/12/2026 | ✈️ Trasferta | Vigor FC | — |
-
----
-
-## Girone di ritorno
-
-| G | Data | Casa/Trasferta | Avversario | Risultato |
-|---|------|----------------|------------|-----------|
-| 16 | 09/01/2027 | ✈️ Trasferta | Football Club Parabiago | — |
-| 17 | 16/01/2027 | 🏠 Casa | Centro Giov. Boffalorese | — |
-| 18 | 23/01/2027 | ✈️ Trasferta | Accademia Inveruno | — |
-| 19 | 30/01/2027 | 🏠 Casa | Vighi 1967 | — |
-| 20 | 06/02/2027 | ✈️ Trasferta | Accademia Bustese | — |
-| 21 | 13/02/2027 | 🏠 Casa | Accademia BMV | — |
-| 22 | 20/02/2027 | 🏠 Casa | Vela Mesero | — |
-| 23 | 27/02/2027 | ✈️ Trasferta | Triestina 1946 | — |
-| 24 | 06/03/2027 | 🏠 Casa | Castanese | — |
-| 25 | 13/03/2027 | ✈️ Trasferta | Solese | — |
-| 26 | 20/03/2027 | 🏠 Casa | OSL Calcio Garbagnate | — |
-| 27 | 03/04/2027 | ✈️ Trasferta | OSAF | — |
-| 28 | 10/04/2027 | 🏠 Casa | SC United | — |
-| 29 | 17/04/2027 | ✈️ Trasferta | Base 96 Seveso | — |
-| 30 | 24/04/2027 | 🏠 Casa | Vigor FC | — |
+| G | Data | Competizione | Casa/Trasferta | Avversario | Risultato |
+|---|------|--------------|-----------------|------------|-----------|
+| Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | — |
+| 1 | 12/09/2026 | Campionato Andata | 🏠 Casa | Football Club Parabiago | — |
+| Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | — |
+| 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | — |
+| 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | — |
+| Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
+| 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | — |
+| 5 | 10/10/2026 | Campionato Andata | 🏠 Casa | Accademia Bustese | — |
+| 6 | 17/10/2026 | Campionato Andata | ✈️ Trasferta | Accademia BMV | — |
+| 7 | 24/10/2026 | Campionato Andata | ✈️ Trasferta | Vela Mesero | — |
+| 8 | 31/10/2026 | Campionato Andata | 🏠 Casa | Triestina 1946 | — |
+| 9 | 07/11/2026 | Campionato Andata | ✈️ Trasferta | Castanese | — |
+| 10 | 14/11/2026 | Campionato Andata | 🏠 Casa | Solese | — |
+| 11 | 21/11/2026 | Campionato Andata | ✈️ Trasferta | OSL Calcio Garbagnate | — |
+| 12 | 28/11/2026 | Campionato Andata | 🏠 Casa | OSAF | — |
+| 13 | 05/12/2026 | Campionato Andata | ✈️ Trasferta | SC United | — |
+| 14 | 12/12/2026 | Campionato Andata | 🏠 Casa | Base 96 Seveso | — |
+| 15 | 19/12/2026 | Campionato Andata | ✈️ Trasferta | Vigor FC | — |
+| 16 | 09/01/2027 | Campionato Ritorno | ✈️ Trasferta | Football Club Parabiago | — |
+| 17 | 16/01/2027 | Campionato Ritorno | 🏠 Casa | Centro Giov. Boffalorese | — |
+| 18 | 23/01/2027 | Campionato Ritorno | ✈️ Trasferta | Accademia Inveruno | — |
+| 19 | 30/01/2027 | Campionato Ritorno | 🏠 Casa | Vighi 1967 | — |
+| 20 | 06/02/2027 | Campionato Ritorno | ✈️ Trasferta | Accademia Bustese | — |
+| 21 | 13/02/2027 | Campionato Ritorno | 🏠 Casa | Accademia BMV | — |
+| 22 | 20/02/2027 | Campionato Ritorno | 🏠 Casa | Vela Mesero | — |
+| 23 | 27/02/2027 | Campionato Ritorno | ✈️ Trasferta | Triestina 1946 | — |
+| 24 | 06/03/2027 | Campionato Ritorno | 🏠 Casa | Castanese | — |
+| 25 | 13/03/2027 | Campionato Ritorno | ✈️ Trasferta | Solese | — |
+| 26 | 20/03/2027 | Campionato Ritorno | 🏠 Casa | OSL Calcio Garbagnate | — |
+| 27 | 03/04/2027 | Campionato Ritorno | ✈️ Trasferta | OSAF | — |
+| 28 | 10/04/2027 | Campionato Ritorno | 🏠 Casa | SC United | — |
+| 29 | 17/04/2027 | Campionato Ritorno | ✈️ Trasferta | Base 96 Seveso | — |
+| 30 | 24/04/2027 | Campionato Ritorno | 🏠 Casa | Vigor FC | — |
 
 ---
 
-## Squadre del girone H
+## Squadre del girone H (Campionato)
 
 | Società | Campo | Indirizzo | Orario |
 |---------|-------|-----------|--------|
@@ -76,3 +79,12 @@ updated: 2026-08-16
 | Vela Mesero | C.S. Comunale - Mesero | Via Verdi 4 | 18:00 |
 | Vighi 1967 | C.S. Vighignolo - Settimo Milanese fr.Vighignolo | Via Pace snc | 18:15 |
 | Vigor FC | C.S. Comunale "E.Toti" - Paderno Dugnano | Via R. Serra snc | 16:00 |
+
+## Squadre del girone Coppa Lombardia
+
+| Società |
+|---------|
+| Bresso Calcio |
+| **Ardor Bollate** |
+| Leone XIII Sport |
+| Sempione Half 1919 |
