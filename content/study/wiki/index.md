@@ -19,8 +19,9 @@ Dal 2026-08-22, l'archivio cresce anche per aggiunta manuale tramite il flusso "
 ## Viste disponibili
 
 - [[plan/learning-plan|Learning Plan]] — Topic attivi, Learning Item, backlog e Study Period del piano, compilati da `raw/learning/current.yml`
-- [[by-type|By Type]] — tutti i 75 contenuti organizzati per tipo (book, article, video, conference, podcast, course), con i topic associati
-- [[completed|Completati]] — elenco alfabetico completo dei 75 contenuti compilati (senza timeline cronologica: le date di studio non erano recuperabili dall'export originale)
+- [[by-type|By Type]] — tutti i 77 contenuti organizzati per tipo (book, article, video, conference, podcast, course), con i topic associati
+- [[completed|Completati]] — elenco alfabetico completo dei 77 contenuti compilati (senza timeline cronologica per la maggior parte: le date di studio non erano recuperabili dall'export originale)
+- [[recent-changes|Ultime Modifiche]] — cosa è stato toccato nell'ultima sessione di lavoro (si sovrascrive a ogni sessione, non è uno storico cumulativo)
 - [[knowledge-archive|Archivio Recall importato]] — inventario di lavoro dell'intero import (186 voci, incluse le 111 entità di riferimento senza concetto di studio)
 - Topic (`wiki/topics/<id>.md`) — 34 pagine, una per ciascun argomento emerso dai contenuti (es. [[topics/agile-software-development|Agile Software Development]], [[topics/tdd|TDD]], [[topics/tech-lead|Tech Lead]])
 

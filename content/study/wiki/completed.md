@@ -1,12 +1,12 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Completati
 
-Elenco dei 75 contenuti già studiati e compilati in questo archivio (25 book, 33 article, 9 video, 3 conference, 3 podcast, 2 course) — l'intero storico importato da Notion/Recall, con status `done` nella rispettiva pagina compilata. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco dei 77 contenuti compilati in questo archivio (25 book, 35 article, 9 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più le 2 voci aggiunte manualmente il 2026-08-22 tramite il flusso "Online articles study draft" (status `to_read`, non ancora segnate come studiate — restano incluse qui perché la pagina compilata esiste già; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio). Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
 ## Timeline (cronologia parziale, a memoria di Daniele)
 
@@ -62,6 +62,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **AI for TypeScript Developers** (course) — [[content/course/ai-for-typescript-developers|pagina]]
 - **AI Systems Engineering Patterns** (article) — [[content/article/ai-systems-engineering-patterns|pagina]]
 - **Async Code Reviews Are Choking Your Company's Throughput** (video) — [[content/video/async-code-reviews-are-choking-your-companys|pagina]]
+- **Before you delegate, ask yourself these 6 questions** (article) — [[content/article/before-you-delegate-ask-yourself-these-6-questions|pagina]]
 - **Book Summary for Lean Software Development: An Agile Toolkit** (article) — [[content/article/book-summary-for-lean-software-development-an|pagina]]
 - **Breaking Through That First TDD Block** (article) — [[content/article/breaking-through-that-first-tdd-block|pagina]]
 - **Che cos'è una feature factory?** (article) — [[content/article/che-cos-e-una-feature-factory|pagina]]
@@ -124,6 +125,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **Tutto quello che ho imparato su Team Topologies** (article) — [[content/article/tutto-quello-che-ho-imparato-su-team-topologies|pagina]]
 - **When Will It Be Done?** (book) — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]]
 - **Who Should Enable TDD? — Scrum Master | Line Manager | Tech Lead** (video) — [[content/video/who-should-enable-tdd-scrum-master-line-manager|pagina]]
+- **Why did Martin Fowler invite 60 engineers to a ski resort?** (article) — [[content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina]]
 - **Working Backwards** (book) — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]]
 - **XPUG Bg — Luca Giovenzana, Bounded Context** (video) — [[content/video/xpug-bg-27-01-2026-luca-giovenzana-bounded|pagina]]
 
@@ -131,3 +133,4 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 
 - [[by-type|By Type]]
 - [[knowledge-archive|Archivio Recall importato]]
+- [[recent-changes|Ultime Modifiche]]
