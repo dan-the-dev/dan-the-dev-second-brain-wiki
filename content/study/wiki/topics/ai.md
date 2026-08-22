@@ -2,7 +2,7 @@
 title: "AI"
 type: topic
 id: ai
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # AI
@@ -39,6 +39,14 @@ Dall'altro lato c'è un punto di vista più pragmatico, basato sull'esperienza d
 
 Dietro entrambe le posizioni c'è una preoccupazione condivisa, anche se affrontata con soluzioni diverse: che un uso eccessivo dell'AI possa portare a una perdita percepita di competenza, mentre altri lo vedono semplicemente come uno strumento che libera tempo per altri aspetti del lavoro di programmazione. Il parallelo più efficace è con l'apprendimento per pratica diretta, come imparare uno strumento musicale o un'arte marziale, dove guardare tutorial non sostituisce mai la pratica: scrivere codice attivamente, non solo copiare e incollare, resta necessario per costruire quella che si potrebbe chiamare "memoria muscolare" tecnica e comprensione profonda[^antirez-video].
 
+## Il retreat ThoughtWorks 2026: leggere ancora il codice, gestire il rischio dei "citizen developer"
+
+Nel luglio 2026 ThoughtWorks ha riunito circa 60 ingegneri per un retreat esplicitamente costruito come eco del ritiro sugli sci del 2001 da cui nacque l'Agile Manifesto, e uno dei quattro dibattiti emersi rilancia, a distanza di 25 anni e con protagonisti diversi, la stessa domanda posta nella sezione precedente sul controllo diretto: se sistemi scritti e mantenuti interamente da agenti, senza che nessun umano ne legga mai il codice, siano un traguardo desiderabile[^ivett-retreat]. Il consenso raggiunto è parziale: migliorare le capacità dell'agente ha una leva più alta rispetto a migliorare direttamente il sistema che produce, ma non tutti concordano che la prima cosa possa sostituire del tutto la seconda — e la fattibilità pratica dipende marcatamente dal dominio, risultando solida per sistemi backend transazionali e per la riscrittura di codice legacy come COBOL verso stack moderni, un caso d'uso già concretizzato da strumenti come IBM watsonx Code Assistant for Z.
+
+Il retreat propone una metafora efficace per inquadrare le due posizioni: gli agenti sono più simili a **compilatori**, che rigenerano codice da zero ogni volta che serve, rendendo la leggibilità del codice generato secondaria — oppure più simili a **ingegneri**, che mantengono una codebase esistente modellandola nel tempo, per cui la leggibilità resta un requisito di prima classe indipendentemente da chi la modifica[^ivett-retreat]. È la stessa distinzione, riformulata, del confine fra "essere nel loop" ed "essere sul loop" discusso sopra: la domanda su chi legge il codice è, in fondo, la domanda su chi resta responsabile del suo comportamento nel tempo.
+
+Il retreat allarga poi lo sguardo dal singolo sistema alla professione: citando la stima di Robert C. Martin secondo cui il numero di sviluppatori raddoppia circa ogni cinque anni, l'assottigliarsi delle assunzioni tradizionali di ingegneri viene letto non come segno di minore domanda, ma come prova che gli strumenti agentici hanno abbassato drasticamente la soglia per essere considerato sviluppatore — abilitando una nuova generazione di "citizen developer" che costruisce strumenti utili senza passare da un team di ingegneria dedicato[^ivett-retreat]. Il rischio corrispondente non è teorico: oltre alla sicurezza, la compiacenza — accettare risultati scorretti come veri senza verificarli — ha già prodotto episodi concreti di colleghi in finance e customer service che espongono dati sensibili o prendono decisioni sbagliate fidandosi troppo di un output generato da un agente, un rischio che si somma, e non sostituisce, alla tassa di verifica e al paradosso della competenza discussi più avanti a proposito del report DORA.
+
 ## L'AI come amplificatore, non come livellatore
 
 Quando si sposta lo sguardo dal singolo sviluppatore all'organizzazione, il quadro empirico più solido a disposizione arriva dal report *DORA State of AI-assisted Software Development 2025*, costruito su un deep dive qualitativo di 1.110 risposte aperte di ingegneri software raccolte nel terzo trimestre del 2025[^dora-ai]. Il dato di partenza è entusiasmante solo in superficie: il 90% dei professionisti tecnici usa l'AI al lavoro, e oltre l'80% ritiene che abbia aumentato la propria produttività. La tesi centrale del report, però, è che l'impatto dell'AI sul ciclo di vita dello sviluppo software non sia affatto un miglioramento lineare, ma una serie di trade-off profondi che vanno gestiti con attenzione.
@@ -62,7 +70,7 @@ Vale la pena essere diretti anche su un fenomeno collaterale ma rumoroso: l'onda
 
 ## Sintesi
 
-Messe insieme, le fonti di questo topic tracciano una traiettoria coerente: l'AI smette di essere un semplice generatore di testo nel momento in cui viene dotata di strumenti e responsabilità (il passaggio dal "why loop" al "how loop" delegato, l'harness engineering, il flywheel agentico), e questo passaggio si riflette tanto nella pratica quotidiana di un singolo professionista — le skill come modo di codificare un metodo di lavoro, Claude Cowork come agente autonomo sandboxato — quanto nel dibattito, tutt'altro che risolto, su quanto controllo diretto mantenere sul processo. A livello organizzativo, il messaggio più solido è che l'AI amplifica le condizioni preesistenti invece di appianarle, imponendo nuovi costi nascosti (la tassa di verifica, il rischio di erosione della competenza) che vanno gestiti con la stessa disciplina con cui si gestiscono i benefici. E a livello più ampio ancora, resta vero che il codice a buon mercato non rende il software a buon mercato: la comprensione profonda dei problemi, il giudizio tecnico e la responsabilità restano — almeno per ora — indelegabilmente umani.
+Messe insieme, le fonti di questo topic tracciano una traiettoria coerente: l'AI smette di essere un semplice generatore di testo nel momento in cui viene dotata di strumenti e responsabilità (il passaggio dal "why loop" al "how loop" delegato, l'harness engineering, il flywheel agentico), e questo passaggio si riflette tanto nella pratica quotidiana di un singolo professionista — le skill come modo di codificare un metodo di lavoro, Claude Cowork come agente autonomo sandboxato — quanto nel dibattito, tutt'altro che risolto, su quanto controllo diretto mantenere sul processo, un dibattito che il retreat ThoughtWorks 2026 rilancia quasi identico a 25 anni dallo Snowbird che diede vita al Manifesto Agile, allargandolo dal singolo sviluppatore alla domanda su chi, in futuro, potrà definirsi tale. A livello organizzativo, il messaggio più solido è che l'AI amplifica le condizioni preesistenti invece di appianarle, imponendo nuovi costi nascosti (la tassa di verifica, il rischio di erosione della competenza) che vanno gestiti con la stessa disciplina con cui si gestiscono i benefici. E a livello più ampio ancora, resta vero che il codice a buon mercato non rende il software a buon mercato: la comprensione profonda dei problemi, il giudizio tecnico e la responsabilità restano — almeno per ora — indelegabilmente umani.
 
 ## Indice delle fonti
 
@@ -71,6 +79,7 @@ Messe insieme, le fonti di questo topic tracciano una traiettoria coerente: l'AI
 [^codecheap]: *Code Is Cheap Now. Software Isn't.*, chrisgregori.dev — [[../content/article/code-is-cheap-now-software-isnt|pagina dedicata]]
 [^dora-ai]: DORA, *Balancing AI Tensions: Moving from AI Adoption to Effective SDLC Use* (2025) — [[../content/article/dora-balancing-ai-tensions-moving-from-ai|pagina dedicata]]
 [^humans-agents]: Martin Fowler, *Humans and Agents in Software Engineering Loops*, martinfowler.com — [[../content/article/humans-and-agents-in-software-engineering-loops|pagina dedicata]]
+[^ivett-retreat]: Ivett Ördög, *Why did Martin Fowler invite 60 engineers to a ski resort?*, ivettordog.com — [[../content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina dedicata]]
 [^cowork-video]: Alberto Cabas Vidani, *Claude Cowork: la guida completa per creare i tuoi agenti AI personali da zero* (video) — [[../content/video/claude-cowork-la-guida-completa-per-creare-i-tuoi|pagina dedicata]]
 [^antirez-video]: *Come (non) usare l'AI per programmare? - Reaction a @antirez* (video) — [[../content/video/come-non-usare-l-ai-per-programmare-reaction-a|pagina dedicata]]
 
@@ -78,4 +87,4 @@ Messe insieme, le fonti di questo topic tracciano una traiettoria coerente: l'AI
 
 - Topic collegati: [[ai-development|AI Development]] · [[technology|Tecnologia]] · [[agile-software-development|Agile Software Development]]
 - Concetto: [[../content/concept/large-language-model|Large Language Model]]
-- Persone citate in questo percorso: [[../content/person/salvatore-sanfilippo|Salvatore Sanfilippo]] (antirez) · [[../content/person/martin-fowler-software-engineer|Martin Fowler]]
+- Persone citate in questo percorso: [[../content/person/salvatore-sanfilippo|Salvatore Sanfilippo]] (antirez) · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/ivett-ordog|Ivett Ördög]]

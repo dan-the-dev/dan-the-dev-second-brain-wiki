@@ -2,7 +2,7 @@
 title: "Leadership"
 type: topic
 id: leadership
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Leadership
@@ -18,6 +18,12 @@ Sul piano relazionale: **dare fiducia per primi**, facendola sentire alle person
 Sul piano organizzativo, l'articolo invita a **dare priorità alle persone**, costruendo un ambiente dove il talento possa emergere senza paura; a **concentrarsi sul processo quando qualcosa va storto**, cercando la causa e non solo il sintomo; a **evitare la positività tossica**, senza negare i problemi ma affrontandoli in modo costruttivo; a **coltivare la curiosità** per distinguere segnale da rumore; e a sviluppare un'**alta tolleranza al fallimento**, trasformandolo in lezione. Un concetto distintivo, che vale la pena isolare, è l'**agilità emotiva**, presentata come un passo oltre l'intelligenza emotiva: l'intelligenza emotiva è la capacità di relazionarsi con compassione; la fluidità emotiva è capire cosa si prova e comunicarlo con precisione; l'agilità emotiva è sapere *quando* e *come* comunicare quelle emozioni — una distinzione a tre livelli che raramente viene fatta con questa precisione altrove.
 
 Il resto dei principi è più operativo: **sovra-comunicare** le cose importanti, perché il rischio di dire troppo è quasi sempre inferiore al rischio di dire troppo poco; **fissare standard chiari**, perché tollerare comportamenti scadenti li trasforma silenziosamente in standard accettati; **difendere il proprio team pubblicamente** quando serve; **proteggere le priorità**, anche a costo di scontentare qualcuno — non è compito di chi guida proteggere i sentimenti altrui, ma fare la cosa giusta; **gestire attivamente il proprio tempo**; coltivare la capacità di **semplificare**, tagliando attraverso dubbio e complessità per allineare il gruppo su una soluzione comprensibile; e **concentrarsi sui propri punti di forza** — ci si distingue per le proprie qualità, non per l'assenza di difetti. L'articolo chiude, quasi in controtendenza rispetto al tono prescrittivo del resto, con un invito a divertirsi: essere un buon leader richiede un'intera carriera di esperienza, non un giorno.
+
+## Delegare come atto di leadership, non solo di efficienza
+
+Fra le abitudini quotidiane di chi guida un team, delegare bene è forse la più sottovalutata, perché viene facilmente scambiata per una questione di fiducia genuina o di tempo disponibile, quando è in realtà una competenza comunicativa specifica. Wes Kao la inquadra a partire dalla propria resistenza personale a delegare — non sfiducia nel team, ma il costo percepito di dover rendere esplicito tutto ciò che, nella propria testa, è implicito — e propone una checklist di sei domande (cosa sa già la persona, perché lo si sta facendo, di cosa ha bisogno, cosa vuol dire un risultato eccellente, quali sono tempistiche e priorità, cosa potrebbe andare storto) discussa più a fondo, con taglio operativo, nel topic collegato [[tech-lead|Tech Lead]][^weskao-delegate].
+
+Il punto di convergenza con i venti principi discussi sopra è diretto: **sovra-comunicare le cose importanti**, perché il rischio di dire troppo è quasi sempre inferiore al rischio di dire troppo poco, è esattamente il principio che la checklist di Kao rende operativo caso per caso. Chi guida un team che si limita a "delegare" nel senso debole — assegnare un compito senza condividere il contesto necessario a eseguirlo con giudizio — non sta davvero ridefinendo il proprio successo in termini di successo del team, sta solo spostando il lavoro senza spostare la comprensione: la persona che riceve il compito resta dipendente da istruzioni meccaniche, invece di poter esercitare la stessa autonomia di giudizio che la leadership diffusa richiede.
 
 ## La sicurezza psicologica come infrastruttura invisibile del lavoro ad alte prestazioni
 
@@ -70,9 +76,10 @@ Le fonti di questo percorso disegnano una leadership che si costruisce su livell
 [^translation]: Anna Shipman, *The Engineer → Executive Translation Layer* — [[../content/article/the-engineer-executive-translation-layer|pagina dedicata]]
 [^nvc]: Marshall B. Rosenberg, *Non-Violent Communication* — [[../content/book/non-violent-communication-the-best-way-to-connect|pagina dedicata]]
 [^slack]: Tom DeMarco, *Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency* — [[../content/book/slack-getting-past-burnout-busywork-and-the-myth|pagina dedicata]]
+[^weskao-delegate]: Wes Kao, *Before you delegate, ask yourself these 6 questions* — [[../content/article/before-you-delegate-ask-yourself-these-6-questions|pagina dedicata]]
 
 ## Vedi anche
 
 - Topic collegati: [[tech-lead|Tech Lead]] · [[psychological-safety|Psychological Safety]] · [[nonviolent-communication|Comunicazione Non Violenta]] · [[communication|Comunicazione]]
 - Contenuti: [[../content/article/okay-vs-excellent-engineering-teams|"okay" vs excellent engineering teams]] · [[../content/book/talking-with-tech-leads-from-novices-to|Talking with Tech Leads]] · [[../content/book/peopleware-productive-projects-and-teams|Peopleware]] · [[../content/book/fearless-organization-creating-psychological|The Fearless Organization]] · [[../content/video/11-principi-fondamentali-che-dovresti-tenere-a|11 principi fondamentali]] · [[../content/article/six-rules-for-designing-company-goals|Six Rules for Designing Company Goals]]
-- Persone: [[../content/person/amy-edmondson|Amy Edmondson]] · [[../content/person/marshall-rosenberg|Marshall Rosenberg]] · [[../content/person/cynthia-carroll|Cynthia Carroll]] · [[../content/person/anna-shipman|Anna Shipman]]
+- Persone: [[../content/person/amy-edmondson|Amy Edmondson]] · [[../content/person/marshall-rosenberg|Marshall Rosenberg]] · [[../content/person/cynthia-carroll|Cynthia Carroll]] · [[../content/person/anna-shipman|Anna Shipman]] · [[../content/person/wes-kao|Wes Kao]]

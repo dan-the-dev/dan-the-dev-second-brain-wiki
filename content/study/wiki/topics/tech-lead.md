@@ -2,7 +2,7 @@
 title: "Tech Lead"
 type: topic
 id: tech-lead
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Tech Lead
@@ -28,6 +28,14 @@ Un tech lead deve **circondarsi di persone che ne sanno più di lui**: chi si ci
 Le **richieste inaccettabili vanno rifiutate esplicitamente**, mai lasciate cadere in silenzio: l'accondiscendenza passiva su ciò che non si può o non si deve soddisfare crea ambiguità e mina la fiducia nel lungo periodo. Ma dire no non basta: il libro sottolinea che è altrettanto importante saper riconoscere quando dire sì, perché un tech lead che rifiuta sistematicamente perde credibilità quanto uno che accetta sempre. Le persone del team, inoltre, non vanno gestite in modo uniforme: riconoscere le differenze individuali — di esperienza, motivazione, stile di lavoro — e adattare di conseguenza il proprio approccio è parte integrante del lavoro.
 
 Questa idea di leadership distribuita trova conferma pratica in cosa distingue concretamente un team "ok" da un team eccellente[^okvsexcellent]. La differenza non sta nel lavorare il doppio o nell'avere solo "10x engineer", ma in poche abitudini specifiche. I team "ok" tendono a mettere toppe sui problemi invece di risolverne la causa radice, sprecando tempo su correzioni ripetute; i team eccellenti sanno quando vale davvero la pena risolvere la causa radice, prioritizzando in base al ritorno atteso, e uccidono sistematicamente le piccole fonti di fastidio — alert rumorosi, test instabili — che, pur sembrando minori, liberano tempo prezioso una volta eliminate. In un team eccellente gli ingegneri ricevono ownership reale di aree specifiche — non solo responsabilità, ma autorità di decisione — un fattore legato direttamente al senso di crescita e sfida necessario per trattenere le persone migliori. Il rapporto con la roadmap cambia altrettanto: un team "ok" la esegue passivamente, un team eccellente la co-costruisce con il product manager, parla con i clienti, capisce il business, e ha la libertà — e la responsabilità — di fermare un'iniziativa se i dati indicano che non ha senso proseguirla, ponendosi domande esplicite prima di iniziare (come si misura il successo? quali criteri determinano se continuare?) e trattando il deployment come metà del percorso, non il traguardo.
+
+## Delegare con precisione: le sei domande da porsi prima
+
+La leadership diffusa descritta sopra — feature lead, fallimento sicuro, circondarsi di persone più competenti — richiede una competenza specifica raramente trattata a sé: sapere delegare bene, non solo delegare. Wes Kao affronta il problema da un angolo molto concreto: per anni ha resistito a delegare perché le sembrava più veloce fare il task da sé, un'esitazione che chiunque abbia guidato un team tecnico riconosce, e la cui causa reale non è la sfiducia nel team ma il costo percepito di dover esplicitare tutto ciò che nella propria testa resta implicito[^weskao-delegate]. La soluzione che propone è una checklist di sei domande, testata su centinaia di richieste reali, pensata proprio per portare quel contesto implicito fuori dalla testa di chi delega prima che il lavoro cominci — non a metà o a lavoro finito.
+
+Le prime due domande — **cosa sa già questa persona e cosa è nuovo per lei**, **perché lo stiamo facendo** — riguardano l'asimmetria di contesto fra chi delega e chi riceve, ed è lo stesso principio già incontrato sopra a proposito di leggere un requisito oltre la sua formulazione letterale: il "perché" condiviso è ciò che permette a chi riceve la delega di esercitare giudizio quando il tech lead non sta guardando, invece di dipendere da istruzioni meccaniche passo-passo[^weskao-delegate]. Le due domande successive — **di cosa ha bisogno per fare il task**, **come si presenta un risultato eccellente** — sono più operative: preparare in anticipo accessi e risorse necessarie (l'analogia usata è il *mise en place* della cucina professionale), e mostrare invece di raccontare cosa si intende per "ottimo", con mockup o esempi di riferimento, invece di lasciare che la persona lo indovini. Le ultime due — **timeline e priorità**, **cosa potrebbe andare storto e come prevenirlo** — chiudono il framework: evitare parole vaghe come "ASAP" o "urgente" che aumentano lo stress senza dare un'indicazione utile, e calibrare l'analisi del rischio alla reale posta in gioco, specificando anche cosa *non* si vuole che la persona faccia[^weskao-delegate].
+
+Un'osservazione di Kao merita di essere isolata perché smentisce un'assunzione comune fra chi guida team tecnici: quello che sembra un problema di velocità in un membro junior del team è, nella sua esperienza, quasi sempre un problema di scope — non si risolve chiedendo di lavorare più in fretta, ma chiarendo fin dall'inizio cosa è davvero necessario, la stessa disciplina già raccomandata sopra a proposito delle stime basate sui punti di forza e debolezza reali del team[^weskao-delegate].
 
 ## Debito tecnico e qualità: la responsabilità di comunicare, non solo di scrivere codice
 
@@ -76,9 +84,10 @@ Il filo che tiene insieme queste fonti disegna un ruolo che si esercita quasi se
 [^accelerate]: Nicole Forsgren, Jez Humble, Gene Kim, *Accelerate* — [[../content/book/accelerate|pagina dedicata]]
 [^wwibd]: Daniel S. Vacanti, *When Will It Be Done?* — [[../content/book/when-will-it-be-done|pagina dedicata]]
 [^slack]: Tom DeMarco, *Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency* — [[../content/book/slack-getting-past-burnout-busywork-and-the-myth|pagina dedicata]]
+[^weskao-delegate]: Wes Kao, *Before you delegate, ask yourself these 6 questions* — [[../content/article/before-you-delegate-ask-yourself-these-6-questions|pagina dedicata]]
 
 ## Vedi anche
 
 - Topic collegati: [[leadership|Leadership]] · [[tech-debt|Tech Debt]] · [[agile-software-development|Agile Software Development]] · [[technical-excellence|Technical Excellence]]
 - Contenuti: [[../content/book/peopleware-productive-projects-and-teams|Peopleware]] · [[../content/book/implementing-lean-software-development|Implementing Lean Software Development]]
-- Persone: [[../content/person/nicole-forsgren|Nicole Forsgren]] · [[../content/person/tom-demarco|Tom DeMarco]] · [[../content/person/ward-cunningham|Ward Cunningham]]
+- Persone: [[../content/person/nicole-forsgren|Nicole Forsgren]] · [[../content/person/tom-demarco|Tom DeMarco]] · [[../content/person/ward-cunningham|Ward Cunningham]] · [[../content/person/wes-kao|Wes Kao]]

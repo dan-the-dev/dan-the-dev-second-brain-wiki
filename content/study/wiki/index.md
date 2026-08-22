@@ -1,7 +1,7 @@
 ---
 title: Study LLM Wiki
 type: index
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Study LLM Wiki
@@ -13,6 +13,8 @@ Panoramica del Learning Plan di Daniele: cosa vuole imparare, attraverso quali c
 Il piano è ora popolato: **6 Topic attivi** in `raw/learning/current.yml`, ciascuno con un Learning Item principe, più **8 aree di backlog** con contenuti non prioritari non ancora promossi a Topic — vedi la vista compilata [[plan/learning-plan|Learning Plan]]. Nessuno Study Period è stato ancora definito. Vedi la Decision History per il contesto di creazione del progetto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
 
 È stato inoltre importato e **compilato integralmente** lo storico della knowledge base precedente (Notion, poi Recall): **186 contenuti catturati** in `raw/knowledge/`, di cui **75 con un concetto di studio** (book, article, video, conference, podcast, course) sono ora disponibili come pagine wiki leggibili in `wiki/content/`, organizzate anche per argomento in **34 pagine Topic** (`wiki/topics/`). Questi contenuti restano in gran parte un archivio di conoscenza pregresso, distinto dal piano: alcuni titoli del piano/backlog risultano già presenti in archivio (vedi le note in [[plan/learning-plan|Learning Plan]]), ma il collegamento formale Topic-del-piano ↔ contenuto-già-studiato non è ancora sistematico.
+
+Dal 2026-08-22, l'archivio cresce anche per aggiunta manuale tramite il flusso "Online articles study draft": 2 articoli (con le rispettive 2 pagine persona per gli autori, non presenti nell'import originale) sono stati catturati, compilati e integrati nelle pagine Topic pertinenti (`ai`, `software-development`, `technical-excellence`, `leadership`, `communication`, `tech-lead`), portando il totale a **77 contenuti con concetto di studio**. Questa distinzione fra import storico Recall e aggiunte manuali successive resta visibile in [[by-type|By Type]]; [[knowledge-archive|Archivio Recall importato]] documenta solo l'import originale del 2026-08-19 e non viene aggiornato con le aggiunte successive.
 
 ## Viste disponibili
 

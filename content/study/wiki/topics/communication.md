@@ -2,7 +2,7 @@
 title: "Comunicazione"
 type: topic
 id: communication
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Comunicazione
@@ -16,6 +16,12 @@ Uno degli aspetti meno visibili — ma più concretamente comunicativi — del r
 Questa stessa disciplina comunicativa si riflette anche nel modo in cui un tech lead comunica verso il basso, cioè verso il proprio team. Comprendere i punti di forza e di debolezza di ciascun membro — comunicandolo esplicitamente e concentrandosi sui primi più che sui secondi — permette stime più accurate e riduce il rischio di promettere troppo e consegnare troppo poco. E comunicare bene con gli stakeholder include anche saper comunicare bene le decisioni prese: una decisione, per essere davvero ferma, deve essere sostenuta da un'analisi ampia — requisiti di business, comportamento atteso degli utenti, processi, scenari, standard di mercato, costi-benefici, rischi, dipendenze tecniche, qualità e capacità del team — e comunicata con quella stessa fermezza, salvo essere rivista apertamente in caso di errori fondamentali nelle assunzioni di partenza[^10things].
 
 Un ultimo tassello, forse il più specificamente comunicativo di tutti: il principio secondo cui "il primo errore è sempre del leader". Anche un bug apparentemente piccolo, scritto da uno sviluppatore junior, si ricollega quasi sempre a una decisione presa più a monte — di architettura, di processo, di revisione. Comunicare questo verso l'esterno (proteggendo il team da reazioni negative degli stakeholder) e verso l'interno (dando credito sincero e specifico per il lavoro ben fatto, non generico) è la parte del ruolo che più assomiglia, in senso stretto, a comunicazione nel senso relazionale del termine, più che tecnico[^10things].
+
+## Delegare è comunicare: condividere il contesto prima che serva
+
+La stessa capacità di "sentire dentro un requisito più di quanto sia stato detto esplicitamente", discussa sopra a proposito del tech lead, ha un corrispettivo speculare quando i ruoli si invertono: comunicare a qualcun altro più di quanto si direbbe per pigrizia o per fretta. Wes Kao affronta il problema della delega proprio come problema di comunicazione strutturata, non di fiducia o di tempo disponibile: una checklist di sei domande — cosa sa già la persona e cosa è nuovo per lei, perché si sta facendo il task, di cosa ha bisogno, cosa vuol dire un risultato eccellente, quali sono tempistiche e priorità, cosa potrebbe andare storto — pensata per portare fuori dalla propria testa un contesto che altrimenti resterebbe implicito, applicabile tanto a un collega quanto, esplicitamente, a un modello AI usato come thought partner[^weskao-delegate].
+
+Il filo che lega questo contenuto alle altre fonti di questo topic è specifico: in entrambi i casi discussi sotto — riunioni inefficaci, comunicazione nel conflitto — l'errore di fondo è lasciare che qualcosa resti non detto, sperando che venga capito comunque. Kao rende esplicito lo stesso antipattern per la delega: il silenzio — non spiegare il "perché" di un task, non mostrare cosa si intende per "risultato eccellente" — è segnalato due volte nell'articolo come l'errore da evitare, contro esempi concreti di frasi brevi ("Questo è importante perché…", "Il documento finale dovrebbe assomigliare a questo") che costano pochi secondi e cambiano radicalmente la qualità delle decisioni prese da chi riceve la delega quando chi comunica non è più nella stanza[^weskao-delegate].
 
 ## Il manuale involontario delle riunioni inefficaci
 
@@ -39,15 +45,16 @@ Un dettaglio operativo importante: circa l'80% delle volte, quando entrambe le p
 
 ## Sintesi
 
-Le tre fonti di questo topic, per quanto eterogenee nel formato (un articolo su cosa ci si aspetta da un tech lead, un pezzo satirico sulle riunioni, una ricostruzione giornalistica di un metodo terapeutico), condividono una tesi implicita comune: comunicare bene non significa parlare bene, significa ascoltare in modo strutturato — capire più di quanto è stato detto esplicitamente nel caso del tech lead, raccogliere le opinioni prima di orientarle nel caso delle riunioni, ricapitolare senza giudizio prima di rispondere nel caso del conflitto. È lo stesso principio applicato a tre scale diverse: la relazione individuale con uno stakeholder, la dinamica di un gruppo in una stanza, il disaccordo profondo tra due persone.
+Le quattro fonti di questo topic, per quanto eterogenee nel formato (un articolo su cosa ci si aspetta da un tech lead, una checklist pratica sulla delega, un pezzo satirico sulle riunioni, una ricostruzione giornalistica di un metodo terapeutico), condividono una tesi implicita comune: comunicare bene non significa parlare bene, significa strutturare deliberatamente cosa viene detto e cosa viene ascoltato — capire più di quanto è stato detto esplicitamente nel caso del tech lead, condividere per iscritto il contesto implicito prima di delegare, raccogliere le opinioni prima di orientarle nel caso delle riunioni, ricapitolare senza giudizio prima di rispondere nel caso del conflitto. È lo stesso principio applicato a scale diverse: la relazione individuale con uno stakeholder, la relazione individuale con chi riceve una delega, la dinamica di un gruppo in una stanza, il disaccordo profondo tra due persone.
 
 ## Indice delle fonti
 
 [^10things]: *10 Things You Would Expect From a Technical Lead* — [[../content/article/10-things-you-would-expect-from-a-technical-lead|pagina dedicata]]
 [^worst-meeting]: Pietro Campagnano, *Il peggior modo di fare una riunione* — [[../content/article/il-peggior-modo-di-fare-una-riunione|pagina dedicata]]
 [^nvc-conv]: *The Scientifically Proven, Step-by-Step Guide to Having a Breakthrough Conversation Across Party Lines*, Quartz — [[../content/article/the-scientifically-proven-step-by-step-guide-to|pagina dedicata]]
+[^weskao-delegate]: Wes Kao, *Before you delegate, ask yourself these 6 questions* — [[../content/article/before-you-delegate-ask-yourself-these-6-questions|pagina dedicata]]
 
 ## Vedi anche
 
 - Topic collegati: [[leadership|Leadership]] · [[tech-lead|Tech Lead]] · [[meetings|Riunioni]] · [[conflict-resolution|Risoluzione dei Conflitti]] · [[nonviolent-communication|Comunicazione Non Violenta]]
-- Persone citate: [[../content/person/pietro-campagnano|Pietro Campagnano]] · [[../content/person/marshall-rosenberg|Marshall Rosenberg]]
+- Persone citate: [[../content/person/pietro-campagnano|Pietro Campagnano]] · [[../content/person/marshall-rosenberg|Marshall Rosenberg]] · [[../content/person/wes-kao|Wes Kao]]

@@ -3,7 +3,7 @@ title: "Thoughtworks"
 type: organization
 topics: [technical-excellence, agile-software-development]
 raw_source: raw/knowledge/organization/thoughtworks/content.md
-updated: 2026-08-19
+updated: 2026-08-22
 ---
 
 # Thoughtworks
@@ -19,6 +19,7 @@ Thoughtworks è una società di consulenza tecnologica nota per il ruolo di prim
 ## Indice dei contenuti collegati in questo archivio
 
 - [[../person/martin-fowler-software-engineer|Martin Fowler]] (affiliazione storica)
+- [[../article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|Why did Martin Fowler invite 60 engineers to a ski resort?]] (organizzatrice del retreat "Future of Software Engineering", 2026)
 - [[../../topics/tdd|Topic: TDD]] (riferimento indiretto tramite London School)
 
 ## Fonte

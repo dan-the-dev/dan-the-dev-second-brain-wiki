@@ -1,14 +1,14 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-08-19
+updated: 2026-08-22
 ---
 
 # By Type
 
 Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i topic a cui ciascun elemento è agganciato. Per la vista organizzata per argomento si veda [[topics/agile-software-development|Topics]]; per l'archivio grezzo importato da Recall si veda [[knowledge-archive|Archivio Recall importato]].
 
-**Totale: 75 contenuti** (25 book, 33 article, 9 video, 3 conference, 3 podcast, 2 course).
+**Totale: 77 contenuti** (25 book, 35 article, 9 video, 3 conference, 3 podcast, 2 course). Le 2 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente il 2026-08-22 tramite il flusso "Online articles study draft" e non fanno parte dell'import Recall del 2026-08-19 — vedi [[index|nota in home]].
 
 ### Book (25)
 
@@ -38,13 +38,14 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **When Will It Be Done?** — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]] — tech-lead, product-development
 - **Working Backwards** — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]] — product-development
 
-### Article (33)
+### Article (35)
 
 - **10 Things You Would Expect From a Technical Lead** — [[content/article/10-things-you-would-expect-from-a-technical-lead|pagina]] — communication, tech-lead
 - **20 Principles To Learn and Lead** — [[content/article/20-principles-to-learn-and-lead|pagina]] — tech-lead, leadership, learning
 - **#36 — Le 36 Skill di Claude che cambieranno il tuo modo di lavorare** — [[content/article/36-le-36-skill-di-claude-che-cambieranno-il-tuo|pagina]] — ai, technology
 - **A Random Walk** — [[content/article/a-random-walk|pagina]] — personal-growth
 - **AI Systems Engineering Patterns** — [[content/article/ai-systems-engineering-patterns|pagina]] — ai, technology, ai-development
+- **Before you delegate, ask yourself these 6 questions** *(aggiunto 2026-08-22)* — [[content/article/before-you-delegate-ask-yourself-these-6-questions|pagina]] — tech-lead, leadership, communication
 - **Book Summary for Lean Software Development: An Agile Toolkit** — [[content/article/book-summary-for-lean-software-development-an|pagina]] — agile-software-development, lean
 - **Breaking Through That First TDD Block** — [[content/article/breaking-through-that-first-tdd-block|pagina]] — agile-software-development
 - **Che cos'è una feature factory?** — [[content/article/che-cos-e-una-feature-factory|pagina]] — product-development
@@ -73,6 +74,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **The Three-Year Bill: Why Fast Teams Slow Down** — [[content/article/the-three-year-bill-why-fast-teams-slow-down|pagina]] — agile-software-development
 - **Trunk-Based Development And Branch By Abstraction** — [[content/article/trunk-based-development-and-branch-by-abstraction|pagina]] — agile-software-development, trunk-based-development
 - **Tutto quello che ho imparato su Team Topologies** — [[content/article/tutto-quello-che-ho-imparato-su-team-topologies|pagina]] — agile-software-development
+- **Why did Martin Fowler invite 60 engineers to a ski resort?** *(aggiunto 2026-08-22)* — [[content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina]] — ai, software-development, technical-excellence
 
 ### Video (9)
 
