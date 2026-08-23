@@ -1,7 +1,7 @@
 ---
 title: "Learning Plan"
 type: plan
-updated: 2026-08-20
+updated: 2026-08-23
 ---
 
 # Learning Plan
@@ -25,12 +25,12 @@ Il piano è organizzato per **Topic**, ciascuno con un contenuto principe (tende
 
 | Tipo | Titolo | Autori | Stato |
 |---|---|---|---|
-| book | Peopleware | Tom DeMarco, Tim Lister | planned |
+| book | Peopleware | Tom DeMarco, Tim Lister | in_progress |
 
 **Study Period:** nessuno definito.
 
-> [!note] Già presente nella Knowledge Base
-> Questo libro risulta già letto e compilato in archivio come contenuto studiato: [[../content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] (stato `done` nella knowledge base). Nel piano l'item ha invece stato `planned`: è un disallineamento tra le due fonti che vale la pena verificare con Daniele — potrebbe trattarsi di una rilettura pianificata intenzionalmente, oppure di uno stato del piano da aggiornare.
+> [!note] Aggiornamento 2026-08-23 — disallineamento risolto
+> Il disallineamento segnalato qui il 2026-08-20 era un errore di importazione, non una rilettura intenzionale: la pagina compilata `done` era stata generata dagli appunti raw minimi importati da Recall (solo un riferimento alla pagina Wikipedia del libro), senza che il libro fosse mai stato effettivamente letto. Daniele ha iniziato la lettura reale il 2026-08-23 (prima sessione di studio): lo stato del piano è stato corretto da `planned` a `in_progress`, e la pagina compilata [[../content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] è stata riscritta a partire dagli appunti reali, con `status: in_progress` — viene ora aggiornata a ogni sessione di lettura. Vedi `raw/learning/decisions/2026-08-23.md`.
 
 ### Infrastructure as Code
 
