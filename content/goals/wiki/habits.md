@@ -1,6 +1,6 @@
 ---
 title: Abitudini attive
-updated: 2026-08-16
+updated: 2026-08-23
 tags: [habits, wiki]
 ---
 
@@ -38,6 +38,8 @@ tags: [habits, wiki]
 |---|---|---|---|---|
 | Check-in con le ragazze sul post partita | Goal 5 | Per partita | ❓ Non tracciabile (probabile pausa stagionale) | 0 |
 | Coordinamento stories con gruppo dirigenti | Goal 5 | Weekend (in stagione) | 🆕 Nuova | 0 |
+| Aggiornare la LLM Wiki dopo ogni allenamento | Goal 5.2 | Da definire (da quando iniziano gli allenamenti, settembre) | 🆕 Nuova — goal formalizzato il 23/8 | 0 |
+| Aggiungere nuovo esercizio al catalogo | Goal 5.2 | Per esercizio introdotto | 🆕 Nuova — goal formalizzato il 23/8 | 0 |
 
 ## 💪 Salute
 
@@ -79,3 +81,4 @@ tags: [habits, wiki]
 | Abitudine | Goal collegato | Frequenza | Status | Streak |
 |---|---|---|---|---|
 | Mister OS | Goal 11 | — | Tempo coperto dallo slot mattutino "pratica coding agent" (vedi Professionale, Goal 1.1 + 11) | 0 |
+| Tool asta fantacalcio | Goal 12 | Da definire | 🆕 Nuova — goal formalizzato il 23/8, cadenza ancora da concordare con Dan (possibile condivisione slot con Goal 1.1) | 0 |
