@@ -10,7 +10,7 @@ tags: [habits, wiki]
 >
 > **Check-in W33 (10-16/8):** primo check-in dopo la ridefinizione — coincide con il giorno stesso della ridefinizione (16/8) e con un gap totale di journal dal 7 al 16/8. Nessuna abitudine verificabile, streak confermati a 0. Dettaglio in [[../raw/habits-log/2026-W33-habits|raw/habits-log/2026-W33-habits]].
 >
-> **Limite strutturale confermato dal ciclo precedente:** il journal `career-coach` copre solo l'area professionale. Le nuove aree Salute, Casa, Studio, Finanziario e Side project restano prive di una fonte scritta affidabile — stesso problema osservato per tutto il ciclo W24-W32. Se non si introduce un'altra fonte (journal personale, app tracking, nota rapida), questi check-in continueranno a risultare "non tracciabili".
+> **Fonti per i check-in:** il journal `career-coach` copre principalmente l'area professionale. Per le aree Salute, Casa, Studio, Finanziario e Side project, in assenza di segnali nel journal, lo stato viene aggiornato sulla base di quanto Dan comunica esplicitamente in conversazione (come il giro del 23/8) — non è un problema da risolvere con una fonte scritta aggiuntiva, è il flusso previsto.
 >
 > **Schema settimanale — slot mattutino (mar-ven):** lunedì in ufficio, martedì-venerdì da casa. 1 ora fissa al giorno (idealmente 8:00-9:30, orario che può spostarsi a dopo lavoro) suddivisa in 4 slot: 2 pratica coding agent open source su Mister OS (Goal 1.1 + 11), 1 studio teoria AI/LLM (Goal 8), 1 produzione contenuti LAP il giovedì o venerdì (Goal 4). Dettaglio in [[../raw/2026-H2-redefinition-2026-08-16#Schema settimanale — slot mattutino (mar-ven)|ridefinizione]].
 
