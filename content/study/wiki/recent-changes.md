@@ -1,46 +1,40 @@
 ---
 title: "Ultime Modifiche"
 type: recent-changes
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Ultime Modifiche
 
 Registro delle pagine toccate nell'ultima sessione di lavoro sul piano di studio — non uno storico cumulativo: a ogni nuova sessione questa pagina viene sovrascritta con il nuovo elenco, non integrata. Serve a ritrovare rapidamente cosa è cambiato senza dover confrontare a mano `raw/` e `wiki/`.
 
-**Sessione del 2026-08-23** — Prima sessione di lettura di *Peopleware: Productive Projects and Teams*: creazione del compilato a partire dagli appunti raw reali, correzione di un disallineamento di stato ereditato dall'import originale, e avvio del flusso "compilato aggiornato a ogni sessione" per questo libro.
+**Sessione del 2026-08-24** — Seconda sessione di lettura di *Peopleware: Productive Projects and Teams*: estensione del compilato con i Capitoli 3-5 (Parte 1), a partire dal diff dei nuovi appunti raw rispetto alla sessione precedente del 2026-08-23.
 
-## Decisione registrata
-
-- **2026-08-23** — `raw/learning/decisions/2026-08-23.md`
-  Corretto il disallineamento planned/done sul piano segnalato in [[plan/learning-plan|Learning Plan]] il 2026-08-20 (la pagina "done" precedente era stata compilata su appunti minimi, il libro non era mai stato letto). Registrata anche la decisione di Daniele di aggiornare il compilato di Peopleware a ogni sessione di lettura, non solo a fine libro.
-
-## Piano aggiornato
-
-- **`raw/learning/current.yml`** — item Peopleware (Topic "People & Software Management"): stato da `planned` a `in_progress`.
-
-## Raw aggiornati/creati
+## Raw aggiornati
 
 - **Peopleware: Productive Projects and Teams** — `raw/knowledge/book/peopleware-productive-projects-and-teams/content.md`
-  Frontmatter completato (`study.started_at: 2026-08-23`, `topics: [tech-lead, leadership, psychological-safety]`); corpo con gli appunti reali di Daniele su Parte 1, Capitoli 1-2, lasciato invariato.
-- **Timothy Lister** — `raw/knowledge/person/timothy-lister/content.md`
-  Nuova entità persona per il co-autore di Peopleware, non presente nell'import Recall originale del 2026-08-19.
+  Corpo esteso da Daniele con i Capitoli 3 ("Vienna Waits for You"), 4 ("Quality, if time permit") e 5 ("Parkinson's Law, Revisited"), nuovi Key Concepts, seconda voce in My Notes, prima compilazione di My Takeaways. Contenuto lasciato invariato dalla compilazione; solo il frontmatter è stato aggiornato (aggiunto il topic `technical-excellence`, dato il peso del Capitolo 4 sulla qualità software).
 
-## Pagine wiki compilate
+## Nuove pagine raw + wiki (entità persona)
+
+Sei nuove entità persona, non presenti nell'import Recall originale del 2026-08-19, per le figure citate nei Capitoli 4-5:
+
+- **C. Northcote Parkinson** — [[content/person/c-northcote-parkinson|pagina]] — autore della Legge di Parkinson, discussa e ridimensionata nel Capitolo 5.
+- **Philip Crosby** — [[content/person/philip-crosby|pagina]] — autore di *Quality Is Free*, citato nel Capitolo 4.
+- **D. Tajima** e **T. Matsubara** — [[content/person/d-tajima|pagina]] · [[content/person/t-matsubara|pagina]] — co-autori di "Inside the Japanese Software Industry" (IEEE Computer, 1984), citato nel Capitolo 4; pagine minime, informazioni biografiche non reperite oltre alla citazione.
+- **Michael Lawrence** e **Ross Jeffery** — [[content/person/michael-lawrence|pagina]] · [[content/person/ross-jeffery|pagina]] — autori degli studi UNSW su stime di progetto e produttività citati nel Capitolo 5; pagine minime.
+
+## Pagina wiki compilata aggiornata
 
 - **Peopleware: Productive Projects and Teams** — [[content/book/peopleware-productive-projects-and-teams|pagina]]
-  Riscritta integralmente dagli appunti raw reali (in precedenza compilata solo dalla pagina Wikipedia del libro). Status corretto da `done` a `in_progress`; marcata come pagina aggiornata a ogni sessione. 3 box di approfondimento (origine del termine "peopleware", storia editoriale del libro e parallelo con *The Mythical Man-Month* di Fred Brooks, collegamento fra il capitolo sugli errori e il concetto accademico di sicurezza psicologica di Amy Edmondson).
-- **Timothy Lister** — [[content/person/timothy-lister|pagina]]
-  Pagina persona con bio da ricerca diretta (Atlantic Systems Guild, ex Yourdon), 3 letture consigliate e collegamento a Peopleware.
+  Estesa con i Capitoli 3-5 (sezioni "Vienna Waits for You", "Quality, if time permit", "Parkinson's Law, Revisited"), 2 nuovi box di approfondimento (biografia di Crosby e delle Four Absolutes of Quality Management, biografia di Parkinson e storia editoriale della sua legge), "Concetti chiave" esteso con le nuove osservazioni, "Note di lettura di Daniele" e "Prossimi passi / My Takeaways" aggiornati con la seconda sessione. Banner "lettura in corso" aggiornato (Capitoli 1-5 su 39, Capitolo 6 ancora da leggere). Aggiunto il topic `technical-excellence` in frontmatter.
 
 ## Viste aggiornate
 
-- **Learning Plan** — [[plan/learning-plan|pagina]]
-  Stato di Peopleware aggiornato a `in_progress` nella tabella del Topic "People & Software Management"; risolta e sostituita la nota di disallineamento del 2026-08-20.
 - **By Type** — [[by-type|pagina]]
-  Aggiornati i topic associati alla riga di Peopleware (aggiunto `psychological-safety`).
+  Aggiornati i topic associati alla riga di Peopleware (aggiunto `technical-excellence`).
 
 ## Vedi anche
 
-- [[plan/learning-plan|Learning Plan]]
 - [[content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]]
+- [[plan/learning-plan|Learning Plan]]

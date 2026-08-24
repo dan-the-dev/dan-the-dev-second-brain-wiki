@@ -1,7 +1,7 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # By Type
@@ -24,7 +24,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **Lean Inception** — Paulo Caroli — [[content/book/lean-inception|pagina]] — agile-software-development, lean
 - **Lean Software Development: An Agile Toolkit** — Mary Poppendieck, Tom Poppendieck — [[content/book/lean-software-development-an-agile-toolkit|pagina]] — lean, agile-software-development
 - **Non-Violent Communication** — Marshall B. Rosenberg — [[content/book/non-violent-communication-the-best-way-to-connect|pagina]] — leadership, psychological-safety, nonviolent-communication
-- **Peopleware: Productive Projects and Teams** — Tom DeMarco, Timothy Lister — [[content/book/peopleware-productive-projects-and-teams|pagina]] — tech-lead, leadership, psychological-safety
+- **Peopleware: Productive Projects and Teams** — Tom DeMarco, Timothy Lister — [[content/book/peopleware-productive-projects-and-teams|pagina]] — tech-lead, leadership, psychological-safety, technical-excellence
 - **Practice Perfect** — Doug Lemov, Erica Woolway, Katie Yezzi — [[content/book/practice-perfect-42-rules-for-getting-better-at|pagina]] — personal-growth, coaching
 - **Practices of an Agile Developer** — Venkat Subramaniam, Andy Hunt — [[content/book/practices-of-an-agile-developer|pagina]] — agile-software-development, technical-excellence
 - **Professional PHP** — Patrick Louys — [[content/book/professional-php-building-maintainable-and-secure|pagina]] — software-development, php
