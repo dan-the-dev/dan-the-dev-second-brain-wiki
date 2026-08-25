@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-06-26
+updated: 2026-08-25
 tags: [journal, index]
 ---
 
@@ -10,6 +10,8 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
+
+- [[20260825-muffin-day253]] — 2026-08-25 · Day 253 · Checkpoint uscita Muffin in ferie: PEC dimissioni non arrivata (rimediato con PDF a mano), checklist handover con Alessia leggera, rientro lunedì per ultima settimana
 
 - [[20260820-levels-day0b]] — 2026-08-20 · **Levels Pre-onboarding** · ESOP ricevuta (firmare entro 4 set), fondo pensione Fon.Te., doppia CU 2026
 - [[20260816-levels-day0]] — 2026-08-16 · **Levels Day 0** · Pre-onboarding — offerta accettata, contratto firmato, innamoramento in corso
