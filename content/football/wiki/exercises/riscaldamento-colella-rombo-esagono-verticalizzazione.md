@@ -14,6 +14,8 @@ updated: 2026-08-25
 **Durata consigliata:** 12 min
 **Materiale:** coni, palloni, sagome o giocatori passivi (fase finale)
 
+![[Screenshot 2026-08-25 alle 23.42.37.png]]
+
 ## Descrizione breve
 Esercizio progressivo in 4 fasi: giro di passaggi a rombo, rombo con scarico esterno aggiuntivo, coordinazione di gruppo dove il movimento senza palla innesca il passaggio, e fase finale di verticalizzazione (taglio dentro + sovrapposizione) contro difensori passivi.
 

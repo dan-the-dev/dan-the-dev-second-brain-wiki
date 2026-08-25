@@ -14,6 +14,8 @@ updated: 2026-08-25
 **Durata consigliata:** 8 min
 **Materiale:** coni, palloni
 
+![[Screenshot 2026-08-25 alle 23.42.28.png]]
+
 ## Descrizione breve
 Riscaldamento tecnico su 5 stazioni (4 vertici + 1 centro): il pallone transita sempre dal centro. Chi passa verso il centro lo occupa correndoci; chi è al centro, dopo aver scaricato, si sposta al posto di chi gli aveva dato l'assist. Rotazione continua su tutte e 5 le posizioni.
 
