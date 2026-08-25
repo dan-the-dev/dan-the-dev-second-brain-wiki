@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Dan's Second Brain"
+  pageTitle: Dan's Second Brain
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Source Sans 3
+      body: Source Serif 4
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -70,9 +70,12 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
+    options:
+      collapseByDefault: true
     layout:
       position: right
       priority: 30
+      display: desktop-only
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -125,6 +128,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderDefaultState: collapsed
+      folderClickBehavior: collapse
     layout:
       position: left
       priority: 50
@@ -133,19 +139,15 @@ plugins:
     layout:
       position: right
       priority: 10
+      display: desktop-only
   - source: github:quartz-community/search
     enabled: true
-    layout:
-      position: left
-      priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
       position: right
       priority: 50
+      display: desktop-only
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -157,27 +159,16 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
     enabled: true
-    layout:
-      position: left
-      priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
-    layout:
-      position: left
-      priority: 30
-      group: toolbar
   - source: github:quartz-community/reader-mode
     enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -196,12 +187,12 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/dan-the-dev
+        Medium: https://medium.com/@dan-the-dev
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
-    enabled: true
+    enabled: false
     options: {}
     order: 25
     layout:
@@ -222,6 +213,7 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
+      collapsed: true
       delimiters: ---
       language: yaml
     order: 5
@@ -260,6 +252,10 @@ plugins:
       theme: neo
       mode: both
       calloutStyle: glass
+  - source: github:vazome/quartz-image-zoom
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:

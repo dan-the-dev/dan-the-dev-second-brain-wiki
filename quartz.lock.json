@@ -193,6 +193,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-03T13:32:36.002Z"
     },
+    "quartz-image-zoom": {
+      "source": "github:vazome/quartz-image-zoom",
+      "resolved": "https://github.com/vazome/quartz-image-zoom.git",
+      "commit": "eb516f150d95859c31c1fa5507f2fd81b35bbb15",
+      "installedAt": "2026-08-25T22:12:07.625Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",
