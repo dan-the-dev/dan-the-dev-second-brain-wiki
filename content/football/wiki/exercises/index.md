@@ -18,6 +18,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | Riscaldamento | [[riscaldamento-passaggio-ricezione-due-palloni\|Passing & Receiving Drill con 2 palloni (3 varianti)]] | 4-6 | Passaggio/ricezione con due palloni simultanei, sviluppa attenzione divisa |
 | Riscaldamento | [[riscaldamento-passaggi-porticine-3-varianti\|Passing Warm-up con Porticine U13+ (3 varianti)]] | 6-12 | Passaggi orientati a porticine, aggiunge finalizzazione al riscaldamento |
 | Riscaldamento | [[riscaldamento-passaggio-dribbling-5-varianti\|Passing & Dribbling Warm Up (5 varianti)]] | 6-16 | Passaggio e dribbling combinati, 5 varianti di difficoltà crescente |
+| Preparazione atletica | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
 
 ## Statistiche per categoria
 

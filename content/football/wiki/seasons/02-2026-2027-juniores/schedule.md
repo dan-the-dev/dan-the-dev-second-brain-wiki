@@ -19,8 +19,8 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 |------|--------|--------|------|-------------|-------|
 | 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260826\|📄 programma]] | 🟡 programmato |
 | 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260827\|📄 programma]] | 🟡 programmato |
-| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | — | programmato |
-| 31/08 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | [[sessions/20260829\|📄 programma]] | 🟡 programmato |
+| 31/08 | Lun | 19:00–20:30 | 🤝 amichevole | 🆚 vs Leone XIII Sport — [[sessions/20260831\|📄 dettagli]] | 🟡 programmato |
 
 ---
 

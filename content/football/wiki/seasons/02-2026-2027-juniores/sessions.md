@@ -12,6 +12,8 @@ Elenco delle sessioni di allenamento con pagina dedicata (programma, presenze, n
 |------|--------|-------|--------|
 | 26/08/2026 | Mer | 🟡 Programmato | [[sessions/20260826\|Allenamento 26/08]] |
 | 27/08/2026 | Gio | 🟡 Programmato | [[sessions/20260827\|Allenamento 27/08]] |
+| 29/08/2026 | Sab | 🟡 Programmato | [[sessions/20260829\|Allenamento 29/08]] |
+| 31/08/2026 | Lun | 🟡 Programmato | [[sessions/20260831\|🤝 Amichevole 31/08 vs Leone XIII Sport]] |
 
 ## Legenda stato
 - 🟡 Programmato — sessione pianificata, non ancora svolta
