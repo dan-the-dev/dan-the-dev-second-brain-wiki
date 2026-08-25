@@ -1,0 +1,105 @@
+name: Deploy football wiki to GHCR
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - v5
+    paths:
+      - "content/football/wiki/**"
+      - ".github/workflows/deploy-football.yml"
+      - "docker/**"
+
+permissions:
+  contents: read
+  packages: write
+
+concurrency:
+  group: wiki-football-ghcr
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Cache dependencies
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
+      - name: Point Quartz at the football Coolify host
+        run: |
+          test -n "${{ vars.FOOTBALL_BASE_URL }}"
+          sed -i.bak 's|^  baseUrl:.*|  baseUrl: ${{ vars.FOOTBALL_BASE_URL }}|' quartz.config.yaml
+          sed -i.bak 's|^  pageTitle:.*|  pageTitle: "Football — Ardor Bollate"|' quartz.config.yaml
+      - run: npm ci
+      - run: npx quartz plugin install
+      - name: Build football wiki only
+        run: npx quartz build -d content/football/wiki
+      - uses: actions/upload-artifact@v4
+        with:
+          name: football-site
+          path: public
+
+  docker:
+    name: Push football image to GHCR
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+      - uses: actions/download-artifact@v4
+        with:
+          name: football-site
+          path: public
+      - name: Prepare image context
+        run: |
+          mkdir -p .coolify-image/public
+          cp docker/Dockerfile docker/nginx.conf .coolify-image/
+          cp -a public/. .coolify-image/public/
+      - id: image
+        run: echo "name=ghcr.io/$(echo '${{ github.repository }}' | tr '[:upper:]' '[:lower:]')" >> "$GITHUB_OUTPUT"
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/build-push-action@v6
+        with:
+          context: .coolify-image
+          file: .coolify-image/Dockerfile
+          push: true
+          tags: |
+            ${{ steps.image.outputs.name }}:football
+            ${{ steps.image.outputs.name }}:football-${{ github.sha }}
+      - name: Trigger Coolify deploy
+        env:
+          COOLIFY_WEBHOOK_URL_FOOTBALL: ${{ secrets.COOLIFY_WEBHOOK_URL_FOOTBALL }}
+          COOLIFY_TOKEN: ${{ secrets.COOLIFY_TOKEN }}
+        run: |
+          if [ -z "$COOLIFY_WEBHOOK_URL_FOOTBALL" ]; then
+            echo "COOLIFY_WEBHOOK_URL_FOOTBALL not set; skip"
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
+            -H "Accept: application/json" \
+            -H "Content-Type: application/json" \
+            "$COOLIFY_WEBHOOK_URL_FOOTBALL"
