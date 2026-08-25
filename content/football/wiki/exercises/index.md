@@ -19,6 +19,12 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | Riscaldamento | [[riscaldamento-passaggi-porticine-3-varianti\|Passing Warm-up con Porticine U13+ (3 varianti)]] | 6-12 | Passaggi orientati a porticine, aggiunge finalizzazione al riscaldamento |
 | Riscaldamento | [[riscaldamento-passaggio-dribbling-5-varianti\|Passing & Dribbling Warm Up (5 varianti)]] | 6-16 | Passaggio e dribbling combinati, 5 varianti di difficoltà crescente |
 | Preparazione atletica | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
+| Possesso | [[rondo-4v1\|Rondo 4 contro 1 (Torello base)]] | 5 (4+1) | Possesso base in spazio ridotto, un centrale cerca di intercettare |
+| Possesso | [[rondo-3v1\|Rondo 3 contro 1]] | 4 (3+1) | Come il 4v1 ma con un'opzione di passaggio in meno, più impegnativo |
+| Possesso | [[rondo-4v4-piu-4\|Rondo 4 contro 4 più 4 jolly (rondo alla Guardiola)]] | 12 (4+4+4) | Il rondo più famoso: possesso sul perimetro con 4 jolly neutrali, pressing al centro, scambio di ruolo al recupero |
+| Possesso | [[rondo-8v3\|Rondo posizionale 8 contro 3 (metodo Ajax / Ten Hag)]] | 11 (8+3) | 8 giocatori mantengono la struttura posizionale, 3 pressano per recuperare palla |
+| Possesso | [[rondo-esagonale-3v3-piu-3\|Rondo esagonale 3+3 contro 3+3 (possesso 6 contro 6)]] | 12 (6+6) | Possesso su esagono, genera molte combinazioni di passaggio triangolari |
+| Possesso | [[rondo-posizionale-11v5\|Rondo posizionale 11 contro 5 (struttura e forma di squadra)]] | 16 (11+5) | Lavoro su struttura/forma di squadra, scalate di reparto, adattabile a qualsiasi modulo |
 
 ## Statistiche per categoria
 
