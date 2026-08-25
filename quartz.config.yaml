@@ -257,7 +257,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: rose-pine
+      theme: neo
       mode: both
       calloutStyle: glass
 layout:
