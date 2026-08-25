@@ -1,7 +1,7 @@
 ---
 title: "Passing & Dribbling Warm Up | 5 Variation"
 slug: riscaldamento-passaggio-dribbling-5-varianti
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 6-16
 **Durata consigliata:** 20 min
 **Materiale:** coni, palloni

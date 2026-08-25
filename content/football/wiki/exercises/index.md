@@ -8,7 +8,7 @@ tags: [football, exercises, index]
 
 Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni esercizio ha una pagina dedicata con descrizione completa, obiettivi, setup e video di riferimento — [[riscaldamento-combinazione-5-uomini|esempio]]. Il DB verrà alimentato nel tempo importando esercizi da video e articoli online.
 
-## Riscaldamento
+## Riscaldamento tecnico
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
@@ -18,6 +18,14 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-passaggio-ricezione-due-palloni\|Passing & Receiving Drill con 2 palloni (3 varianti)]] | 4-6 | Passaggio/ricezione con due palloni simultanei, sviluppa attenzione divisa |
 | [[riscaldamento-passaggi-porticine-3-varianti\|Passing Warm-up con Porticine U13+ (3 varianti)]] | 6-12 | Passaggi orientati a porticine, aggiunge finalizzazione al riscaldamento |
 | [[riscaldamento-passaggio-dribbling-5-varianti\|Passing & Dribbling Warm Up (5 varianti)]] | 6-16 | Passaggio e dribbling combinati, 5 varianti di difficoltà crescente |
+| [[riscaldamento-passing-drill-spagna-rotazione-5\|Passing Drill Spagna — rotazione a 5 (4 angoli + centro)]] | 5 | Rotazione continua attraverso il centro: chi passa al centro lo occupa, chi è al centro va al posto di chi gli ha dato l'assist |
+| [[riscaldamento-colella-rombo-esagono-verticalizzazione\|Passing Drill Colella — dal rombo alla verticalizzazione]] | 4-6 | Esercizio progressivo: rombo di passaggio → coordinazione di gruppo → verticalizzazione con taglio dentro e sovrapposizione |
+
+## Riscaldamento atletico
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[core-stability\|Core stability]] | tutta la squadra | Esercizio collettore dei circuiti di core stability (Circuito Forza, Circuito Resistenza, altri in arrivo) |
 
 ## Possesso
 

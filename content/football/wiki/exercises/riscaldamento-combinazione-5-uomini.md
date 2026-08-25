@@ -1,7 +1,7 @@
 ---
 title: "5-Man Passing Combination Exercise - Warm-Up"
 slug: riscaldamento-combinazione-5-uomini
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 5 (o multipli di 5)
 **Durata consigliata:** 15 min
 **Materiale:** coni, palloni

@@ -1,7 +1,7 @@
 ---
 title: "Diamond Passing Warm-Up | 4 Variations | Football/Soccer Training"
 slug: riscaldamento-diamante-passaggi-4-varianti
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 4-8
 **Durata consigliata:** 15 min
 **Materiale:** coni, palloni

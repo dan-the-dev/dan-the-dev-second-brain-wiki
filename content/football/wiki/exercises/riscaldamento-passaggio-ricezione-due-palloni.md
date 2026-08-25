@@ -1,7 +1,7 @@
 ---
 title: "Passing and Receiving Drill With Two Balls | 3 Variation"
 slug: riscaldamento-passaggio-ricezione-due-palloni
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 4-6
 **Durata consigliata:** 12 min
 **Materiale:** coni, palloni

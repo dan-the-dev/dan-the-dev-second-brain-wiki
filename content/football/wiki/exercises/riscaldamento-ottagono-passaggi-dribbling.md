@@ -1,7 +1,7 @@
 ---
 title: "Octagon Passing & Dribbling Exercise - Warm-Up"
 slug: riscaldamento-ottagono-passaggi-dribbling
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 8-12
 **Durata consigliata:** 15 min
 **Materiale:** coni, palloni

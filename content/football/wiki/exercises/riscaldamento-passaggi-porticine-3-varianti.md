@@ -1,7 +1,7 @@
 ---
 title: "Passing Warm-up with Small Goals | 3 Variation | U13+"
 slug: riscaldamento-passaggi-porticine-3-varianti
-categoria: riscaldamento
+categoria: riscaldamento-tecnico
 updated: 2026-08-25
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-08-25
 
 ← [[index|Torna alla libreria esercizi]]
 
-**Categoria:** Riscaldamento
+**Categoria:** Riscaldamento tecnico
 **Giocatori:** 6-12
 **Durata consigliata:** 15 min
 **Materiale:** coni, palloni, porticine
