@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-21
+updated: 2026-08-25
 ---
 
 # Calendari allenamenti 2026/27
@@ -17,8 +17,8 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 
 | Data | Giorno | Orario | Tipo | Descrizione | Stato |
 |------|--------|--------|------|-------------|-------|
-| 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260826\|📄 programma]] | 🟡 programmato |
+| 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260827\|📄 programma]] | 🟡 programmato |
 | 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | — | programmato |
 | 31/08 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 

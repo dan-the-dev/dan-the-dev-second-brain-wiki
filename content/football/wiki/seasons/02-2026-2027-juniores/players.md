@@ -1,14 +1,14 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-16
+updated: 2026-08-25
 ---
 
 # Rosa — Juniores Regionali 2026/27
 
 **Campionato:** Juniores Regionali U19 — Girone H
 **Regola fuori quota:** max 3 calciatori nati dal 01/01/2007 in poi
-**Rosa:** 25 giocatori (+ 1 portiere fuori rosa)
+**Rosa:** 25 giocatori (+ 1 portiere fuori rosa, + 1 in prova)
 
 ---
 
@@ -34,6 +34,7 @@ updated: 2026-08-16
 | 9 | Riccio Alessandro | 2008 | Terzino | ✓ confermato · Buon tackle, ottimo in gruppo |
 | 10 | Pedullà Samuele | 2008 | Difensore centrale o laterale | ✓ confermato · Rincalzo di qualità, deve crescere |
 | 11 | Capretti | 2009 | Difensore centrale | 🆕 nuovo (da Vigor) · Belle impressioni, personalità, visto titolare |
+| P | Livelli Luca | 2008 | Difensore centrale, da valutare anche come terzino | 🔍 **in prova** (da Baranzatese, Elite) · Presente 26, 27 e 29/08 (il 29 lo valuta anche Teo) · Dovrebbe essere un difensore centrale forte, salvo sorprese resta in rosa |
 
 ---
 
@@ -78,6 +79,9 @@ updated: 2026-08-16
 - Sudano (2008) — esterno/seconda punta
 - Amdy (2006) — portiere fuori rosa (non convocabile)
 
+### 🔍 In prova (1)
+- Livelli Luca (2008) — difensore centrale, **da Baranzatese (Elite)**. In prova dal 26/08 (26, 27 e 29/08), valutato anche da Teo il 29/08. Salvo sorprese resta in rosa.
+
 ### ❌ Usciti (17)
 Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · Pagliato Gabriele · Belotti Luca · Annoni Mattia · Cascio Mattia · Favaron Mattia · Ghioni Mattia · Montagner Mattia · Portararo Mattia · Banfi Paolo · Boniardi Riccardo · Conti Riccardo · Picca Riccardo · Minora Tommaso
 
@@ -86,4 +90,5 @@ Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · 
 ## Legenda
 - ✓ confermato = presente anche nella stagione 2025/26
 - 🆕 nuovo = primo anno con l'Ardor
+- 🔍 in prova = non ancora ufficialmente in rosa, in valutazione
 - FQ = fuori quota (2007) — max 3 convocabili per partita
