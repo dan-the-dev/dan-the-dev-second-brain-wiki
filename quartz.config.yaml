@@ -251,6 +251,15 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    options:
+      theme: rose-pine
+      mode: both
+      calloutStyle: glass
 layout:
   groups:
     toolbar:
