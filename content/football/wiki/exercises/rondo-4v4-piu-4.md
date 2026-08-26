@@ -39,4 +39,4 @@ Una squadra si dispone sul perimetro di un rettangolo e cerca di mantenere il po
 - 1 pallone, 3 colori di pettorine (due squadre + jolly)
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores

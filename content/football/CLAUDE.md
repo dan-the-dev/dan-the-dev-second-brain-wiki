@@ -65,8 +65,14 @@ esercizi:
     score: 1-5
     note: ""
 note_generali: ""
+autovalutazioni:
+  - giocatore: ""
+    tqr: 6-20 | null   # somministrato PRIMA della seduta; null se non applicabile (es. prima sessione della stagione) o non rilevato
+    rpe: 6-20 | null   # somministrato DOPO la seduta; null se non rilevato
 updated: YYYY-MM-DD
 ---
+Nota: `autovalutazioni` include solo i giocatori presenti che hanno effettivamente compilato almeno uno dei due valori.
+Scale complete e significato in [[wiki/exercises/rpe-scala-borg|RPE]] e [[wiki/exercises/tqr-total-quality-recovery|TQR]].
 
 ### Match dump
 ---
@@ -135,10 +141,12 @@ Trigger: Daniele invia dump vocale o testo di un allenamento
    - Controlla se esiste in raw/exercises/
    - Se non esiste: crea il file raw/exercises/{slug}.md
    - Se esiste: aggiorna volte_usato e score_medio
-4. Aggiorna wiki/seasons/{stagione}/sessions.md aggiungendo la sessione
-5. Aggiorna wiki/seasons/{stagione}/stats.md (presenze)
-6. Aggiorna wiki/exercises/index.md
-7. Rispondi con conferma: data, presenti (N giocatori), esercizi salvati
+4. Crea/aggiorna wiki/seasons/{stagione}/sessions/{YYYYMMDD}.md con stato, orario, programma allenamento,
+   tabella presenze (con colonne TQR pre e RPE post per ogni giocatore, "—" se assente o non applicabile) e note
+5. Aggiorna wiki/seasons/{stagione}/sessions.md aggiungendo/aggiornando la riga della sessione (stato 🟡/🟢)
+6. Aggiorna wiki/seasons/{stagione}/attendance.md (contatori presenze/assenze per giocatore)
+7. Aggiorna wiki/exercises/index.md
+8. Rispondi con conferma: data, presenti (N giocatori), esercizi salvati
 
 ### ⚽ DUMP PARTITA
 Trigger: Daniele invia dump vocale o testo di una partita

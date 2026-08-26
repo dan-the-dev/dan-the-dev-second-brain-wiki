@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [football, exercises, index]
 ---
 
@@ -43,6 +43,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
+| [[allunghi-50-metri\|Allunghi sui 50 metri]] | tutta la squadra | Accelerazioni progressive (partenza → picco 90-95% velocità max → decelerazione), per tecnica di corsa e attivazione neuromuscolare; variante intermittente per potenza aerobica/resistenza alla velocità |
 
 ## Monitoraggio carico atletico
 
@@ -53,4 +54,4 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 
 ## Statistiche per categoria
 
-Dati aggregati (score medio, volte usato) disponibili nel database (vista `exercises_by_category`) — non duplicati qui nella wiki testuale, vedi le pagine dei singoli esercizi per i contatori aggiornati.
+Dati aggregati (score medio, volte usato) non duplicati qui nella wiki testuale — vedi le pagine dei singoli esercizi per i contatori aggiornati.
