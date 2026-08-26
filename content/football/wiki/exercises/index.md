@@ -44,6 +44,13 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
 
+## Monitoraggio carico atletico
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[rpe-scala-borg\|RPE — Scala di Borg 6-20 (session-RPE)]] | tutta la squadra | Autovalutazione post-allenamento della fatica percepita; RPE × durata = carico interno di allenamento |
+| [[tqr-total-quality-recovery\|TQR — Total Quality Recovery]] | tutta la squadra | Autovalutazione pre-allenamento del recupero percepito, speculare all'RPE |
+
 ## Statistiche per categoria
 
 Dati aggregati (score medio, volte usato) disponibili nel database (vista `exercises_by_category`) — non duplicati qui nella wiki testuale, vedi le pagine dei singoli esercizi per i contatori aggiornati.
