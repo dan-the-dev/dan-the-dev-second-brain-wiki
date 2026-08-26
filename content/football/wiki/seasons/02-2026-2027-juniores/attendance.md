@@ -14,27 +14,27 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 | Boniardi | Alessandro | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Boniardi | Edoardo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Brana | Lorenzo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Capretti | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Capretti | Guglielmo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Columpsi | Gabriele | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Curtarelli | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Curtarelli | Davide | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Cuzmin | Alessandro | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Di Bello | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Di Bello | Leonardo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Favaron | Diego | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Grassi | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Grosso | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Grassi | Eric | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Grosso | Davide | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Iannace | Federico | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Lapicirella | Alessandro | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Lapiccirella | Alessandro | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Lasagna | Riccardo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Lentini | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Lentini | Francesco | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Livelli 🔍 | Luca | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Lovalvo | Luca | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Lo Valvo | Luca | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Mingrone | Gabriele | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Palmisano | Marco | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Parolini | Nicolò | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Parolini | Niccolò | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Pedullà | Samuele | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Riccio | Alessandro | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Simonato | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
-| Sudano | — | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
+| Sudano | Matteo | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 | Taronna | Francesco | 0 | 0 | 0% | 0 | 0% | 0 | 0% |
 
 ## Legenda

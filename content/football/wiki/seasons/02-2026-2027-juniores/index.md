@@ -14,15 +14,15 @@ Stagione in preparazione/avvio. La squadra è impegnata su due fronti:
 - **Coppa Lombardia U19 Provinciale** — girone a 4 squadre (Bresso Calcio, Ardor Bollate, Leone XIII Sport, Sempione Half 1919)
 
 ## Squadra
-[[players|👥 Rosa]]
+[[seasons/02-2026-2027-juniores/players|👥 Rosa]]
 
 ## Allenamenti
 [[schedule|🏋️ Calendario allenamenti e partite]]
 [[sessions|📄 Sessioni con pagina dedicata (programma, presenze, note)]]
-[[attendance|✅ Presenze — contatori per giocatore]]
+[[seasons/02-2026-2027-juniores/attendance|✅ Presenze — contatori per giocatore]]
 
 ## Partite
-[[matches|⚽ Calendario partite — Campionato e Coppa Lombardia]]
+[[seasons/02-2026-2027-juniores/matches|⚽ Calendario partite — Campionato e Coppa Lombardia]]
 
 ---
 *Pagina di sintesi minima — la compilazione completa della wiki (stats, formazioni, obiettivi, ecc.) avverrà su richiesta a fine stagione o quando i dati saranno disponibili.*

@@ -1,6 +1,6 @@
 ---
 title: Football — Allenatore Calcio
-updated: 2026-08-25
+updated: 2026-08-21
 tags: [football, index]
 ---
 
