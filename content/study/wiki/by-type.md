@@ -8,7 +8,7 @@ updated: 2026-08-26
 
 Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i topic a cui ciascun elemento è agganciato. Per la vista organizzata per argomento si veda [[topics/agile-software-development|Topics]]; per l'archivio grezzo importato da Recall si veda [[knowledge-archive|Archivio Recall importato]].
 
-**Totale: 77 contenuti** (25 book, 35 article, 9 video, 3 conference, 3 podcast, 2 course). Le 2 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente il 2026-08-22 tramite il flusso "Online articles study draft" e non fanno parte dell'import Recall del 2026-08-19 — vedi [[index|nota in home]].
+**Totale: 78 contenuti** (25 book, 35 article, 10 video, 3 conference, 3 podcast, 2 course). Le 3 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video — vedi [[index|nota in home]].
 
 ### Book (25)
 
@@ -76,12 +76,13 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **Tutto quello che ho imparato su Team Topologies** — [[content/article/tutto-quello-che-ho-imparato-su-team-topologies|pagina]] — agile-software-development
 - **Why did Martin Fowler invite 60 engineers to a ski resort?** *(aggiunto 2026-08-22)* — [[content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina]] — ai, software-development, technical-excellence
 
-### Video (9)
+### Video (10)
 
 - **11 principi fondamentali che dovresti tenere a mente ogni giorno** — [[content/video/11-principi-fondamentali-che-dovresti-tenere-a|pagina]] — leadership, personal-growth
 - **Async Code Reviews Are Choking Your Company's Throughput** — [[content/video/async-code-reviews-are-choking-your-companys|pagina]] — agile-software-development, extreme-programming
 - **Claude Cowork: la guida completa per creare i tuoi agenti AI personali da zero** — [[content/video/claude-cowork-la-guida-completa-per-creare-i-tuoi|pagina]] — ai, technology
 - **Come (non) usare l'AI per programmare? — Reaction a @antirez** — [[content/video/come-non-usare-l-ai-per-programmare-reaction-a|pagina]] — ai, technology, ai-development
+- **Come funziona CLAUDE CODE spiegato da un Developer** *(aggiunto 2026-08-27)* — [[content/video/come-funziona-claude-code-spiegato-da-un-dev|pagina]] — ai, technology
 - **Everything We Learned at Stanford Business School in 19 Minutes** — [[content/video/everything-we-learned-at-stanford-business-school|pagina]] — personal-growth, business-development
 - **Greg Young — CQRS and Event Sourcing — Code on the Beach 2014** — [[content/video/greg-young-cqrs-and-event-sourcing-code-on-the|pagina]] — agile-software-development, technical-excellence, ddd
 - **L'effetto sistemico di eXtreme Programming con Nicola Moretto** — [[content/video/l-effetto-sistemico-di-extreme-programming-con|pagina]] — agile-software-development, extreme-programming

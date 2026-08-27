@@ -15,6 +15,7 @@ Anthropic è un'azienda americana di ricerca sull'AI fondata nel 2021 da ex memb
 ## Indice dei contenuti collegati in questo archivio
 
 - [[../software/claude-language-model|Claude (language model)]] (prodotto principale)
+- [[../software/claude-code|Claude Code]] (prodotto, agente di coding)
 
 ## Fonte
 

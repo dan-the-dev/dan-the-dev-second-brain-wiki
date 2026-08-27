@@ -1,12 +1,12 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-08-22
+updated: 2026-08-27
 ---
 
 # Completati
 
-Elenco dei 77 contenuti compilati in questo archivio (25 book, 35 article, 9 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più le 2 voci aggiunte manualmente il 2026-08-22 tramite il flusso "Online articles study draft" (status `to_read`, non ancora segnate come studiate — restano incluse qui perché la pagina compilata esiste già; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio). Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco dei 78 contenuti compilati in questo archivio (25 book, 35 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 3 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" e 1 video il 2026-08-27 (status ancora `to_read`/`to_watch`, non ancora segnati come studiati — restano inclusi qui perché la pagina compilata esiste già; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio). Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
 ## Timeline (cronologia parziale, a memoria di Daniele)
 
@@ -71,6 +71,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **Clean Code: A Handbook of Agile Software Craftsmanship** (book) — Robert C. Martin — [[content/book/clean-code-a-handbook-of-agile-software|pagina]]
 - **Code Is Cheap Now. Software Isn't.** (article) — [[content/article/code-is-cheap-now-software-isnt|pagina]]
 - **Come (non) usare l'AI per programmare? — Reaction a @antirez** (video) — [[content/video/come-non-usare-l-ai-per-programmare-reaction-a|pagina]]
+- **Come funziona CLAUDE CODE spiegato da un Developer** (video) — [[content/video/come-funziona-claude-code-spiegato-da-un-dev|pagina]]
 - **Cos'è il debito tecnico e come affrontarlo in modo Agile** (article) — [[content/article/cose-il-debito-tecnico-e-come-affrontarlo-in-modo|pagina]]
 - **Doerr's Law on Product Teams** (article) — [[content/article/doerr-s-law-on-product-teams|pagina]]
 - **Domain-Driven Design: Distilled** (book) — Vaughn Vernon — [[content/book/domain-driven-design-distilled|pagina]]

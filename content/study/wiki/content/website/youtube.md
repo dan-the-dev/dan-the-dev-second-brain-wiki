@@ -15,6 +15,8 @@ YouTube è la piattaforma di condivisione video più usata al mondo, di propriet
 ## Indice dei contenuti collegati in questo archivio
 
 - [[../video/who-should-enable-tdd-scrum-master-line-manager|Who Should Enable TDD?]] (piattaforma ospitante)
+- [[../video/come-funziona-claude-code-spiegato-da-un-dev|Come funziona CLAUDE CODE spiegato da un Developer]] (piattaforma ospitante)
+- [[../video/claude-cowork-la-guida-completa-per-creare-i-tuoi|Claude Cowork: la guida completa]] (piattaforma ospitante)
 - Altri video dell'archivio ospitati sulla stessa piattaforma verranno collegati man mano che le rispettive content page sono compilate.
 
 ## Fonte
