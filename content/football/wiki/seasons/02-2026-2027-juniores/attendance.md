@@ -1,41 +1,41 @@
 ---
 title: Presenze — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-26
+updated: 2026-08-30
 ---
 
 # ✅ Presenze — Juniores Regionali 2026/27
 
-Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate.
+Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08. Nota: i dati del 27/08 sono presunti (non è mai arrivato un dump post-seduta reale), impostati uguali a quelli confermati del 26/08 su indicazione di Daniele.
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
-| Amdy | — | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Boniardi | Alessandro | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Boniardi | Edoardo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Brana | Lorenzo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Capretti | Guglielmo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Columpsi | Gabriele | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Curtarelli | Davide | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Cuzmin | Alessandro | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Di Bello | Leonardo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Favaron | Diego | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Grassi | Eric | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Grosso | Davide | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Iannace | Federico | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Lapiccirella | Alessandro | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Lasagna | Riccardo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Lentini | Francesco | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Livelli 🔍 | Luca | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Lo Valvo | Luca | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Mingrone | Gabriele | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Palmisano | Marco | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Parolini | Niccolò | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Pedullà | Samuele | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Riccio | Alessandro | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Simonato | Mattia Lorenzo | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
-| Sudano | Matteo | 1 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Taronna | Francesco | 0 | 1 | 0% | 0 | 0% | 0 | 0% |
+| Amdy | — | 0 | 3 | 0% | 0 | 0% | 0 | 0% |
+| Boniardi | Alessandro | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Boniardi | Edoardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Brana | Lorenzo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Capretti | Guglielmo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Columpsi | Gabriele | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Curtarelli | Davide | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Cuzmin | Alessandro | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Di Bello | Leonardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Favaron | Diego | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Grassi | Eric | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Grosso | Davide | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Iannace | Federico | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Lapiccirella | Alessandro | 0 | 3 | 0% | 0 | 0% | 0 | 0% |
+| Lasagna | Riccardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Lentini | Francesco | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Livelli 🔍 | Luca | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Lo Valvo | Luca | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Mingrone | Gabriele | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Palmisano | Marco | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Parolini | Niccolò | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Pedullà | Samuele | 0 | 3 | 0% | 0 | 0% | 0 | 0% |
+| Riccio | Alessandro | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Sudano | Matteo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Taronna | Francesco | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".

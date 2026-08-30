@@ -39,6 +39,7 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/formations.md → moduli usati
 - wiki/seasons/{stagione}/fitness.md → andamento presenze
 - wiki/seasons/{stagione}/attendance.md → storico presenze allenamenti per giocatore
+- wiki/seasons/{stagione}/test-fisici.md → test fisici somministrati nella stagione (test usato, risultati per giocatore, gruppi derivati), organizzata per data per permettere il confronto tra somministrazioni successive
 - wiki/seasons/{stagione}/injuries.md → storico infortuni
 - wiki/seasons/{stagione}/player-profiles.md → caratteristiche/attributi giocatori
 - wiki/seasons/{stagione}/objectives.md → obiettivi stagione e status
@@ -60,7 +61,7 @@ durata_minuti: 90
 score: 1-5
 esercizi:
   - nome: ""
-    categoria: riscaldamento|possesso|tattica|fisico|calci-piazzati|partitella
+    categoria: riscaldamento-tecnico|riscaldamento-atletico|possesso|tattica|preparazione-atletica|monitoraggio-carico-atletico|test-fisici|calci-piazzati|partitella
     durata_minuti: 0
     score: 1-5
     note: ""
@@ -116,7 +117,7 @@ updated: YYYY-MM-DD
 ---
 title: ""
 slug: ""
-categoria: riscaldamento|possesso|tattica|fisico|calci-piazzati|partitella
+categoria: riscaldamento-tecnico|riscaldamento-atletico|possesso|tattica|preparazione-atletica|monitoraggio-carico-atletico|test-fisici|calci-piazzati|partitella
 descrizione: ""
 video_url: ""   # link YouTube o Instagram, opzionale
 durata_consigliata_minuti: 0

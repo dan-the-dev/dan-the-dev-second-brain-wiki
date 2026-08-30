@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-08-27
+updated: 2026-08-29
 tags: [football, exercises, index]
 ---
 
@@ -20,6 +20,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-passaggio-dribbling-5-varianti\|Passing & Dribbling Warm Up (5 varianti)]] | 6-16 | Passaggio e dribbling combinati, 5 varianti di difficoltà crescente |
 | [[riscaldamento-passing-drill-spagna-rotazione-5\|Passing Drill Spagna — rotazione a 5 (4 angoli + centro)]] | 5 | Rotazione continua attraverso il centro: chi passa al centro lo occupa, chi è al centro va al posto di chi gli ha dato l'assist |
 | [[riscaldamento-colella-rombo-esagono-verticalizzazione\|Passing Drill Colella — dal rombo alla verticalizzazione]] | 4-6 | Esercizio progressivo: rombo di passaggio → coordinazione di gruppo → verticalizzazione con taglio dentro e sovrapposizione |
+| [[riscaldamento-rombi-quadrati\|Riscaldamento a rombi/quadrati — trasmissione, controllo orientato, terzo uomo]] | 24 (3 gruppi da 8) | 3 rombi/quadrati paralleli: trasmissione, controllo orientato, inserimento del terzo uomo |
 
 ## Riscaldamento atletico
 
@@ -37,6 +38,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-8v3\|Rondo posizionale 8 contro 3 (metodo Ajax / Ten Hag)]] | 11 (8+3) | 8 giocatori mantengono la struttura posizionale, 3 pressano per recuperare palla |
 | [[rondo-esagonale-3v3-piu-3\|Rondo esagonale 3+3 contro 3+3 (possesso 6 contro 6)]] | 12 (6+6) | Possesso su esagono, genera molte combinazioni di passaggio triangolari |
 | [[rondo-posizionale-11v5\|Rondo posizionale 11 contro 5 (struttura e forma di squadra)]] | 16 (11+5) | Lavoro su struttura/forma di squadra, scalate di reparto, adattabile a qualsiasi modulo |
+| [[possesso-5v5-jolly-cambio-lato\|Possesso 5 contro 5 con 2 jolly esterni — cambio lato]] | 12 (10+2) | Possesso 5v5 con 2 jolly esterni fissi; punto da jolly a jolly passando dal centro, minimo 5 passaggi |
 
 ## Preparazione atletica
 
@@ -51,6 +53,18 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[rpe-scala-borg\|RPE — Scala di Borg 6-20 (session-RPE)]] | tutta la squadra | Autovalutazione post-allenamento della fatica percepita; RPE × durata = carico interno di allenamento |
 | [[tqr-total-quality-recovery\|TQR — Total Quality Recovery]] | tutta la squadra | Autovalutazione pre-allenamento del recupero percepito, speculare all'RPE |
+
+## Partitella
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[partitella-progressiva-test-tattico\|Partitella progressiva (test tattico di fine seduta)]] | tutta la squadra | 3 fasi crescenti: 1 porta + 2 porticine → 6v6 con jolly e cambio campo → partita normale con gol validi solo a squadra tutta in metà campo offensiva |
+
+## Test fisici
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[test-gacon\|Test di Gacon]] | 6-12 per batteria | Test intermittente da campo per stimare la Velocità Aerobica Massima (VAM); risultati e gruppi in [[../seasons/02-2026-2027-juniores/test-fisici\|Test fisici stagione 2026/27]] |
 
 ## Statistiche per categoria
 
