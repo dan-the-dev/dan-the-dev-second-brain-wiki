@@ -51,4 +51,4 @@ Esercizio costruito per fasi progressive che parte da un semplice riscaldamento 
 Ricostruito dai disegni a mano del PDF: alcuni dettagli (ruoli esatti in fase 3, significato preciso delle X, eventuale conclusione a rete) sono interpretazioni da confermare con Daniele.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores

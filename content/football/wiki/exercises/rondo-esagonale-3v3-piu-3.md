@@ -40,4 +40,4 @@ Tre giocatori per squadra si dispongono sui vertici esterni dell'esagono, gli al
 - 1 pallone, 2 colori di pettorine
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores

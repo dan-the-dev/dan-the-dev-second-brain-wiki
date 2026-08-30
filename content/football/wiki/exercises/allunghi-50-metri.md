@@ -59,4 +59,4 @@ Allunghi e Fartlek sono entrambi metodi di corsa a intensità variabile ma con s
 - [Allunghi: l'esercizio di 15 secondi che migliora la tecnica di corsa — Runlovers](https://runlovers.it/2026/allunghi-corsa-strides-tecnica-esecuzione/)
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores

@@ -6,7 +6,7 @@ updated: 2026-08-30
 
 # ✅ Presenze — Juniores Regionali 2026/27
 
-Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08. Nota: i dati del 27/08 sono presunti (non è mai arrivato un dump post-seduta reale), impostati uguali a quelli confermati del 26/08 su indicazione di Daniele.
+Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08 — tutti e tre con dump post-seduta reale.
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
@@ -15,7 +15,7 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 | Boniardi | Edoardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Brana | Lorenzo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Capretti | Guglielmo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Columpsi | Gabriele | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Columpsi | Gabriele | 2 | 1 | 67% | 0 | 0% | 0 | 0% |
 | Curtarelli | Davide | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Cuzmin | Alessandro | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Di Bello | Leonardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
@@ -25,17 +25,17 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 | Iannace | Federico | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
 | Lapiccirella | Alessandro | 0 | 3 | 0% | 0 | 0% | 0 | 0% |
 | Lasagna | Riccardo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Lentini | Francesco | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
-| Livelli 🔍 | Luca | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
+| Lentini | Francesco | 2 | 1 | 67% | 0 | 0% | 0 | 0% |
+| Livelli | Luca | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Lo Valvo | Luca | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
 | Mingrone | Gabriele | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Palmisano | Marco | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Parolini | Niccolò | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Parolini | Niccolò | 2 | 1 | 67% | 0 | 0% | 0 | 0% |
 | Pedullà | Samuele | 0 | 3 | 0% | 0 | 0% | 0 | 0% |
 | Riccio | Alessandro | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
 | Simonato | Mattia Lorenzo | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
 | Sudano | Matteo | 3 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Taronna | Francesco | 1 | 2 | 33% | 0 | 0% | 0 | 0% |
+| Taronna | Francesco | 2 | 1 | 67% | 0 | 0% | 0 | 0% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".
@@ -44,4 +44,3 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 - **% convocato** = Partite convocato / partite totali giocate dalla squadra.
 - **Partite giocate** — numero di partite in cui il giocatore ha effettivamente preso parte (titolare o subentrato).
 - **% giocato** = Partite giocate / partite totali giocate dalla squadra.
-- 🔍 = giocatore in prova, non ancora ufficialmente in rosa.

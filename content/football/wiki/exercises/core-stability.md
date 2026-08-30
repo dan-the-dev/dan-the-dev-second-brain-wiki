@@ -75,4 +75,4 @@ Riposo pari alla durata dell'esercizio, serve timer/cronometro.
 - [In and Out Abs Exercise — SET FOR SET](https://www.setforset.com/blogs/news/in-and-out-abs-exercise)
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores

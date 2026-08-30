@@ -40,6 +40,7 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/fitness.md → andamento presenze
 - wiki/seasons/{stagione}/attendance.md → storico presenze allenamenti per giocatore
 - wiki/seasons/{stagione}/test-fisici.md → test fisici somministrati nella stagione (test usato, risultati per giocatore, gruppi derivati), organizzata per data per permettere il confronto tra somministrazioni successive
+- wiki/seasons/{stagione}/multe.md → registro sanzioni/multe (data, giocatore, cifra, motivazione, stato pagamento) secondo il Regolamento di Squadra, con totali fatte/da pagare/pagate
 - wiki/seasons/{stagione}/injuries.md → storico infortuni
 - wiki/seasons/{stagione}/player-profiles.md → caratteristiche/attributi giocatori
 - wiki/seasons/{stagione}/objectives.md → obiettivi stagione e status

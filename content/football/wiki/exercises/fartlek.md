@@ -78,7 +78,7 @@ Non è tanto il singolo numero a fare la differenza, ma il bilancio tra durata d
 Nelle sedute del 26 e 27 agosto 2026 il fartlek è inserito in due blocchi da 8' ciascuno nella stessa seduta: il primo in variante **30-30** (stimolo aerobico più "pulito"), il secondo in variante **40-20** (maggiore componente lattacida) — una progressione naturale di intensità/affaticamento nel corso della seduta.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 3 · Stagioni: 02-2026-2027-juniores
 
 ## Fonti
 - [Fartlek — Wikipedia](https://en.wikipedia.org/wiki/Fartlek)

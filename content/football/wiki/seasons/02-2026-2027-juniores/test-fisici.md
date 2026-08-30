@@ -1,7 +1,7 @@
 ---
 title: Test fisici — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # 🏃‍♂️ Test fisici — Juniores Regionali 2026/27
@@ -47,7 +47,7 @@ Somministrato durante l'allenamento del 29/08 ([[sessions/20260829|Allenamento 2
 | Sudano Matteo | 17.5 | Molto buono / Ottimo |
 | Capretti Guglielmo | 17.2 | Molto buono / Ottimo |
 | Di Bello Leonardo | 17.2 | Molto buono / Ottimo |
-| Livelli Luca 🔍 (in prova) | 17.2 | Molto buono / Ottimo |
+| Livelli Luca | 17.2 | Molto buono / Ottimo |
 | Grassi Eric | 16.8 | Molto buono / Ottimo |
 | Boniardi Alessandro | 16.7 | Molto buono / Ottimo |
 | Taronna Francesco | 16.7 | Molto buono / Ottimo |
@@ -73,7 +73,7 @@ Somministrato durante l'allenamento del 29/08 ([[sessions/20260829|Allenamento 2
 - Di Bello Leonardo
 - Sudano Matteo
 - Grosso Davide
-- Livelli Luca 🔍 (in prova)
+- Livelli Luca
 
 **Gruppo 2**
 - Taronna Francesco
