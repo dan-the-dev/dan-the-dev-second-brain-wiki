@@ -2,7 +2,7 @@
 title: Claudio
 company: [muffin]
 role: Senior Leader / quasi-CTO / Board
-updated: 2026-08-03
+updated: 2026-08-25
 tags: [people, muffin]
 ---
 
@@ -36,3 +36,5 @@ Claudio è la figura di fiducia istituzionale più alta per Dan in Muffin. Il mo
 
 ## Note aggiuntive
 Con questa confidenza, il ruolo di Claudio evolve da "alleato interno stabile" a "persona che condivide la stessa incertezza esistenziale di Dan rispetto a Muffin" — un cambiamento di dinamica rilevante se Dan dovesse uscire: Claudio potrebbe non essere più un punto fermo dell'organizzazione a cui affidare la transizione (→ [[patterns/index|Pattern 1]], da rivalutare per questa esperienza).
+
+**Aggiornamento (25 ago 2026, day 253)**: la domanda aperta al 3/8 si chiarisce nei fatti, anche se non nei dump espliciti — tra l'8 e il 20/8 Dan accetta [[levels|Levels]] e formalizza le dimissioni. Nonostante l'incertezza di Claudio sulla propria posizione, resta lui il destinatario designato dell'handover tecnico: nel checkpoint del 25/8 con [[alessia-pileri|Alessia]], la checklist di consegna prevede la condivisione degli account aziendali a Claudio come admin, non un passaggio pieno ad Alessia. Conferma che, anche con Claudio stesso in bilico, Dan continua a considerarlo il punto di riferimento più affidabile per la continuità tecnica — coerente con il ruolo di alleato di fiducia che ha mantenuto per tutta l'esperienza.

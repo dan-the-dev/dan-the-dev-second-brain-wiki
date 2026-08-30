@@ -2,7 +2,7 @@
 title: Michele
 company: [muffin]
 role: Stakeholder senior / Board
-updated: 2026-08-03
+updated: 2026-08-25
 tags: [people, muffin]
 ---
 
@@ -32,3 +32,5 @@ Michele è la voce del "risultato business" nell'ecosistema Muffin. La sua preoc
 **⚠️ Aggiornamento critico (3 lug 2026)**: lo "scossone" anticipato da Michele non era la questione Luca, ma una crisi di liquidità aziendale — riduzione ore al 50% per tutti, fornitori interrotti (inclusi i consulenti Qmates). Michele aveva dato a Dan un segnale reale (privatamente, prima degli altri) ma la sua conversazione riservata con Dan a giugno, letta col senno di poi, sembra aver anticipato solo una parte del quadro (l'insoddisfazione su Luca), non la crisi economica più ampia — o forse Michele stesso non aveva ancora piena visibilità sulla gravità della situazione a quel punto. Rilevante anche la contraddizione sollevata da Dan in convocazione: 6 mesi prima Michele/Muffin avevano garantito che "i soldi non erano un problema" — dichiarazione che Dan ha esplicitamente contestato senza però fare resistenza formale (calcolo economico su NASPI). → [[patterns/index|Pattern 8: segnali organizzativi deboli]].
 
 **⚠️ Aggiornamento critico (3 ago 2026, day 250)**: da una confidenza di [[claudio|Claudio]] emerge un quadro più politico di Michele. [[alessandro-messina|Alessandro Messina]] (nominato Presidente Esecutivo/CEO a fine luglio) viene descritto come "un uomo di Michele" — suggerendo che la nomina non sia stata neutra ma una mossa di Michele per rafforzare la propria influenza nel board. Inoltre, Michele avrebbe sperato che la due diligence in corso portasse a galla elementi critici su **Fabio Sferruzzi** (persona non ancora documentata altrove — verosimilmente un altro socio o dirigente). Questo riposiziona Michele da "stakeholder preoccupato per i costi" a partecipante attivo in una dinamica di potere interna all'azionariato, con la due diligence usata anche come strumento politico oltre che come processo di verifica economica.
+
+**Aggiornamento (25 ago 2026, day 253)**: tra il day 250 (3/8) e questo checkpoint, Dan ha formalizzato le dimissioni da Muffin (invio non documentato nei journal — gap da segnalare, la PEC risulta spedita ma non consegnata, sanato con invio del PDF a mano). In questo contesto Michele chiama Dan direttamente, in ferie, per una chiusura umana: lo ringrazia, ribadisce che gli dispiace molto — soprattutto per Dan — e che tutta la situazione (la crisi, i giochi di potere descritti da Claudio) non è dovuta né causata da Dan o dal suo team. È un tono molto diverso dal Michele "politico" del 3/8: qui si presenta come la persona che riconosce il danno subito da Dan senza however offrire un cambio di rotta. Resta aperto se Dan farà un salto a Castiglione per salutare di persona (obbligatorio solo se dovrà riconsegnare il computer aziendale).

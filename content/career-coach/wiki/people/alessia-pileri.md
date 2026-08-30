@@ -3,7 +3,7 @@ title: Alessia Pileri
 role: Software Engineer
 company: muffin
 manager: Daniele Scillia
-updated: 2026-07-06
+updated: 2026-08-25
 tags: [people, muffin, direct-report]
 ---
 
@@ -103,3 +103,5 @@ Alessia è una figura su cui vale la pena investire. Il profilo ha le caratteris
 Dan la considera un elemento chiave del team, tanto che la linea rossa esplicita in caso di scossoni organizzativi è: *"se tocca Alessia è guerra vera"* (dump 12/06).
 
 **Aggiornamento (6 lug 2026, day 244)**: primo giorno di orario ridotto al 50% per tutta l'azienda (Alessia inclusa, per estensione — non specificato esplicitamente nel raw se coinvolta 1:1 sulla stessa riduzione). Dan ha una conversazione diretta con lei nella giornata (contenuto non dettagliato). Da verificare in una prossima 1to1 come sta vivendo la riduzione oraria, dato il suo ruolo di prima assunzione diretta e persona su cui Dan ha investito di più.
+
+**Aggiornamento (25 ago 2026, day 253)**: Dan ha nel frattempo accettato l'offerta di [[levels|Levels]] e formalizzato le dimissioni da Muffin (dettaglio dell'annuncio ad Alessia non documentato). In un checkpoint di ferie, Dan e Alessia definiscono il passaggio di consegne: la checklist risulta piccola — principalmente condivisione di account aziendali a [[claudio|Claudio]] come admin, non un trasferimento pieno a lei. Questo lascia aperta una domanda per il goal "Tech Lead?" di Alessia (vedi sopra): con Dan in uscita, chi guiderà da vicino il suo percorso verso il ruolo resta da definire — punto da monitorare, non riportato nei journal successivi al 25/8.

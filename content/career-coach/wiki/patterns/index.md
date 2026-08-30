@@ -10,7 +10,7 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 ## 1. Comunicare le decisioni di uscita in modo progressivo e rispettoso dei ruoli
 
-**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]] — da verificare con Muffin (ancora in corso)
+**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]], [[muffin|Muffin]] (confermato)
 
 **Frequenza**: sistematica — si ripresenta identica in tutte e tre le esperienze documentate, ogni volta che Dan decide di lasciare un'azienda.
 
@@ -23,6 +23,10 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: il periodo che precede l'annuncio ufficiale è quasi sempre vissuto con forte stress — "tenere il segreto" ha un costo psicologico significativo e ricorrente ("scoramento", "non dirlo ancora", "fatica").
 
 **Insight**: Dan ha sviluppato, capitolo dopo capitolo, un vero e proprio "playbook" personale per gestire le transizioni professionali — un asset di leadership trasferibile, ma che richiede anche di imparare a gestire meglio il peso psicologico dell'attesa prima dell'annuncio.
+
+**Muffin — conferma con variante (agosto 2026)**: il pattern si ripete, ma con una lacuna documentale proprio nel momento chiave. Il journal salta l'annuncio vero e proprio (la decisione di accettare Levels e le dimissioni non compaiono in nessun dump tra il 7 e il 20/8) — si ricostruisce solo a posteriori dai fatti conseguenti (lettera ESOP, pre-onboarding). Quello che *è* documentato conferma comunque il rituale: il 25/8 (day 253) Dan dedica tempo, anche in ferie, a un checkpoint di passaggio di consegne con Alessia (cerchia stretta/operativa) prima ancora di chiudere formalmente con l'azienda (verifica PEC, computer da restituire) — coerente con l'ordine "persona di fiducia → cerchia stretta → organizzazione" osservato altrove. Novità: qui la cerchia stretta include esplicitamente la condivisione di account a Claudio come admin, non un passaggio di consegne totale ad Alessia — segno che il ruolo di "erede designato" e quello di "custode tecnico ad interim" possono essere persone diverse.
+
+**Insight aggiuntivo (25/8/2026)**: il buco documentale sul momento della decisione stessa è un campanello per il processo di journaling di Dan, non solo un dettaglio narrativo — è mancata la cattura proprio nel momento di massima carica emotiva/decisionale del periodo. Da tenere presente: i momenti di svolta più importanti sono anche quelli in cui si è meno propensi a scrivere (troppo pieni, troppo stanchi, o gestiti verbalmente/di fretta).
 
 ---
 
@@ -78,11 +82,13 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Insight aggiuntivo (7/8/2026)**: il pattern del "portafoglio di processi paralleli" (insight del 30/7) non solo assorbe un singolo rifiuto ma assorbe anche uno **scarto volontario** (Freename declassato per divergenza di valori, non per rifiuto ricevuto) senza generare la stessa ansia di un colpo subito dall'esterno — segno che quando la ricerca ha più opzioni vive, Dan può permettersi di essere selettivo sui valori (TDD, qualità, impatto) invece di accettare compromessi per paura di restare senza alternative. → si veda anche il nuovo [[patterns/index#9-i-colloqui-come-screening-di-allineamento-valoriale|Pattern 9]] sui colloqui come screening valoriale.
 
+**Muffin — esito finale (agosto 2026)**: il portafoglio di processi paralleli aperto a fine luglio si chiude con Levels come vincitore, tra il 7 e il 20/8 (decisione non documentata direttamente — ricostruita dai fatti conseguenti: lettera ESOP, pre-onboarding). Coerente con l'insight del 5/8 ("due scelte filosoficamente diverse, non solo economiche"): Dan sceglie la startup giovane a impatto ampio rispetto alla realtà più strutturata (Smartness). La crisi di liquidità Muffin, partita come evento esterno che *crea* l'urgenza da zero (3/7), si chiude quindi nell'arco di circa 7 settimane con una transizione pianificata e senza il trauma di un licenziamento — il "portafoglio" ha funzionato fino in fondo.
+
 ---
 
 ## 4. Investire le ultime settimane nel mentoring e nella documentazione, come eredità per chi resta
 
-**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]]
+**Aziende**: [[casavo|Casavo]], [[mymenu|Mymenu]], [[tourradar|Tour Radar]], [[muffin|Muffin]] (segnale nascente)
 
 **Frequenza**: costante — presente in tutte e tre le fasi finali documentate, con intensità crescente nel tempo.
 
@@ -95,6 +101,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: la finestra temporale è quasi sempre troppo stretta rispetto a quanto Dan vorrebbe fare — "avrei voluto lavorare insieme più a lungo" (lettera a Simone P.), "non sono riuscito a supportarti come volevo" (lettera a Mauri).
 
 **Insight**: questo è probabilmente il **tratto più distintivo e trasferibile** dello stile professionale di Dan — un senso di responsabilità verso le persone e l'organizzazione che non si esaurisce con la propria permanenza. È un asset che vale la pena rendere ancora più visibile ed esplicito nelle prossime esperienze (ad esempio iniziando il mentoring strutturato molto prima della fase di uscita, non solo come "eredità finale").
+
+**Muffin — segnale nascente (25/8/2026, day 253)**: a due settimane dall'ultimo giorno, Dan dedica tempo (anche in ferie) a un checkpoint di handover con Alessia. La checklist risulta piccola "come previsto" — segno che il passaggio di consegne era già stato impostato bene prima, non improvvisato all'ultimo momento. A differenza di Casavo/Mymenu/Tour Radar, qui l'eredità principale non è documentazione tecnica ma condivisione di account/accessi a Claudio come admin — la natura del lascito dipende dal contesto (in un'azienda in crisi/riorganizzazione, la continuità operativa immediata conta più della documentazione a lungo termine).
 
 ---
 

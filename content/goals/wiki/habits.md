@@ -1,6 +1,6 @@
 ---
 title: Abitudini attive
-updated: 2026-08-23
+updated: 2026-08-30
 tags: [habits, wiki]
 ---
 
@@ -9,6 +9,8 @@ tags: [habits, wiki]
 > **Ridefinizione 16/8/2026:** set di abitudini completamente rinnovato insieme ai goal — vedi [[../raw/2026-H2-redefinition-2026-08-16|ridefinizione]]. Le abitudini precedenti (W24-W32) sono archiviate: la loro storia resta consultabile in `raw/habits-log/`, ma da qui in poi si traccia il set sotto, con streak azzerati.
 >
 > **Check-in W33 (10-16/8):** primo check-in dopo la ridefinizione — coincide con il giorno stesso della ridefinizione (16/8) e con un gap totale di journal dal 7 al 16/8. Nessuna abitudine verificabile, streak confermati a 0. Dettaglio in [[../raw/habits-log/2026-W33-habits|raw/habits-log/2026-W33-habits]].
+>
+> **Gap W34 (17-23/8):** nessun check-in creato quella settimana. **Check-in W35 (24-30/8):** un solo dump journal nel periodo (25/8, checkpoint uscita Muffin). Prima abitudine verificata dalla ridefinizione: "Checklist chiusura Muffin (handover)" mantenuta → streak 1. Tutte le altre restano non tracciabili questa settimana. Dettaglio in [[../raw/habits-log/2026-W35-habits|raw/habits-log/2026-W35-habits]].
 >
 > **Fonti per i check-in:** il journal `career-coach` copre principalmente l'area professionale. Per le aree Salute, Casa, Studio, Finanziario e Side project, in assenza di segnali nel journal, lo stato viene aggiornato sulla base di quanto Dan comunica esplicitamente in conversazione (come il giro del 23/8) — non è un problema da risolvere con una fonte scritta aggiuntiva, è il flusso previsto.
 >
@@ -25,7 +27,7 @@ tags: [habits, wiki]
 | Documentare 1 pratica XP+AI nel journal | Goal 2 | Settimanale | ⚠️ Riparte da 0 (era a 0 streak da 4 settimane, W29-W32, nel set precedente) | 0 |
 | 1 ora studio harness/loop o nuovo tool | Goal 2 | Ogni 2 settimane | 🆕 Nuova | 0 |
 | Applicare AI a un tema QA/infra/prodotto | Goal 2 | Mensile | 🆕 Nuova | 0 |
-| Checklist chiusura Muffin (handover) | Goal 3 | Settimanale (fino al 14/9) | 🆕 Nuova | 0 |
+| Checklist chiusura Muffin (handover) | Goal 3 | Settimanale (fino al 14/9) | 🟢 Mantenuta (25/8) | 1 |
 | Retro settimanale onboarding Levels | Goal 3 | Settimanale (dal 14/9) | ⏸️ Non ancora attiva | 0 |
 | Check-in avanzamento onboarding | Goal 3 | Mensile (dal 14/9) | ⏸️ Non ancora attiva | 0 |
 | Pubblicare 1 articolo blog LAP | Goal 4 | Mensile | 🆕 Nuova | 0 |
