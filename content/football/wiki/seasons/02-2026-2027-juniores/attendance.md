@@ -1,12 +1,12 @@
 ---
 title: Presenze — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # ✅ Presenze — Juniores Regionali 2026/27
 
-Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08 — tutti e tre con dump post-seduta reale.
+Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08 — tutti e tre con dump post-seduta reale. L'amichevole del 31/08 (vs Leone XIII Sport, 2-1) non viene conteggiata in questa tabella, dedicata ai soli allenamenti: la sua presenza/convocazione è su [[sessions/20260831|pagina dedicata]], e comparirà nella tabella "presenze allenamenti" di ogni singola pagina giocatore in [[players|players/]].
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|

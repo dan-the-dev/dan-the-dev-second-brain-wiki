@@ -17,10 +17,10 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 
 | Data | Giorno | Orario | Tipo | Descrizione | Stato |
 |------|--------|--------|------|-------------|-------|
-| 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260826\|📄 programma]] | 🟡 programmato |
-| 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260827\|📄 programma]] | 🟡 programmato |
-| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | [[sessions/20260829\|📄 programma]] | 🟡 programmato |
-| 31/08 | Lun | 19:00–20:30 | 🤝 amichevole | 🆚 vs Leone XIII Sport — [[sessions/20260831\|📄 dettagli]] | 🟡 programmato |
+| 26/08 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260826\|📄 programma]] | 🟢 completato |
+| 27/08 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260827\|📄 programma]] | 🟢 completato |
+| 29/08 | Sab | 15:30–17:00 | 🏋️ allenamento | [[sessions/20260829\|📄 programma]] | 🟢 completato |
+| 31/08 | Lun | 19:00–20:30 | 🤝 amichevole | 🆚 vs Leone XIII Sport — [[sessions/20260831\|📄 dettagli]] — **2-1** | 🟢 completato |
 
 ---
 
@@ -38,7 +38,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 12/09 | Sab | 18:00 | ⚽ partita | 🏠 G1 vs FC Parabiago | programmato |
 | 14/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport | programmato |
+| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[opponents#leone-xiii-sport\|scouting]] | programmato |
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 19/09 | Sab | 18:00 | ⚽ partita | ✈️ G2 vs Centro Giov. Boffalorese | programmato |

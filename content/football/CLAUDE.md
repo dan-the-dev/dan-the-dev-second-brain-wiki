@@ -32,8 +32,10 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/index.md → summary stagione
 - wiki/seasons/{stagione}/info.md → info base compilate
 - wiki/seasons/{stagione}/players.md → rosa con stats aggregate
+- wiki/seasons/{stagione}/players/{nome-cognome}.md → pagina dedicata per ogni giocatore in rosa, con 3 tabelle: presenze agli allenamenti (data, allenamento/amichevole, presente sì/no), presenze in partita (data, avversario, casa/fuori casa, convocato, minuti, gol, assist, gialli, rossi — solo gare ufficiali), infortuni (data inizio, data fine/"in corso", descrizione, ultimo aggiornamento)
 - wiki/seasons/{stagione}/sessions.md → storico allenamenti
 - wiki/seasons/{stagione}/matches.md → storico partite
+- wiki/seasons/{stagione}/opponents.md → scouting squadre avversarie: bilancio scontri (amichevoli e gare ufficiali) e note tattiche raccolte dal mister, una sezione per squadra
 - wiki/seasons/{stagione}/stats.md → classifiche e statistiche
 - wiki/seasons/{stagione}/exercises-report.md → analisi esercizi usati
 - wiki/seasons/{stagione}/formations.md → moduli usati
