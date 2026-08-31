@@ -27,6 +27,8 @@ tags: [career, index]
 - [[learning/index|Learning]]
 
 ## Retrospettive
+- [[retrospectives/2026-08|Agosto 2026]] — Muffin day 250–253 · Levels day 0–0b · Accettata offerta Levels, dimissioni Muffin, transizione avviata
+- [[retrospectives/2026-07|Luglio 2026]] — day 241–244 · Crisi di liquidità Muffin, riduzione ore, avvio ricerca lavoro
 - [[retrospectives/2026-06|Giugno 2026]] — day 227–238 · Produttività tecnica alta, turbolenza organizzativa, chiusura Ancora
 
 ## Career
