@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: m2bxysbjd3dhi3aist0hzooa.31.70.70.46.sslip.io
+  baseUrl: 4hb49r4thcvgxn9nojnxbb61.31.70.70.46.sslip.io
   ignorePatterns:
     - private
     - templates

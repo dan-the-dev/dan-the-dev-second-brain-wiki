@@ -105,7 +105,7 @@ jobs:
             "$COOLIFY_WEBHOOK_URL_FOOTBALL"
       - name: Notify Telegram
         run: |
-          MESSAGE=$'✅ Football wiki aggiornata e live!\nhttps://ipuj8nor2n4xcnstyddbji5m.31.70.70.46.sslip.io/'
+          MESSAGE=$'✅ Football wiki aggiornata e live!\nhttp://eteetkn189zxnhlmpp8i7djq.31.70.70.46.sslip.io/'
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             --data-urlencode "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
             --data-urlencode "text=$MESSAGE"
