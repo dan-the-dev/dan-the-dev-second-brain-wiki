@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-08-25
+updated: 2026-09-01
 tags: [journal, index]
 ---
 
@@ -10,6 +10,9 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
+
+- [[20260901-muffin-day255]] — 2026-09-01 · Day 255 · Ultima settimana Muffin, giorno 2: giornata vuota, CDA 7/9 non lo riguarda, podcast domani, in attesa risposta Marta sul computer
+- [[20260831-muffin-day254]] — 2026-08-31 · Day 254 · Ultima settimana Muffin, giorno 1: rientro dalle ferie, nessuna novità, si riparte full time senza lavoro reale
 
 - [[20260825-muffin-day253]] — 2026-08-25 · Day 253 · Checkpoint uscita Muffin in ferie: PEC dimissioni non arrivata (rimediato con PDF a mano), checklist handover con Alessia leggera, rientro lunedì per ultima settimana
 
