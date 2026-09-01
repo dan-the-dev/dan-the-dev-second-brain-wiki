@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-08-29
+updated: 2026-09-01
 tags: [football, exercises, index]
 ---
 
@@ -39,6 +39,9 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-esagonale-3v3-piu-3\|Rondo esagonale 3+3 contro 3+3 (possesso 6 contro 6)]] | 12 (6+6) | Possesso su esagono, genera molte combinazioni di passaggio triangolari |
 | [[rondo-posizionale-11v5\|Rondo posizionale 11 contro 5 (struttura e forma di squadra)]] | 16 (11+5) | Lavoro su struttura/forma di squadra, scalate di reparto, adattabile a qualsiasi modulo |
 | [[possesso-5v5-jolly-cambio-lato\|Possesso 5 contro 5 con 2 jolly esterni — cambio lato]] | 12 (10+2) | Possesso 5v5 con 2 jolly esterni fissi; punto da jolly a jolly passando dal centro, minimo 5 passaggi |
+| [[rondo-guardiola-7v4-piu-3\|Rondo alla Guardiola — 4v4 (+3) pre-partita, superiorità 7v4]] | 11 (4+4+3) | Attivazione pre-partita: possesso sul perimetro con 3 jolly neutrali, superiorità 7v4, scambio di ruolo al recupero |
+| [[rondo-de-zerbi-6v2-piu-1\|Rondo alla De Zerbi — 6v2 +1 jolly centrale mobile]] | 9 (6+1+2) | Costruzione posizionale: appoggi ad angolo e circolazione centrale compatta contro 2 difensori che pressano in coppia |
+| [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
 
 ## Preparazione atletica
 
