@@ -297,7 +297,7 @@ Dalla quinta sessione, continua ad affascinare la capacità di Tom DeMarco di di
 2. Molto interessante il concetto del **diritto di veto**: una pratica che sarebbe interessante introdurre nelle prossime esperienze, a partire da Levels. La barra della qualità dovrebbe essere decisa dal team, e l'azienda dovrebbe rispettarla e supportare il team nel gestire le pressioni che ne derivano.
 3. La **legge di Gilb**: qualunque cosa quantificabile può essere misurata in un modo che è comunque migliore di non misurarla affatto — un punto di partenza che, seguendo il ragionamento del libro, converge comunque verso l'attenzione a come le misure vengono raccolte e usate.
 4. Il concetto di **brain time vs body time**: da provare a portare in Levels, tracciando il tempo di concentrazione reale invece delle sole ore di presenza.
-5. La **tabella dei metri quadri minimi** da garantire ai knowledge worker (100 sq ft di spazio dedicato, 30 sq ft di scrivania, partizioni di almeno 6 piedi) come riferimento concreto per valutare o disegnare un ufficio — potenzialmente utile anche per Evers, attualmente in coworking.
+5. La **tabella dei metri quadri minimi** da garantire ai knowledge worker (100 sq ft di spazio dedicato, 30 sq ft di scrivania, partizioni di almeno 6 piedi) come riferimento concreto per valutare o disegnare un ufficio — potenzialmente utile anche per Levels, attualmente in coworking.
 6. **Uffici con porte**: un ufficio per team, e ogni ufficio con almeno una finestra.
 7. **Spazi esterni da sfruttare** per tutti i lavori possibili — standup, refinement, retrospective, o anche solo i pranzi di team.
 
