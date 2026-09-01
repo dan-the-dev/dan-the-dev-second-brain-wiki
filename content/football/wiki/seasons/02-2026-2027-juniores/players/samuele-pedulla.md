@@ -1,7 +1,7 @@
 ---
 title: "Pedullà Samuele"
 season: 02-2026-2027-juniores
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Pedullà Samuele
@@ -17,7 +17,7 @@ updated: 2026-08-31
 | 26/08/2026 | allenamento | ❌ no |
 | 27/08/2026 | allenamento | ❌ no |
 | 29/08/2026 | allenamento | ❌ no |
-| 31/08/2026 | amichevole | ✅ sì |
+| 31/08/2026 | amichevole | ❌ no |
 
 ---
 

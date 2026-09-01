@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -35,8 +35,8 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 8 | [[players/francesco-lentini\|Lentini Francesco]] | 2009 | Difensore centrale, adattabile mediano | 🆕 nuovo · Bel difensore, bella mentalità, deve crescere |
 | 9 | [[players/alessandro-riccio\|Riccio Alessandro]] | 2008 | Terzino | ✓ confermato · Buon tackle, ottimo in gruppo |
 | 10 | [[players/samuele-pedulla\|Pedullà Samuele]] | 2008 | Difensore centrale o laterale | ✓ confermato · Rincalzo di qualità, deve crescere |
-| 11 | [[players/guglielmo-capretti\|Capretti Guglielmo]] | 2009 | Difensore centrale | 🆕 nuovo (da Vigor) · Belle impressioni, personalità, visto titolare. Amichevole 31/08: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti |
-| 26 | [[players/luca-livelli\|Livelli Luca]] | 2008 | Difensore centrale, da valutare anche come terzino | 🆕 nuovo (da Baranzatese, Elite) · Confermato in rosa dopo il periodo di prova (26, 27 e 29/08, valutato anche da Teo) · Dovrebbe essere un difensore centrale forte. Amichevole 31/08: bene a difendere, ma ancora timido con la palla — deve sciogliersi |
+| 11 | [[players/guglielmo-capretti\|Capretti Guglielmo]] | 2009 | Difensore centrale | 🆕 nuovo (da Vigor) · Belle impressioni, personalità, visto titolare. Amichevole 31/08: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti — tra i nuovi più positivi anche secondo Teo |
+| 26 | [[players/luca-livelli\|Livelli Luca]] | 2008 | Difensore centrale, da valutare anche come terzino | 🆕 nuovo (da Baranzatese, Elite) · Confermato in rosa dopo il periodo di prova (26, 27 e 29/08, valutato anche da Teo) · Dovrebbe essere un difensore centrale forte. Amichevole 31/08: bene a difendere (bene anche per Teo), ma ancora timido con la palla — deve sciogliersi |
 
 ---
 
@@ -48,11 +48,11 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 13 | [[players/luca-lo-valvo\|Lo Valvo Luca]] | 2007 | Centrocampista centrale | ✓ confermato · FQ · Riserva, difficile vederlo in campo da FQ |
 | 14 | [[players/francesco-taronna\|Taronna Francesco]] | 2008 | Mediano / mezzala | ✓ confermato · Gran recuperatore di palloni — confermato anche in amichevole |
 | 15 | [[players/alessandro-lapiccirella\|Lapiccirella Alessandro]] | 2008 | Mediano / mezzala | ✓ confermato · Buona tecnica e temperamento, incostante |
-| 16 | [[players/gabriele-mingrone\|Mingrone G. Gabriele]] | 2008 | Mezzala / trequartista / seconda punta | ✓ confermato · **Il campione della squadra**. Gran partita nell'amichevole del 31/08: assist per il primo gol e rigore trasformato per il 2-0 |
+| 16 | [[players/gabriele-mingrone\|Mingrone G. Gabriele]] | 2008 | Mezzala / trequartista / seconda punta | ✓ confermato · **Il campione della squadra**. Gran partita nell'amichevole del 31/08: assist per il primo gol e rigore trasformato per il 2-0 — reparto offensivo con Sudano e Columpsi giudicato "un tridente forte vero" da Teo |
 | 17 | [[players/davide-curtarelli\|Curtarelli Davide]] | 2009 | Mezzala / esterno / attaccante / mediano | 🆕 nuovo · Amichevole 31/08: mezzala tipica, prende molte iniziative e va spesso al tiro |
-| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare |
+| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare (giudizio negativo confermato anche da Teo) |
 | 19 | [[players/eric-grassi\|Grassi Eric]] | 2009 | Centrocampista centrale | 🆕 nuovo |
-| 20 | [[players/leonardo-di-bello\|Di Bello Leonardo]] | 2008 | Mezzala / esterno | 🆕 nuovo · Amichevole 31/08: molto bene (anche adattato quinto), ma a volte rischia troppo la giocata |
+| 20 | [[players/leonardo-di-bello\|Di Bello Leonardo]] | 2008 | Mezzala / esterno | 🆕 nuovo · Amichevole 31/08: molto bene (anche adattato quinto), ma a volte rischia troppo la giocata — tra i nuovi più positivi anche secondo Teo |
 
 ---
 
