@@ -29,8 +29,9 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | Data | Giorno | Orario | Tipo | Descrizione | Stato |
 |------|--------|--------|------|-------------|-------|
 | 01/09 | Mar | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260901\|📄 programma]] | 🟢 completato |
-| 02/09 | Mer | 20:30 | 🤝 amichevole | — | programmato |
-| 03/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 02/09 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260902\|📄 programma]] — svolto come allenamento regolare, non come amichevole | 🟢 completato |
+| 03/09 | Gio | — | 🏋️ allenamento | ⚠️ Rinviato, spostato al 04/09 | rinviato |
+| 04/09 | Ven | 19:00–20:30 | 🏋️ allenamento | Teo da solo (Daniele assente); poca preparazione disponibile per la Coppa di sabato | programmato |
 | 05/09 | Sab | 16:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio | programmato |
 | 07/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 08/09 | Mar | 20:30 | 🤝 amichevole | — | programmato |

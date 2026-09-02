@@ -19,6 +19,7 @@ updated: 2026-09-02
 | 29/08/2026 | allenamento | ✅ sì |
 | 31/08/2026 | amichevole | ❌ no |
 | 01/09/2026 | allenamento | ❌ no |
+| 02/09/2026 | allenamento | ❌ no |
 
 ⚠️ Infortunato dal 29/08/2026 (vedi tabella infortuni sotto): sarà segnato assente da tutti gli allenamenti e partite fino al termine dell'infortunio.
 

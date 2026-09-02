@@ -44,6 +44,7 @@ Riposo pari alla durata dell'esercizio, serve timer/cronometro.
 | 26/08 | Circuito Forza | ~10' |
 | 27/08 | Circuito Resistenza | ~8' |
 | 01/09 | Non specificato | 12' |
+| 02/09 | Non specificato | — |
 
 ## Obiettivi
 - Stabilità e forza del core come base per trasferire potenza tra treno inferiore e superiore
@@ -76,4 +77,4 @@ Riposo pari alla durata dell'esercizio, serve timer/cronometro.
 - [In and Out Abs Exercise — SET FOR SET](https://www.setforset.com/blogs/news/in-and-out-abs-exercise)
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 3 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 4 · Stagioni: 02-2026-2027-juniores

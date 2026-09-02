@@ -19,6 +19,7 @@ updated: 2026-09-02
 | 29/08/2026 | allenamento | ✅ sì |
 | 31/08/2026 | amichevole | ✅ sì |
 | 01/09/2026 | allenamento | ✅ sì |
+| 02/09/2026 | allenamento | ✅ sì |
 
 ---
 

@@ -23,7 +23,7 @@ A differenza dello stretching statico (più indicato a fine seduta), la mobilit�
 
 Tipicamente comprende: circonduzioni di caviglia, affondi con rotazione del busto, apertura/chiusura anche, circonduzioni di spalle e braccia, mobilità della colonna (cat-cow in piedi, rotazioni del tronco).
 
-⚠️ Daniele non ha specificato i singoli movimenti svolti il 01/09/2026: scheda generica, da precisare in un futuro aggiornamento.
+⚠️ Daniele non ha specificato i singoli movimenti svolti né il 01/09 né il 02/09/2026: scheda generica, da precisare in un futuro aggiornamento.
 
 ## Obiettivi
 - Preparare le articolazioni al carico della seduta senza ridurre la capacità di espressione di forza esplosiva
@@ -34,4 +34,4 @@ Tipicamente comprende: circonduzioni di caviglia, affondi con rotazione del bust
 - A corpo libero, in cerchio o in fila, nessun materiale necessario
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores

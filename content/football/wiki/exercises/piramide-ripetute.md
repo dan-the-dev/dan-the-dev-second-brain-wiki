@@ -23,7 +23,14 @@ Struttura "a piramide": la distanza delle ripetute aumenta progressivamente fino
 
 Questo tipo di lavoro combina più zone di intensità nella stessa seduta: le ripetute più brevi si corrono generalmente a ritmo più elevato, mentre quella centrale (600m) richiede una gestione del ritmo più aerobica. La struttura piramidale permette di variare lo stimolo metabolico nel corso della seduta e di gestire l'affaticamento in modo progressivo.
 
-⚠️ Tempi di recupero tra le ripetute e durata complessiva non specificati da Daniele: da chiarire in un futuro aggiornamento.
+## Programmazione
+
+| Data | Schema | Volume totale |
+|---|---|---|
+| 01/09 | 2x300, 2x400, 2x600, 2x400, 2x300 | 4000m |
+| 02/09 | 200, 300, 400, 600, 600, 400, 300, 200 | 3000m |
+
+⚠️ Tempi di recupero tra le ripetute e durata complessiva non specificati da Daniele in nessuna delle due sedute.
 
 ## Obiettivi
 - Sviluppo della resistenza aerobica generale su un volume di corsa consistente (4000m)
@@ -35,4 +42,4 @@ Questo tipo di lavoro combina più zone di intensità nella stessa seduta: le ri
 - Cronometro per il controllo dei tempi di lavoro e recupero
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores
