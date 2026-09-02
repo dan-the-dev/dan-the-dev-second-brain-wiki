@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [football, exercises, index]
 ---
 
@@ -21,12 +21,15 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-passing-drill-spagna-rotazione-5\|Passing Drill Spagna — rotazione a 5 (4 angoli + centro)]] | 5 | Rotazione continua attraverso il centro: chi passa al centro lo occupa, chi è al centro va al posto di chi gli ha dato l'assist |
 | [[riscaldamento-colella-rombo-esagono-verticalizzazione\|Passing Drill Colella — dal rombo alla verticalizzazione]] | 4-6 | Esercizio progressivo: rombo di passaggio → coordinazione di gruppo → verticalizzazione con taglio dentro e sovrapposizione |
 | [[riscaldamento-rombi-quadrati\|Riscaldamento a rombi/quadrati — trasmissione, controllo orientato, terzo uomo]] | 24 (3 gruppi da 8) | 3 rombi/quadrati paralleli: trasmissione, controllo orientato, inserimento del terzo uomo |
+| [[riscaldamento-trio-centrale-attivo\|Trio con uomo centrale attivo]] | multipli di 3 | Linee da 3 (due ai lati, uno al centro): il centrale lavora sempre attivo, i laterali passivi. Tecnica in movimento |
 
 ## Riscaldamento atletico
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[core-stability\|Core stability]] | tutta la squadra | Esercizio collettore dei circuiti di core stability (Circuito Forza, Circuito Resistenza, altri in arrivo) |
+| [[mobilita-articolare\|Mobilità articolare]] | tutta la squadra | Mobilità dinamica ad inizio seduta: caviglie, anche, colonna, spalle |
+| [[stretching-defaticamento\|Stretching]] | tutta la squadra | Stretching statico di defaticamento a chiusura seduta |
 
 ## Possesso
 
@@ -49,6 +52,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
 | [[allunghi-50-metri\|Allunghi sui 50 metri]] | tutta la squadra | Accelerazioni progressive (partenza → picco 90-95% velocità max → decelerazione), per tecnica di corsa e attivazione neuromuscolare; variante intermittente per potenza aerobica/resistenza alla velocità |
+| [[piramide-ripetute\|Lavoro atletico — piramide di ripetute]] | tutta la squadra | Ripetute a volume progressivo/regressivo: 2x300, 2x400, 2x600, 2x400, 2x300 (4000m totali) |
 
 ## Monitoraggio carico atletico
 

@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-25
+updated: 2026-09-02
 ---
 
 # Calendari allenamenti 2026/27
@@ -28,7 +28,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 
 | Data | Giorno | Orario | Tipo | Descrizione | Stato |
 |------|--------|--------|------|-------------|-------|
-| 01/09 | Mar | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 01/09 | Mar | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260901\|📄 programma]] | 🟢 completato |
 | 02/09 | Mer | 20:30 | 🤝 amichevole | — | programmato |
 | 03/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 05/09 | Sab | 16:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio | programmato |
