@@ -1,15 +1,15 @@
 ---
-title: Muffin — In Progress
+title: Muffin
 company: muffin
-period: 2024-10-07 → 2026-09-05 (previsto)
-total_days: 253
+period: 2024-10-07 → 2026-09-04
+total_days: 257
 stack: [TypeScript, NestJS, React, Next.js, PostgreSQL, Docker, AWS, Hubspot, Mixpanel, Metabase, n8n, Jira, Figma, Cursor]
-status: exit-in-progress
-last_updated: 2026-08-30
-tags: [experience, muffin, in-progress, exit]
+status: closed
+last_updated: 2026-09-03
+tags: [experience, muffin, closed]
 ---
 
-# Muffin — In Progress
+# Muffin
 
 ## Ruolo e periodo
 
@@ -67,6 +67,11 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 | 2026-08-05 | day 251 | **Doppio colloquio esterno**. Team tech interview Levels: esercizio su pipeline documentale (SQS, config-driven, eventual consistency) affrontato bene; team giovane, entusiasta, ricettivo, ma preoccupato dall'approccio di Dan su TDD/trunk-based/CI — gap culturale con apertura, opportunità di mini-academy interna; gap infrastrutturale su CloudFormation (~20k righe) da colmare. Colloquio tecnico Smartness con Emanuele Micheletti: sorpresa di coding live (Dan si impappina ma ritiene di essersela cavata), prossimo step probabile con coding su Node.js/Vue.js; azienda strutturata (~50 persone team eng/prodotto, performance review, budget formazione, altri tech lead). Riflessione esplicita Levels vs Smartness: startup piccola/impatto a 360° vs realtà affermata/struttura di crescita — "due scelte filosoficamente diverse, non solo economiche". Levels potrebbe offrire entro la settimana: da capire quanto tempo si può chiedere prima di rispondere. |
 | 2026-08-07 | day 252 | Colloquio CTO Freename (Paolo Domenighetti) ore 12:00 — impressione personale positiva (persona calma, allineata) ma **red flags multiple**: risposta evasiva sul rischio feature factory; contraddizione esplicita su formazione (incoraggiata ma senza budget né tempo); silenzio alla domanda diretta su TDD; metriche di produttività basate su linee di codice (giudicata "red flag enorme" in ottica AI-first); impatto/qualità/outcome mai discussi, sempre rimandati al prodotto. [DECISIONE] Freename scende significativamente nelle priorità di Dan — divergenza di valori troppo marcata; se si proseguisse, l'unico razionale sarebbe scommettere sull'exit a 2 anni, non appetibile dopo l'instabilità già vissuta a Muffin. |
 | 2026-08-25 | day 253 | **[GAP NON DOCUMENTATO]** tra il day 252 (7/8) e questo checkpoint, Dan ha accettato l'offerta di [[levels|Levels]] e formalizzato le dimissioni da Muffin — nessun dump ne registra il momento (verosimilmente tra l'8 e il 16/8, coerente con i pre-onboarding Levels del 16/8 e 20/8). Giornata di ferie: Dan dedica un'oretta a un checkpoint sull'uscita, chiamando [[alessia-pileri\|Alessia]] per il passaggio di consegne. Emerge che la PEC di dimissioni non risulta consegnata a Muffin — sanata inviando il PDF a mano, ricevuto in giornata. Checklist di handover con Alessia piccola come previsto: soprattutto condivisione di account a [[claudio\|Claudio]] come admin, non un trasferimento pieno ad Alessia — segno di passaggio ben impostato. [DECISIONE] Nessun rientro anticipato dalle ferie: rientro lunedì 31/8, ultima settimana in azienda 1–5 settembre. In chiusura, chiamata di [[michele\|Michele]]: tono umano, ringrazia Dan e ribadisce che la situazione non è dovuta a lui né al team. |
+| 2026-08-31 | day 254 | Rientro dalle ferie, primo giorno dell'ultima settimana in Muffin. Giornata vuota, nessuna novità operativa — si riparte full time ma senza lavoro reale da fare. |
+| 2026-09-01 | day 255 | Ultima settimana, giorno 2: ancora giornata vuota, il CdA del 7/9 non lo riguarda più. In attesa della risposta di Marta (HR) sul destino del computer aziendale. |
+| 2026-09-02 | day 256 | Setup personale: configurato l'accesso alla VPS anche dal computer, tramite multiplexer — continuità di lavoro tra le due postazioni, molto soddisfatto del risultato. |
+| 2026-09-03 | day 257 | **Ultimo giorno operativo.** Salvataggio definitivo di tutti i dati necessari dal computer di lavoro, poi reset del computer. Riscritti gli script di configurazione personali (bash/zshrc/bootstrap.sh, incluso adattamento Linux per la VPS). Confermato che il computer va riconsegnato (risposta di Marta): non resterà a Dan. Giornata di saluti, anche a Claudio — mood triste ma sereno: "è stata comunque una bella esperienza." |
+| 2026-09-04 | day 258 (previsto) | Ultimo passaggio fisico: mattinata a Castiglione per la riconsegna del computer aziendale. Chiusura formale del rapporto con Muffin. |
 
 ## Stack tecnologico
 
@@ -191,3 +196,68 @@ Muffin è la prima esperienza di Dan come vero Tech Lead a tempo pieno: oltre al
 **Stack aggiuntivo da CV**: pnpm, Turbo, Storybook — dettagli architettura monorepo non nel journal  
 **Descrizione ufficiale azienda**: "Fintech platform simplifying access to facilitated finance through technology and AI-powered tools" — più sintetica e market-friendly della descrizione interna ("finanza agevolata per imprese italiane")  
 **Pratiche da CV**: TDD, Pair/Mob programming, Trunk-Based Development — conferma l'advocacy continua anche in Muffin
+
+## Bilancio finale di chiusura (settembre 2026)
+
+Chiusura scritta il 3 settembre 2026, ultimo giorno operativo — il 4/9 resta solo la riconsegna fisica del computer a Castiglione. Quasi due anni (ott 2024 → set 2026, 257 giorni di diario), la prima vera esperienza di Dan come Tech Lead a tempo pieno.
+
+### 🏆 Vittorie principali
+
+1. **Hubspot v2.0** — integrazione CRM costruita da zero, il progetto tecnico più visibile e complesso del periodo, completato e riconosciuto internamente (day 178).
+2. **Rinforzo esterno (Qmates/Cemate) sblocca l'adozione di XP/TDD** — dopo mesi di advocacy interna in salita con Luca e Jacopo, l'arrivo di Gianni, Fabio e Nicola come alleati esterni valida l'approccio di Dan e accelera l'adozione di pratiche che la sola insistenza personale non riusciva a smuovere.
+
+   > 💡 **Suggerimento per ripeterlo in futuro** — la ricerca conferma che l'advocacy TDD/XP funziona meglio come combinazione di training pratico, introduzione graduale (non "big bang"), dimostrazione di benefici concreti (meno bug, meno regressioni) e soprattutto **pair programming** per costruire fiducia e trasferire competenza sul campo. La lezione di Muffin è che gli alleati esterni hanno accelerato ciò che l'advocacy solitaria non riusciva a fare da sola: in un prossimo ruolo, vale la pena cercare o creare presto "alleati con credibilità" (senior esterni, nuovi hire con esperienza XP) invece di insistere da soli per mesi.
+   > Fonti: [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/), [Extreme Programming Best Practices](https://www.meegle.com/en_us/topics/extreme-programming/extreme-programming-best-practices)
+
+3. **Alessia cresciuta da junior a percorso concreto verso Tech Lead** — coinvolta in decisioni infrastrutturali, goal chiari dal 1:1, mentoring che ha prodotto un risultato tangibile e duraturo (a differenza del mentoring "involontario" verso i pari, vedi sotto).
+4. **Cursor/AI-assisted development adottato stabilmente** dal team da marzo 2026 — non solo utilizzo passivo, ma costruzione attiva di prompt/skill personalizzati (day 238): competenza esportabile, capitalizzata subito nel percorso verso [[levels|Levels]].
+5. **Feature invito rilasciata in prod** (day 234) dopo una settimana di pair programming con Alessia — corner case complessi gestiti bene, segnale concreto che le pratiche di collaborazione introdotte funzionavano quando applicate.
+6. **Ricerca lavoro condotta con più processi paralleli** (Datapizza, Smartness, Levels, Freename in parallelo nell'agosto 2026) invece che in sequenza — ha assorbito bene il colpo di singoli rifiuti (Medicilio, Ancora, Freename) senza far collassare la motivazione, fino alla chiusura positiva con Levels.
+
+   > 💡 **Suggerimento per ripeterlo in futuro** — questa è esattamente la strategia che la letteratura su job-search anxiety consiglia: costruire una pipeline con più opportunità attive in parallelo riduce l'ansia perché nessun singolo colloquio porta da solo tutto il peso della ricerca, e ogni nuovo step viene vissuto come conferma di progresso piuttosto che come esame isolato. Da mantenere come pratica di default in ogni futura transizione, anche quando (come nel caso Muffin) la ricerca parte da una situazione di urgenza economica.
+   > Fonti: [How to Handle Multiple Job Interviews and Stay Motivated](https://www.senseicopilot.com/blog/how-to-handle-repeated-interview-rounds), [Anxiety About Job Search](https://career-advising.ndsu.edu/blog/2025/01/30/anxiety-about-job-search-how-to-manage-the-stress-and-survive-job-hunting/)
+
+7. **Chiusura pulita nonostante il contesto di crisi** — handover leggero e ben impostato con Alessia, saluti umani (inclusa la chiamata di Michele che scagiona esplicitamente Dan), nessun bruciare ponti. Anche l'imprevisto della PEC non recapitata è stato risolto in giornata senza strascichi.
+
+### ⚠️ Difficoltà principali
+
+1. **Mentoring involontario dei pari (Luca, Jacopo)** — Dan si ritrova per mesi a fare da mentore/coach verso persone che dovrebbero essere sue pari, con costo emotivo alto e rischio di scivolare nel micromanagement, senza autorità formale né compenso per quel ruolo.
+
+   > 💡 **Suggerimento per migliorare in futuro** — la ricerca su peer mentoring conferma che senza **confini espliciti** (scopo, tempo dedicato, durata, criteri di chiusura) il carico emotivo tende a diventare insostenibile per chi lo eroga informalmente. Il vantaggio della parità (nessun gap gerarchico percepito) va bilanciato con una struttura minima concordata all'inizio: cosa copre il supporto, quanto tempo, e un modo per "finire bene" invece di trascinarlo indefinitamente. In un prossimo ruolo da Tech Lead, vale la pena rendere esplicito con il manager quando il mentoring verso i pari sta diventando di fatto gestione non riconosciuta — e negoziarne o il riconoscimento formale o un limite di tempo.
+   > Fonti: [Peer Mentoring: A Complete Guide](https://mentorloop.com/blog/peer-mentoring/), [How do you deal with burnout or stress as a technical mentor?](https://www.linkedin.com/advice/1/how-do-you-deal-burnout-stress-technical-mentor)
+
+2. **Strategia aziendale ambigua mai risolta** — "Muffin vende network di consulenti o software gestionale?" resta una domanda aperta per l'intero periodo, rendendo ogni roadmap oggetto di negoziazione continua invece che esecuzione di una direzione chiara.
+
+   > 💡 **Suggerimento per migliorare in futuro** — di fronte a un'ambiguità strategica persistente e non risolta dal management, uno strumento concreto è il **Wardley Mapping**: non tanto come tecnica di disegno, quanto come conversazione strutturata che costringe a rendere espliciti assunti, dipendenze e componenti del business, partendo da un esercizio di "North Star" condiviso prima ancora di mappare. Va usato presto (nei primi mesi, non dopo due anni) e portato attivamente ai decision maker come strumento di allineamento, non tenuto solo come lente personale — per evitare di scoprire a distanza di mesi che la domanda di fondo è ancora aperta.
+   > Fonti: [Wardley Maps & Pace Layering for Senior Tech Leads](https://blog.alexewerlof.com/p/wardley-maps-and-pace-layering-for), [Bringing Wardley Mapping into Your Organisation](https://theserverlessedge.com/bringing-strategy-mapping-into-your-org/)
+
+3. **Crisi di liquidità e promessa tradita** — 6 mesi dopo essere stato rassicurato che "i soldi non erano un problema", riduzione al 50% di ore/stipendio per 2 mesi (day 243). Impatto economico e psicologico diretto, gestito comunque con lucidità (firma senza dispute, calcolo NASPI).
+
+   > 💡 **Suggerimento per migliorare in futuro** — la crisi ha reso evidente quanto contino le riserve personali quando una promessa aziendale si rivela non vincolante. La raccomandazione consolidata è un fondo di emergenza di 3-6 mesi di spese correnti (6-12 se il settore/l'azienda mostra segnali di instabilità), costruito con risparmio automatico e non intaccato per primo in caso di shock. Da trattare come pratica strutturale permanente, non solo come reazione post-crisi: rivalutare la propria soglia di sicurezza ogni volta che emergono segnali deboli di instabilità organizzativa (come quelli notati già a giugno 2026, prima della convocazione formale).
+   > Fonti: [How to Prepare for a Job Loss](https://www.moneyfit.org/how-to-guides/life-events/how-to-prepare-for-a-job-loss/), [How to Prepare Your Finances for a Layoff](https://www.experian.com/blogs/ask-experian/how-to-prepare-finances-for-layoff/)
+
+4. **Gap contrattuale con i fornitori esterni** — l'accordo con Qmates non prevedeva un preavviso simmetrico: Gianni può essere spostato su un altro cliente senza che Dan abbia margine di reazione, mentre lui stesso avrebbe dovuto garantire preavviso più lungo nella direzione opposta.
+
+   > 💡 **Suggerimento per migliorare in futuro** — la ricerca conferma che i preavvisi realmente simmetrici sono rari nei contratti di consulenza: quasi sempre il cliente mantiene il diritto di terminare con effetto immediato o con preavviso più corto di quello richiesto al fornitore. Questo non è un'anomalia di Qmates, è la norma di mercato — il che significa che va negoziato esplicitamente in fase di stesura contrattuale, non dato per scontato. In futuro, per accordi con fornitori/consulenti esterni critici per la delivery, vale la pena inserire (o far inserire da legale/procurement) una clausola di preavviso minimo comparabile in entrambe le direzioni, sapendo che è una richiesta che va negoziata attivamente.
+   > Fonti: [Notice Period Clauses Example](https://fynk.com/en/clauses/notice-period/), [Notice periods in freelance contracts: a good idea?](https://www.crunch.co.uk/knowledge/article/notice-periods-in-freelance-contracts-a-good-idea)
+
+5. **PEC di dimissioni non recapitata** — scoperta solo durante il checkpoint di handover (25/8), non da una verifica proattiva; sanata in giornata ma avrebbe potuto creare un problema legale sulla data effettiva di decorrenza del preavviso.
+
+   > 💡 **Suggerimento per migliorare in futuro** — una PEC ha valore legale solo se arriva la **ricevuta di consegna** (non basta quella di accettazione, che certifica solo l'invio). Se la ricevuta di consegna non arriva entro 12-24 ore, o arriva un avviso di mancata consegna, la comunicazione non ha ancora valore legale e va reinviata o affiancata da raccomandata cartacea. Regola pratica da adottare sempre per comunicazioni formali critiche (dimissioni, contestazioni, disdette): controllare esplicitamente la ricevuta di consegna entro 24 ore dall'invio, non solo quella di accettazione, e segnarsi un promemoria per farlo.
+   > Fonti: [Posta elettronica certificata: ricevute e avviso di mancata consegna](https://www.laleggepertutti.it/60986_posta-elettronica-certificata-requisiti-ricevute-della-pec-e-avviso-di-mancata-consegna), [Mancata consegna PEC: cosa fare](https://www.letterasenzabusta.com/news/435/pec-accettazione-e-mancata-consegna.htm)
+
+6. **Andrea Morelli come "uomo nel mezzo"** — filtro tra team prodotto e team CO invece che promotore, frizione strutturale mai davvero risolta, di intensità minore rispetto agli altri punti ma ricorrente.
+
+### 📚 Lezioni per il futuro
+
+1. **Le promesse verbali su compensation non sono vincolanti** — la rassicurazione "i soldi non sono un problema" (gennaio 2026) è stata smentita cinque mesi dopo. Valutare sempre gli impegni verbali dell'azienda con lo stesso scetticismo riservato a un contratto non firmato.
+2. **Il mentoring dei pari va negoziato o limitato esplicitamente**, non semplicemente accettato come parte non scritta del ruolo di Tech Lead.
+3. **I segnali organizzativi deboli vanno letti con più ipotesi aperte**: a giugno 2026 Dan aveva interpretato correttamente che stesse arrivando "qualcosa di grave", ma aveva sbagliato la causa specifica (pensava fosse Luca, era una crisi di liquidità) — utile allargare il ventaglio di scenari invece di ancorarsi alla narrativa più familiare.
+4. **Verificare sempre la consegna effettiva delle comunicazioni formali critiche** (PEC, raccomandate) — non darla per scontata dopo l'invio.
+5. **I contratti con fornitori esterni critici per la delivery meritano clausole di preavviso negoziate attivamente**, non ereditate dal template del fornitore.
+6. **La ricerca lavoro con più processi paralleli funziona come ammortizzatore psicologico** — pratica da riportare in ogni futura transizione, non solo nei momenti di urgenza economica.
+7. **Il rinforzo esterno può sbloccare battaglie culturali che l'advocacy solitaria non vince** — cercarlo prima, non aspettare che arrivi per necessità di business.
+
+### 🔁 Tornerei?
+
+Sì, e Dan lo dice esplicitamente nel giorno di chiusura: "peccato, però è stata comunque una bella esperienza." È stata la prima vera esperienza da Tech Lead a tempo pieno — con tutto il peso che comporta (gestione team, relazioni con fornitori esterni, mentoring involontario, navigazione di una strategia mai chiarita) — e ha prodotto risultati tecnici concreti (Hubspot v2.0, adozione XP/TDD, AI-assisted development) di cui Dan porta via competenze esportabili e verificate in Levels già in fase di colloquio. La chiusura non è stata una scelta a cuor leggero contro l'azienda: è arrivata da una crisi economica esterna che ha "costretto la mano" prima che Dan decidesse autonomamente — ma il modo in cui si è chiusa (handover pulito, saluti umani, nessun rimpianto dichiarato) conferma che il giudizio complessivo resta positivo, pur nell'agrodolce di una fine segnata più dalla crisi dell'azienda che da un compimento naturale del percorso.

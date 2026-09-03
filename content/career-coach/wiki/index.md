@@ -1,6 +1,6 @@
 ---
 title: AI Career Coach — Index
-updated: 2026-06-28
+updated: 2026-09-03
 tags: [career, index]
 ---
 
@@ -9,7 +9,7 @@ tags: [career, index]
 ## Current status
 - **Company:** Levels (inizio 14 settembre 2026)
 - **Role:** Senior Software Engineer
-- **Ultimo giorno Muffin:** 5 settembre 2026
+- **Muffin:** esperienza conclusa — ultimo giorno operativo 3/9, riconsegna computer a Castiglione il 4/9
 - **Journal Levels:** day 0 (16/08/2026) — pre-onboarding
 
 ## Experiences

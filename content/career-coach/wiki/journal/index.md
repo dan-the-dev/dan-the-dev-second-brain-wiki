@@ -11,6 +11,7 @@ I raw originali sono in career-coach/raw/journal/4-muffin/
 
 ## Entries recenti
 
+- [[20260903-muffin-day257]] — 2026-09-03 · Day 257 · **Ultimo giorno operativo in Muffin**: backup e reset del computer completati, saluti (anche a Claudio), giornata triste ma "bella esperienza". Domani solo riconsegna computer a Castiglione. Chiusa la pagina esperienza [[experiences/muffin]]
 - [[20260902-muffin-day256]] — 2026-09-02 · Day 256 · Setup VPS/multiplexer completato, molto soddisfatto; confermato che il computer di lavoro non gli resterà — domani backup finale e reset
 - [[20260901-muffin-day255]] — 2026-09-01 · Day 255 · Ultima settimana Muffin, giorno 2: giornata vuota, CDA 7/9 non lo riguarda, podcast domani, in attesa risposta Marta sul computer
 - [[20260831-muffin-day254]] — 2026-08-31 · Day 254 · Ultima settimana Muffin, giorno 1: rientro dalle ferie, nessuna novità, si riparte full time senza lavoro reale
