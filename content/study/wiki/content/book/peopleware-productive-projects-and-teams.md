@@ -10,7 +10,7 @@ study:
   method: full_reading
   started_at: "2026-08-23"
 raw_source: raw/knowledge/book/peopleware-productive-projects-and-teams/content.md
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 
 # Peopleware: Productive Projects and Teams
@@ -18,7 +18,7 @@ updated: 2026-09-02
 **Autori: [[../person/tom-demarco|Tom DeMarco]], [[../person/timothy-lister|Timothy Lister]]**
 
 > [!note] Lettura in corso — pagina aggiornata a ogni sessione
-> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Questa pagina copre finora la **Parte 1** e la **Parte 2** del libro per intero (Capitoli 1-13 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e i primi tre capitoli della **Parte 3** (Capitoli 14-16 su 7 totali nella Parte 3) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Restano da leggere i Capitoli 17-20 della Parte 3 e le **Parti 4-6** (Capitoli 21-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
+> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Settima sessione: 2026-09-07. Questa pagina copre finora la **Parte 1** e la **Parte 2** del libro per intero (Capitoli 1-13 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e sei dei sette capitoli della **Parte 3** (Capitoli 14-19 su 7 totali nella Parte 3) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Resta da leggere il solo Capitolo 20 per chiudere la Parte 3, oltre alle **Parti 4-6** (Capitoli 21-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
 
 *Peopleware* nasce da un programma di ricerca degli autori basato su survey condotte su centinaia di progetti software e sulle persone che vi hanno partecipato, interpellate sulle cause che hanno portato quei progetti alla cancellazione, al rinvio o comunque a difficoltà rilevanti. Il libro rovescia l'assunto implicito di gran parte del management tecnico dell'epoca — che i problemi dello sviluppo software siano fondamentalmente problemi tecnici — sostenendo che la stragrande maggioranza dei problemi che un team incontra sono di natura **sociologica**, non tecnologica, e che gestire le persone come componenti modulari e intercambiabili di un sistema, per quanto sia la tentazione naturale di chi diventa manager partendo da un background tecnico, è un errore che va contro la natura stessa del lavoro intellettuale.
 
@@ -265,6 +265,48 @@ Una parte fondamentale del lavoro è sociologica, molto più che tecnica: il suc
 
 *(Nota di Daniele nel testo raw: gli piace moltissimo l'idea dell'audizione, e la vedrebbe volentieri combinata con l'esercizio del portfolio/kata descritto sopra, all'interno dello stesso processo di hiring.)*
 
+## Capitolo 17 — Playing well with others
+
+Riuscire a lavorare bene gli uni con gli altri diventa particolarmente delicato nei team con un ricambio frequente di persone: gestire bene l'ingresso di chi arriva, soprattutto quando proviene da fuori l'organizzazione, richiede un'attenzione specifica. Negli ultimi anni la globalizzazione ha portato una crescente eterogeneità fra le persone che compongono un team — differenze che non producono solo benefici, ma anche complicazioni concrete nella gestione quotidiana. Un cambiamento sicuramente positivo è l'aumento della presenza femminile nel settore, che ha portato punti di vista diversi anche in aspetti minuti della vita d'ufficio, comprese abitudini quotidiane come il cibo condiviso. Ma la capacità di un team di assorbire nuove informazioni e nuove persone resta comunque limitata, e va gestita con consapevolezza.
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Il parallelo che Daniele nota nel testo raw richiama direttamente il modello di **Bruce Tuckman** (1965), probabilmente il framework più citato per descrivere l'evoluzione di un piccolo gruppo di lavoro: **forming** (il gruppo si forma, i membri sono incerti su ruoli e obiettivi e guardano al leader per una direzione), **storming** (emergono i primi conflitti mentre le persone si confrontano su stili di lavoro e aspettative), **norming** (i conflitti si risolvono, emergono ruoli chiari e un senso di appartenenza condiviso) e **performing** (il team lavora in autonomia, con fiducia reciproca alta e capacità di adattarsi alle sfide). Tuckman aggiunse una quinta fase, **adjourning** (lo scioglimento del gruppo), in un lavoro successivo del 1977. Vale la pena notare, rispetto alla nota di Daniele, che il modello originale include una fase intermedia — il *norming* — fra "storming" e "performing", spesso omessa nelle citazioni informali: è proprio in quella fase che il gruppo stabilisce le regole condivise che gli permettono poi di funzionare in autonomia. L'osservazione di *Peopleware* — che spostare anche una sola persona in un team fa ripartire l'intero processo — è del resto coerente con la stessa lettura di Tuckman: il ciclo si riattiva ogni volta che cambia la composizione del gruppo.
+> Fonte: [Wikipedia — Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) · [MindTools — Forming, Storming, Norming, and Performing](https://www.mindtools.com/abyj5fi/forming-storming-norming-and-performing/)
+
+*(Nota di Daniele nel testo raw: vede delle similitudini con il concetto di "forming, storming e performing" di un team — quando cambia la composizione del team, anche solo spostando una singola persona, questo intero processo riparte da capo.)*
+
+## Capitolo 18 — Childhood's end
+
+[[../person/alan-kay|Alan Kay]], nel periodo in cui lavorava alla Walt Disney Imagineering, ha proposto una definizione di tecnologia particolarmente utile: la tecnologia è tutto ciò che c'è intorno a noi oggi ma che non c'era ancora quando eravamo giovani; tutto ciò che invece era già presente durante la nostra crescita diventa semplicemente "ambiente". La tecnologia di una generazione, in altre parole, diventerà l'ambiente della generazione successiva.
+
+*(Nota di Daniele nel testo raw: la distinzione gli sembra importante perché coglie qualcosa di preciso — la tecnologia come "novità che arriva", vista da chi la osserva dall'esterno. Ed è proprio questa distinzione a rendere difficile comunicare con chi, al contrario, considera la stessa tecnologia parte del proprio "ambiente": trovare regole condivise diventa più complicato quando le due parti partono da percezioni diverse dello stesso strumento.)*
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Alan Kay (n. 1940) è una delle figure fondative dell'informatica moderna: alla Xerox PARC guidò lo sviluppo di Smalltalk, il primo linguaggio pienamente orientato agli oggetti, contribuendo in modo decisivo anche all'invenzione della moderna interfaccia grafica a finestre; fu poi Apple Fellow per circa dodici anni e, dal 1996 al 2001, Disney Fellow alla Walt Disney Imagineering — proprio il contesto in cui formulò la definizione di tecnologia citata in questo capitolo. Ha vinto l'ACM A.M. Turing Award nel 2003.
+> Fonte: [Wikipedia — Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) · [Newsweek — Disney's Wizards](https://www.newsweek.com/disneys-wizards-172346)
+
+Il secondo tema del capitolo è quello dell'**attenzione parziale continua**: le nuove generazioni sono abituate a dividere costantemente la propria attenzione — ascoltando musica, messaggiando mentre si cammina, scorrendo i social o giocando a un gioco rapido sul telefono. Questo stato è, per definizione, l'esatto opposto del flow descritto nel Capitolo 10: se si crede che raggiungere un periodo di flow sia necessario per lavorare al meglio, occorre allora darsi dei limiti e delle regole esplicite per gestire l'attenzione — regole ancora più importanti per chi, fra i più giovani, non ha mai lavorato prima e non ha ancora sviluppato da sé questi limiti. Il capitolo chiude ricordando che le "killer app" di oggi possono diventare obsolete domani: vent'anni fa l'email sembrava lo strumento definitivo, mentre oggi le generazioni più giovani la considerano superata, a favore di strumenti pensati per il mobile e per la comunicazione asincrona.
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> L'espressione **continuous partial attention** (attenzione parziale continua) fu coniata nel 1998 da **Linda Stone**, ex dirigente Apple e Microsoft, per descrivere un comportamento distinto dal semplice multitasking: mentre il multitasking nasce da un desiderio consapevole di produttività, l'attenzione parziale continua è un processo quasi automatico, motivato dal bisogno di restare costantemente connessi e di non perdere nulla di ciò che accade intorno a sé. Il concetto, sviluppato circa un decennio dopo la pubblicazione della prima edizione di *Peopleware* (1987), si inserisce naturalmente nel discorso del libro sulle condizioni necessarie al flow, pur non essendo esplicitamente nominato nel testo originale.
+> Fonte: [Wikipedia — Continuous partial attention](https://en.wikipedia.org/wiki/Continuous_partial_attention)
+
+## Capitolo 19 — Happy to be here
+
+Il turnover medio in un'azienda si colloca tipicamente fra il 33% e l'80% annuo, con una permanenza media di un dipendente compresa fra i 15 e i 36 mesi — il che porta, statisticamente, a un cambio di azienda ogni due anni e mezzo circa. Il costo stimato del turnover di una singola persona equivale a diversi mesi di lavoro e di costo. Il turnover varia molto da un'organizzazione all'altra, ma resta un costo rilevante anche se difficile da calcolare con precisione: possiamo stimare un costo visibile di circa il 20%, a cui si somma però una parte invisibile ben più ampia — per esempio, la presenza di un alto turnover tende a spingere anche altre persone ad andarsene. Nelle organizzazioni dove questo modo di ragionare è diffuso, si finisce per fare solo scelte a breve termine, mai a lungo termine, generando un circolo vizioso negativo.
+
+Da un punto di vista individuale, i motivi per cui le persone se ne vanno possono essere infiniti; ma da un punto di vista organizzativo si possono ricondurre a tre ragioni principali: una mentalità da "esecutore cieco" — se il lavoro non richiede un vero investimento di ragionamento e pensiero, non si genera appassionamento; un management che fa sentire le persone intercambiabili fra loro e con poco valore individuale; e, in un contesto poco sano, la percezione — tutto sommato ragionevole — che sia ridicolo sentirsi leali verso la propria azienda. Come già notato, il turnover si autoalimenta: più turnover genera sempre più turnover.
+
+Una patologia particolare riguarda lo spostamento della sede aziendale per ridurre i costi o efficientare la presenza: se lo spostamento allontana fisicamente le persone dalla propria vita, il risultato più probabile è che le persone si dimettano — una notizia tutt'altro che positiva per l'azienda. Negli anni '50 questo genere di richiesta poteva essere accettabile, perché la vita professionale imponeva più facilmente certe scelte; oggi è, semplicemente, una follia.
+
+*(Nota di Daniele nel testo raw: vede delle somiglianze con le aziende che richiamano i propri dipendenti in ufficio dopo periodi di full remote — anche se, in quel caso, c'è talvolta una componente di sofferenza cercata di proposito, per spingere le persone a licenziarsi da sole. Piuttosto che spostare tutto fuori, è una scelta migliore analizzare la situazione dell'ufficio attuale e trovare una soluzione diversa.)*
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Il testo raw riporta qui la cifra di un costo di turnover pari a "45 mesi" di lavoro — quasi certamente un artefatto della trascrizione vocale per "4-5 mesi", valore molto più coerente sia con la successiva stima di un costo "visibile" del 20% sia con le cifre riportate in letteratura (si veda sotto). Segnalato per trasparenza, senza correggere silenziosamente il dato originale — lo stesso approccio già usato nel Capitolo 14 per il probabile lapsus fra "Lord Hornblower" e "The Lord of the Rings".
+>
+> Il parallelo di Daniele con i mandati di rientro in ufficio post-remote è, oggi, un tema di ricerca a sé stante. Un sondaggio BambooHR del 2023 ha rilevato che il 25% dei dirigenti intervistati ammette apertamente di sperare che i mandati di rientro spingano parte del personale a dimettersi volontariamente; un sondaggio Unispace dello stesso anno ha rilevato che il 42% delle aziende che hanno introdotto un obbligo di rientro ha registrato un'attrition superiore alle attese, con un impatto sproporzionato su donne e personale più senior o qualificato. Sul fronte del costo del turnover in generale, le stime più recenti di SHRM lo collocano fra il 50% e il 200% dello stipendio annuo di una persona, mentre il Work Institute lo stima più contenuto, intorno al 33% (di cui circa un terzo di costi diretti e due terzi di costi indiretti e nascosti) — un intervallo ampio che comunque conferma il punto di fondo del libro: il costo reale del turnover è quasi sempre più alto di quanto appaia a prima vista, e sistematicamente sottostimato.
+> Fonte: [Waterfall Planning (dati SHRM) — The Real Cost of Employee Turnover](https://waterfallplanning.com/learn/the-real-cost-of-employee-turnover/) · [Enhancv — Return-to-Office Mandates and Stealth Layoffs](https://enhancv.com/blog/rto-stealth-layoffs/)
+
 ## Concetti chiave emersi finora
 
 ### Checklist — Caratteristiche di uno spazio di lavoro ideale (sintesi Capitoli 7-13)
@@ -324,6 +366,14 @@ Una parte fondamentale del lavoro è sociologica, molto più che tecnica: il suc
 - Chi assume dovrebbe chiedere di vedere lavoro concreto già prodotto (portfolio), non solo sostenere colloqui fatti di sole chiacchiere — un principio illustrato dal caso di un college tecnico canadese i cui diplomati, allenati a presentare un portfolio, erano ricercati in tutta l'America.
 - I test attitudinali misurano tipicamente le competenze giuste per i compiti immediatamente successivi all'assunzione, ma perdono valore nel medio-lungo periodo, quando il ruolo evolve verso competenze più olistiche e intuitive; il libro ne consiglia l'uso non come filtro di hiring ma come strumento di self-assessment per la crescita di chi è già stato assunto.
 - L'**audizione** proposta da Tom DeMarco — un lightning talk di 10-15 minuti tenuto dal candidato davanti al futuro team, seguito da feedback — permette di valutare le competenze sociologiche/comunicative del candidato e coinvolge il team nel processo di hiring, migliorando sia la qualità della decisione sia l'accoglienza della persona assunta.
+- Il modello "forming, storming, norming, performing" di Bruce Tuckman (1965) spiega bene perché ogni cambiamento nella composizione di un team — anche lo spostamento di una sola persona — fa ripartire il processo di assestamento del gruppo (Capitolo 17).
+- La capacità di un team di assorbire nuove persone e nuove informazioni è limitata e va gestita consapevolmente, soprattutto in team con ricambio frequente o con una crescente eterogeneità culturale (Capitolo 17).
+- La definizione di tecnologia di Alan Kay — tutto ciò che non esisteva ancora quando siamo nati, mentre ciò che c'era già diventa "ambiente" — spiega perché comunicare fra generazioni diverse sulla tecnologia sia strutturalmente complicato (Capitolo 18).
+- L'attenzione parziale continua (Linda Stone, 1998) è l'esatto opposto del flow: se il flow è necessario per lavorare al meglio, servono regole esplicite per gestire l'attenzione, specialmente per chi lavora per la prima volta (Capitolo 18).
+- Le "killer app" non sono permanenti: strumenti come l'email, un tempo percepiti come definitivi, possono diventare obsoleti nel giro di una generazione (Capitolo 18).
+- Il turnover medio annuo di un'azienda oscilla fra il 33% e l'80%, con un costo reale sistematicamente sottostimato rispetto al solo 20% "visibile"; il turnover si autoalimenta, generando un circolo vizioso di scelte solo a breve termine (Capitolo 19).
+- Le persone lasciano un'azienda per tre ragioni organizzative ricorrenti: lavoro che non richiede un vero investimento di pensiero, la sensazione di essere intercambiabili, o un contesto in cui la lealtà verso l'azienda non ha più senso (Capitolo 19).
+- Spostare la sede aziendale per ridurre i costi rischia di allontanare le persone dalla propria vita e di spingerle a dimettersi — una dinamica con paralleli diretti nei mandati di rientro in ufficio post-remote (Capitolo 19).
 
 ## Note di lettura di Daniele
 
@@ -336,6 +386,8 @@ Dalla quarta sessione, la lettura entra nel territorio dell'ambiente fisico di l
 Dalla quinta sessione, continua ad affascinare la capacità di Tom DeMarco di dire cose che, una volta dette, sembrano ovvie — ma di dirle in modo coraggioso e chiaro, quando all'epoca non lo erano affatto. Interessante il capitolo sul telefono: anche nell'ultima edizione del libro, che pure ha già 12-13 anni, il tema resta attualissimo — se non di più, dato quanto i telefoni siano diventati fonte di interruzione ancora più invasiva, al punto che probabilmente l'email da sola non basta più a contenerla, e varrebbe la pena integrare il discorso con strumenti come Slack (osservazione lasciata anche come nota del lettore nel testo raw). Molto belli e condivisibili anche i capitoli sulle porte, sugli spazi di lavoro chiusi e soprattutto quello sulle caratteristiche dei posti di lavoro positivi, coi quattro pattern fondamentali — tutti principi che si sottoscrivono senza riserve. Nota divertente della sessione: prima di leggere il Capitolo 13, è stata abbozzata una bozza di disegno di come si potrebbe organizzare l'ufficio di un team di prodotto di 6 persone (4 developer, un designer, un product manager) — e la maggior parte dei principi del capitolo sono venuti naturali ancora prima di leggerli, a conferma di quanto si tratti, in fondo, di semplice buon senso reso esplicito.
 
 Dalla sesta sessione, con l'ingresso nella Parte 3 arriva il primo vero punto di scetticismo della lettura — non proprio disaccordo, ma una riserva sincera sull'idea che gli achiever di successo nascano già tali, invece di diventarlo. La convinzione, radicata nel growth mindset, resta che chiunque possa migliorare in qualunque cosa con il giusto approccio, e che il tema riguardi soprattutto il modo scorretto in cui certo management usa la contrapposizione fra "nati" e "diventati" per giustificarsi. Detto questo, l'altro lato esiste ed è importante ricordarselo, e il livello di ragionamento del libro resta comunque molto alto anche su questo terreno più scivoloso. Il discorso sul professionalismo e sull'autenticità delle persone convince pienamente, con la sola riserva che il libro, usando l'esempio dei popcorn in ufficio, mostri solo un lato della medaglia e non il limite oltre cui la libertà individuale può creare problemi concreti.
+
+Dalla settima sessione, che chiude la lettura dei capitoli centrali della Parte 3, resta particolarmente vivo il parallelo che viene naturale fare fra il Capitolo 17 e il modello "forming, storming, norming, performing": un framework già familiare dal mondo agile, che qui trova conferma diretta nell'osservazione di DeMarco e Lister sul fatto che cambiare anche una sola persona in un team ne resetta le dinamiche interne. Il Capitolo 18, per quanto breve, offre uno spunto quasi filosofico con la definizione di tecnologia di Alan Kay — un modo elegante per spiegare perché parlare di strumenti nuovi con generazioni diverse sia intrinsecamente complicato — insieme a un richiamo diretto al tema del flow già affrontato nel Capitolo 10, questa volta dal lato opposto: l'attenzione parziale continua come sua negazione strutturale. Il Capitolo 19, infine, con i suoi numeri sul turnover, riporta la lettura su un terreno molto concreto e vicino all'esperienza quotidiana di chi fa people management — in particolare la nota sul parallelo fra spostamenti di sede forzati e i mandati di rientro in ufficio post-remoto, un tema che la ricerca recente conferma essere reale e diffuso, non solo un sospetto.
 
 ## Prossimi passi
 
@@ -351,8 +403,11 @@ Dalla sesta sessione, con l'ingresso nella Parte 3 arriva il primo vero punto di
 8. **Codice pregresso / portfolio nei processi di hiring**, con una kata come fallback quando il candidato non ne ha uno pronto (non è pratica comune per gli sviluppatori averne uno).
 9. **Test attitudinali di autovalutazione** da introdurre nei percorsi 1:1 personali delle persone, un paio di volte l'anno.
 10. **Audizione in stile lightning talk** (10-15 minuti massimo) con membri del team che ascoltano e partecipano poi alla valutazione del candidato.
+11. Applicare consapevolmente il modello **forming-storming-norming-performing** ogni volta che cambia la composizione di un team — anche per un solo inserimento o spostamento — invece di aspettarsi che il gruppo torni "performing" istantaneamente.
+12. Introdurre **regole esplicite di gestione dell'attenzione** (niente notifiche, blocchi di tempo protetti) soprattutto per le persone più giovani o alla prima esperienza lavorativa, per proteggere la possibilità di raggiungere il flow.
+13. Tenere sempre a mente il **costo reale del turnover**, sistematicamente sottostimato, nelle decisioni organizzative — comprese quelle su sede fisica e modalità di lavoro (in ufficio/remoto).
 
-Restano da leggere i Capitoli 17-20 della Parte 3 e le Parti 4-6 (Capitoli 21-39).
+Resta da leggere il solo Capitolo 20 per chiudere la Parte 3, oltre alle Parti 4-6 (Capitoli 21-39).
 
 ## Vedi anche
 
@@ -361,6 +416,7 @@ Restano da leggere i Capitoli 17-20 della Parte 3 e le Parti 4-6 (Capitoli 21-39
 - [[../person/harlan-mills|Harlan Mills]]
 - [[../person/tom-gilb|Tom Gilb]]
 - [[../person/christopher-alexander|Christopher Alexander]]
+- [[../person/alan-kay|Alan Kay]]
 
 ## Fonte
 
