@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 
 # Calendari allenamenti 2026/27
@@ -31,9 +31,9 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 01/09 | Mar | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260901\|📄 programma]] | 🟢 completato |
 | 02/09 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260902\|📄 programma]] — svolto come allenamento regolare, non come amichevole | 🟢 completato |
 | 03/09 | Gio | — | 🏋️ allenamento | ⚠️ Rinviato, spostato al 04/09 | rinviato |
-| 04/09 | Ven | 19:00–20:30 | 🏋️ allenamento | Teo da solo (Daniele assente); poca preparazione disponibile per la Coppa di sabato | programmato |
-| 05/09 | Sab | 16:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio | programmato |
-| 07/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 04/09 | Ven | 19:00–20:00 | 🏋️ allenamento | Teo da solo (Daniele assente) — [[sessions/20260904\|📄 programma]] ⚠️ dump reale da recuperare | 🟡 svolto, dump in sospeso |
+| 05/09 | Sab | 15:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio — [[matches#coppa-lombardia-gara-1-05092026-vs-bresso-calcio-trasferta-0-3-v\|📄 dettagli]] — **0-3 (V)** | 🟢 completato |
+| 07/09 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260907\|📄 programma]] ⚠️ presenze provvisorie | 🟢 completato ⚠️ |
 | 08/09 | Mar | 20:30 | 🤝 amichevole | — | programmato |
 | 09/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |

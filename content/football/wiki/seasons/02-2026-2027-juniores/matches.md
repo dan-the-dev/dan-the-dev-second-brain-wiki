@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-08-21
+updated: 2026-09-07
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -23,7 +23,7 @@ updated: 2026-08-21
 
 | G | Data | Competizione | Casa/Trasferta | Avversario | Risultato |
 |---|------|--------------|-----------------|------------|-----------|
-| Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | — |
+| Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | **0-3** (V) |
 | 1 | 12/09/2026 | Campionato Andata | 🏠 Casa | Football Club Parabiago | — |
 | Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | — |
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | — |
@@ -88,3 +88,30 @@ updated: 2026-08-21
 | **Ardor Bollate** |
 | Leone XIII Sport |
 | Sempione Half 1919 |
+
+---
+
+## Dettagli partite completate
+
+### Coppa Lombardia, Gara 1 — 05/09/2026 vs Bresso Calcio (trasferta) — 0-3 (V)
+
+**Formazione titolare (4-3-2-1):** Palmisano — Boniardi E., Parolini, Capretti, Favaron D. — Lasagna, Taronna, Di Bello — Sudano, Mingrone G. — Columpsi
+
+**Marcatori:** Columpsi (15'), Mingrone G. (55'), Mingrone G. (81', rigore)
+**Assist:** Boniardi E. (15', assist per il gol di Columpsi)
+
+**Sostituzioni:** Di Bello ⟶ Curtarelli (50'), Favaron D. ⟶ Livelli (67'), Sudano ⟶ Grosso (74'), Columpsi ⟶ Iannace (81'), Parolini ⟶ Cuzmin (85')
+
+**Tabellino:** 1° tempo 1-0, 2° tempo 2-0
+
+**Note tattiche nostre:**
+- 4-3-2-1 impostato molto bene in generale; terzini ancora timidi, devono spingere di più.
+- Lasagna grande partita da regista — dopo 10' gli avversari sono passati a marcarlo a uomo, senza successo.
+- Taronna affaticato con palla al piede, ma bene nel gioco senza palla.
+- Inizio ripresa un po' calato mentalmente.
+
+**Scouting avversario:** vedi [[opponents#bresso-calcio|Bresso Calcio]].
+
+**Nota di salute:** molto caldo in campo — Sudano si è sentito male a fine partita (quasi svenuto), ripreso con acqua fredda, ghiaccio in testa e zucchero.
+
+**Nota generale:** buona partita, meno brillante dell'amichevole del 31/08 ma sempre in controllo — buon esordio ufficiale di stagione.

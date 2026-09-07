@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-02
+updated: 2026-09-07
 tags: [football, exercises, index]
 ---
 
@@ -23,6 +23,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-rombi-quadrati\|Riscaldamento a rombi/quadrati — trasmissione, controllo orientato, terzo uomo]] | 24 (3 gruppi da 8) | 3 rombi/quadrati paralleli: trasmissione, controllo orientato, inserimento del terzo uomo |
 | [[riscaldamento-trio-centrale-attivo\|Trio con uomo centrale attivo]] | multipli di 3 | Linee da 3 (due ai lati, uno al centro): il centrale lavora sempre attivo, i laterali passivi. Tecnica in movimento |
 | [[riscaldamento-rettangoli-gruppi-5\|Rettangoli, gruppi da 5]] | multipli di 5 | Gruppi da 5 disposti a rettangolo: tecnica in movimento all'interno dello spazio delimitato |
+| [[riscaldamento-passing-combinations-chelsea\|Chelsea Passing Combinations - Warm-Up]] | 3 per stazione | Stazione a quadrato con cinesini: combinazione a 3 con dai-e-vai, stop a due tocchi e scarico sul terzo uomo |
 
 ## Riscaldamento atletico
 
@@ -68,6 +69,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[partitella-progressiva-test-tattico\|Partitella progressiva (test tattico di fine seduta)]] | tutta la squadra | 3 fasi crescenti: 1 porta + 2 porticine → 6v6 con jolly e cambio campo → partita normale con gol validi solo a squadra tutta in metà campo offensiva |
 | [[partitella-tre-quarti-campo\|Partitella su tre quarti campo]] | tutta la squadra | Partita a tema su campo ridotto a tre quarti, chiusura seduta senza fasi/vincoli particolari |
+| [[partita-a-tema-esterni\|Partita a tema con esterni]] | tutta la squadra | Campo diviso in tre zone (possesso centrale + due zone cross): un giocatore per fascia, rotazione esterno-dentro/compagno-si allarga, obiettivo primario scambio e occasioni da fascia |
 
 ## Test fisici
 

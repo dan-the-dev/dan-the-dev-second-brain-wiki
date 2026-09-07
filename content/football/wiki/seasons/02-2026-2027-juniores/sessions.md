@@ -1,14 +1,12 @@
 ---
 title: Allenamenti — Storico sessioni 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 
 # 🏃 Allenamenti — Storico sessioni
 
 Elenco delle sessioni di allenamento con pagina dedicata (programma, presenze, note). Nuove righe verranno aggiunte man mano che le sessioni vengono programmate o completate. Il calendario completo di tutte le date (allenamenti, amichevoli, partite) resta in [[schedule|Calendario allenamenti e partite]].
-
-Tutti gli allenamenti e l'amichevole fino al 02/09/2026 incluso sono stati svolti.
 
 | Data | Giorno | Stato | Pagina |
 |------|--------|-------|--------|
@@ -18,9 +16,11 @@ Tutti gli allenamenti e l'amichevole fino al 02/09/2026 incluso sono stati svolt
 | 31/08/2026 | Lun | 🟢 Completato | [[sessions/20260831\|🤝 Amichevole 31/08 vs Leone XIII Sport (2-1)]] |
 | 01/09/2026 | Mar | 🟢 Completato | [[sessions/20260901\|Allenamento 01/09]] |
 | 02/09/2026 | Mer | 🟢 Completato ⚠️ presenze provvisorie | [[sessions/20260902\|Allenamento 02/09]] |
+| 04/09/2026 | Ven | 🟡 Svolto, dump in sospeso | [[sessions/20260904\|Allenamento 04/09]] |
+| 07/09/2026 | Lun | 🟢 Completato ⚠️ presenze provvisorie | [[sessions/20260907\|Allenamento 07/09]] |
 
 ## Legenda stato
-- 🟡 Programmato — sessione pianificata, non ancora svolta
+- 🟡 Programmato / svolto senza dump — sessione pianificata o svolta ma non ancora completamente documentata
 - 🟢 Completato — sessione svolta, dump ricevuto e presenze/note aggiornate
 
 ← [[index|Torna alla stagione]]

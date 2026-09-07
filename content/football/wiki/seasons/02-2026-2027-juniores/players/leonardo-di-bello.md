@@ -1,7 +1,7 @@
 ---
 title: "Di Bello Leonardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 
 # Di Bello Leonardo
@@ -25,11 +25,11 @@ updated: 2026-09-02
 
 ## ⚽ Presenze in partita
 
-Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia). Nessuna gara ufficiale disputata finora: da compilare dal primo impegno ufficiale (Coppa Lombardia, 05/09/2026).
+Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data | Avversario | Casa/Fuori casa | Convocato | Minuti giocati | Gol | Assist | Cartellini gialli | Cartellini rossi |
 |------|-----------|:----------------:|:---------:|:---------------:|:---:|:------:|:------------------:|:-----------------:|
-| — | — | — | — | — | — | — | — | — |
+| 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 50 | 0 | 0 | 0 | 0 |
 
 ---
 
