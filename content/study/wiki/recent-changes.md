@@ -1,40 +1,38 @@
 ---
 title: "Ultime Modifiche"
 type: recent-changes
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 # Ultime Modifiche
 
 Registro delle pagine toccate nell'ultima sessione di lavoro sul piano di studio — non uno storico cumulativo: a ogni nuova sessione questa pagina viene sovrascritta con il nuovo elenco, non integrata. Serve a ritrovare rapidamente cosa è cambiato senza dover confrontare a mano `raw/` e `wiki/`.
 
-**Sessione del 2026-09-08** — Ottava sessione di lettura di *Peopleware: Productive Projects and Teams*: completamento del Capitolo 20 ("Human capital"), che chiude la Parte 3, ed estensione del compilato con i primi quattro capitoli della Parte 4 ("Growing productive teams" — Capitoli 21-24). Diff rispetto agli appunti raw della settima sessione del 2026-09-07 (Capitoli 17-19).
-
-> [!warning] Nota di trasparenza
-> Questa pagina non era stata aggiornata dopo la settima sessione (2026-09-07, Capitoli 17-19) — un'omissione, corretta solo ora. La pagina compilata del libro e la sua "Nota di lettura" riportano comunque entrambe le sessioni (settima e ottava) in modo completo; è solo questo specifico registro di sintesi ad aver saltato una voce.
+**Sessione del 2026-09-09** — Nona sessione di lettura di *Peopleware: Productive Projects and Teams*: compilazione dei Capitoli 25 ("Competition"), 26 ("A spaghetti dinner") e 27 ("Open Kimono"), che proseguono la Parte 4. Diff rispetto agli appunti raw dell'ottava sessione del 2026-09-08 (Capitoli 20-24). Il Capitolo 28 ("Chemistry for team formation"), che chiude la Parte 4, risulta nel raw privo di contenuto (solo il titolo, senza testo) e non è stato quindi compilato in questa sessione.
 
 ## Raw aggiornati
 
 - **Peopleware: Productive Projects and Teams** — `raw/knowledge/book/peopleware-productive-projects-and-teams/content.md`
-  Corpo esteso da Daniele con il Capitolo 20 ("Human capital"), l'introduzione alla Parte 4 ("Growing productive teams"), il Capitolo 21 ("The whole is greater than the sum of the parts"), il Capitolo 22 ("The black team"), il Capitolo 23 ("Teamicide", con le sette tecniche numerate e due note del lettore incorporate nel testo raw stesso) e il Capitolo 24 ("Teamicide, revisited", con le due tecniche aggiuntive dell'edizione più recente). Contenuto lasciato invariato dalla compilazione; nessuna modifica al frontmatter — i topic esistenti coprono già i temi dei nuovi capitoli.
+  Corpo esteso da Daniele con il Capitolo 25 ("Competition", con una nota del lettore di disaccordo parziale incorporata nel testo raw stesso), il Capitolo 26 ("A spaghetti dinner") e il Capitolo 27 ("Open Kimono"). Contenuto lasciato invariato dalla compilazione; nessuna modifica al frontmatter — i topic esistenti coprono già i temi dei nuovi capitoli.
 
 ## Pagina wiki compilata aggiornata
 
 - **Peopleware: Productive Projects and Teams** — [[content/book/peopleware-productive-projects-and-teams|pagina]]
-  Estesa con il Capitolo 20 (costo del turnover/ramp-up stimato in 6 mesi con ~3-4 mesi di produttività persa, distinzione spesa vs investimento — con box di approfondimento sulla teoria del capitale umano di Gary Becker), l'introduzione alla Parte 4, il Capitolo 21 (concetto di coesione/"jelled team", allineamento vs obiettivo, esempi di identità di team, distinzione team/cricca — con box di approfondimento sulla vera origine, non aristotelica ma gestaltista, della massima del titolo, collegato alla pagina già esistente sul Progetto Aristotele di Google), il Capitolo 22 (l'aneddoto del "Black Team" IBM — con box di approfondimento che ne conferma la natura di leggenda semi-apocrifa, in linea con il dubbio già espresso da Daniele nel testo raw) e i Capitoli 23-24 (le sette più due tecniche di "teamicidio", ciascuna con paragrafo dedicato secondo lo standard di compilazione per gli elenchi enumerati con nome, comprese le note del lettore su gestione difensiva e separazione fisica/remote work — con box di approfondimento sullo slogan reale Ford "Quality is Job 1"). "Concetti chiave" esteso con otto nuovi bullet. "Note di lettura di Daniele" estesa con la voce "Dall'ottava sessione". "Prossimi passi/My Takeaways" esteso con quattro nuovi takeaway (costo del turnover, spesa vs investimento, checklist di autovalutazione sul teamicidio, obiettivo vs allineamento). Banner "lettura in corso" aggiornato: Parte 1, Parte 2 e Parte 3 complete, Parte 4 iniziata (Capitoli 21-24 su 8 totali), restano i Capitoli 25-28 e le Parti 5-6.
+  Estesa con il Capitolo 25 (la competizione interna come nemica della coesione, l'analogia con i rapporti fra fratelli, il coaching reso impossibile dalla competizione, l'elenco di pratiche manageriali che generano competizione — con box di approfondimento sul punto 12(b) dei 14 punti di Deming, incrociato con la pagina persona già esistente — e la metafora del coro come alternativa più precisa di quella sportiva; con la nota del lettore di disaccordo parziale sulla tesi del capitolo, basata sull'esperienza sportiva e su un caso concreto vissuto in Muffin), il Capitolo 26 (l'aneddoto della "cena di spaghetti" sull'invisibilità del buon management) e il Capitolo 27 (le patologie di team di Rob Thomsett — con nuova pagina persona dedicata —, la provocazione del "giorno di salute", lo stile di management "Open Kimono" contrapposto al controllo fisico difensivo, il concetto di Skunk Works con box di approfondimento sulla sua origine storica in Lockheed, e il caso della "bacheca" di progetti che ha mostrato come scegliere *con chi* lavorare conti più di *su cosa* lavorare). "Concetti chiave" esteso con otto nuovi bullet. "Note di lettura di Daniele" estesa con la voce "Dalla nona sessione", che registra il primo vero disaccordo aperto della lettura. "Prossimi passi/My Takeaways" esteso con quattro nuovi takeaway. Banner "lettura in corso" aggiornato: Parte 3 completa, Parte 4 quasi completa (Capitoli 21-27 su 8 totali), resta il solo Capitolo 28 oltre alle Parti 5-6.
 
-## Nessuna nuova entità persona
+## Nuove entità persona
 
-A differenza della settima sessione (che aveva richiesto una nuova pagina persona per Alan Kay, citato direttamente dal libro), questa sessione non introduce nuove entità: Gary Becker, Bruce Tuckman e Ford Motor Company sono citati solo nei box di approfondimento come contesto di ricerca aggiuntivo, non come figure discusse sostanzialmente dal libro stesso — coerente con il criterio già applicato in sessioni precedenti (es. Gerald M. McCue, Sessione 4). Aggiornate invece due pagine già esistenti per il cross-link reciproco emerso nel Capitolo 21:
+- **Rob Thomsett** — [[content/person/rob-thomsett|pagina]] (+ raw `raw/knowledge/person/rob-thomsett/content.md`)
+  Creata perché citato direttamente nel Capitolo 27 come autore del libro *People and Project Management*, seguendo lo stesso criterio già applicato ad Alan Kay nella settima sessione (figura citata sostanzialmente dal libro, non solo un rimando di ricerca aggiuntivo).
 
-- **Aristotele** — [[content/person/aristotle|pagina]]
-  Aggiunta una frase sulla reale origine (gestaltista, non aristotelica) della massima "il tutto è maggiore della somma delle parti", e un link di ritorno alla pagina di Peopleware (Capitolo 21).
-- **L'Essenziale #05 — Il Progetto Aristotele** — [[content/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le|pagina]]
-  Aggiunto un link di ritorno alla pagina di Peopleware (Capitolo 21), per il parallelo fra il concetto di "jelled team" di DeMarco/Lister e i risultati del Progetto Aristotele di Google sulla sicurezza psicologica.
+## Pagine persona aggiornate (cross-link)
+
+- **W. Edwards Deming** — [[content/person/w-edwards-deming|pagina]]
+  Pagina già esistente nell'archivio (import Recall del 2026-08-19): aggiunto un paragrafo sul punto 12(b) dei suoi 14 punti citato nel Capitolo 25 e un link di ritorno alla pagina di Peopleware — la sua sezione "Indice dei contenuti collegati", finora vuota, ora ha un primo collegamento reale.
 
 ## Vedi anche
 
 - [[content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]]
-- [[content/person/aristotle|Aristotele]]
-- [[content/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le|L'Essenziale #05 — Il Progetto Aristotele]]
+- [[content/person/rob-thomsett|Rob Thomsett]]
+- [[content/person/w-edwards-deming|W. Edwards Deming]]
 - [[plan/learning-plan|Learning Plan]]
