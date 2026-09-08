@@ -4,7 +4,7 @@ type: podcast
 topics: ["agile-software-development", "leadership", "psychological-safety"]
 status: done
 raw_source: raw/knowledge/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le/content.md
-updated: 2026-08-19
+updated: 2026-09-08
 ---
 
 # 01.05 L'Essenziale 05 - Il Progetto Aristotele - Le cinque caratteristiche di un team efficiente
@@ -49,6 +49,7 @@ Questo episodio funziona come introduzione accessibile al Progetto Aristotele, d
 - [[../conference/italian-agile-days-2021|Italian Agile Days 2021]]
 - [[../person/aristotle|Aristotele]]
 - [[../organization/google|Google]]
+- [[../book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] (Capitolo 21, concetto affine di "jelled team")
 
 ## Fonte
 
