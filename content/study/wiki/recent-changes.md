@@ -1,39 +1,40 @@
 ---
 title: "Ultime Modifiche"
 type: recent-changes
-updated: 2026-09-02
+updated: 2026-09-08
 ---
 
 # Ultime Modifiche
 
 Registro delle pagine toccate nell'ultima sessione di lavoro sul piano di studio — non uno storico cumulativo: a ogni nuova sessione questa pagina viene sovrascritta con il nuovo elenco, non integrata. Serve a ritrovare rapidamente cosa è cambiato senza dover confrontare a mano `raw/` e `wiki/`.
 
-**Sessione del 2026-09-02** — Sesta sessione di lettura di *Peopleware: Productive Projects and Teams*: estensione del compilato con i Capitoli 14-16, che aprono la Parte 3 (le persone giuste). Diff rispetto agli appunti raw della sessione precedente del 2026-09-01. Come già nelle Sessioni 4 e 5, Daniele ha fornito anche questa volta note personali e takeaways direttamente in chat — è la terza sessione consecutiva in cui questo accade — incorporati in "Note di lettura di Daniele" e "Prossimi passi".
+**Sessione del 2026-09-08** — Ottava sessione di lettura di *Peopleware: Productive Projects and Teams*: completamento del Capitolo 20 ("Human capital"), che chiude la Parte 3, ed estensione del compilato con i primi quattro capitoli della Parte 4 ("Growing productive teams" — Capitoli 21-24). Diff rispetto agli appunti raw della settima sessione del 2026-09-07 (Capitoli 17-19).
+
+> [!warning] Nota di trasparenza
+> Questa pagina non era stata aggiornata dopo la settima sessione (2026-09-07, Capitoli 17-19) — un'omissione, corretta solo ora. La pagina compilata del libro e la sua "Nota di lettura" riportano comunque entrambe le sessioni (settima e ottava) in modo completo; è solo questo specifico registro di sintesi ad aver saltato una voce.
 
 ## Raw aggiornati
 
 - **Peopleware: Productive Projects and Teams** — `raw/knowledge/book/peopleware-productive-projects-and-teams/content.md`
-  Corpo esteso da Daniele con l'introduzione alla Parte 3 ("The right people"), il Capitolo 14 ("The Hornblower factory"), il Capitolo 15 ("Let's talk about Leadership") e il Capitolo 16 ("Hiring a Juggler", con tre note personali incorporate nel testo raw stesso). Contenuto lasciato invariato dalla compilazione; nessuna modifica al frontmatter — i topic esistenti (leadership, tech-lead) coprono già i temi dei nuovi capitoli. Le sezioni Key Concepts, My Notes e My Takeaways del raw non sono state estese in questa sessione (le note personali sono arrivate di nuovo solo in chat).
-
-## Correzione trasparente in fase di compilazione
-
-Il Capitolo 14 nel raw fa riferimento a "Il Signore degli Anelli" come fonte d'ispirazione del capitolo, ma la descrizione che segue (romanzi ambientati nelle guerre napoleoniche, protagonista Horatio Hornblower) corrisponde in modo inequivocabile ai romanzi di **C. S. Forester**, non a Tolkien — quasi certamente un lapsus di trascrizione, forse dovuto alla somiglianza fra il titolo *Lord Hornblower* (uno dei romanzi della serie) e "The Lord of the Rings". Come da prassi già seguita per la legge di Parkinson (Sessione 2) e per lo studio IBM di Santa Teresa (Sessione 4), il testo raw è stato lasciato invariato e la correzione è stata resa esplicita nella pagina compilata tramite un box `> [!info] Approfondimento aggiunto in fase di compilazione`, con fonti Wikipedia su Horatio Hornblower e C. S. Forester.
-
-## Nessuna nuova entità persona
-
-A differenza delle ipotesi fatte nelle sessioni precedenti (la Parte 3 era stata indicata come terreno potenzialmente fertile per nuove entità persona), il Capitolo 14 cita solo C. S. Forester — e solo nell'ambito della correzione di cui sopra, non perché citato o discusso sostanzialmente dal libro o da Daniele. Coerentemente con il criterio già applicato a Gerald M. McCue (Sessione 4), non gli è stata dedicata una pagina entità dedicata, ma solo la menzione nel box di approfondimento. Nessun'altra persona è stata nominata nei Capitoli 14-16.
+  Corpo esteso da Daniele con il Capitolo 20 ("Human capital"), l'introduzione alla Parte 4 ("Growing productive teams"), il Capitolo 21 ("The whole is greater than the sum of the parts"), il Capitolo 22 ("The black team"), il Capitolo 23 ("Teamicide", con le sette tecniche numerate e due note del lettore incorporate nel testo raw stesso) e il Capitolo 24 ("Teamicide, revisited", con le due tecniche aggiuntive dell'edizione più recente). Contenuto lasciato invariato dalla compilazione; nessuna modifica al frontmatter — i topic esistenti coprono già i temi dei nuovi capitoli.
 
 ## Pagina wiki compilata aggiornata
 
 - **Peopleware: Productive Projects and Teams** — [[content/book/peopleware-productive-projects-and-teams|pagina]]
-  Estesa con l'introduzione alla Parte 3, il Capitolo 14 (achiever "nati" vs "diventati", bias di conformità nell'hiring, professionalità come "non sorprendente", entropia organizzativa — con il box di approfondimento su Hornblower/Forester e la nota attribuita di Daniele sul growth mindset), il Capitolo 15 (leadership come servizio/catalizzatore contro leadership come estrazione, il legame fra leadership e innovazione, la "leadership ribelle") e il Capitolo 16 (portfolio e codice pregresso nell'hiring, con la nota di Daniele sulla kata come fallback; test attitudinali riconsiderati come strumento di self-assessment post-assunzione, con la sua nota sui percorsi 1:1; l'audizione con lightning talk proposta da Tom DeMarco, con la sua nota di forte apprezzamento e l'idea di combinarla con la kata). "Concetti chiave" esteso con nove nuovi bullet che coprono i temi dei tre capitoli. "Note di lettura di Daniele" estesa con il primo vero punto di scetticismo della lettura (growth mindset contro l'idea di achiever "nati", condivisione parziale del discorso sul professionalismo). "Prossimi passi/My Takeaways" esteso con i tre takeaway espliciti di questa sessione (portfolio/kata nell'hiring, test attitudinali di autovalutazione nei 1:1, audizione con lightning talk e team coinvolto nella valutazione). Banner "lettura in corso" aggiornato: Parte 1 e Parte 2 complete, Parte 3 iniziata (Capitoli 14-16 su 7 totali), restano i Capitoli 17-20 e le Parti 4-6.
+  Estesa con il Capitolo 20 (costo del turnover/ramp-up stimato in 6 mesi con ~3-4 mesi di produttività persa, distinzione spesa vs investimento — con box di approfondimento sulla teoria del capitale umano di Gary Becker), l'introduzione alla Parte 4, il Capitolo 21 (concetto di coesione/"jelled team", allineamento vs obiettivo, esempi di identità di team, distinzione team/cricca — con box di approfondimento sulla vera origine, non aristotelica ma gestaltista, della massima del titolo, collegato alla pagina già esistente sul Progetto Aristotele di Google), il Capitolo 22 (l'aneddoto del "Black Team" IBM — con box di approfondimento che ne conferma la natura di leggenda semi-apocrifa, in linea con il dubbio già espresso da Daniele nel testo raw) e i Capitoli 23-24 (le sette più due tecniche di "teamicidio", ciascuna con paragrafo dedicato secondo lo standard di compilazione per gli elenchi enumerati con nome, comprese le note del lettore su gestione difensiva e separazione fisica/remote work — con box di approfondimento sullo slogan reale Ford "Quality is Job 1"). "Concetti chiave" esteso con otto nuovi bullet. "Note di lettura di Daniele" estesa con la voce "Dall'ottava sessione". "Prossimi passi/My Takeaways" esteso con quattro nuovi takeaway (costo del turnover, spesa vs investimento, checklist di autovalutazione sul teamicidio, obiettivo vs allineamento). Banner "lettura in corso" aggiornato: Parte 1, Parte 2 e Parte 3 complete, Parte 4 iniziata (Capitoli 21-24 su 8 totali), restano i Capitoli 25-28 e le Parti 5-6.
 
-## Viste aggiornate
+## Nessuna nuova entità persona
 
-- **By Type** — [[by-type|pagina]]
-  Data di aggiornamento (`updated`) allineata al 2026-09-02; nessun nuovo topic da aggiungere alla riga di Peopleware.
+A differenza della settima sessione (che aveva richiesto una nuova pagina persona per Alan Kay, citato direttamente dal libro), questa sessione non introduce nuove entità: Gary Becker, Bruce Tuckman e Ford Motor Company sono citati solo nei box di approfondimento come contesto di ricerca aggiuntivo, non come figure discusse sostanzialmente dal libro stesso — coerente con il criterio già applicato in sessioni precedenti (es. Gerald M. McCue, Sessione 4). Aggiornate invece due pagine già esistenti per il cross-link reciproco emerso nel Capitolo 21:
+
+- **Aristotele** — [[content/person/aristotle|pagina]]
+  Aggiunta una frase sulla reale origine (gestaltista, non aristotelica) della massima "il tutto è maggiore della somma delle parti", e un link di ritorno alla pagina di Peopleware (Capitolo 21).
+- **L'Essenziale #05 — Il Progetto Aristotele** — [[content/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le|pagina]]
+  Aggiunto un link di ritorno alla pagina di Peopleware (Capitolo 21), per il parallelo fra il concetto di "jelled team" di DeMarco/Lister e i risultati del Progetto Aristotele di Google sulla sicurezza psicologica.
 
 ## Vedi anche
 
 - [[content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]]
+- [[content/person/aristotle|Aristotele]]
+- [[content/podcast/01-05-l-essenziale-05-il-progetto-aristotele-le|L'Essenziale #05 — Il Progetto Aristotele]]
 - [[plan/learning-plan|Learning Plan]]
