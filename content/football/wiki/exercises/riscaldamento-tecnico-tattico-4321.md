@@ -57,17 +57,17 @@ Le varianti possibili sono moltissime; queste 3 sono focalizzate sulla ricerca d
 ### 1. Il terzino si sovrappone
 1 → 2 · 2 → 4 e parte sulla fascia · 4 scarica su 3 · 3 → 5 · 5 scarica sull'esterno per 2, arrivato sul fondo · cross basso e conclusione: entrano in area 3, 4 e 5.
 
-![[variant1.mp4]]
+![[variant1.mov]]
 
 ### 2. La mezzapunta si allarga
 1 → 2 · 2 → 4 e resta in posizione · 4 scarica su 3 e si allarga con un movimento a mezzaluna · 3 → 5 · 5 scarica sull'esterno per 3, arrivato sul fondo · cross basso e conclusione: entrano in area 2, 3 e 5.
 
-![[variant2.mp4]]
+![[variant2.mov]]
 
 ### 3. La mezzala si sovrappone
 1 → 2 · 2 → 4 e resta in posizione · 4 scarica su 3 e attacca lo spazio verso l'interno · 3 → 5 e parte in sovrapposizione esterna · 5 scarica su 4 · 4 serve l'esterno per 3, arrivato sul fondo · cross basso e conclusione: entrano in area 2, 4 e 5.
 
-![[variant3.mp4]]
+![[variant3.mov]]
 
 ## Come proporlo da riscaldamento, in modo controllato
 
