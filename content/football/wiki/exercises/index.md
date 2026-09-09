@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-07
+updated: 2026-09-10
 tags: [football, exercises, index]
 ---
 
@@ -24,6 +24,8 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-trio-centrale-attivo\|Trio con uomo centrale attivo]] | multipli di 3 | Linee da 3 (due ai lati, uno al centro): il centrale lavora sempre attivo, i laterali passivi. Tecnica in movimento |
 | [[riscaldamento-rettangoli-gruppi-5\|Rettangoli, gruppi da 5]] | multipli di 5 | Gruppi da 5 disposti a rettangolo: tecnica in movimento all'interno dello spazio delimitato |
 | [[riscaldamento-passing-combinations-chelsea\|Chelsea Passing Combinations - Warm-Up]] | 3 per stazione | Stazione a quadrato con cinesini: combinazione a 3 con dai-e-vai, stop a due tocchi e scarico sul terzo uomo |
+| [[riscaldamento-tecnico-propedeutico-forza\|Riscaldamento tecnico propedeutico alla forza]] | tutta la squadra, a gruppi | Circuito a 4 stazioni: balzi (laterali, polpacci, ginocchia al petto, scorrimento) abbinati a gesto tecnico (palleggio, uno-due, slalom), ponte verso il circuito di forza esplosiva |
+| [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
 
 ## Riscaldamento atletico
 
@@ -37,6 +39,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
+| [[gabbia\|Gabbia]] | variabile (es. 7+3) | Possesso/pressione a spazio ridotto ispirato al concetto storico di Corrado Orrico; ⚠️ variante specifica ancora da confermare |
 | [[rondo-4v1\|Rondo 4 contro 1 (Torello base)]] | 5 (4+1) | Possesso base in spazio ridotto, un centrale cerca di intercettare |
 | [[rondo-3v1\|Rondo 3 contro 1]] | 4 (3+1) | Come il 4v1 ma con un'opzione di passaggio in meno, più impegnativo |
 | [[rondo-4v4-piu-4\|Rondo 4 contro 4 più 4 jolly (rondo alla Guardiola)]] | 12 (4+4+4) | Il rondo più famoso: possesso sul perimetro con 4 jolly neutrali, pressing al centro, scambio di ruolo al recupero |
@@ -55,6 +58,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[fartlek\|Fartlek — corsa a ritmo variabile]] | tutta la squadra | Corsa a ritmo variabile con rapporti lavoro/recupero configurabili (30-30, 40-20, 45-15, ecc.) |
 | [[allunghi-50-metri\|Allunghi sui 50 metri]] | tutta la squadra | Accelerazioni progressive (partenza → picco 90-95% velocità max → decelerazione), per tecnica di corsa e attivazione neuromuscolare; variante intermittente per potenza aerobica/resistenza alla velocità |
 | [[piramide-ripetute\|Lavoro atletico — piramide di ripetute]] | tutta la squadra | Ripetute a volume progressivo/regressivo: 2x300, 2x400, 2x600, 2x400, 2x300 (4000m totali) |
+| [[forza-esplosiva-circuito\|Forza esplosiva — circuito]] | tutta la squadra | Circuito di forza esplosiva arti inferiori; ⚠️ composizione esatta usata da confermare, 3 circuiti proposti da ricerca online |
 
 ## Monitoraggio carico atletico
 
@@ -70,6 +74,18 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[partitella-progressiva-test-tattico\|Partitella progressiva (test tattico di fine seduta)]] | tutta la squadra | 3 fasi crescenti: 1 porta + 2 porticine → 6v6 con jolly e cambio campo → partita normale con gol validi solo a squadra tutta in metà campo offensiva |
 | [[partitella-tre-quarti-campo\|Partitella su tre quarti campo]] | tutta la squadra | Partita a tema su campo ridotto a tre quarti, chiusura seduta senza fasi/vincoli particolari |
 | [[partita-a-tema-esterni\|Partita a tema con esterni]] | tutta la squadra | Campo diviso in tre zone (possesso centrale + due zone cross): un giocatore per fascia, rotazione esterno-dentro/compagno-si allarga, obiettivo primario scambio e occasioni da fascia |
+
+## Tattica
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[attacco-contro-difesa-8v5\|Attacco contro difesa 8 vs 5]] | 13 (8+5) + portiere | Superiorità numerica offensiva su tre zone: attirare gli avversari sulla palla per liberare linee di passaggio, finalizzazione in area |
+
+## Calci piazzati
+
+| Titolo | N. giocatori | Descrizione |
+|--------|:---------------:|-------------|
+| [[calci-piazzati-10-09\|Calci piazzati]] 🟡 placeholder | tutta la squadra | Schemi (falli laterali, punizioni, angoli) ancora in fase di decisione — pagina segnaposto |
 
 ## Test fisici
 

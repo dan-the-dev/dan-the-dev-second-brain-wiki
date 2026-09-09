@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Edoardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-07
+updated: 2026-09-09
 ---
 
 # Boniardi Edoardo
@@ -20,6 +20,8 @@ updated: 2026-09-07
 | 31/08/2026 | amichevole | ✅ sì |
 | 01/09/2026 | allenamento | ✅ sì |
 | 02/09/2026 | allenamento | ✅ sì |
+| 07/09/2026 | allenamento | ✅ sì |
+| 09/09/2026 | allenamento | ✅ sì |
 
 ---
 
