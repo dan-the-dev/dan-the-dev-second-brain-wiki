@@ -1,7 +1,7 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-09-09
+updated: 2026-09-12
 ---
 
 # By Type
