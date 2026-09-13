@@ -24,7 +24,7 @@ NON creare nuovi file in queste cartelle.
 **MODERN (da oggi in poi)** — raw/journal/4-muffin/YYYYMMDD/
 Cartella per ogni giorno lavorativo con file separati.
 Tutti i file in questa cartella sono RAW — input grezzi, mai modificati dopo creazione.
-- morning-brief.md     → creato da Cowork durante il morning brief
+- morning-brief.md     → creato da Cowork durante il morning brief, o su richiesta
 - dump-HHMM.md         → dump intraday (da iPhone o desktop, es. dump-1423.md)
 - evening.md           → dump finale di fine giornata (da iPhone o desktop)
 

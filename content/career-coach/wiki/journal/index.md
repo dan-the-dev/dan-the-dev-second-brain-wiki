@@ -1,16 +1,17 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-02
+updated: 2026-09-13
 tags: [journal, index]
 ---
 
 # 📓 Journal
 
 Diario giornaliero compilato da Cowork a partire dai dump raw.
-I raw originali sono in career-coach/raw/journal/4-muffin/
+I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-muffin/, 5-levels/)
 
 ## Entries recenti
 
+- [[20260913-levels-day0c]] — 2026-09-13 · **Levels Day 0c** · Vigilia del day 1: checklist Day 1 e Settimana 1 pronte e raffinate (verifiche contratto, domande prodotto/team tech spostate per profondità), periodo di prova 14/09/2026 → 14/03/2027
 - [[20260903-muffin-day257]] — 2026-09-03 · Day 257 · **Ultimo giorno operativo in Muffin**: backup e reset del computer completati, saluti (anche a Claudio), giornata triste ma "bella esperienza". Domani solo riconsegna computer a Castiglione. Chiusa la pagina esperienza [[experiences/muffin]]
 - [[20260902-muffin-day256]] — 2026-09-02 · Day 256 · Setup VPS/multiplexer completato, molto soddisfatto; confermato che il computer di lavoro non gli resterà — domani backup finale e reset
 - [[20260901-muffin-day255]] — 2026-09-01 · Day 255 · Ultima settimana Muffin, giorno 2: giornata vuota, CDA 7/9 non lo riguarda, podcast domani, in attesa risposta Marta sul computer

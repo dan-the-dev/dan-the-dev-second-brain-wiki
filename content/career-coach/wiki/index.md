@@ -1,23 +1,24 @@
 ---
 title: AI Career Coach — Index
-updated: 2026-09-03
+updated: 2026-09-13
 tags: [career, index]
 ---
 
 # 🎯 AI Career Coach
 
 ## Current status
-- **Company:** Levels (inizio 14 settembre 2026)
+- **Company:** Levels ← **esperienza attuale** (inizio 14 settembre 2026)
 - **Role:** Senior Software Engineer
+- **Periodo di prova:** 14/09/2026 → 14/03/2027 (6 mesi)
 - **Muffin:** esperienza conclusa — ultimo giorno operativo 3/9, riconsegna computer a Castiglione il 4/9
-- **Journal Levels:** day 0 (16/08/2026) — pre-onboarding
+- **Journal Levels:** day 0c (13/09/2026) — vigilia del day 1, checklist Day 1 e Settimana 1 pronte
 
 ## Experiences
 - [[experiences/casavo|Casavo]]
 - [[experiences/mymenu|Mymenu]]
 - [[experiences/tourradar|Tour Radar]]
 - [[experiences/muffin|Muffin]]
-- [[experiences/levels|Levels]] ← **prossima** (inizio 14 set 2026)
+- [[experiences/levels|Levels]] ← **attuale** (dal 14 set 2026)
 
 ## Quick links
 - [[patterns/index|Patterns]]

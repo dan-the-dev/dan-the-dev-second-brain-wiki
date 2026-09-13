@@ -3,7 +3,9 @@ title: Levels — Esperienza
 company: levels
 started: 2026-09-14
 status: active
-updated: 2026-08-20
+current: true
+probation_end: 2027-03-14
+updated: 2026-09-13
 tags: [experience, levels, regtech, ai]
 ---
 
@@ -205,9 +207,26 @@ In attesa di risposta (Diego in ferie).
 
 ---
 
+## ⏳ Periodo di prova
+
+| | |
+|---|---|
+| **Inizio** | 14 settembre 2026 |
+| **Durata** | 6 mesi |
+| **Termine** | **14 marzo 2027** |
+| **Recesso** | libero per entrambe le parti, senza preavviso, fino al termine |
+
+Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint informali con il manager) man mano che le retrospettive mensili si accumulano.
+
+---
+
 ## Journal
 
-- [[../../../raw/journal/5-levels/20260816/dump-1929|16 ago 2026 — Dump post-accettazione]]
+- [[20260913-levels-day0c|13 set 2026 — Day 0c: vigilia del day 1, checklist pronte]]
+- [[20260820-levels-day0b|20 ago 2026 — Day 0b: ESOP, fondo pensione, doppia CU]]
+- [[20260816-levels-day0|16 ago 2026 — Day 0: offerta accettata, contratto firmato]]
+
+**Checklist Day 1 / Settimana 1**: [[../../raw/journal/5-levels/20260913/day0|raw/journal/5-levels/20260913/day0.md]]
 
 ---
 
