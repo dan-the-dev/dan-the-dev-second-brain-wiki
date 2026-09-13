@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-09
+updated: 2026-09-13
 ---
 
 # Calendari allenamenti 2026/27
@@ -37,7 +37,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 08/09 | Mar | 20:30 | 🤝 amichevole | — | programmato |
 | 09/09 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260909\|📄 programma]] | 🟢 completato |
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260910\|📄 programma]] | 🟡 programmato |
-| 12/09 | Sab | 18:00 | ⚽ partita | 🏠 G1 vs FC Parabiago | programmato |
+| 12/09 | Sab | 15:00 | ⚽ partita | ✈️ G1 vs FC Parabiago — [[matches#campionato-giornata-1-12092026-vs-football-club-parabiago-trasferta-2-3-v\|📄 dettagli]] — **2-3 (V)** | 🟢 completato |
 | 14/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[opponents#leone-xiii-sport\|scouting]] | programmato |
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
@@ -130,7 +130,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 04/01 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 06/01 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 07/01 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 09/01 | Sab | 18:00 | ⚽ partita | ✈️ G16 vs FC Parabiago | programmato |
+| 09/01 | Sab | 18:00 | ⚽ partita | 🏠 G16 vs FC Parabiago | programmato |
 | 11/01 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 13/01 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 14/01 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |

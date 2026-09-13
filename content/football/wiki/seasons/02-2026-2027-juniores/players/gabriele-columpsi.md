@@ -1,7 +1,7 @@
 ---
 title: "Columpsi Gabriele"
 season: 02-2026-2027-juniores
-updated: 2026-09-09
+updated: 2026-09-13
 ---
 
 # Columpsi Gabriele
@@ -32,6 +32,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | Data | Avversario | Casa/Fuori casa | Convocato | Minuti giocati | Gol | Assist | Cartellini gialli | Cartellini rossi |
 |------|-----------|:----------------:|:---------:|:---------------:|:---:|:------:|:------------------:|:-----------------:|
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 81 | 1 | 0 | 0 | 0 |
+| 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 1 | 1 | 0 | 0 |
 
 ---
 

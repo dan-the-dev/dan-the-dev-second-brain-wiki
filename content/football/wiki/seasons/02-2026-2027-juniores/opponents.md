@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-07
+updated: 2026-09-13
 tags: [football, opponents, 2026-27]
 ---
 
@@ -29,6 +29,25 @@ Bilancio: 1V 0P 0S (amichevole) — Gol fatti 2, gol subiti 1. Prossimo incontro
 - **Pressing:** tentato alto solo nei primissimi minuti di gioco, poi abbandonato — squadra che si abbassa e concede il palleggio dopo lo sforzo iniziale
 - **Costruzione:** giocano poco a terra; prediligono palle lunghe dirette agli attaccanti, sia esterni che punta centrale, più che un gioco di combinazione
 - **Come li abbiamo battuti:** 2 gol nel primo tempo (uno su azione da corner con cross e inserimento, uno su rigore conquistato con un'azione di combinazione centrale); nel finale abbiamo concesso un gol in transizione dopo troppi cambi/esperimenti contemporanei — attenzione a gestire meglio i cambi nel prossimo confronto ufficiale
+
+---
+
+## Football Club Parabiago
+
+Bilancio: 1V 0P 0S (Campionato) — Gol fatti 3, gol subiti 2. Ritorno in programma il 09/01/2027 (girone Ritorno).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Campionato | Giornata 1 | 12/09/2026 | ✈️ Trasferta | 2-3 | V | [[matches#campionato-giornata-1-12092026-vs-football-club-parabiago-trasferta-2-3-v\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Giornata 1 del 12/09)
+
+- **Modulo:** 4-3-3.
+- **Uomini chiave:** terzino sinistro veloce e propositivo, esterno sinistro veloce e forte, punta centrale fisicamente forte — questi tre giocatori sono i più pericolosi della squadra.
+- **Pressing:** alto nei primi minuti, molto efficace se la nostra squadra non è pronta (gol subito dopo 2').
+- **Tenuta mentale:** buona nel primo tempo (avanti 1-0 e altre occasioni sprecate), ma crolla vistosamente quando va sotto — nella ripresa, una volta rimontati, non hanno più avuto idee per reagire.
+- **Portiere:** tecnicamente valido ma basso di statura — uscite efficaci ma "al pelo"; vulnerabile sul proprio palo (gol subito lì su punizione di Columpsi).
+- **Come li abbiamo battuti:** rimonta nella ripresa dopo un primo tempo sottotono, con cambio modulo a 3-4-1-2/3-5-2 e ingresso decisivo di Livelli dalla panchina.
 
 ---
 

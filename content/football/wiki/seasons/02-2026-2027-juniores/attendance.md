@@ -1,7 +1,7 @@
 ---
 title: Presenze — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-09
+updated: 2026-09-13
 ---
 
 # ✅ Presenze — Juniores Regionali 2026/27
@@ -10,36 +10,36 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 
 ⚠️ **Le presenze del 02/09/2026 sono ancora provvisorie**: impostate identiche a quelle del 01/09, in attesa di conferma da Daniele. Le presenze del 07/09/2026 sono invece state **confermate da Daniele il 09/09/2026** (coincidono con l'impostazione provvisoria copiata dal 27/08, con l'eccezione di Boniardi Alessandro spostato tra gli assenti per infortunio). I contatori sotto includono entrambe le date; quelli del 02/09 verranno ricalcolati se necessario alla conferma.
 
-Partite ufficiali disputate finora: 1 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3).
+Partite ufficiali disputate finora: 2 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3 V; Campionato Giornata 1, 12/09/2026 vs Football Club Parabiago, 2-3 V).
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
 | Amdy | — | 0 | 7 | 0% | 0 | 0% | 0 | 0% |
 | Boniardi | Alessandro | 3 | 4 | 43% | 0 | 0% | 0 | 0% |
-| Boniardi | Edoardo | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Brana | Lorenzo | 7 | 0 | 100% | 0 | 0% | 0 | 0% |
-| Capretti | Guglielmo | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Columpsi | Gabriele | 4 | 3 | 57% | 1 | 100% | 1 | 100% |
-| Curtarelli | Davide | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Cuzmin | Alessandro | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Di Bello | Leonardo | 5 | 2 | 71% | 1 | 100% | 1 | 100% |
-| Favaron | Diego | 5 | 2 | 71% | 1 | 100% | 1 | 100% |
-| Grassi | Eric | 7 | 0 | 100% | 1 | 100% | 0 | 0% |
-| Grosso | Davide | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Iannace | Federico | 4 | 3 | 57% | 1 | 100% | 1 | 100% |
-| Lapiccirella | Alessandro | 1 | 6 | 14% | 0 | 0% | 0 | 0% |
-| Lasagna | Riccardo | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Lentini | Francesco | 6 | 1 | 86% | 1 | 100% | 0 | 0% |
-| Livelli | Luca | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
+| Boniardi | Edoardo | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Brana | Lorenzo | 7 | 0 | 100% | 1 | 50% | 0 | 0% |
+| Capretti | Guglielmo | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Columpsi | Gabriele | 4 | 3 | 57% | 2 | 100% | 2 | 100% |
+| Curtarelli | Davide | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Cuzmin | Alessandro | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Di Bello | Leonardo | 5 | 2 | 71% | 2 | 100% | 2 | 100% |
+| Favaron | Diego | 5 | 2 | 71% | 2 | 100% | 2 | 100% |
+| Grassi | Eric | 7 | 0 | 100% | 2 | 100% | 0 | 0% |
+| Grosso | Davide | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Iannace | Federico | 4 | 3 | 57% | 2 | 100% | 1 | 50% |
+| Lapiccirella | Alessandro | 1 | 6 | 14% | 1 | 50% | 0 | 0% |
+| Lasagna | Riccardo | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Lentini | Francesco | 6 | 1 | 86% | 2 | 100% | 0 | 0% |
+| Livelli | Luca | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
 | Lo Valvo | Luca | 3 | 4 | 43% | 0 | 0% | 0 | 0% |
-| Mingrone | Gabriele | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Palmisano | Marco | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Parolini | Niccolò | 6 | 1 | 86% | 1 | 100% | 1 | 100% |
+| Mingrone | Gabriele | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Palmisano | Marco | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Parolini | Niccolò | 6 | 1 | 86% | 2 | 100% | 2 | 100% |
 | Pedullà | Samuele | 1 | 6 | 14% | 0 | 0% | 0 | 0% |
-| Riccio | Alessandro | 7 | 0 | 100% | 1 | 100% | 0 | 0% |
-| Simonato | Mattia Lorenzo | 4 | 3 | 57% | 1 | 100% | 0 | 0% |
-| Sudano | Matteo | 7 | 0 | 100% | 1 | 100% | 1 | 100% |
-| Taronna | Francesco | 6 | 1 | 86% | 1 | 100% | 1 | 100% |
+| Riccio | Alessandro | 7 | 0 | 100% | 1 | 50% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 4 | 3 | 57% | 1 | 50% | 0 | 0% |
+| Sudano | Matteo | 7 | 0 | 100% | 2 | 100% | 2 | 100% |
+| Taronna | Francesco | 6 | 1 | 86% | 2 | 100% | 2 | 100% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".
