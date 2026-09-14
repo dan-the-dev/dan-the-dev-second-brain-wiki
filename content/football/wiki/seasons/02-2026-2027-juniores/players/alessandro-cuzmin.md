@@ -1,7 +1,7 @@
 ---
 title: "Cuzmin Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Cuzmin Alessandro
@@ -22,6 +22,7 @@ updated: 2026-09-13
 | 02/09/2026 | allenamento | ✅ sì |
 | 07/09/2026 | allenamento | ✅ sì |
 | 09/09/2026 | allenamento | ✅ sì |
+| 14/09/2026 | allenamento | ✅ sì |
 
 ---
 

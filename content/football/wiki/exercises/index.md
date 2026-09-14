@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-10
+updated: 2026-09-14
 tags: [football, exercises, index]
 ---
 
@@ -26,6 +26,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-passing-combinations-chelsea\|Chelsea Passing Combinations - Warm-Up]] | 3 per stazione | Stazione a quadrato con cinesini: combinazione a 3 con dai-e-vai, stop a due tocchi e scarico sul terzo uomo |
 | [[riscaldamento-tecnico-propedeutico-forza\|Riscaldamento tecnico propedeutico alla forza]] | tutta la squadra, a gruppi | Circuito a 4 stazioni: balzi (laterali, polpacci, ginocchia al petto, scorrimento) abbinati a gesto tecnico (palleggio, uno-due, slalom), ponte verso il circuito di forza esplosiva |
 | [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
+| [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
 
 ## Riscaldamento atletico
 
@@ -59,6 +60,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[allunghi-50-metri\|Allunghi sui 50 metri]] | tutta la squadra | Accelerazioni progressive (partenza → picco 90-95% velocità max → decelerazione), per tecnica di corsa e attivazione neuromuscolare; variante intermittente per potenza aerobica/resistenza alla velocità |
 | [[piramide-ripetute\|Lavoro atletico — piramide di ripetute]] | tutta la squadra | Ripetute a volume progressivo/regressivo: 2x300, 2x400, 2x600, 2x400, 2x300 (4000m totali) |
 | [[forza-esplosiva-circuito\|Forza esplosiva — circuito]] | tutta la squadra | Circuito di forza esplosiva arti inferiori; ⚠️ composizione esatta usata da confermare, 3 circuiti proposti da ricerca online |
+| [[rapidita-scaletta\|Rapidità con scaletta]] | tutta la squadra | Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazione |
 
 ## Monitoraggio carico atletico
 
@@ -80,6 +82,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[attacco-contro-difesa-8v5\|Attacco contro difesa 8 vs 5]] | 13 (8+5) + portiere | Superiorità numerica offensiva su tre zone: attirare gli avversari sulla palla per liberare linee di passaggio, finalizzazione in area |
+| [[tiri-in-porta-scambio-limite\|Tiri in porta con scambio al limite]] | tutta la squadra | Scambio uno-due al limite dell'area seguito da tiro di prima intenzione |
 
 ## Calci piazzati
 

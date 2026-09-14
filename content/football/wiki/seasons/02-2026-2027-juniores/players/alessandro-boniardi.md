@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # Boniardi Alessandro
@@ -22,6 +22,7 @@ updated: 2026-09-13
 | 02/09/2026 | allenamento | ❌ no |
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ❌ no |
+| 14/09/2026 | allenamento | ❌ no |
 
 ⚠️ Infortunato dal 29/08/2026 (vedi tabella infortuni sotto): sarà segnato assente da tutti gli allenamenti e partite fino al termine dell'infortunio.
 
@@ -42,5 +43,5 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| 29/08/2026 | In corso | Distorsione alla caviglia di 2° grado | In settimana si attende la diagnosi definitiva dopo gli esami strumentali. Se qualcosa risultasse rotto rischia circa 3 mesi di stop, altrimenti 1 - 1 mese e mezzo. |
+| 29/08/2026 | In corso | Distorsione alla caviglia di 2° grado | In settimana si attende la diagnosi definitiva dopo gli esami strumentali. Se qualcosa risultasse rotto rischia circa 3 mesi di stop, altrimenti 1 - 1 mese e mezzo. Aggiornamento 14/09: rientrato in gruppo, sembra ok, ma non ancora convocabile — farà lavoro atletico individuale (fartlek) il 15/09 invece di essere in panchina. |
 
