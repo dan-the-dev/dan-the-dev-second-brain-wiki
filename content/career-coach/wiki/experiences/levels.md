@@ -222,6 +222,7 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ## Journal
 
+- [[20260914-levels-day1|14 set 2026 — Day 1: primo giorno, prodotto/business/architettura con Dario e Alberto]]
 - [[20260913-levels-day0c|13 set 2026 — Day 0c: vigilia del day 1, checklist pronte]]
 - [[20260820-levels-day0b|20 ago 2026 — Day 0b: ESOP, fondo pensione, doppia CU]]
 - [[20260816-levels-day0|16 ago 2026 — Day 0: offerta accettata, contratto firmato]]

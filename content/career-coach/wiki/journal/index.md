@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20260914-levels-day1]] — 2026-09-14 · **Levels Day 1** · Primo giorno vero: intro con Dario/Gabriele, weekly del team, call con Alberto su architettura/SSO, conversazione prodotto/business con Dario (roadmap, competitor, rischi). Checklist Day 1 aggiornata con le prime voci barrate
 - [[20260913-levels-day0c]] — 2026-09-13 · **Levels Day 0c** · Vigilia del day 1: checklist Day 1 e Settimana 1 pronte e raffinate (verifiche contratto, domande prodotto/team tech spostate per profondità), periodo di prova 14/09/2026 → 14/03/2027
 - [[20260903-muffin-day257]] — 2026-09-03 · Day 257 · **Ultimo giorno operativo in Muffin**: backup e reset del computer completati, saluti (anche a Claudio), giornata triste ma "bella esperienza". Domani solo riconsegna computer a Castiglione. Chiusa la pagina esperienza [[experiences/muffin]]
 - [[20260902-muffin-day256]] — 2026-09-02 · Day 256 · Setup VPS/multiplexer completato, molto soddisfatto; confermato che il computer di lavoro non gli resterà — domani backup finale e reset
