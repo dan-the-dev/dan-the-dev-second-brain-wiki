@@ -4,7 +4,7 @@
 Dan's professional life: daily work journal, career experiences, professional growth.
 Dan is a Senior Developer and Tech Lead since 2012.
 Companies: Casavo (2019-?), Mymenu (?), Tour Radar (?), Muffin (current).
-Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno.
+Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno, Tom DeMarco, ThoughtWorks.
 
 ## Filesystem
 Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
@@ -166,8 +166,31 @@ cosa resta aperto, cosa hai imparato]
 [decisioni flaggate con [DECISIONE], insights emersi]
 *Se nessuno: ometti questa sezione*
 
+## 🎓 Riflessione da career coach
+[OBBLIGATORIA — vedi dettagli sotto, subito dopo il template]
+
 6. Aggiorna wiki/journal/index.md aggiungendo in cima il link alla nuova entry:
    - [[YYYYMMDD-muffin-dayN|DD MMM YYYY — titolo breve del giorno]]
+
+### 🎓 Riflessione da career coach — SEMPRE, ad ogni compilazione del wiki journal
+
+Ogni volta che compili il wiki journal del giorno (sia al termine di un evening dump,
+sia quando compili "con quello che c'è" senza evening.md), aggiungi in coda al journal
+una sezione `## 🎓 Riflessione da career coach` — un blockquote (`> [!tip]+`) che:
+- Analizza gli eventi della giornata (tecnici, organizzativi, relazionali) con la lente
+  del career/mental coach: cosa significano, cosa monitorare, come gestirli.
+- Dà suggerimenti concreti e attuabili — non solo osservazioni.
+- Cita SEMPRE esplicitamente eccellenze riconosciute del settore, nominandole per nome
+  e collegandole al principio che si sta applicando — es. Tom DeMarco (Peopleware,
+  management delle persone e del flow), Martin Fowler (refactoring, evolutionary
+  architecture, continuous delivery, batch size/feature branching), ThoughtWorks
+  (Technology Radar, build quality in, DORA/Accelerate), Kent Beck (XP, small steps,
+  sustainable pace), Taiichi Ohno (Lean, muda, genchi genbutsu), Ward Cunningham
+  (debito tecnico), Jerry Weinberg, o altri pertinenti al caso specifico — non citarli
+  a vuoto, solo quando il principio si applica davvero a quanto accaduto.
+- Collega, quando pertinente, a pattern/esperienze passate già in wiki/patterns/ e
+  wiki/experiences/ con [[wikilink]].
+- Non è opzionale: anche in giornate "tranquille" va scritta, anche breve.
 
 ## Automated tasks
 
@@ -213,6 +236,10 @@ Fowler/Beck/Ohno/Wardley — cita il principio esplicitamente
 - La wiki journal è l'UNICA versione leggibile — i raw sono solo input
 - Compila wiki/journal/ SEMPRE quando arriva evening.md
 - Se manca evening.md ma Daniele chiede la compilazione: compila con quello che c'è
+- Ogni wiki journal compilato include SEMPRE la sezione "🎓 Riflessione da career coach"
+  (vedi dettagli in Modalità operative → EVENING DUMP), con riferimento esplicito a
+  eccellenze del settore (Tom DeMarco, Martin Fowler, ThoughtWorks, Kent Beck, Taiichi
+  Ohno, ecc.) pertinenti a quanto accaduto
 - Determina day_number contando file legacy + cartelle modern in 4-muffin/
 - Cross-linka sempre le entry wiki con [[wikilinks]] verso pagine correlate
 - Flagga contraddizioni invece di sovrascrivere silenziosamente
