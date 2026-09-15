@@ -53,3 +53,8 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 - [[lino|Lino]] — sviluppatore nei primi mesi
 - [[alessandro-messina|Alessandro Messina]] — board member, da luglio 2026 Presidente Esecutivo/CEO (tutto tranne Sales), descritto da Claudio come "uomo di Michele"
 - [[fabio-sferruzzi|Fabio Sferruzzi]] — ruolo non chiaro (da verificare), coinvolto nei giochi di potere del board emersi il 3/8/2026
+
+## Levels
+- [[dario|Dario]] — Co-Founder, ruolo tecnico/prodotto; principale interlocutore di Dan su tecnica e business
+- [[alberto|Alberto]] — AI Software Engineer, esperto SSO/identity, prima sessione di pairing il 16/09
+- [[tommaso|Tommaso]] — ambiguo tra Tommaso Lucarelli (Co-Founder & CEO) e Tommaso Vilotto (AI Software Engineer), da disambiguare al primo 1:1
