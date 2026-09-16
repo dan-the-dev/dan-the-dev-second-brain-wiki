@@ -10,7 +10,7 @@ study:
   method: full_reading
   started_at: "2026-08-23"
 raw_source: raw/knowledge/book/peopleware-productive-projects-and-teams/content.md
-updated: 2026-09-12
+updated: 2026-09-15
 ---
 
 # Peopleware: Productive Projects and Teams
@@ -18,7 +18,7 @@ updated: 2026-09-12
 **Autori: [[../person/tom-demarco|Tom DeMarco]], [[../person/timothy-lister|Timothy Lister]]**
 
 > [!note] Lettura in corso — pagina aggiornata a ogni sessione
-> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Settima sessione: 2026-09-07. Ottava sessione: 2026-09-08. Nona sessione: 2026-09-09. Decima sessione: 2026-09-09. Undicesima sessione: 2026-09-12. Questa pagina copre finora la **Parte 1**, la **Parte 2**, la **Parte 3** e la **Parte 4** del libro per intero (Capitoli 1-28 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e due degli otto capitoli della **Parte 5** (Capitoli 29-30 su 8 totali nella Parte 5) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Restano da leggere i Capitoli 31-36 per chiudere la Parte 5, oltre alla **Parte 6** (Capitoli 37-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
+> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Settima sessione: 2026-09-07. Ottava sessione: 2026-09-08. Nona sessione: 2026-09-09. Decima sessione: 2026-09-09. Undicesima sessione: 2026-09-12. Dodicesima sessione: 2026-09-14. Questa pagina copre finora la **Parte 1**, la **Parte 2**, la **Parte 3** e la **Parte 4** del libro per intero (Capitoli 1-28 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e tre degli otto capitoli della **Parte 5** (Capitoli 29-31 su 8 totali nella Parte 5) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Restano da leggere i Capitoli 32-36 per chiudere la Parte 5, oltre alla **Parte 6** (Capitoli 37-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
 
 *Peopleware* nasce da un programma di ricerca degli autori basato su survey condotte su centinaia di progetti software e sulle persone che vi hanno partecipato, interpellate sulle cause che hanno portato quei progetti alla cancellazione, al rinvio o comunque a difficoltà rilevanti. Il libro rovescia l'assunto implicito di gran parte del management tecnico dell'epoca — che i problemi dello sviluppo software siano fondamentalmente problemi tecnici — sostenendo che la stragrande maggioranza dei problemi che un team incontra sono di natura **sociologica**, non tecnologica, e che gestire le persone come componenti modulari e intercambiabili di un sistema, per quanto sia la tentazione naturale di chi diventa manager partendo da un background tecnico, è un errore che va contro la natura stessa del lavoro intellettuale.
 
@@ -515,6 +515,30 @@ C'è però un rischio che tipicamente non viene mai gestito: il rischio del prop
 
 Quando l'obiettivo di un progetto viene invece presentato come una sfida (*challenge*) riguardante il proprio lavoro, la gestione del rischio viene tipicamente sostituita da un approccio positivo del tipo "ce la posso fare". Le persone che fanno knowledge work apprezzano particolarmente essere messe di fronte a una sfida, e cercano di portarla a termine — cosa che non è necessariamente negativa in sé, ma non equivale comunque a gestire il rischio. Purtroppo, i progetti costruiti attorno a sfide "false" tendono ad avere sempre le stesse caratteristiche: un beneficio marginale per l'azienda, nessun vero rischio tecnologico — perché l'organizzazione resta comunque avversa al rischio reale — ma un forte rischio di schedulazione, cioè che la data concordata non venga rispettata, che tipicamente resta del tutto non gestito. Ed è, purtroppo, il peggio di entrambi i mondi.
 
+## Capitolo 31 — Meetings, monologues and conversations
+
+> *"Some organizations are so addicted to meetings that work takes 2nd place."*
+
+Nell'era moderna la gestione dei meeting è degenerata, e degenera ulteriormente man mano che le aziende crescono di dimensione. I meeting sono diventati anche un momento per mettersi in mostra, e chi è ambizioso difficilmente sceglie di restare in silenzio — una dinamica che da sola basta a spiegare perché tendano a dilatarsi oltre il necessario. Molti manager giustificano il numero e la durata dei meeting con la grande complessità che l'azienda dovrebbe gestire, ma il libro ha già mostrato, nel Capitolo 6, come nel 99% dei casi questa complessità percepita sia in realtà un'illusione.
+
+La tecnologia ha peggiorato ulteriormente la situazione: chiunque abbia oggi uno schermo sulla scrivania ha a portata di mano una distrazione continua durante il meeting — e per qualcuno diventa persino la scusa per fare qualcosa di davvero utile mentre il meeting stesso non lo è. *(Nota di Daniele nel testo raw: il libro si riferisce ai laptop; oggi il discorso vale ancora di più con gli smartphone, ed è ancora più vero nel lavoro da remoto, dove di ognuno si vede solo il volto.)* La tecnologia, insomma, ha reso accettabili comportamenti che in passato avrebbero fatto licenziare le persone.
+
+Lo standup meeting — in particolare l'idea di tenere le persone in piedi proprio per favorire meeting più brevi — ha una sua logica, ma il problema di fondo resta sempre lo stesso, a prescindere dal formato scelto: qual è l'obiettivo del meeting?
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Questo capitolo compare solo nell'edizione riveduta del 2013 di *Peopleware*, e riflette un fenomeno che nella prima edizione del 1987 semplicemente non esisteva ancora nella forma oggi familiare: lo standup meeting quotidiano si diffonde a partire dagli anni '90. Jim Coplien descrive il pattern originale — *StandUpMeeting* — già nel 1993, osservando l'anno successivo le pratiche del team "iperproduttivo" di Quattro Pro in Borland, un progetto che, nelle sue stesse parole, era "fatto più di meeting che di qualunque altra cosa". Ken Schwaber formalizza il "daily scrum" nel 1997 dentro il framework Scrum, mentre lo stand-up meeting entra come pratica cardine dell'Extreme Programming nel 1998; le due tradizioni convergono attorno al 2000, quando i team XP adottano le "tre domande" tipiche dello Scrum, fino a diventare — fra il 2004 e il 2006 — una pratica ormai considerata fondamentale di qualunque metodo Agile.
+> Fonte: [Agile Alliance — Daily Meeting / Daily Standup](https://agilealliance.org/glossary/daily-meeting/) · [Scrum Alliance — What Is the Daily Scrum?](https://resources.scrumalliance.org/Article/the-daily-scrum)
+
+### Working meeting vs. cerimonie
+
+Il libro distingue con nettezza due tipi di meeting, che richiedono una gestione diversa fra loro.
+
+**Working meeting.** Un meeting organizzato per prendere una decisione, che si conclude quando quella decisione (o l'azione che ne consegue) viene presa — non quando scade l'orario previsto. Vanno invitate solo le persone che devono essere d'accordo con la decisione da prendere, e serve un'agenda chiara, limitata esclusivamente a quella decisione. La caratteristica fondamentale di un working meeting è che è sempre chiaro a tutti i partecipanti quando è davvero finito: quando la decisione è stata presa. *(Nota di Daniele nel testo raw: tutto corretto, ma resta da capire cosa fare quando la decisione non arriva in un tempo ragionevole — forse un problema diverso, ortogonale a questo.)*
+
+**Cerimonie.** Meeting che si concludono invece con l'orologio, non con una decisione: il loro scopo non è decidere qualcosa ma dare informazioni, tipicamente attraverso un rituale condiviso. Una cerimonia è, in sostanza, una serie di conversazioni che dovrebbero avvenire solo fra le persone realmente interessate — e la sua necessità, quando esiste davvero, dovrebbe restare sporadica, non diventare un appuntamento fisso quotidiano o settimanale.
+
+Il rischio principale, in entrambi i casi, è invitare troppe persone: spesso con la scusa di voler essere un'azienda "trasparente", finendo per trasformare un meeting pensato per pochi in un pubblico troppo ampio perché la decisione — o l'informazione — restino davvero efficaci.
+
 ## Concetti chiave emersi finora
 
 ### Checklist — Caratteristiche di uno spazio di lavoro ideale (sintesi Capitoli 7-13)
@@ -610,6 +634,10 @@ Quando l'obiettivo di un progetto viene invece presentato come una sfida (*chall
 - Il rischio più sistematicamente ignorato in un progetto è quello del fallimento del proprio stesso team, a differenza del rischio — sempre messo in conto — legato a fornitori esterni (Capitolo 30).
 - Un piano di mitigazione del rischio va preparato prima che il rischio si manifesti: nel momento in cui si presenta, è già troppo tardi per iniziare a pensare a come gestirlo (Capitolo 30).
 - Le "sfide" (challenge) sostituiscono spesso, in modo implicito e non dichiarato, la gestione del rischio con un approccio positivo del tipo "ce la posso fare" — utile per la motivazione, ma non equivalente a una reale gestione del rischio (Capitolo 30).
+- La gestione dei meeting degenera con la crescita di un'azienda: diventano anche un'occasione per mettersi in mostra, e la complessità spesso usata per giustificarli è quasi sempre un'illusione (Capitolo 31, apertura della Parte 5 dedicata al tema).
+- La tecnologia — laptop, smartphone, videocall — ha reso accettabili durante i meeting comportamenti che in passato avrebbero fatto licenziare le persone (Capitolo 31).
+- Un working meeting si conclude quando la decisione è presa, non quando scade l'orario; una cerimonia si conclude con l'orologio e serve a dare informazioni, non a decidere — e dovrebbe restare sporadica, non un appuntamento fisso (Capitolo 31).
+- Il rischio principale in qualunque meeting è invitare troppe persone, spesso in nome di una falsa "trasparenza" (Capitolo 31).
 
 ## Note di lettura di Daniele
 
@@ -663,7 +691,7 @@ Dall'undicesima sessione, che apre la Parte 5, il Capitolo 29 è probabilmente i
 24. Includere sempre, in un piano di gestione del rischio, il **rischio che sia il proprio team a non raggiungere i propri obiettivi** — non solo i rischi legati a fornitori o fattori esterni (Capitolo 30).
 25. Preparare i piani di mitigazione del rischio **prima** che il rischio si presenti, non nel momento in cui si manifesta (Capitolo 30).
 
-Restano da leggere i Capitoli 31-36 per chiudere la Parte 5, oltre alla Parte 6 (Capitoli 37-39).
+Restano da leggere i Capitoli 32-36 per chiudere la Parte 5, oltre alla Parte 6 (Capitoli 37-39).
 
 ## Vedi anche
 

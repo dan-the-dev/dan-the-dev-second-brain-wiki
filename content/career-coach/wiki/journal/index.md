@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-15
+updated: 2026-09-16
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20260916-levels-day3]] — 2026-09-16 · **Levels Day 3** · Prima versione compilata (da integrare domani). Buy vs build con Dario; sessione con Alberto su sviluppo AI-assisted (legge il codice ma non i test); doppia overview di Paolo su infrastruttura manuale/CloudFormation e pipeline documenti (Gemini Pro, anti-pattern ownership transaction confermato anche da Alberto); deploy lenti e test assenti indicati dal team come priorità; confronto business con Tommaso su supply chain edilizia e rischi (Sikuro, uffici acquisti, market fit wallet)
 - [[20260915-levels-day2]] — 2026-09-15 · **Levels Day 2** · Accesso AWS ottenuto, Satispay bloccato (ticket assistenza), walkthrough con Filippo (front-end, costi ~3-4k€/mese, PostHog: DAU/WAU/MAU e stickiness 30-38%), 1:1 con Paolo su AWS/CloudWatch (nessun log centralizzato, nessun monitoring infrastruttura), discussione su tool di eval LLM e OpenRouter/OmniRouter
 - [[20260914-levels-day1]] — 2026-09-14 · **Levels Day 1** · Primo giorno vero: intro con Dario/Gabriele, weekly del team, call con Alberto su architettura/SSO, conversazione prodotto/business con Dario (roadmap, competitor, rischi). Checklist Day 1 aggiornata con le prime voci barrate
 - [[20260913-levels-day0c]] — 2026-09-13 · **Levels Day 0c** · Vigilia del day 1: checklist Day 1 e Settimana 1 pronte e raffinate (verifiche contratto, domande prodotto/team tech spostate per profondità), periodo di prova 14/09/2026 → 14/03/2027

@@ -2,7 +2,7 @@
 title: Tommaso
 company: [levels]
 role: "Ambiguo: Tommaso Lucarelli (Co-Founder & CEO) e/o Tommaso Vilotto (AI Software Engineer)"
-updated: 2026-09-15
+updated: 2026-09-16
 tags: [people, levels]
 ---
 
@@ -19,11 +19,14 @@ Day 1 (14/09): nella divisione del lavoro sulla feature invito subappaltatori, "
 **Amministrazione/manageriale (verosimilmente Tommaso Lucarelli, CEO)**
 Day 2 (15/09, dump mattutino): TFR e fondo pensione, documenti HR e CU provvisorio — "ne parlo domani con Tommaso". Nella checklist Day 1, il "primo 1:1 con il manager" è previsto "domani con Tommaso". Nell'agenda di domani (16/09), "Tommy" è il blocco del primo pomeriggio (dalle 14:00), dopo Alberto e Paolo.
 
+**Business/strategia (verosimilmente Tommaso Lucarelli, CEO)**
+Day 3 (16/09, pomeriggio, dopo la call con Paolo): confronto sulla parte business. Focus dichiarato: le costruzioni, dove ogni progetto richiede di ricostruire la supply chain — oggi Levels è sull'ufficio sicurezza (HSE), domani vuole spingere sul valore rete/network. Visione: Levels come tool di gestione della supply chain dell'edilizio. Landscape competitivo HSE: software legacy o moduli generici Team System; competitor principale Sikuro. Rischi di business secondo lui: (1) lentezza nell'acquisire i general contractor grandi/uffici acquisti — rischio di restare indietro rispetto a un competitor già verticale su procurement; (2) market fit ancora da trovare per feature future (es. wallet). Punto dolente sul prodotto: la feature invito subappaltatori è ritenuta decisiva per battere Sikuro, ma oggi è impossibile fare test rapidi di validazione in produzione. Dan si è offerto di sentire un contatto (Valerio, ex Muffin) per bandi di finanza agevolata utili all'azienda.
+
 ## Dinamica
-Non ancora osservata direttamente — il primo 1:1/incontro è previsto il 16/09. Da questo primo incontro dipenderà anche la disambiguazione dei due Tommaso e la comprensione del perimetro di ciascuno rispetto al ruolo di Dan (Head of Development).
+Il primo 1:1/incontro amministrativo è avvenuto il 16/09 insieme al confronto business — ancora da disambiguare con certezza se si tratti sempre della stessa persona (Lucarelli) o se in alcuni contesti (sviluppo/feature) si intersechi con Vilotto. Il contenuto business/strategico di oggi rafforza l'ipotesi che il "Tommaso" più frequentato da Dan finora sia Lucarelli (CEO).
 
 ## Citazioni o momenti significativi
-_Nessuna ancora — primo contatto diretto atteso il 16/09._
+- Day 3 (16/09) — visione esplicita: "Levels deve essere il tool di gestione supply chain dell'edilizio".
 
 ## Note
-Da aggiornare con urgenza dopo il primo 1:1 del 16/09: chiarire cognome/identità, ruolo esatto rispetto a Dan (manager diretto? riferimento tecnico sulla feature invito?), ed eventualmente scindere questa pagina in due file separati (tommaso-lucarelli.md, tommaso-vilotto.md) se le interazioni restano distinte.
+Disambiguazione ancora da confermare con certezza (cognome esplicito non ancora sentito/letto da Dan). Da tenere d'occhio se in futuro emergono interazioni chiaramente distinte con Tommaso Vilotto (dev) che rendano necessario scindere questa pagina in due file separati (tommaso-lucarelli.md, tommaso-vilotto.md).
