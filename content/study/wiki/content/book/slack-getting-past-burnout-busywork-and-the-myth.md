@@ -76,6 +76,7 @@ Il libro chiude opponendo il "Plan for Success" (pianificare per il successo, co
 ## Vedi anche
 
 - [[../person/tom-demarco|Tom DeMarco]]
+- [[../book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] (stesso autore; conferma indipendente sul ruolo del middle management come centro di apprendimento e cambiamento organizzativo, Capitolo 35)
 
 ## Fonte
 
