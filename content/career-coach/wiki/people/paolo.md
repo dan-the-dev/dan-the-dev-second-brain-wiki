@@ -2,7 +2,7 @@
 title: Paolo
 company: [levels]
 role: AI Software Engineer (Paolo Battellani)
-updated: 2026-09-16
+updated: 2026-09-17
 tags: [people, levels]
 ---
 
@@ -19,6 +19,8 @@ Day 3 (16/09): overview approfondita di infrastruttura, data model e pipeline do
 
 ## Dinamica
 Owner tecnico principale dell'infrastruttura e della pipeline AI/documenti — l'interlocutore più rilevante per capire davvero come funziona il sistema sotto al prodotto. Disponibile e dettagliato nelle spiegazioni (due overview approfondite in due giorni). Il pattern di ownership individuale osservato su di lui ("business as usual" gestito da solo) rispecchia la stessa dinamica già segnalata Day 1 come possibile fonte di dipendenze non gestite.
+
+**Appunti manoscritti di Dan (16/09, integrati 17/09)**: il classico profilo tecnico, un po' chiuso in sé stesso, ma considerato una superstar — da gestire con attenzione. Da leggere non come un problema di personalità da correggere, ma come un profilo da proteggere (flow, spazio individuale) mentre si valorizza il suo contributo tecnico.
 
 ## Citazioni o momenti significativi
 - Day 3 — overview completa di infrastruttura (CloudFormation manuale, shared services/identity/levels) e della pipeline documenti (presigned URL S3 → trigger → classificazione/isolamento/estrazione → save DB → webhook), oggi al 50% del progetto API e funzionante.

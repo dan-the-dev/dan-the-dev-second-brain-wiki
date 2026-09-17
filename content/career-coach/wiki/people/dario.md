@@ -2,7 +2,7 @@
 title: Dario
 company: [levels]
 role: Co-Founder, ruolo tecnico/prodotto (Dario Del Gaizo)
-updated: 2026-09-16
+updated: 2026-09-17
 tags: [people, levels]
 ---
 
@@ -18,8 +18,12 @@ Day 2 (15/09): tema aperto sulla selezione dei tool (Slack al posto di Google Ch
 
 Day 3 (16/09): chiacchierata su buy vs build per gli strumenti interni. Dario è orientato al build; Dan porta la posizione opposta — buy per gli standard (gestione richieste sales/clienti, ticketing), eventuale no-code (Notion) per la parte più custom di product management. Chiusura pragmatica: Dario libero di procedere come preferisce per ora, Dan si impegna a formalizzare un'ipotesi di tool da presentargli (vedi [[../journal/20260916-levels-day3|journal Day 3]]).
 
+Day 4 (17/09): prima vera frizione esplicita, ma gestita bene da entrambi. Dario si scusa quasi per essere spesso "bastian contrario"; Dan ribalta la preoccupazione su di sé, temendo di essere lui a portare opinioni complicate e a sembrare il bastian contrario. Nel merito: Dario non è convinto dell'idea che la qualità abiliti la velocità — nella sua lettura, quando si parla di velocità si finisce sempre a parlare di qualità, mentre lui vorrebbe isolare la velocità come variabile unica (se dovesse sceglierne una sola). Nella fase attuale la differenza percepita tra le feature è di "2-3 feature in più" prodotte facendo più MVP/pitch veloci. Errore classico secondo Dan (complice anche l'età del team): associare la velocità al calo di qualità, quando nel software non funziona così (vedi riferimenti raccolti in [[../journal/20260917-levels-day4|journal Day 4]]).
+
 ## Dinamica
 Molto concentrato sui problemi, un po' preoccupato — percezione di Dan è che Dario non voglia mettere a rischio il momento di Levels e senta l'urgenza di deliberare in fretta. Lascia autonomia al team ma partecipa personalmente ai dettagli implementativi (osservato nel weekly Day 1, dove discute scelte tecniche senza il resto del prodotto strutturato attorno). Rapporto ancora agli inizi ma aperto: accoglie le proposte di processo di Dan senza resistenza esplicita.
+
+Day 4: primo disaccordo esplicito nel merito (qualità↔velocità), gestito con rispetto reciproco da entrambe le parti — buon segnale di sicurezza psicologica nella relazione, anche se il punto resta da convincere.
 
 ## Citazioni o momenti significativi
 - Day 1 (14/09) — mini-roadmap mentale per fine 2026/inizio 2027 condivisa con Dan (invito subappaltatori → account completo → accesso in cantiere → controlli POS → UX → wallet/portfolio).

@@ -1,6 +1,6 @@
 ---
 title: People — Index
-updated: 2026-08-03
+updated: 2026-09-17
 tags: [people, index]
 ---
 
@@ -56,5 +56,8 @@ Persone significative incrociate da Dan nel suo percorso professionale, raggrupp
 
 ## Levels
 - [[dario|Dario]] — Co-Founder, ruolo tecnico/prodotto; principale interlocutore di Dan su tecnica e business
-- [[alberto|Alberto]] — AI Software Engineer, esperto SSO/identity, prima sessione di pairing il 16/09
-- [[tommaso|Tommaso]] — ambiguo tra Tommaso Lucarelli (Co-Founder & CEO) e Tommaso Vilotto (AI Software Engineer), da disambiguare al primo 1:1
+- [[alberto|Alberto]] — AI Software Engineer, esperto SSO/identity; il più collaborativo del team, potenziale "cavallo di Troia" per il cambiamento
+- [[paolo|Paolo]] — AI Software Engineer, owner de facto di infrastruttura e pipeline documenti/AI; profilo tecnico chiuso ma superstar, da gestire con cura
+- [[tommaso-lucarelli|Tommaso Lucarelli]] — Co-Founder & CEO, visione di business chiara, probabile spinta verso soluzioni commerciali
+- [[tommaso-vilotto|Tommaso Vilotto]] — AI Software Engineer, il più timido e meno esperto tra i dev
+- [[emanuele|Emanuele]] — Co-Founder, gestisce i sales; ultimo founder con cui manca ancora il primo 1:1

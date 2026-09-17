@@ -2,14 +2,14 @@
 title: Alberto
 company: [levels]
 role: AI Software Engineer (Alberto Sandri)
-updated: 2026-09-16
+updated: 2026-09-17
 tags: [people, levels]
 ---
 
 # Alberto
 
 ## Chi è
-Alberto Sandri, AI Software Engineer nel team tech di Levels. La persona più esperta sulla parte SSO/identity, e insieme a Tommaso (Vilotto) è sul backend della feature in corso (invito ai subappaltatori).
+Alberto Sandri, AI Software Engineer nel team tech di Levels. La persona più esperta sulla parte SSO/identity, e insieme a [[tommaso-vilotto|Tommaso Vilotto]] è sul backend della feature in corso (invito ai subappaltatori).
 
 ## Contesto delle interazioni
 Day 1 (14/09): prima call col team dev, guidata da Alberto sulla parte SSO/architettura. Punti emersi: account AWS separati invece di un unico account con cluster diversi (motivo non chiaro, domanda aperta); circa 20 repository totali, una decina toccati di frequente; complessità architetturale percepita come ingiustificata, impressione condivisa da tutto il team; domande aperte su git strategy e su se le API condividano lo stesso dataset del SaaS; punto interrogativo su "crediti" (verosimilmente uso AI/LLM) da chiarire.
@@ -20,6 +20,8 @@ Day 3 (16/09): sessione collaborativa in cui Alberto mostra a Dan come lavora su
 
 ## Dinamica
 Guida naturalmente le conversazioni tecniche sulla parte identity/SSO — punto di riferimento del team su quell'area. Condivide con il resto del team la percezione di complessità architetturale ingiustificata, segnale di apertura al cambiamento più che di difesa dello status quo.
+
+**Appunti manoscritti di Dan (16/09, integrati 17/09)**: il più collaborativo del team, sembra affascinato dalle idee che Dan porta. Ipotesi di Dan: potenziale "cavallo di Troia" per introdurre cambiamento nel team — da trattare come ipotesi da validare nel tempo, non come piano dichiarato, per non bruciare la sua credibilità con i pari né il rapporto di fiducia con Dan.
 
 ## Citazioni o momenti significativi
 - Day 1 — guida la call su SSO/architettura, introduce il modello identity (email + organization, gruppi cantiere, albo delle imprese, JWT per login/refresh/revoke).
