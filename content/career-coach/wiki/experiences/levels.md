@@ -5,7 +5,7 @@ started: 2026-09-14
 status: active
 current: true
 probation_end: 2027-03-14
-updated: 2026-09-13
+updated: 2026-09-17
 tags: [experience, levels, regtech, ai]
 ---
 
@@ -217,6 +217,43 @@ In attesa di risposta (Diego in ferie).
 | **Recesso** | libero per entrambe le parti, senza preavviso, fino al termine |
 
 Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint informali con il manager) man mano che le retrospettive mensili si accumulano.
+
+---
+
+## 🌱 Riflessioni applicate
+
+> Spazio per raccogliere, nel tempo, le riflessioni su cosa provare concretamente in Levels a partire da cose imparate altrove — libri, pattern, esperienze precedenti (Muffin e prima) — incrociate con episodi specifici vissuti qui. Ogni voce è datata e collegata, dove possibile, ai journal e ai contenuti di studio che l'hanno generata. **Ordine cronologico decrescente: la voce più recente sta in cima.**
+
+### 17 settembre 2026 — Introdurre il cambiamento senza criticare chi ha costruito il "prima"
+
+**Origine**: sessione di studio del 17/09 su *Peopleware* (Cap. 34, "Making change possible"), incrociata con i primi quattro giorni in Levels ([[../journal/20260914-levels-day1|Day 1]] → [[../journal/20260917-levels-day4|Day 4]]) e con il timore, già annotato al [[../journal/20260916-levels-day3|Day 3]], di non riuscire a far percepire il valore della qualità a un team che arriva da Amazon senza che le mie proposte suonino come dogmi imposti dall'esterno.
+
+**Il problema di fondo**: nei prossimi mesi dovrò proporre cambiamenti reali — deploy sicuri, test, possibile consolidamento dei ~20 repository, revisione del rapporto qualità/velocità con Dario — su un sistema e un modo di lavorare che il team ha costruito con impegno e che ha comunque portato Levels a 60 clienti paganti in poco più di un anno. Il rischio non è tecnico, è relazionale: far percepire quei cambiamenti come un giudizio su chi c'era prima di me, invece che come un passo successivo naturale.
+
+**Il framework che voglio provare a usare**, tenuto insieme da quattro pezzi complementari:
+
+1. **[[../../study/wiki/content/person/william-bridges|William Bridges]]** (*Managing Transitions*, citato in *Peopleware* Cap. 34): mai criticare il vecchio modo di lavorare o le persone che lo hanno costruito — **celebrarlo** esplicitamente come ciò che ha reso possibile arrivare fin qui, prima di proporre il passo successivo. La sua distinzione fra *cambiamento* (l'evento esterno, che un'organizzazione può decretare) e *transizione* (il processo psicologico interno — Ending, Neutral Zone, New Beginning — che nessuno può decretare, solo attraversare) è la cornice da tenere a mente ogni volta che una proposta tecnica tocca qualcosa che qualcuno ha costruito con orgoglio.
+2. **[[../../study/wiki/content/person/virginia-satir|Virginia Satir]]** (Satir Change Model, stesso capitolo): vecchio status quo → **caos** → pratica e integrazione → nuovo status quo. Il caos — il momento in cui sembra che le cose vadano peggio di prima — è una tappa obbligata, non un segnale che il cambiamento sia sbagliato. Annunciarlo *prima* che arrivi disinnesca la tentazione, propria e altrui, di tornare indietro proprio quando si è più vicini al risultato.
+3. **Niccolò Machiavelli** (*Il Principe*, Cap. VI, citato nello stesso capitolo insieme a Steve McMenamin) e **Jerry Johnson** (continuum di resistenza al cambiamento): l'equazione del cambiamento è strutturalmente sbilanciata — nemici certi tra chi amava il vecchio modo, sostenitori solo tiepidi tra chi ne beneficerebbe. Le persone su cui contare davvero non sono i fedeli a lealtà cieca (saltano sul carro e scendono con la stessa velocità) ma i **"credenti con riserva"** — scettici che vogliono vedere, osservatori che chiedono "cosa ci guadagno io". Vale la pena mappare esplicitamente il team su questo continuum, non solo intuitivamente come già fatto al Day 3 (Alberto early adopter, Paolo superstar da maneggiare con cura, Tommaso Vilotto a rischio di restare in ombra, Dario in bilico dopo la prima frizione del Day 4).
+4. **Sicurezza psicologica sul fallimento** (*Peopleware*, stesso capitolo): un cambiamento riesce solo se il fallimento è esplicitamente permesso e detto ad alta voce, non solo tenuto come disciplina personale. Per i due esperimenti già proposti a Dario (problema-non-soluzione, meno stime), serve dire chiaramente: *se tra qualche settimana non ha funzionato, lo diciamo apertamente e torniamo indietro senza che sia una sconfitta di nessuno* — coerente con il loop build-measure-learn che mi sono già dato.
+
+**Cosa voglio provare concretamente, per interlocutore**:
+- **Con Dario** (qualità vs velocità, prima frizione esplicita al Day 4): non tornare con i riferimenti raccolti come "avevo ragione" — presentarli come materiale terzo da guardare insieme. Capovolgere l'argomento "ex-Amazon" invece di combatterlo: la Amazon che ha formato il team investiva così tanto in automazione, test e post-mortem perché rallentava, o perché a quella scala non potevano permettersi di non farlo?
+- **Con Paolo** (owner de facto di infrastruttura e pipeline documenti, introverso, "superstar tecnica"): non guidare con l'argomento morale sui test o sul deploy manuale — agganciare al dolore che ha già nominato lui stesso (i 20 minuti di deploy, il rischio websocket sull'LLM Proxy a metà rilascio).
+- **Con il team sui test**: partire dal bug hotspot già quantificato (~10 casi in 6 mesi sulla gestione documenti), non dall'argomento astratto "servono i test" — che a Muffin, da solo, non ha funzionato (vedi [[../patterns/index|pattern osservati]]).
+- **In generale, prima di ogni proposta strutturale** (consolidamento repository, architettura): nominare esplicitamente cosa quel modo di lavorare ha reso possibile — es. "quello che c'è oggi ha portato Levels a 60 clienti paganti in un anno" — prima di chiedere di cambiarlo.
+
+**Riferimenti esterni da tenere a portata di mano**:
+- Tom DeMarco, Timothy Lister — [[../../study/wiki/content/book/peopleware-productive-projects-and-teams|*Peopleware: Productive Projects and Teams*]], Cap. 34 "Making change possible" — la fonte diretta di questa riflessione.
+- William Bridges — *Managing Transitions: Making the Most of Change* (1991, terza ed. 2009).
+- Virginia Satir — *The New Peoplemaking* (1988); il Satir Change Model è descritto anche in molte sintesi standalone reperibili online.
+- Niccolò Machiavelli — *Il Principe*, Cap. VI (sui "principati nuovi").
+- Martin Fowler — ["Is High Quality Software Worth the Cost?"](https://martinfowler.com/articles/is-quality-worth-cost.html) — la *design stamina hypothesis*, riferimento diretto per la conversazione aperta con Dario su qualità/velocità.
+- Nicole Forsgren, Jez Humble, Gene Kim — *Accelerate* — dato empirico: i team "elite" hanno insieme deploy più frequenti e change failure rate più basso, smentendo il trade-off velocità/qualità.
+- **Da esplorare in futuro, non ancora letto**: Linda Rising, Mary Lynn Manns — *Fearless Change: Patterns for Introducing New Ideas* (2004) — un intero pattern language dedicato esattamente a questo problema (come introdurre un'idea nuova in un'organizzazione senza scontro frontale); potrebbe valere la pena aggiungerlo al piano di studio se questo tema resta centrale nei prossimi mesi.
+- **Da esplorare in futuro, non ancora letto**: John Kotter — *Leading Change* — modello a 8 step per il cambiamento organizzativo su larga scala, complementare al livello più individuale/psicologico di Bridges e Satir.
+
+**Da verificare nelle prossime settimane**: se questo modo di introdurre le proposte riduce davvero l'attrito rispetto a un confronto diretto vecchio/nuovo — primo banco di prova naturale sarà il follow-up con Dario sulla conversazione qualità/velocità del Day 4, e l'esito dei due esperimenti già proposti (problema-non-soluzione, meno stime).
 
 ---
 

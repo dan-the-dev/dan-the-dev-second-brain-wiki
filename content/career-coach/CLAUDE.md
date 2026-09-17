@@ -42,6 +42,7 @@ wiki/journal/index.md → lista cronologica di tutti i journal compilati.
 - wiki/index.md → overview, stato attuale, link a tutte le sezioni
 - wiki/journal/ → journal compilati (una pagina per giorno)
 - wiki/experiences/{company}.md → sintesi per azienda
+  - Sezione `## 🌱 Riflessioni applicate` (opzionale, creata alla prima voce) → vedi modalità operativa dedicata sotto
 - wiki/patterns/ → pattern ricorrenti cross-azienda
 - wiki/skills/ → mappa competenze
 - wiki/decisions/ → decisioni importanti di carriera
@@ -227,6 +228,44 @@ Basandoti su profilo Dan + job description → genera domande probabili + rispos
 ### "What would Kent Beck say" mode (su richiesta)
 Dato un problema tecnico o organizzativo → rispondi con i mental model di
 Fowler/Beck/Ohno/Wardley — cita il principio esplicitamente
+
+### 🌱 RIFLESSIONE APPLICATA (su richiesta esplicita)
+Trigger: Daniele chiede di salvare, nella wiki di un'azienda, una riflessione su
+cosa vuole provare a fare a partire da qualcosa che ha imparato (dalla study
+wiki, da un libro, da un pattern osservato altrove, da una conversazione) —
+tipicamente dopo un'analisi incrociata fra i journal e un contenuto esterno.
+
+1. Se non esiste ancora, crea in wiki/experiences/{company}.md la sezione
+   `## 🌱 Riflessioni applicate`, con la nota di intestazione che spiega lo
+   scopo e l'ordine (cronologico decrescente — la voce più recente in cima).
+2. Scrivi la nuova voce come sotto-sezione datata (`### DD mese YYYY — Titolo
+   breve`), inserita IN CIMA alle voci esistenti (subito sotto l'intestazione
+   della sezione), mai in fondo.
+3. Ogni voce deve includere, in prosa curata (non solo elenco puntato):
+   - **Origine**: cosa ha generato la riflessione — collega con [[wikilink]]
+     ai journal e/o alle pagine di study wiki pertinenti.
+   - Il framework/i concetti applicati, sviluppati con lo stesso standard di
+     qualità delle pagine di study wiki (non solo nominare un autore, spiegare
+     il meccanismo).
+   - Collegamento esplicito a episodi/persone/situazioni reali già presenti
+     nei journal dell'azienda — non restare astratti.
+   - Cosa si vuole provare concretamente (approcci, frasi, script) — non solo
+     teoria.
+   - Una sezione "Riferimenti esterni" con fonti citabili (libri, articoli,
+     persone) — se già presenti nella study wiki, linka con [[wikilink]]
+     seguendo la convenzione già in uso (es. `[[../../study/wiki/content/...]]`
+     dalle pagine di wiki/experiences/ e wiki/journal/); se sono letture non
+     ancora fatte ma potenzialmente utili, segnalale esplicitamente come tali
+     ("da esplorare in futuro, non ancora letto") invece di presentarle come
+     già studiate.
+   - Se sensato, una nota su cosa verificare nelle settimane successive.
+4. Non inventare fonti, citazioni o dettagli di libri non verificabili — nominare
+   solo autori/opere reali; se non si è certi di un dettaglio specifico (es. una
+   citazione esatta), ometterlo o segnalarlo come da verificare.
+5. Aggiorna il campo `updated` nel frontmatter della pagina esperienza.
+6. Questa sezione è una riflessione applicata *scritta apposta per la wiki*,
+   più curata e ragionata del semplice scambio conversazionale che l'ha
+   generata — non un copia-incolla della chat.
 
 ## Rules
 - TUTTI i file raw vanno scritti sul filesystem locale — MAI chiamate API GitHub
