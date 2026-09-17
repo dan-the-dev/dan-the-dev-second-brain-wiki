@@ -47,6 +47,7 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/player-profiles.md → caratteristiche/attributi giocatori
 - wiki/seasons/{stagione}/objectives.md → obiettivi stagione e status
 - wiki/seasons/{stagione}/lessons.md → retrospettiva stagione
+- wiki/seasons/{stagione}/momenti-chiave.md → riflessioni da coach raccolte nel tempo (episodi, segnali, retrospettive parziali), organizzate in voci datate, aggiunte a richiesta di Daniele — non attende la fine stagione come lessons.md
 - wiki/exercises/index.md → libreria esercizi compilata con score e frequenza
 - wiki/tactics/index.md → schemi tattici documentati
 

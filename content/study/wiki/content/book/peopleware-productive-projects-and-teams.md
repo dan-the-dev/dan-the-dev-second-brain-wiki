@@ -10,7 +10,7 @@ study:
   method: full_reading
   started_at: "2026-08-23"
 raw_source: raw/knowledge/book/peopleware-productive-projects-and-teams/content.md
-updated: 2026-09-15
+updated: 2026-09-17
 ---
 
 # Peopleware: Productive Projects and Teams
@@ -18,7 +18,7 @@ updated: 2026-09-15
 **Autori: [[../person/tom-demarco|Tom DeMarco]], [[../person/timothy-lister|Timothy Lister]]**
 
 > [!note] Lettura in corso — pagina aggiornata a ogni sessione
-> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Settima sessione: 2026-09-07. Ottava sessione: 2026-09-08. Nona sessione: 2026-09-09. Decima sessione: 2026-09-09. Undicesima sessione: 2026-09-12. Dodicesima sessione: 2026-09-14. Questa pagina copre finora la **Parte 1**, la **Parte 2**, la **Parte 3** e la **Parte 4** del libro per intero (Capitoli 1-28 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e tre degli otto capitoli della **Parte 5** (Capitoli 29-31 su 8 totali nella Parte 5) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Restano da leggere i Capitoli 32-36 per chiudere la Parte 5, oltre alla **Parte 6** (Capitoli 37-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
+> Prima sessione: 2026-08-23. Seconda sessione: 2026-08-24. Terza sessione: 2026-08-26. Quarta sessione: 2026-08-31. Quinta sessione: 2026-09-01. Sesta sessione: 2026-09-02. Settima sessione: 2026-09-07. Ottava sessione: 2026-09-08. Nona sessione: 2026-09-09. Decima sessione: 2026-09-09. Undicesima sessione: 2026-09-12. Dodicesima sessione: 2026-09-14. Tredicesima sessione: 2026-09-16. Questa pagina copre finora la **Parte 1**, la **Parte 2**, la **Parte 3** e la **Parte 4** del libro per intero (Capitoli 1-28 su 39, più l'Intermezzo fra i Capitoli 10 e 11) e quattro degli otto capitoli della **Parte 5** (Capitoli 29-32 su 8 totali nella Parte 5) — e viene tenuta aggiornata a ogni sessione di lettura, non solo al completamento del libro — scelta di metodo presa da Daniele il 2026-08-23 (vedi `raw/learning/decisions/2026-08-23.md`). Restano da leggere i Capitoli 33-36 per chiudere la Parte 5, oltre alla **Parte 6** (Capitoli 37-39). Le sezioni sottostanti crescono progressivamente insieme alla lettura.
 
 *Peopleware* nasce da un programma di ricerca degli autori basato su survey condotte su centinaia di progetti software e sulle persone che vi hanno partecipato, interpellate sulle cause che hanno portato quei progetti alla cancellazione, al rinvio o comunque a difficoltà rilevanti. Il libro rovescia l'assunto implicito di gran parte del management tecnico dell'epoca — che i problemi dello sviluppo software siano fondamentalmente problemi tecnici — sostenendo che la stragrande maggioranza dei problemi che un team incontra sono di natura **sociologica**, non tecnologica, e che gestire le persone come componenti modulari e intercambiabili di un sistema, per quanto sia la tentazione naturale di chi diventa manager partendo da un background tecnico, è un errore che va contro la natura stessa del lavoro intellettuale.
 
@@ -539,6 +539,32 @@ Il libro distingue con nettezza due tipi di meeting, che richiedono una gestione
 
 Il rischio principale, in entrambi i casi, è invitare troppe persone: spesso con la scusa di voler essere un'azienda "trasparente", finendo per trasformare un meeting pensato per pochi in un pubblico troppo ampio perché la decisione — o l'informazione — restino davvero efficaci.
 
+### Open space networking
+
+Chi partecipa a una conferenza, osserva il libro, trova quasi sempre più valore nel networking informale che nei talk in programma — al punto che alcuni hanno iniziato a organizzare eventi "solo networking", senza sessioni strutturate. Lo stesso principio si può applicare ai meeting aziendali: mettere insieme le persone giuste in un contesto simile al networking, e lasciare che le connessioni si creino in modo naturale, invece di forzare un'agenda rigida.
+
+Per curare un'organizzazione dipendente dai meeting, il libro propone tre mosse concrete:
+- migliorare la propria area di influenza, non pretendere di cambiare l'intera azienda;
+- provare a eliminare tutte le cerimonie, usando come test la domanda "cosa fa finire questo meeting?";
+- se una cerimonia aveva comunque un valore reale, sostituirla con un meeting in formato **open space** invece di limitarsi a eliminarla.
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Il "meeting in formato open space" citato dal libro è quasi certamente un riferimento all'**Open Space Technology (OST)**, il metodo di facilitazione per grandi gruppi ideato da Harrison Owen nei primi anni '80. La sua origine rispecchia quasi punto per punto l'osservazione di questo capitolo: dopo aver organizzato un primo simposio in formato tradizionale, Owen ricevette il feedback che le conversazioni più produttive non erano avvenute nelle sessioni programmate ma durante le pause caffè — da cui l'idea di ridisegnare l'intera conferenza come "una grande pausa caffè", con partecipanti liberi di proporre argomenti, formare gruppi spontanei e spostarsi liberamente fra le discussioni in corso. L'OST è oggi usato per gruppi da 5 a oltre 1000 persone.
+> Fonte: [Wikipedia — Open space technology](https://en.wikipedia.org/wiki/Open_space_technology) · [Open Space World — About Harrison Owen](https://openspaceworld.org/wp2/hho/about-harrison-owen/)
+
+## Capitolo 32 — The ultimate management sins is...
+
+Il peccato capitale del management, per DeMarco e Lister, è uno solo: **sprecare il tempo delle persone**. Il libro ne elenca alcuni esempi diretti e quotidiani: convocare un meeting e poi arrivare in ritardo; essere distratti durante il meeting stesso; convocare tutto il team per aggiornare il manager, invece di avere conversazioni individuali con chi serve davvero.
+
+L'esempio principe è lo **status meeting**: nella pratica, serve quasi sempre a confermare uno stato, non a comunicarlo — il reporting vero e proprio potrebbe avvenire in modi molto più semplici, e lo scopo reale è solo "confermarlo" al capo. Un working meeting autentico richiede interazione fra tutti i partecipanti; in uno status meeting, invece, ciascuno interagisce solo con il capo, mai con gli altri. Un working meeting reale è per sua natura ad hoc, convocato per un motivo specifico — il che lo rende difficile da programmare in anticipo: qualunque meeting ricorrente e già schedulato è quindi, per definizione, un candidato sospetto a essere una cerimonia da eliminare.
+
+> [!note] Nota del lettore (NDL) — sui refinement
+> Sui refinement, Daniele annota una riflessione applicata alla propria esperienza diretta: la propria abitudine è schedulare un refinement a settimana, ma farlo saltare quando non serve — con l'obiettivo di renderlo parte normale del ritmo di lavoro del team, organizzandone il tempo, senza però considerarlo una "cerimonia" nel senso che il libro dà al termine. Un team maturo potrebbe in teoria convocare i refinement "a chiamata", solo quando servono, ma non è sempre facile garantire un tempo di risposta abbastanza breve a quel tipo di convocazione estemporanea. Il punto centrale della riflessione è nella definizione stessa di cerimonia data dal libro — un meeting che finisce "per orario": un refinement, invece, finisce quando il team ha raccolto informazioni sufficienti per iniziare a sviluppare, non quando scade un tempo prefissato. È proprio questo criterio di chiusura — legato al risultato raggiunto e non all'orologio — a far propendere Daniele per non considerare il refinement una cerimonia, nonostante la sua cadenza fissa e ricorrente lo faccia somigliare superficialmente a una.
+
+Un altro peccato è lo **staffing anticipato** (*early overstaffing*): tipicamente introdotto quando un progetto ha una deadline arbitraria e il capo cerca di comprimerla aggiungendo persone in anticipo — un modo quasi sempre sprecato di investire lavoro. A volte i manager lo sanno bene anche loro, ma lo fanno comunque perché rende politicamente più semplice gestire un eventuale fallimento successivo. Un altro peccato ancora è la **frammentazione**: un lavoratore assegnato contemporaneamente a più cose diverse finisce per sprecare una grande quantità di tempo nel solo passaggio da un contesto all'altro.
+
+Quando il tempo delle persone viene sprecato in meeting non necessari o in uno staffing anticipato troppo presto nel progetto, le persone se ne accorgono quasi subito: ne restano frustrate, e sanno bene qual è il motivo. Se lo spreco è abbastanza grande, se ne percepisce direttamente il calo di motivazione — quindi, almeno, non si tratta di problemi invisibili. Il tempo frammentato è di per sé un time-killer, ma un altro effetto garantisce ulteriore spreco di tempo individuale, soprattutto quando i task mischiati fra loro richiedono tipi di lavoro molto diversi — per esempio un task di design insieme a task di semplice supporto. In generale, il capitale umano resta l'investimento più grande di un'azienda, la sua spesa più alta — e va quindi rispettato come tale, non eroso in piccoli sprechi quotidiani che sembrano innocui presi singolarmente (lo stesso principio, visto da un'altra angolazione, già incontrato nel Capitolo 20 a proposito della distinzione fra trattare le persone come una spesa o come un investimento in capitale umano).
+
 ## Concetti chiave emersi finora
 
 ### Checklist — Caratteristiche di uno spazio di lavoro ideale (sintesi Capitoli 7-13)
@@ -638,6 +664,11 @@ Il rischio principale, in entrambi i casi, è invitare troppe persone: spesso co
 - La tecnologia — laptop, smartphone, videocall — ha reso accettabili durante i meeting comportamenti che in passato avrebbero fatto licenziare le persone (Capitolo 31).
 - Un working meeting si conclude quando la decisione è presa, non quando scade l'orario; una cerimonia si conclude con l'orologio e serve a dare informazioni, non a decidere — e dovrebbe restare sporadica, non un appuntamento fisso (Capitolo 31).
 - Il rischio principale in qualunque meeting è invitare troppe persone, spesso in nome di una falsa "trasparenza" (Capitolo 31).
+- Come in una conferenza il networking informale spesso vale più dei talk programmati, così in azienda mettere le persone giuste in un contesto aperto può sostituire una cerimonia rigida con connessioni più naturali ed efficaci (Capitolo 31, Open space networking).
+- Per curare un'organizzazione dipendente dai meeting: agire prima sulla propria area di influenza, eliminare le cerimonie che non superano il test "cosa la fa finire?", e sostituire con un formato open space quelle che un valore reale ce l'hanno (Capitolo 31).
+- Il peccato capitale del management è sprecare il tempo delle persone: lo status meeting ne è l'esempio principe, perché serve a confermare uno stato al capo, non a comunicarlo, e coinvolge tutti solo per interagire con una persona sola (Capitolo 32).
+- Qualunque meeting ricorrente già schedulato è un candidato sospetto a essere una cerimonia da eliminare, perché un working meeting reale è per natura ad hoc e difficile da programmare in anticipo (Capitolo 32).
+- Staffing anticipato (early overstaffing) e frammentazione del lavoro individuale sono altri due peccati di spreco del tempo delle persone — il primo spesso adottato consapevolmente per motivi politici, il secondo per il costo nascosto del cambio di contesto (Capitolo 32).
 
 ## Note di lettura di Daniele
 
@@ -660,6 +691,8 @@ Dalla nona sessione emerge il primo vero disaccordo aperto della lettura, sul Ca
 Dalla decima sessione, che chiude la Parte 4, il Capitolo 28 funziona come una sintesi pratica di gran parte di quanto letto finora — è piacevole ritrovare, condensati in sei punti concreti, temi che erano stati incontrati sparsi nei capitoli precedenti (qualità, élite, eterogeneità, leadership situazionale). Il punto più immediatamente utile resta quello sull'eterogeneità: il collegamento con la ricerca più recente sulla diversity bonus è la conferma che serviva a un'intuizione che, nel 1987, poteva sembrare solo aneddotica. Anche il punto sulle "chiusure frequenti" è utile da portare avanti concretamente — spiega bene perché, soprattutto con un team nuovo, i piccoli traguardi visibili contino più della dimensione dell'obiettivo finale.
 
 Dall'undicesima sessione, che apre la Parte 5, il Capitolo 29 è probabilmente il più denso di spunti da molte sessioni a questa parte. La riflessione sul sistema "self-healing" e sul non-determinismo umano si collega direttamente e sorprendentemente all'attualità dell'intelligenza artificiale — un collegamento che il libro stesso, scritto decenni fa, sembra quasi anticipare come domanda aperta, e che oggi, nel 2026, trova già in parte una risposta pratica. Il blocco sulle Metodologie con la maiuscola resta di un'attualità quasi scomoda: descrive con precisione dinamiche viste più volte da vicino, in più di un contesto lavorativo. Il punto sulla responsabilità, in particolare, tocca un nervo scoperto legato ai mesi recenti di difficoltà in Muffin con Nicola di Qmates — il principio che autorità e responsabilità debbano sempre stare insieme è qualcosa su cui si è riflettuto spesso, indipendentemente dalla lettura, ed è confortante trovarlo formulato così chiaramente in un libro di quasi quarant'anni fa. Il Capitolo 30, sul rischio, è più lineare ma comunque utile: l'idea che il rischio sia un indicatore di valore, e non solo un pericolo, è un buon promemoria da tenere a mente nella valutazione di nuove iniziative.
+
+Dalla tredicesima sessione, aperta dal blocco sui meeting, la riflessione più concreta nasce leggendo il Capitolo 32 e la distinzione fra working meeting e cerimonia: applicata ai refinement, che nella propria pratica vengono schedulati settimanalmente ma saltati quando non servono, la conclusione — dopo essersela messa in discussione da soli — è che non si tratta di cerimonie, perché finiscono quando il team ha raccolto abbastanza informazioni per iniziare a sviluppare, non quando scade l'orario. È proprio questo criterio — la chiusura legata al risultato, non all'orologio — a fare la differenza, anche se la cadenza fissa e ricorrente di un refinement lo fa somigliare superficialmente a una cerimonia a prima vista. Resta comunque aperta la domanda su come gestire un working meeting quando la decisione non arriva in un tempo ragionevole — un problema che il libro non affronta direttamente e che sembra ortogonale rispetto alla distinzione fra i due formati.
 
 ## Prossimi passi
 
@@ -691,7 +724,7 @@ Dall'undicesima sessione, che apre la Parte 5, il Capitolo 29 è probabilmente i
 24. Includere sempre, in un piano di gestione del rischio, il **rischio che sia il proprio team a non raggiungere i propri obiettivi** — non solo i rischi legati a fornitori o fattori esterni (Capitolo 30).
 25. Preparare i piani di mitigazione del rischio **prima** che il rischio si presenti, non nel momento in cui si manifesta (Capitolo 30).
 
-Restano da leggere i Capitoli 32-36 per chiudere la Parte 5, oltre alla Parte 6 (Capitoli 37-39).
+Restano da leggere i Capitoli 33-36 per chiudere la Parte 5, oltre alla Parte 6 (Capitoli 37-39).
 
 ## Vedi anche
 

@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Calendari allenamenti 2026/27
@@ -39,7 +39,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260910\|📄 programma]] | 🟡 programmato |
 | 12/09 | Sab | 15:00 | ⚽ partita | ✈️ G1 vs FC Parabiago — [[matches#campionato-giornata-1-12092026-vs-football-club-parabiago-trasferta-2-3-v\|📄 dettagli]] — **2-3 (V)** | 🟢 completato |
 | 14/09 | Lun | 19:30–20:30 | 🏋️ allenamento | [[sessions/20260914\|📄 dettagli]] — sessione light di recupero | 🟢 completato |
-| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[opponents#leone-xiii-sport\|scouting]] · convocati e probabile formazione annunciati (Frassinelli, 2007 prima squadra, aggregato per l'assenza di Columpsi; out anche Favaron e Curtarelli) | programmato |
+| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[matches#coppa-lombardia-gara-2-15092026-vs-leone-xiii-sport-casa-1-5-s\|📄 dettagli]] — **1-5 (S)** | 🟢 completato |
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 19/09 | Sab | 18:00 | ⚽ partita | ✈️ G2 vs Centro Giov. Boffalorese | programmato |

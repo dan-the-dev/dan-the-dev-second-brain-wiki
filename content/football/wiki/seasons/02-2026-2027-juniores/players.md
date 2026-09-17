@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-01
+updated: 2026-09-17
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -65,6 +65,14 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 23 | [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta | ✓ confermato |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |
 | 25 | [[players/matteo-sudano\|Sudano Matteo]] | 2008 | Esterno / seconda punta | 🆕 nuovo · Molto forte, segnalato testa calda. Amichevole 31/08: tanta qualità e corsa, fatica mentalmente ma si impegna se stimolato — ha conquistato il rigore del 2-0 |
+
+---
+
+## Aggregati occasionali (non in rosa)
+
+| Giocatore | Anno | Note |
+|-----------|------|------|
+| [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato una tantum per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi. |
 
 ---
 

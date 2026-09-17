@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-13
+updated: 2026-09-17
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -25,7 +25,7 @@ updated: 2026-09-13
 |---|------|--------------|-----------------|------------|-----------|
 | Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | **0-3** (V) |
 | 1 | 12/09/2026 | Campionato Andata | ✈️ Trasferta | Football Club Parabiago | **2-3** (V) |
-| Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | — |
+| Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | **1-5** (S) |
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | — |
 | 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | — |
 | Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
@@ -153,3 +153,34 @@ updated: 2026-09-13
 **Nota di salute:** nessuna criticità fisica segnalata per questa gara.
 
 **Nota generale:** rimonta di carattere dopo un primo tempo molto sotto tono (poteva finire 3-0/4-0 per gli avversari) — ottima reazione nella ripresa con cambio di modulo (3-4-1-2) e ingresso decisivo di Livelli, autore del gol dell'1-1 e trascinatore del gruppo. Prima vittoria in campionato, in rimonta, in trasferta.
+
+---
+
+### Coppa Lombardia, Gara 2 — 15/09/2026 vs Leone XIII Sport (casa) — 1-5 (S)
+
+**Formazione titolare (4-3-2-1):** Palmisano — Livelli, Parolini, Capretti, Cuzmin — Lasagna, Grosso, Di Bello — Sudano, Mingrone G. — Frassinelli
+*(Frassinelli Lorenzo, attaccante 2007 della Prima Squadra, aggregato una tantum per l'assenza di Columpsi — vedi [[../02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]])*
+
+**Marcatori:** Frassinelli (82')
+**Assist:** nessuno registrato
+
+**Sostituzioni:** Grosso ⟶ Taronna (43'), Cuzmin ⟶ Boniardi E. (53'), Livelli ⟶ Lapiccirella (70'), Sudano ⟶ Iannace (75')
+
+**Tabellino gol subiti:** 27', 45' (ultima azione 1° tempo), 10' (2° tempo), 24' (2° tempo), 30' (2° tempo) — 1° tempo 0-2, 2° tempo 1-3 (parziale) → finale **1-5**
+
+**Note tattiche nostre:**
+- Dopo il lavoro specifico sul riscaldamento (fatto dopo Gara 1), partenza di gara buona: primi ~25' in controllo, senza creare occasioni clamorose ma con la partita in mano.
+- Primo gol subito su un errore nostro da calcio d'angolo (27'): da quel momento la squadra si è sciolta mentalmente, subendo il gioco avversario ("buttando la palla") fino al secondo gol, arrivato ancora da corner su un altro errore nostro all'ultimo secondo del primo tempo (45').
+- Secondo tempo: altra partenza forte, ma **4 palle gol clamorose sbagliate in 8 minuti** — punite dal 3-0 avversario in contropiede al 10' della ripresa. Da lì la partita è andata scemando, con altri due gol subiti (24', 30').
+- Gol della bandiera di Frassinelli all'82'.
+- Note individuali (Teo/Daniele): Livelli su livelli molto buono; Taronna male da subentrato; Parolini in difficoltà, in apprensione quando deve attaccare/accorciare — valutata l'ipotesi di lasciarlo fuori a favore di Capretti-Livelli centrali o di una difesa a 3 con Boniardi E.; Columpsi manca molto nonostante le 5 palle gol clamorose create; buone risposte confermate da Grosso; Di Bello meglio da esterno oggi ma in generale "fumoso" nelle ultime uscite; Cuzmin partito bene, in difficoltà psicologica dopo la marcatura persa sul primo gol.
+- Lettura di Daniele/Tommy: risultato pesante ma da contestualizzare — rosa profondamente rinnovata (molti volti nuovi, alcuni mai testati a livello regionale) e livello del girone alzato rispetto alla scorsa stagione. Prendere 5 gol abbatte morale e fiducia: alcuni giocatori (es. Parolini) sembrano risentire del passaggio a un contesto più competitivo, con meno certezze attorno rispetto all'anno scorso.
+- Punto fermo condiviso: va alzata la barra dell'attenzione, sia in assoluto sia nella capacità di restare dentro la partita nei momenti di difficoltà, senza sciogliersi dopo i gol subiti.
+
+**Note avversari:**
+- Squadra fisicamente forte, difesa bassa e gioco diretto (palla lunga); centrocampista centrale (il "4") di livello superiore alla categoria.
+- Nel complesso, poche idee di gioco nonostante la fisicità.
+
+**Scouting avversario:** vedi [[opponents#leone-xiii-sport|Leone XIII Sport]].
+
+**Nota generale:** sconfitta pesante (1-5) in casa, la peggiore delle prime tre uscite ufficiali. Vedi [[momenti-chiave|Momenti chiave]] per la retrospettiva completa sulle prime partite di stagione.

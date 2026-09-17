@@ -1,7 +1,7 @@
 ---
 title: "Favaron Diego"
 season: 02-2026-2027-juniores
-updated: 2026-09-14
+updated: 2026-09-17
 ---
 
 # Favaron Diego
@@ -34,6 +34,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |------|-----------|:----------------:|:---------:|:---------------:|:---:|:------:|:------------------:|:-----------------:|
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 67 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 53 | 0 | 0 | 0 | 0 |
+| 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 
 ---
 

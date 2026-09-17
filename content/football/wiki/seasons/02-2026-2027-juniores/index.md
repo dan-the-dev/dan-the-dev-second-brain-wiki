@@ -1,7 +1,7 @@
 ---
 title: Stagione 2026-27 — Juniores
 season: 02-2026-2027-juniores
-updated: 2026-08-25
+updated: 2026-09-17
 tags: [football, season, 2026-27]
 ---
 
@@ -23,6 +23,7 @@ Stagione in preparazione/avvio. La squadra è impegnata su due fronti:
 
 ## Partite
 [[seasons/02-2026-2027-juniores/matches|⚽ Calendario partite — Campionato e Coppa Lombardia]]
+[[seasons/02-2026-2027-juniores/momenti-chiave|🧠 Momenti chiave — riflessioni da coach]]
 
 ---
 *Pagina di sintesi minima — la compilazione completa della wiki (stats, formazioni, obiettivi, ecc.) avverrà su richiesta a fine stagione o quando i dati saranno disponibili.*
