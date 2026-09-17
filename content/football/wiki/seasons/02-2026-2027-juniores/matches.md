@@ -23,9 +23,9 @@ updated: 2026-09-17
 
 | G | Data | Competizione | Casa/Trasferta | Avversario | Risultato |
 |---|------|--------------|-----------------|------------|-----------|
-| Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | **0-3** (V) |
-| 1 | 12/09/2026 | Campionato Andata | ✈️ Trasferta | Football Club Parabiago | **2-3** (V) |
-| Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | **1-5** (S) |
+| Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | [[matches/20260905\|**0-3** (V)]] |
+| 1 | 12/09/2026 | Campionato Andata | ✈️ Trasferta | Football Club Parabiago | [[matches/20260912\|**2-3** (V)]] |
+| Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | [[matches/20260915\|**1-5** (S)]] |
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | — |
 | 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | — |
 | Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
@@ -91,96 +91,15 @@ updated: 2026-09-17
 
 ---
 
-## Dettagli partite completate
+## Partite con pagina dedicata
 
-### Coppa Lombardia, Gara 1 — 05/09/2026 vs Bresso Calcio (trasferta) — 0-3 (V)
+Ogni partita giocata (amichevoli incluse) ha una pagina dedicata con cronologia della gara minuto per minuto (formazione, gol, cambi) e recap semplificato delle note raw. Nuove righe si aggiungono man mano che si giocano altre gare.
 
-**Formazione titolare (4-3-2-1):** Palmisano — Boniardi E., Parolini, Capretti, Favaron D. — Lasagna, Taronna, Di Bello — Sudano, Mingrone G. — Columpsi
+| Data | Competizione | Avversario | Casa/Trasferta | Risultato | Pagina |
+|------|--------------|------------|:---------------:|:---------:|--------|
+| 31/08/2026 | 🤝 Amichevole | Leone XIII Sport | 🏠 Casa | 2-1 (V) | [[sessions/20260831\|Amichevole 31/08]] |
+| 05/09/2026 | Coppa Lombardia, Gara 1 | Bresso Calcio | ✈️ Trasferta | 0-3 (V) | [[matches/20260905\|Dettagli]] |
+| 12/09/2026 | Campionato, Giornata 1 | Football Club Parabiago | ✈️ Trasferta | 2-3 (V) | [[matches/20260912\|Dettagli]] |
+| 15/09/2026 | Coppa Lombardia, Gara 2 | Leone XIII Sport | 🏠 Casa | 1-5 (S) | [[matches/20260915\|Dettagli]] |
 
-**Marcatori:** Columpsi (15'), Mingrone G. (55'), Mingrone G. (81', rigore)
-**Assist:** Boniardi E. (15', assist per il gol di Columpsi)
-
-**Sostituzioni:** Di Bello ⟶ Curtarelli (50'), Favaron D. ⟶ Livelli (67'), Sudano ⟶ Grosso (74'), Columpsi ⟶ Iannace (81'), Parolini ⟶ Cuzmin (85')
-
-**Tabellino:** 1° tempo 1-0, 2° tempo 2-0
-
-**Note tattiche nostre:**
-- 4-3-2-1 impostato molto bene in generale; terzini ancora timidi, devono spingere di più.
-- Lasagna grande partita da regista — dopo 10' gli avversari sono passati a marcarlo a uomo, senza successo.
-- Taronna affaticato con palla al piede, ma bene nel gioco senza palla.
-- Inizio ripresa un po' calato mentalmente.
-
-**Scouting avversario:** vedi [[opponents#bresso-calcio|Bresso Calcio]].
-
-**Nota di salute:** molto caldo in campo — Sudano si è sentito male a fine partita (quasi svenuto), ripreso con acqua fredda, ghiaccio in testa e zucchero.
-
-**Nota generale:** buona partita, meno brillante dell'amichevole del 31/08 ma sempre in controllo — buon esordio ufficiale di stagione.
-
----
-
-### Campionato, Giornata 1 — 12/09/2026 vs Football Club Parabiago (trasferta) — 2-3 (V)
-
-**Formazione titolare iniziale (4-2-3-1):** Palmisano — Boniardi E., Parolini, Capretti, Favaron D. — Lasagna, Taronna — Di Bello, Mingrone G., Sudano — Columpsi
-*(passata dopo ~15' del primo tempo a un 3-4-1-2/3-5-2 con Boniardi E. e Di Bello quinti e un centrale in più)*
-
-**Marcatori:** Livelli (53'), Sudano (67'), Columpsi (82', su punizione)
-**Assist:** Columpsi (53', assist per il gol di Livelli), Mingrone G. (67', assist per il gol di Sudano)
-
-**Sostituzioni:** Favaron D. ⟶ Curtarelli (53'), Parolini ⟶ Livelli (54'), Di Bello ⟶ Grosso (65'), Sudano ⟶ Cuzmin (85'), Columpsi ⟶ Lapiccirella (90')
-
-**Tabellino:** 1° tempo Parabiago 1 - Ardor Bollate 0 · 2° tempo (parziale) Parabiago 1 - Ardor Bollate 3 · finale **2-3**
-
-**Note tattiche nostre:**
-- Inizio molto negativo: gol subito dopo 2 minuti su un'imbucata centrale non seguita da nessuno — da lavorare su scalate e comunicazione difensiva.
-- Dopo ~15' passaggio al 3-4-1-2/3-5-2 con Boniardi E. quinto a destra e Di Bello quinto a sinistra.
-- Primo tempo in generale sottotono: sarebbe potuto finire 3-0 o 4-0 per gli avversari (una traversa e altre occasioni sbagliate da loro).
-- Secondo tempo: reazione totale, atteggiamento completamente diverso.
-- Livelli, entrato a inizio ripresa, ha cambiato la partita da dietro con grande personalità, trascinando la squadra.
-- Capretti molto bene al centro della difesa nei duelli individuali.
-- Curtarelli entrato bene, adattato anche a sinistra.
-- Grosso spostato punta nel finale per provare a creare superiorità con la sua corsa, ma resta un enigma tattico — si isola dal gioco.
-- Lasagna e Taronna, come da copione, crescono di condizione quando gli altri calano nel finale.
-
-**Note avversari:**
-- Iniziano con un 4-3-3.
-- Terzino sinistro e esterno sinistro veloci e propositivi, punta fisicamente forte: nel primo tempo, complice la nostra fase di bambola, hanno spinto molto su quella fascia.
-- Pressing alto ma superato con relativa facilità una volta sistemata la squadra.
-- Calati vistosamente nella ripresa dopo il pareggio/sorpasso subito, senza idee per reagire alla difficoltà.
-- Portiere tecnicamente bravo ma basso di statura; uscite efficaci ma sempre "al pelo"; ha preso gol sul proprio palo sulla punizione di Columpsi.
-
-**Scouting avversario:** vedi [[opponents#football-club-parabiago|Football Club Parabiago]].
-
-**Nota di salute:** nessuna criticità fisica segnalata per questa gara.
-
-**Nota generale:** rimonta di carattere dopo un primo tempo molto sotto tono (poteva finire 3-0/4-0 per gli avversari) — ottima reazione nella ripresa con cambio di modulo (3-4-1-2) e ingresso decisivo di Livelli, autore del gol dell'1-1 e trascinatore del gruppo. Prima vittoria in campionato, in rimonta, in trasferta.
-
----
-
-### Coppa Lombardia, Gara 2 — 15/09/2026 vs Leone XIII Sport (casa) — 1-5 (S)
-
-**Formazione titolare (4-3-2-1):** Palmisano — Livelli, Parolini, Capretti, Cuzmin — Lasagna, Grosso, Di Bello — Sudano, Mingrone G. — Frassinelli
-*(Frassinelli Lorenzo, attaccante 2007 della Prima Squadra, aggregato una tantum per l'assenza di Columpsi — vedi [[../02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]])*
-
-**Marcatori:** Frassinelli (82')
-**Assist:** nessuno registrato
-
-**Sostituzioni:** Grosso ⟶ Taronna (43'), Cuzmin ⟶ Boniardi E. (53'), Livelli ⟶ Lapiccirella (70'), Sudano ⟶ Iannace (75')
-
-**Tabellino gol subiti:** 27', 45' (ultima azione 1° tempo), 10' (2° tempo), 24' (2° tempo), 30' (2° tempo) — 1° tempo 0-2, 2° tempo 1-3 (parziale) → finale **1-5**
-
-**Note tattiche nostre:**
-- Dopo il lavoro specifico sul riscaldamento (fatto dopo Gara 1), partenza di gara buona: primi ~25' in controllo, senza creare occasioni clamorose ma con la partita in mano.
-- Primo gol subito su un errore nostro da calcio d'angolo (27'): da quel momento la squadra si è sciolta mentalmente, subendo il gioco avversario ("buttando la palla") fino al secondo gol, arrivato ancora da corner su un altro errore nostro all'ultimo secondo del primo tempo (45').
-- Secondo tempo: altra partenza forte, ma **4 palle gol clamorose sbagliate in 8 minuti** — punite dal 3-0 avversario in contropiede al 10' della ripresa. Da lì la partita è andata scemando, con altri due gol subiti (24', 30').
-- Gol della bandiera di Frassinelli all'82'.
-- Note individuali (Teo/Daniele): Livelli su livelli molto buono; Taronna male da subentrato; Parolini in difficoltà, in apprensione quando deve attaccare/accorciare — valutata l'ipotesi di lasciarlo fuori a favore di Capretti-Livelli centrali o di una difesa a 3 con Boniardi E.; Columpsi manca molto nonostante le 5 palle gol clamorose create; buone risposte confermate da Grosso; Di Bello meglio da esterno oggi ma in generale "fumoso" nelle ultime uscite; Cuzmin partito bene, in difficoltà psicologica dopo la marcatura persa sul primo gol.
-- Lettura di Daniele/Tommy: risultato pesante ma da contestualizzare — rosa profondamente rinnovata (molti volti nuovi, alcuni mai testati a livello regionale) e livello del girone alzato rispetto alla scorsa stagione. Prendere 5 gol abbatte morale e fiducia: alcuni giocatori (es. Parolini) sembrano risentire del passaggio a un contesto più competitivo, con meno certezze attorno rispetto all'anno scorso.
-- Punto fermo condiviso: va alzata la barra dell'attenzione, sia in assoluto sia nella capacità di restare dentro la partita nei momenti di difficoltà, senza sciogliersi dopo i gol subiti.
-
-**Note avversari:**
-- Squadra fisicamente forte, difesa bassa e gioco diretto (palla lunga); centrocampista centrale (il "4") di livello superiore alla categoria.
-- Nel complesso, poche idee di gioco nonostante la fisicità.
-
-**Scouting avversario:** vedi [[opponents#leone-xiii-sport|Leone XIII Sport]].
-
-**Nota generale:** sconfitta pesante (1-5) in casa, la peggiore delle prime tre uscite ufficiali. Vedi [[momenti-chiave|Momenti chiave]] per la retrospettiva completa sulle prime partite di stagione.
+Retrospettiva/segnali sulle prime giornate: [[momenti-chiave|Momenti chiave]].

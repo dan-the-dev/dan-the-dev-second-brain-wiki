@@ -20,7 +20,7 @@ Bilancio complessivo: 1V 0P 1S — Gol fatti 3, gol subiti 6. In Coppa Lombardia
 | Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
 |---|---|---|---|---|---|---|
 | Amichevole | Pre-campionato | 31/08/2026 | 🏠 Casa | 2-1 | V | [[sessions/20260831\|Dettagli amichevole]] |
-| Coppa Lombardia | Gara 2 | 15/09/2026 | 🏠 Casa | 1-5 | S | [[matches#coppa-lombardia-gara-2-15092026-vs-leone-xiii-sport-casa-1-5-s\|Dettagli partita]] |
+| Coppa Lombardia | Gara 2 | 15/09/2026 | 🏠 Casa | 1-5 | S | [[matches/20260915\|Dettagli partita]] |
 
 ### Scouting (aggiornato dopo Gara 2 del 15/09)
 
@@ -39,7 +39,7 @@ Bilancio: 1V 0P 0S (Campionato) — Gol fatti 3, gol subiti 2. Ritorno in progra
 
 | Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
 |---|---|---|---|---|---|---|
-| Campionato | Giornata 1 | 12/09/2026 | ✈️ Trasferta | 2-3 | V | [[matches#campionato-giornata-1-12092026-vs-football-club-parabiago-trasferta-2-3-v\|Dettagli partita]] |
+| Campionato | Giornata 1 | 12/09/2026 | ✈️ Trasferta | 2-3 | V | [[matches/20260912\|Dettagli partita]] |
 
 ### Scouting (aggiornato dopo Giornata 1 del 12/09)
 
@@ -58,7 +58,7 @@ Bilancio: 1V 0P 0S (Coppa Lombardia) — Gol fatti 3, gol subiti 0. Nessun altro
 
 | Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
 |---|---|---|---|---|---|---|
-| Coppa Lombardia | Gara 1 | 05/09/2026 | ✈️ Trasferta | 0-3 | V | [[matches#coppa-lombardia-gara-1-05092026-vs-bresso-calcio-trasferta-0-3-v\|Dettagli partita]] |
+| Coppa Lombardia | Gara 1 | 05/09/2026 | ✈️ Trasferta | 0-3 | V | [[matches/20260905\|Dettagli partita]] |
 
 ### Scouting (aggiornato dopo Gara 1 del 05/09)
 

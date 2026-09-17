@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-14
+updated: 2026-09-17
 tags: [football, exercises, index]
 ---
 
@@ -27,6 +27,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-tecnico-propedeutico-forza\|Riscaldamento tecnico propedeutico alla forza]] | tutta la squadra, a gruppi | Circuito a 4 stazioni: balzi (laterali, polpacci, ginocchia al petto, scorrimento) abbinati a gesto tecnico (palleggio, uno-due, slalom), ponte verso il circuito di forza esplosiva |
 | [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
 | [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
+| [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
 
 ## Riscaldamento atletico
 
@@ -51,6 +52,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-guardiola-7v4-piu-3\|Rondo alla Guardiola — 4v4 (+3) pre-partita, superiorità 7v4]] | 11 (4+4+3) | Attivazione pre-partita: possesso sul perimetro con 3 jolly neutrali, superiorità 7v4, scambio di ruolo al recupero |
 | [[rondo-de-zerbi-6v2-piu-1\|Rondo alla De Zerbi — 6v2 +1 jolly centrale mobile]] | 9 (6+1+2) | Costruzione posizionale: appoggi ad angolo e circolazione centrale compatta contro 2 difensori che pressano in coppia |
 | [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
+| [[possesso-4v4-piu-3-barcellona\|Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)]] | 11 (4+4+3) | Possesso 7v4 (4 attaccanti + 3 jolly contro 4 difendenti) in area 30x20m; ultimo minuto di ogni serie da 10' con obiettivo "passaggio veloce" (120 passaggi in 3'). Storicamente usato dal Barcellona di Guardiola (2007-08) |
 
 ## Preparazione atletica
 
@@ -61,6 +63,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[piramide-ripetute\|Lavoro atletico — piramide di ripetute]] | tutta la squadra | Ripetute a volume progressivo/regressivo: 2x300, 2x400, 2x600, 2x400, 2x300 (4000m totali) |
 | [[forza-esplosiva-circuito\|Forza esplosiva — circuito]] | tutta la squadra | Circuito di forza esplosiva arti inferiori; ⚠️ composizione esatta usata da confermare, 3 circuiti proposti da ricerca online |
 | [[rapidita-scaletta\|Rapidità con scaletta]] | tutta la squadra | Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazione |
+| [[sprint-piramidale-10-20-30\|Sprint piramidale 10-20-30 metri]] | tutta la squadra | 4 ripetizioni sui 10m, 4 sui 20m, 4 sui 30m, tutte a intensità massimale |
 
 ## Monitoraggio carico atletico
 

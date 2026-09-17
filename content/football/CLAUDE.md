@@ -34,7 +34,8 @@ Un file per schema: {slug-schema}.md
 - wiki/seasons/{stagione}/players.md → rosa con stats aggregate
 - wiki/seasons/{stagione}/players/{nome-cognome}.md → pagina dedicata per ogni giocatore in rosa, con 3 tabelle: presenze agli allenamenti (data, allenamento/amichevole, presente sì/no), presenze in partita (data, avversario, casa/fuori casa, convocato, minuti, gol, assist, gialli, rossi — solo gare ufficiali), infortuni (data inizio, data fine/"in corso", descrizione, ultimo aggiornamento)
 - wiki/seasons/{stagione}/sessions.md → storico allenamenti
-- wiki/seasons/{stagione}/matches.md → storico partite
+- wiki/seasons/{stagione}/matches.md → indice storico partite (calendario, competizioni, tabella con link alle pagine dedicate)
+- wiki/seasons/{stagione}/matches/{YYYYMMDD}.md → pagina dedicata a ogni singola gara (amichevoli incluse): convocati, cronologia minuto per minuto (formazione, gol, cambi), recap semplificato delle note raw
 - wiki/seasons/{stagione}/opponents.md → scouting squadre avversarie: bilancio scontri (amichevoli e gare ufficiali) e note tattiche raccolte dal mister, una sezione per squadra
 - wiki/seasons/{stagione}/stats.md → classifiche e statistiche
 - wiki/seasons/{stagione}/exercises-report.md → analisi esercizi usati
@@ -158,9 +159,12 @@ Trigger: Daniele invia dump vocale o testo di una partita
 
 1. Crea raw/seasons/{stagione}/matches/{YYYYMMDD}-vs-{avversario}.md
    con frontmatter completo estratto dal dump; se il file esiste già, usa le informazioni fornite per aggiornare il contenuto
-2. Aggiorna wiki/seasons/{stagione}/matches.md
-3. Aggiorna wiki/seasons/{stagione}/stats.md (gol, assist, minuti)
-4. Rispondi con conferma: risultato, marcatori, note chiave
+2. Crea/aggiorna wiki/seasons/{stagione}/matches/{YYYYMMDD}.md — pagina dedicata alla singola gara (stesso principio delle sessioni allenamento): convocati/non convocati, cronologia della partita in ordine cronologico (formazione, gol, cambi, eventi rilevanti minuto per minuto), e un recap semplificato e leggibile delle note raw (non una copia letterale del dump vocale/testuale)
+3. Aggiorna wiki/seasons/{stagione}/matches.md aggiungendo/aggiornando la riga della gara nella tabella indice "Partite con pagina dedicata"
+4. Aggiorna wiki/seasons/{stagione}/stats.md (gol, assist, minuti)
+5. Rispondi con conferma: risultato, marcatori, note chiave
+
+Questo vale anche per le amichevoli, trattate come le altre gare ufficiali ai fini della pagina dedicata (raw dump comunque nella cartella sessions/ se dumpate come sessione).
 
 ### 👥 AGGIORNA ROSA
 Trigger: Daniele fornisce lista giocatori o aggiunge/rimuove un giocatore

@@ -32,16 +32,16 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 02/09 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260902\|📄 programma]] — svolto come allenamento regolare, non come amichevole | 🟢 completato |
 | 03/09 | Gio | — | 🏋️ allenamento | ⚠️ Rinviato, spostato al 04/09 | rinviato |
 | 04/09 | Ven | 19:00–20:00 | 🏋️ allenamento | Teo da solo (Daniele assente) — [[sessions/20260904\|📄 programma]] ⚠️ dump reale da recuperare | 🟡 svolto, dump in sospeso |
-| 05/09 | Sab | 15:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio — [[matches#coppa-lombardia-gara-1-05092026-vs-bresso-calcio-trasferta-0-3-v\|📄 dettagli]] — **0-3 (V)** | 🟢 completato |
+| 05/09 | Sab | 15:00 | ⚽ partita | ✈️ Coppa Lombardia — Gara 1 vs Bresso Calcio — [[matches/20260905\|📄 dettagli]] — **0-3 (V)** | 🟢 completato |
 | 07/09 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260907\|📄 programma]] | 🟢 completato |
 | 08/09 | Mar | 20:30 | 🤝 amichevole | — | programmato |
 | 09/09 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260909\|📄 programma]] | 🟢 completato |
 | 10/09 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260910\|📄 programma]] | 🟡 programmato |
-| 12/09 | Sab | 15:00 | ⚽ partita | ✈️ G1 vs FC Parabiago — [[matches#campionato-giornata-1-12092026-vs-football-club-parabiago-trasferta-2-3-v\|📄 dettagli]] — **2-3 (V)** | 🟢 completato |
+| 12/09 | Sab | 15:00 | ⚽ partita | ✈️ G1 vs FC Parabiago — [[matches/20260912\|📄 dettagli]] — **2-3 (V)** | 🟢 completato |
 | 14/09 | Lun | 19:30–20:30 | 🏋️ allenamento | [[sessions/20260914\|📄 dettagli]] — sessione light di recupero | 🟢 completato |
-| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[matches#coppa-lombardia-gara-2-15092026-vs-leone-xiii-sport-casa-1-5-s\|📄 dettagli]] — **1-5 (S)** | 🟢 completato |
+| 15/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 2 vs Leone XIII Sport — [[matches/20260915\|📄 dettagli]] — **1-5 (S)** | 🟢 completato |
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260917\|📄 dettagli]] — core stability, mobilità, attivazione tecnica Ajax, possesso 4v4+3 Barcellona, sprint 4x10/20/30, partitella | programmato |
 | 19/09 | Sab | 18:00 | ⚽ partita | ✈️ G2 vs Centro Giov. Boffalorese | programmato |
 | 21/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 23/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |

@@ -15,7 +15,7 @@ Pagina di riflessioni da coach, aggiunta a richiesta di Daniele. A differenza di
 
 ## 2026-09-17 — Retrospettiva prime 3 uscite ufficiali: 2V (in rimonta) e 1S pesante
 
-Dopo Coppa Lombardia Gara 2 (15/09, **1-5 vs Leone XIII Sport in casa**, vedi [[matches#coppa-lombardia-gara-2-15092026-vs-leone-xiii-sport-casa-1-5-s|dettagli]]) chiudiamo le prime tre gare ufficiali della stagione con un bilancio di 2 vittorie e una sconfitta, ma un trend nei numeri che merita attenzione prima che diventi un problema strutturale.
+Dopo Coppa Lombardia Gara 2 (15/09, **1-5 vs Leone XIII Sport in casa**, vedi [[matches/20260915|dettagli]]) chiudiamo le prime tre gare ufficiali della stagione con un bilancio di 2 vittorie e una sconfitta, ma un trend nei numeri che merita attenzione prima che diventi un problema strutturale.
 
 ### I numeri in fila
 
