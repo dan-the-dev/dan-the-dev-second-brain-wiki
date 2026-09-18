@@ -1,7 +1,7 @@
 ---
 title: "Learning Plan"
 type: plan
-updated: 2026-08-23
+updated: 2026-09-18
 ---
 
 # Learning Plan
@@ -12,10 +12,24 @@ Vista leggibile del piano di studio di Daniele, compilata a partire da `raw/lear
 
 Il piano è organizzato per **Topic**, ciascuno con un contenuto principe (tendenzialmente un solo libro) da studiare. I contenuti non prioritari sono tenuti separati in un **Backlog**, raggruppato anch'esso per argomento.
 
-- **6 Topic attivi** nel piano, ciascuno con **1 Learning Item** — tutti di tipo `book`, tutti in stato `planned` (nessuno ancora iniziato).
+- **6 Topic attivi** nel piano: **1 completato** (People & Software Management, con *Peopleware* concluso il 2026-09-18) e **5 ancora da iniziare**, ciascuno con **1 Learning Item** di tipo `book` in stato `planned`.
 - **8 aree di Backlog**, per un totale di **12 Learning Item** in coda, non ancora promossi a Topic del piano — mix di `book` e `book_summary`.
 - **Nessuno Study Period definito**: né a livello di piano generale né per singolo Topic. Daniele non ha ancora indicato un periodo concreto (es. "per i prossimi tre mesi voglio concentrarmi su...") su nessuno di questi argomenti.
 - **Nessun campo priorità** presente nel piano attuale: l'ordinamento tra i Topic e tra gli item di backlog non riflette una priorità esplicita, solo l'ordine in cui compaiono in `current.yml`.
+
+## Cosa leggere dopo Peopleware
+
+Con *Peopleware* completato, il Topic "People & Software Management" non ha più un Learning Item attivo in coda: nessun nuovo libro è stato indicato per questo Topic, quindi resta senza contenuto principe finché Daniele non ne aggiunge uno esplicitamente. Le opzioni concrete per il prossimo libro, tutte già presenti nel piano, sono:
+
+| Opzione | Topic | Tipo | Titolo | Autori | Note |
+|---|---|---|---|---|---|
+| 1 | Infrastructure as Code | book | Infrastructure as Code | Kief Morris | Legato al contesto AWS di Levels |
+| 2 | AI Engineering | book | AI Engineering | Chip Huyen | Archivio già ricco su AI in generale, vedi [[../topics/ai-development\|AI Development]] e [[../topics/ai\|AI]] |
+| 3 | Product Development & Product Leadership | book | Empowered | Marty Cagan | Vedi anche il topic già compilato [[../topics/product-development\|Product Development]] |
+| 4 | Business & Finance | book | Finance for Managers | Harvard Business Essentials | Unico Topic del piano su basi finanziarie |
+| 5 | UX Research & Product Discovery | book | Just Enough Research | Erika Hall | Unico Topic del piano su ricerca utente |
+
+Oltre a queste 5, il **Backlog** (dettagliato più sotto) contiene altri 12 Learning Item non ancora promossi a Topic, alcuni collegati a contenuti già studiati in archivio (es. *The DevOps Handbook* già letto per intero, *Team Topologies* già coperto via articolo, *The Phoenix Project* già letto con *The Unicorn Project* come suo seguito in backlog): sono un'opzione legittima se un tema di backlog interessa più di uno dei 5 Topic sopra. Nessuna di queste opzioni ha una priorità esplicita assegnata: la scelta resta a Daniele — basta indicarla in una richiesta naturale (es. "il prossimo libro è Empowered") perché lo stato dell'item passi da `planned` a `in_progress` e riparta il ciclo di compilazione sessione per sessione.
 
 ## Topic del piano
 
@@ -25,12 +39,14 @@ Il piano è organizzato per **Topic**, ciascuno con un contenuto principe (tende
 
 | Tipo | Titolo | Autori | Stato |
 |---|---|---|---|
-| book | Peopleware | Tom DeMarco, Tim Lister | in_progress |
+| book | Peopleware | Tom DeMarco, Tim Lister | done |
 
 **Study Period:** nessuno definito.
 
-> [!note] Aggiornamento 2026-08-23 — disallineamento risolto
-> Il disallineamento segnalato qui il 2026-08-20 era un errore di importazione, non una rilettura intenzionale: la pagina compilata `done` era stata generata dagli appunti raw minimi importati da Recall (solo un riferimento alla pagina Wikipedia del libro), senza che il libro fosse mai stato effettivamente letto. Daniele ha iniziato la lettura reale il 2026-08-23 (prima sessione di studio): lo stato del piano è stato corretto da `planned` a `in_progress`, e la pagina compilata [[../content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] è stata riscritta a partire dagli appunti reali, con `status: in_progress` — viene ora aggiornata a ogni sessione di lettura. Vedi `raw/learning/decisions/2026-08-23.md`.
+> [!note] Aggiornamento 2026-09-18 — libro completato
+> *Peopleware* è stato letto per intero in 15 sessioni, dal 2026-08-23 al 2026-09-18: la pagina compilata [[../content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]] copre ora tutte e sei le Parti del libro (Capitoli 1-39), con `status: done`. Nessun nuovo Learning Item è stato ancora indicato per questo Topic: resta senza contenuto principe attivo finché Daniele non ne sceglie uno — vedi [[#Cosa leggere dopo Peopleware|Cosa leggere dopo Peopleware]] più sopra.
+>
+> Nota storica: il disallineamento segnalato il 2026-08-20 era un errore di importazione, non una rilettura intenzionale — la pagina compilata `done` di allora era stata generata dagli appunti raw minimi importati da Recall (solo un riferimento alla pagina Wikipedia del libro), senza che il libro fosse mai stato effettivamente letto. Daniele ha iniziato la lettura reale il 2026-08-23, correggendo lo stato del piano da `planned` a `in_progress`. Vedi `raw/learning/decisions/2026-08-23.md`.
 
 ### Infrastructure as Code
 

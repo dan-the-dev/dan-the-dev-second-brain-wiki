@@ -1,7 +1,7 @@
 ---
 title: Study LLM Wiki
 type: index
-updated: 2026-08-27
+updated: 2026-09-18
 ---
 
 # Study LLM Wiki
@@ -10,7 +10,7 @@ Panoramica del Learning Plan di Daniele: cosa vuole imparare, attraverso quali c
 
 ## Stato attuale
 
-Il piano è ora popolato: **6 Topic attivi** in `raw/learning/current.yml`, ciascuno con un Learning Item principe, più **8 aree di backlog** con contenuti non prioritari non ancora promossi a Topic — vedi la vista compilata [[plan/learning-plan|Learning Plan]]. Nessuno Study Period è stato ancora definito. Vedi la Decision History per il contesto di creazione del progetto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
+Il piano è ora popolato: **6 Topic attivi** in `raw/learning/current.yml`, di cui **1 completato** (People & Software Management, con *Peopleware* concluso il 2026-09-18 — il primo libro portato a termine dentro questa nuova struttura del piano) e **5 ancora da iniziare**, più **8 aree di backlog** con contenuti non prioritari non ancora promossi a Topic — vedi la vista compilata [[plan/learning-plan|Learning Plan]], che elenca anche le opzioni concrete per il prossimo libro. Nessuno Study Period è stato ancora definito. Vedi la Decision History per il contesto di creazione del progetto: [[../raw/learning/decisions/2026-08-19|Decision — creazione Study LLM Wiki]].
 
 È stato inoltre importato e **compilato integralmente** lo storico della knowledge base precedente (Notion, poi Recall): **186 contenuti catturati** in `raw/knowledge/`, di cui **75 con un concetto di studio** (book, article, video, conference, podcast, course) sono ora disponibili come pagine wiki leggibili in `wiki/content/`, organizzate anche per argomento in **34 pagine Topic** (`wiki/topics/`). Questi contenuti restano in gran parte un archivio di conoscenza pregresso, distinto dal piano: alcuni titoli del piano/backlog risultano già presenti in archivio (vedi le note in [[plan/learning-plan|Learning Plan]]), ma il collegamento formale Topic-del-piano ↔ contenuto-già-studiato non è ancora sistematico.
 
