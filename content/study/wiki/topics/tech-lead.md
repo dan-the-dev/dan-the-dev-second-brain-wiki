@@ -2,7 +2,7 @@
 title: "Tech Lead"
 type: topic
 id: tech-lead
-updated: 2026-08-22
+updated: 2026-09-18
 ---
 
 # Tech Lead
