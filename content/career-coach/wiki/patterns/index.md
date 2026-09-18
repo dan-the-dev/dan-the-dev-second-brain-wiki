@@ -1,6 +1,6 @@
 ---
 title: Patterns — Index
-updated: 2026-08-07
+updated: 2026-09-18
 tags: [patterns, index]
 ---
 
@@ -122,6 +122,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 
 **Cosa non ha funzionato**: il mentoring involontario non è riconosciuto come tale — né da Dan né dall'organizzazione — per molto tempo. Il costo si accumula silenziosamente, emerge come frustrazione e conflitto comunicativo, e rischia di danneggiare relazioni che potrebbero essere professionalmente sane.
 
+**Levels — segnale da confermare (18/09/2026, Day 5)**: prima possibile eco in una nuova azienda. In una conversazione di chat su una scelta UX (tab vs alternativa), Dan ha l'impressione che il designer con cui lavora il team faccia "design puro" senza porsi grandi problemi di UX vera e propria — o almeno Dario non è riuscito a trasmettergli il contrario. Ancora troppo presto per trattarlo come conferma (un solo scambio, di seconda mano tramite Dario): a differenza del caso Jacopo, qui Dan non ha ancora osservato il designer direttamente. Da tenere d'occhio nelle prossime interazioni prima di dargli peso.
+
 **Aggiornamento settimana 22-26 giugno 2026**: il pattern con Jacopo raggiunge un punto di esplicitazione. Durante la settimana (day 236-237), sia Dan che Luca convergono sull'osservazione che Jacopo porta ogni scelta di design come "gusto" o "arte personale" — senza framework, pattern o ragionamento UX verificabile. Non c'è modo di spostare la conversazione. Dan identifica la conversazione necessaria con Jacopo: non "devi fare meglio" ma "devi cambiare come parli del tuo lavoro — il ragionamento c'è probabilmente, ma non viene mai comunicato." Questo è un caso di mentoring su meta-skill comunicative, non tecniche. Il costo emotivo è descritto come "sofferenza" — ma il risultato della settimana (design approvato da Luca) mostra che il mentoring, anche silenzioso e doloroso, funziona.
 
 **Insight**: quando si è Tech Lead in una startup early-stage, il "mentoring involontario dei pari" è quasi inevitabile — ma va riconosciuto esplicitamente e strutturato, non lasciato andare in modo informale. Le opzioni sono tre: (1) accettarlo consapevolmente come parte temporanea del ruolo, con limiti chiari; (2) delegarlo a un terzo (coach, consulente esterno come Nicola); (3) portarlo come conversazione esplicita con il senior management (Claudio), chiedendo un riconoscimento formale o un intervento sul gap di competenza del pari. La settimana del 22-26 giugno aggiunge una quarta dimensione: il mentoring su *come si comunica il lavoro* è diverso dal mentoring sul *lavoro stesso* — e potrebbe richiedere strumenti diversi (es. mostrare esempi di presentazione UX ben argomentata, non solo correggere il metodo).
@@ -216,6 +218,24 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: il metodo richiede che Dan sia disposto a sollevare temi scomodi in un contesto dove è lui il candidato valutato — un certo rischio di essere percepito come "difficile" invece che rigoroso; finora non risulta abbia avuto conseguenze negative visibili, ma è un costo potenziale da monitorare.
 
 **Insight**: questo pattern è la naturale estensione, in chiave di ricerca lavoro, dell'advocacy XP/TDD che Dan porta avanti internamente a Muffin da anni (→ Pattern 2, Pattern 7) — la differenza è che in fase di colloquio Dan ha una leva che da dipendente non ha mai avuto pienamente: la possibilità di declinare l'opportunità se i valori non sono allineati, prima di investire mesi o anni nel tentativo di cambiarli dall'interno. Per il futuro: strutturare un piccolo set fisso di 3-4 domande "test valoriale" da riproporre in ogni processo avanzato (TDD, formazione/budget, metriche di produttività, definizione di impatto) rende la valutazione più comparabile tra le diverse opportunità in corso.
+
+---
+
+## 10. Delegare all'AI la generazione dei test senza mai leggerli
+
+**Aziende**: [[levels|Levels]] (emergente)
+
+**Frequenza**: confermata indipendentemente da due dev su quattro nella prima settimana (14-18 settembre 2026).
+
+**Descrizione**: al [[../journal/20260916-levels-day3|Day 3]], [[../people/alberto|Alberto]] mostra a Dan un processo di sviluppo AI-assisted strutturato (piano → sottotask → review → merge) ma ammette esplicitamente di non leggere i test generati dall'AI — "richiedono troppo tempo". Al [[../journal/20260918-levels-day5|Day 5]], [[../people/tommaso-vilotto|Tommaso Vilotto]] (junior, 3 mesi di esperienza) mostra una variante più marcata dello stesso comportamento: non legge criticamente né il codice prodotto dall'AI né i test, che vengono scritti solo perché fanno parte delle skill "standard" ormai in uso nel team. In entrambi i casi i test esistono formalmente (il team può dire "abbiamo test") ma non svolgono la loro funzione di rete di sicurezza, perché nessuno li valida.
+
+**Come si manifesta**: skill/tool AI condivisi (es. "superpowers") che generano test come sottoprodotto automatico dello sviluppo; il dev legge l'output funzionale (documentazione, comportamento) ma salta la lettura critica dei test; nessun processo di code review cattura questo gap, perché la review si concentra sul codice applicativo, non sulla qualità dei test.
+
+**Cosa ha funzionato**: nulla ancora dal lato di mitigazione — è un problema osservato, non ancora affrontato. Il fatto che si manifesti identico su profili molto diversi (Alberto, esperto e strutturato; Vilotto, junior e meno critico) rafforza la lettura come problema di sistema/cultura del team, non di singola persona.
+
+**Cosa non ha funzionato**: con un profilo esperto come Alberto il costo è "solo" una minore affidabilità dei test; con un profilo junior come Vilotto il costo è doppio — oltre al rischio sui test, c'è il rischio che l'assenza di lettura critica rallenti la sua stessa crescita tecnica, perché l'AI gli sta facendo anche il lavoro di comprensione che dovrebbe essere suo.
+
+**Insight**: coerente con l'idea già annotata da Dan al Day 3 di un **LLM-as-judge** come feedback automatico — ma un giudice che nessuno legge rischia di essere lo stesso problema spostato di un livello. Prima di introdurre lo strumento, distinguere gli interventi per profilo: con un dev esperto come Alberto probabilmente basta rendere visibile il costo (es. bug che un test avrebbe catturato); con un junior come Vilotto serve più probabilmente mentoring/pairing diretto sulla lettura critica del codice, non solo un tool aggiuntivo — coerente con l'approccio di crescita tecnica che Dan applica come manager (vedi [[../people/CLAUDE|wiki/people/CLAUDE.md]]).
 
 ---
 

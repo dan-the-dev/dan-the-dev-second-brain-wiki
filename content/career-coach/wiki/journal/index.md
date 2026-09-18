@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20260918-levels-day5]] — 2026-09-18 · **Levels Day 5** · Fine Settimana 1. Refinement con Tommaso Lucarelli e Dario sul conteggio compliance subappaltatori (per sezioni, non documenti); prima osservazione diretta di Tommaso Vilotto (non legge codice né test generati dall'AI — seconda conferma dopo Alberto); SPI non testabile in locale, nuovo caso dello stesso problema di deploy/test; Peopleware finito; discussione UX in chat (possibile eco Pattern Jacopo/Muffin); retrospettiva Settimana 1 in [[../experiences/levels|wiki/experiences/levels]]
 - [[20260917-levels-day4]] — 2026-09-17 · **Levels Day 4** · Chiusura loop onboarding (TFR/fondo pensione, policy, benefit, 1:1 founder tranne Emanuele); dati prodotto aggiornati (MAU/DAU, bug ultimi 6 mesi); primo disaccordo esplicito con Dario su qualità vs velocità, con riferimenti raccolti (Fowler, Beck, DORA, Amazon, Basecamp) per la prossima conversazione; prime ipotesi su come introdurre test in un sistema che non ne ha; tema aperto licenze AI individuali vs condivise
 - [[20260916-levels-day3]] — 2026-09-16 · **Levels Day 3** · Buy vs build con Dario; sessione con Alberto su sviluppo AI-assisted (legge il codice ma non i test); doppia overview di Paolo su infrastruttura manuale/CloudFormation e pipeline documenti (Gemini Pro, anti-pattern ownership transaction confermato anche da Alberto); deploy lenti e test assenti indicati dal team come priorità; confronto business con Tommaso Lucarelli su supply chain edilizia e rischi (Sikuro, uffici acquisti, market fit wallet); prima mappatura delle dinamiche di persone (Alberto/Paolo/Tommaso Vilotto/Tommaso Lucarelli) e timore sulla cultura "dogmatica" ex-Amazon del team tech
 - [[20260915-levels-day2]] — 2026-09-15 · **Levels Day 2** · Accesso AWS ottenuto, Satispay bloccato (ticket assistenza), walkthrough con Filippo (front-end, costi ~3-4k€/mese, PostHog: DAU/WAU/MAU e stickiness 30-38%), 1:1 con Paolo su AWS/CloudWatch (nessun log centralizzato, nessun monitoring infrastruttura), discussione su tool di eval LLM e OpenRouter/OmniRouter

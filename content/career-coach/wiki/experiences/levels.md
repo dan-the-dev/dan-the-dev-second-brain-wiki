@@ -5,7 +5,7 @@ started: 2026-09-14
 status: active
 current: true
 probation_end: 2027-03-14
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [experience, levels, regtech, ai]
 ---
 
@@ -220,6 +220,28 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ---
 
+## 📊 Settimana 1 (14-18 settembre 2026) — retrospettiva
+
+**Periodo**: [[../journal/20260914-levels-day1|Day 1]] → [[../journal/20260918-levels-day5|Day 5]], la prima settimana intera in Levels (i giorni 0/0b/0c erano pre-onboarding).
+
+**Summary**: settimana deliberatamente di puro "go and see" (Ohno) — nessun task tecnico consegnato da Dan, nessuna proposta strutturale ancora avanzata. L'energia è andata quasi interamente nella raccolta di contesto su tre livelli in parallelo: tecnico (architettura, infrastruttura, pipeline documenti, stack, processo di sviluppo), business/prodotto (metriche, competitor, roadmap, rischi) e umano (mappatura delle dinamiche di team, prime frizioni con Dario, prima osservazione diretta di Vilotto). In parallelo, chiusura quasi completa dei loop amministrativi di onboarding (TFR, benefit, 1:1 founder).
+
+**Cosa è emerso di tecnico**: due problemi confermati **dal team stesso**, non solo da Dan, come priorità — deploy manuale/lento (~20 minuti, fuori orario, rischio websocket sull'LLM Proxy) e assenza di test automatici, aggravata scoprendo che più componenti (pipeline documenti Day 3, SPI Day 5) non sono nemmeno testabili in locale. Confermato indipendentemente da tre fonti diverse (Alberto e Paolo Day 3, Vilotto Day 5) lo stesso anti-pattern di cultura del test: si scrivono perché l'AI li genera, non perché qualcuno li legge (→ [[../patterns/index#10-delegare-allai-la-generazione-dei-test-senza-mai-leggerli|Pattern 10]]). Complessità architetturale (~20 repository per 4 dev) riconosciuta come "ingiustificata" da tutto il team, incluso Dario. Dan ha già abbozzato al Day 4 una sequenza di intervento incrementale (osservabilità → feature flag → characterization test sul bug hotspot documenti → seam nella pipeline → consolidamento repo → rewrite mirati via strangler fig), non ancora proposta al team.
+
+**Cosa è emerso di prodotto/business**: 60 clienti paganti, MAU stabilizzato attorno a 70-80, DAU/MAU 30-45% (buona stickiness). Competitor principale Sikuro; obiettivo dichiarato di Dario/Tommaso è diventare il tool di riferimento per la supply chain edilizia, papabile per un'acquisizione futura. Prima frizione esplicita con Dario sul rapporto qualità/velocità (Day 4) — gestita con cura reciproca, non ancora risolta nel merito. Primo contributo diretto di Dan al prodotto: la decisione sul conteggio compliance per sezioni (Day 5).
+
+**Cosa è emerso sulle persone**: prima mappatura delle dinamiche individuali — [[../people/alberto|Alberto]] come possibile early adopter/alleato di cambiamento, [[../people/paolo|Paolo]] come superstar tecnica introversa da proteggere più che "aprire", [[../people/tommaso-vilotto|Tommaso Vilotto]] a rischio di restare in ombra (confermato Day 5 con la prima osservazione diretta), [[../people/tommaso-lucarelli|Tommaso Lucarelli]] come founder più orientato al pragmatismo commerciale. Timore ricorrente, non ancora smentito né confermato: che la cultura ex-Amazon del team tratti pratiche imparate altrove come dogmi invece che come risposte contestuali.
+
+**Checklist Settimana 1** (aperta al [[../journal/20260914-levels-day1|Day 1]]): contesto tecnico e organizzativo coperti in profondità; relazioni parziali (1:1 fatti con tutti i founder tranne Emanuele, nessuno ancora con Vilotto, confronto 30-60-90 volutamente rimandato insieme al perimetro di ruolo); primi contributi tecnici ancora a zero, per scelta — il computer aziendale arriva solo a fine settimana.
+
+**Cosa ha funzionato**: la disciplina di osservazione prima dell'intervento (Ohno/genchi genbutsu), applicata con costanza per cinque giorni consecutivi senza cedere alla tentazione di proporre soluzioni premature; la scelta di tenere separati i due binari dev (osservazione) e operations/tooling (impatto rapido) dal Day 2; il portare le proprie proposte come esperimenti con data di verifica, non come cambi permanenti (Day 1, poi rafforzato dalla lettura di Peopleware/Bridges/Satir al Day 4).
+
+**Cosa non ha funzionato / da monitorare**: la lettura degli scarsi test/deploy resta ancora teorica — nessuna proposta concreta è stata portata al team, solo raccolta segnali; il tema UX (designer "senza framework") è la prima possibile eco di un pattern già costoso a Muffin (Jacopo, → [[../patterns/index#5-il-mentoring-involontario-di-un-pari|Pattern 5]]) e va nominato presto se si confermerà, non lasciato accumulare in silenzio; il perimetro di ruolo con Tommaso e Dario resta non affrontato, per scelta deliberata — la data di verifica (2-3 settimane da metà settembre) va tenuta a mente attivamente, non solo annotata.
+
+**Focus per la Settimana 2**: computer aziendale disponibile lunedì 21/09 → prima analisi di codice concreta con Claude Code, sui pain point già ipotizzati (test, deploy, pipeline documenti). Prima occasione per passare dall'osservazione a un contributo tecnico tangibile, restando fedele al metodo già impostato (partire dal dolore già misurato dal team, batch piccoli, un cambiamento alla volta).
+
+---
+
 ## 🌱 Riflessioni applicate
 
 > Spazio per raccogliere, nel tempo, le riflessioni su cosa provare concretamente in Levels a partire da cose imparate altrove — libri, pattern, esperienze precedenti (Muffin e prima) — incrociate con episodi specifici vissuti qui. Ogni voce è datata e collegata, dove possibile, ai journal e ai contenuti di studio che l'hanno generata. **Ordine cronologico decrescente: la voce più recente sta in cima.**
@@ -259,6 +281,10 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ## Journal
 
+- [[20260918-levels-day5|18 set 2026 — Day 5: chiusura Settimana 1 — refinement compliance, prima osservazione di Tommaso Vilotto, SPI non testabile in locale]]
+- [[20260917-levels-day4|17 set 2026 — Day 4: chiusura loop onboarding, dati prodotto, prima frizione con Dario su qualità/velocità]]
+- [[20260916-levels-day3|16 set 2026 — Day 3: buy vs build, overview infra/pipeline con Paolo, mappatura persone]]
+- [[20260915-levels-day2|15 set 2026 — Day 2: accessi AWS, walkthrough Filippo, 1:1 Paolo]]
 - [[20260914-levels-day1|14 set 2026 — Day 1: primo giorno, prodotto/business/architettura con Dario e Alberto]]
 - [[20260913-levels-day0c|13 set 2026 — Day 0c: vigilia del day 1, checklist pronte]]
 - [[20260820-levels-day0b|20 ago 2026 — Day 0b: ESOP, fondo pensione, doppia CU]]
