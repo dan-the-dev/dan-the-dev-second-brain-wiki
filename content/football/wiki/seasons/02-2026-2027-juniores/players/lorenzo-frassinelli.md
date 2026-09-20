@@ -1,7 +1,7 @@
 ---
 title: "Frassinelli Lorenzo"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Frassinelli Lorenzo
@@ -27,3 +27,9 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
+
+---
+
+## 📝 Note personali
+
+**15/09/2026** — Aggregato una tantum dalla Prima Squadra per l'assenza di Columpsi (fastidio alla caviglia); segna il gol della bandiera all'82' alla sua unica presenza in stagione con la Juniores. (fonte: [[../matches/20260915|partita]])

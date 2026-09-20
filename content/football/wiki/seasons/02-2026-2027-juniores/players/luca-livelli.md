@@ -1,7 +1,7 @@
 ---
 title: "Livelli Luca"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Livelli Luca
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 23 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 36 | 1 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 70 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -44,3 +45,12 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Titolare per l'intera gara, nessuna nota negativa. (fonte: [[../matches/20260919|partita]])
+**15/09/2026** — Confermato su ottimi livelli. (fonte: [[../matches/20260915|partita]])
+**12/09/2026** — Entra a inizio ripresa e cambia la partita con personalità da giocatore mentalmente superiore alla categoria. (fonte: [[../matches/20260912|partita]])
+**31/08/2026** — Bene in fase difensiva, ancora timido in impostazione, deve sciogliersi. (fonte: [[../sessions/20260831|partita]])
+**26/08/2026** — Un po' timido con la palla tra i piedi ma già impressiona come difensore. (fonte: [[../sessions/20260826|allenamento]])

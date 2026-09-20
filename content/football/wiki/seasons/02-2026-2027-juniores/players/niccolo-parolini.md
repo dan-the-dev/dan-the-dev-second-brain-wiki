@@ -1,7 +1,7 @@
 ---
 title: "Parolini Niccolò"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Parolini Niccolò
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 85 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 54 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -44,3 +45,10 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Non convocato per la prima volta in stagione: si fa strada l'idea di Capretti-Livelli centrali o di una difesa a 3 con Boniardi E. (fonte: [[../matches/20260919|partita]], [[../momenti-chiave|momenti chiave]])
+**15/09/2026** — Prestazione negativa ("Paro male"); emerge più una difficoltà psicologica che tecnica nell'adattarsi al salto di livello e alla concorrenza di Capretti/Livelli — rischio di sentirsi messo da parte. (fonte: [[../matches/20260915|partita]], [[../momenti-chiave|momenti chiave]])
+**12/09/2026** — In apprensione quando deve attaccare/accorciare in avanti; tolto dal campo a inizio ripresa (dentro Livelli) dopo un primo tempo difficile. (fonte: [[../matches/20260912|partita]])

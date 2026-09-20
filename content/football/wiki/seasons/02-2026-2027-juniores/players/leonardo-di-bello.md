@@ -1,7 +1,7 @@
 ---
 title: "Di Bello Leonardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Di Bello Leonardo
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 50 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 65 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 12 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -44,3 +45,11 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Entra al 78' e si fa notare positivamente. (fonte: [[../matches/20260919|partita]])
+**15/09/2026** — Meglio da esterno, ma "fumoso" nelle ultime uscite. (fonte: [[../matches/20260915|partita]])
+**31/08/2026** — Tra i nuovi arrivi più positivi (con Capretti) secondo Teo, anche se a volte rischia troppo la giocata. (fonte: [[../sessions/20260831|partita]])
+**27/08/2026** — Buone qualità tecniche. (fonte: [[../sessions/20260827|allenamento]])

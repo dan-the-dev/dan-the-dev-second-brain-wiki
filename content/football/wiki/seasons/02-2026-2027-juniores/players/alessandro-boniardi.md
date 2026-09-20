@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Boniardi Alessandro
@@ -24,7 +24,7 @@ updated: 2026-09-17
 | 09/09/2026 | allenamento | ❌ no |
 | 14/09/2026 | allenamento | ❌ no |
 
-⚠️ Infortunato dal 29/08/2026 (vedi tabella infortuni sotto): sarà segnato assente da tutti gli allenamenti e partite fino al termine dell'infortunio.
+⚠️ Infortunato dal 29/08/2026 al 14/09/2026 (vedi tabella infortuni sotto): segnato assente da tutti gli allenamenti e partite in questa finestra. Rientrato in gruppo il 14/09 (lavoro atletico individuale il 15/09, non convocabile), prima convocazione ufficiale il 19/09/2026.
 
 ---
 
@@ -36,6 +36,8 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |------|-----------|:----------------:|:---------:|:---------------:|:---:|:------:|:------------------:|:-----------------:|
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ❌ no | — | — | — | — | — |
+| 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 12 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -43,6 +45,13 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| 29/08/2026 | In corso | Distorsione alla caviglia di 2° grado | In settimana si attende la diagnosi definitiva dopo gli esami strumentali. Se qualcosa risultasse rotto rischia circa 3 mesi di stop, altrimenti 1 - 1 mese e mezzo. Aggiornamento 14/09: rientrato in gruppo, sembra ok, ma non ancora convocabile — farà lavoro atletico individuale (fartlek) il 15/09 invece di essere in panchina. |
-| 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
+| 29/08/2026 | 14/09/2026 | Distorsione alla caviglia di 2° grado | ✅ Risolto. Diagnosi non risultata grave (niente di rotto). Rientrato in gruppo il 14/09 (lunedì), lavoro atletico individuale il 15/09 invece della panchina, prima convocazione il 19/09 (subentrato al 78', ha preso parte diretta all'azione del gol vittoria al 90'). |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Prima convocazione e primi minuti stagionali: subentra al 78'. "Non ha tanto fiato ma ha dato tutto" — partecipa in prima persona all'azione del gol vittoria al 90' (il suo tiro viene parato con la punta dal portiere, sulla respinta segna Columpsi). (fonte: [[../matches/20260919|partita]])
+**15/09/2026** — Lavoro atletico individuale (fartlek) invece di stare in panchina; Daniele lo indica come "unica alternativa credibile davanti per qualità tecniche" una volta rientrato, pur con cautela sulla continuità di Columpsi tra acciacchi e Muay Thai. (fonte: [[../matches/20260915|partita]])
+**14/09/2026** — Rientra in gruppo, sembra ok ma non ancora convocabile. (fonte: [[../sessions/20260914|allenamento]])
+**09/09/2026** — Nessuna notizia sui tempi di recupero, ancora fermo. (fonte: [[../sessions/20260909|allenamento]])

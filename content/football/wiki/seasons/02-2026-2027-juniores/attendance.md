@@ -1,7 +1,7 @@
 ---
 title: Presenze — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # ✅ Presenze — Juniores Regionali 2026/27
@@ -10,36 +10,36 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 
 ⚠️ **Le presenze del 02/09/2026 sono ancora provvisorie**: impostate identiche a quelle del 01/09, in attesa di conferma da Daniele. Le presenze del 07/09/2026 sono invece state **confermate da Daniele il 09/09/2026** (coincidono con l'impostazione provvisoria copiata dal 27/08, con l'eccezione di Boniardi Alessandro spostato tra gli assenti per infortunio). I contatori sotto includono entrambe le date; quelli del 02/09 verranno ricalcolati se necessario alla conferma.
 
-Partite ufficiali disputate finora: 3 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3 V; Campionato Giornata 1, 12/09/2026 vs Football Club Parabiago, 2-3 V; Coppa Lombardia Gara 2, 15/09/2026 vs Leone XIII Sport, 1-5 S). Nota: in Gara 2 è stato aggregato anche Frassinelli Lorenzo (2007, Prima Squadra, non in rosa Juniores) — non conteggiato in questa tabella, vedi la sua [[players/lorenzo-frassinelli|pagina dedicata]].
+Partite ufficiali disputate finora: 4 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3 V; Campionato Giornata 1, 12/09/2026 vs Football Club Parabiago, 2-3 V; Coppa Lombardia Gara 2, 15/09/2026 vs Leone XIII Sport, 1-5 S; Campionato Giornata 2, 19/09/2026 vs Centro Giov. Boffalorese, 3-4 V). Nota: sono stati aggregati una tantum dalla Prima Squadra anche Frassinelli Lorenzo (Gara 2, 15/09) e Banfi Paolo (Giornata 2, 19/09) — entrambi 2007, non in rosa Juniores, non conteggiati in questa tabella, vedi le loro pagine dedicate ([[players/lorenzo-frassinelli|Frassinelli]], [[players/paolo-banfi|Banfi]]).
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
 | Amdy | — | 0 | 8 | 0% | 0 | 0% | 0 | 0% |
-| Boniardi | Alessandro | 3 | 5 | 38% | 0 | 0% | 0 | 0% |
-| Boniardi | Edoardo | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Brana | Lorenzo | 8 | 0 | 100% | 2 | 67% | 0 | 0% |
-| Capretti | Guglielmo | 7 | 1 | 88% | 3 | 100% | 3 | 100% |
-| Columpsi | Gabriele | 4 | 4 | 50% | 2 | 67% | 2 | 67% |
-| Curtarelli | Davide | 7 | 1 | 88% | 2 | 67% | 2 | 67% |
-| Cuzmin | Alessandro | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Di Bello | Leonardo | 6 | 2 | 75% | 3 | 100% | 3 | 100% |
-| Favaron | Diego | 6 | 2 | 75% | 2 | 67% | 2 | 67% |
-| Grassi | Eric | 8 | 0 | 100% | 3 | 100% | 0 | 0% |
-| Grosso | Davide | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Iannace | Federico | 5 | 3 | 63% | 3 | 100% | 2 | 67% |
-| Lapiccirella | Alessandro | 2 | 6 | 25% | 2 | 67% | 1 | 33% |
-| Lasagna | Riccardo | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Lentini | Francesco | 7 | 1 | 88% | 3 | 100% | 0 | 0% |
-| Livelli | Luca | 7 | 1 | 88% | 3 | 100% | 3 | 100% |
+| Boniardi | Alessandro | 3 | 5 | 38% | 1 | 25% | 1 | 25% |
+| Boniardi | Edoardo | 8 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Brana | Lorenzo | 8 | 0 | 100% | 2 | 50% | 0 | 0% |
+| Capretti | Guglielmo | 7 | 1 | 88% | 4 | 100% | 4 | 100% |
+| Columpsi | Gabriele | 4 | 4 | 50% | 3 | 75% | 3 | 75% |
+| Curtarelli | Davide | 7 | 1 | 88% | 2 | 50% | 2 | 50% |
+| Cuzmin | Alessandro | 8 | 0 | 100% | 4 | 100% | 3 | 75% |
+| Di Bello | Leonardo | 6 | 2 | 75% | 4 | 100% | 4 | 100% |
+| Favaron | Diego | 6 | 2 | 75% | 3 | 75% | 3 | 75% |
+| Grassi | Eric | 8 | 0 | 100% | 4 | 100% | 0 | 0% |
+| Grosso | Davide | 8 | 0 | 100% | 3 | 75% | 3 | 75% |
+| Iannace | Federico | 5 | 3 | 63% | 4 | 100% | 2 | 50% |
+| Lapiccirella | Alessandro | 2 | 6 | 25% | 3 | 75% | 2 | 50% |
+| Lasagna | Riccardo | 8 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Lentini | Francesco | 7 | 1 | 88% | 4 | 100% | 0 | 0% |
+| Livelli | Luca | 7 | 1 | 88% | 4 | 100% | 4 | 100% |
 | Lo Valvo | Luca | 4 | 4 | 50% | 0 | 0% | 0 | 0% |
-| Mingrone | Gabriele | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Palmisano | Marco | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Parolini | Niccolò | 7 | 1 | 88% | 3 | 100% | 3 | 100% |
+| Mingrone | Gabriele | 8 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Palmisano | Marco | 8 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Parolini | Niccolò | 7 | 1 | 88% | 3 | 75% | 3 | 75% |
 | Pedullà | Samuele | 1 | 7 | 13% | 0 | 0% | 0 | 0% |
-| Riccio | Alessandro | 7 | 1 | 88% | 1 | 33% | 0 | 0% |
-| Simonato | Mattia Lorenzo | 5 | 3 | 63% | 2 | 67% | 0 | 0% |
-| Sudano | Matteo | 8 | 0 | 100% | 3 | 100% | 3 | 100% |
-| Taronna | Francesco | 7 | 1 | 88% | 3 | 100% | 3 | 100% |
+| Riccio | Alessandro | 7 | 1 | 88% | 2 | 50% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 5 | 3 | 63% | 3 | 75% | 0 | 0% |
+| Sudano | Matteo | 8 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Taronna | Francesco | 7 | 1 | 88% | 4 | 100% | 4 | 100% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".

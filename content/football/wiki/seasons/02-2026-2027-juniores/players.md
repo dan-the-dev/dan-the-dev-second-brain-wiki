@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -27,7 +27,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 3 | [[players/niccolo-parolini\|Parolini Niccolò]] | 2007 | Difensore centrale | ✓ confermato · FQ · Bravo coi piedi, a volte cincischia troppo. Amichevole 31/08: buon giro palla, bene quando non esagera col pallone |
+| 3 | [[players/niccolo-parolini\|Parolini Niccolò]] | 2007 | Difensore centrale | ✓ confermato · FQ · Bravo coi piedi, a volte cincischia troppo. In difficoltà psicologica con l'arrivo di Capretti/Livelli (vedi [[momenti-chiave|momenti chiave]]) — non convocato per Campionato G2 (19/09) |
 | 4 | [[players/diego-favaron\|Favaron D. Diego]] | 2007 | Terzino/quinto sx-dx | ✓ confermato · FQ · Ansioso ma buona gamba e tecnica di base. Amichevole 31/08: molto bene, anche se a volte rischia troppo la giocata e va sempre avanti |
 | 5 | [[players/edoardo-boniardi\|Boniardi E. Edoardo]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Forte in marcatura, veloce, aggressivo. Bene fisicamente anche nell'amichevole del 31/08 |
 | 6 | [[players/alessandro-cuzmin\|Cuzmin Alessandro]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Buona alternativa, adattato anche esterno. Amichevole 31/08: molto aggressivo, a volte troppo |
@@ -70,9 +70,12 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 ## Aggregati occasionali (non in rosa)
 
+Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando serve (max 3 fuori quota per gara, vedi "Regole schieramento").
+
 | Giocatore | Anno | Note |
 |-----------|------|------|
 | [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato una tantum per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi. |
+| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09) — titolare nel 4-2-3-1, sostituito al 78'. |
 
 ---
 
@@ -90,8 +93,8 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 - Amdy (2006) — portiere fuori rosa (non convocabile)
 - Livelli Luca (2008) — difensore centrale, **da Baranzatese (Elite)**. Confermato in rosa dal 30/08, dopo un periodo di prova (26, 27 e 29/08) valutato anche da Teo.
 
-### ❌ Usciti (17)
-Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · Pagliato Gabriele · Belotti Luca · Annoni Mattia · Cascio Mattia · Favaron Mattia · Ghioni Mattia · Montagner Mattia · Portararo Mattia · Banfi Paolo · Boniardi Riccardo · Conti Riccardo · Picca Riccardo · Minora Tommaso
+### ❌ Usciti dalla rosa Juniores (17)
+Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · Pagliato Gabriele · Belotti Luca · Annoni Mattia · Cascio Mattia · Favaron Mattia · Ghioni Mattia · Montagner Mattia · Portararo Mattia · Banfi Paolo (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Boniardi Riccardo · Conti Riccardo · Picca Riccardo · Minora Tommaso
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Simonato Mattia Lorenzo"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Simonato Mattia Lorenzo
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -44,3 +45,8 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**09/09/2026** — Due bei gol in allenamento/partitella. (fonte: [[../sessions/20260909|allenamento]])

@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -26,7 +26,7 @@ updated: 2026-09-17
 | Gara 1 | 05/09/2026 | Coppa Lombardia | ✈️ Trasferta | Bresso Calcio | [[matches/20260905\|**0-3** (V)]] |
 | 1 | 12/09/2026 | Campionato Andata | ✈️ Trasferta | Football Club Parabiago | [[matches/20260912\|**2-3** (V)]] |
 | Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | [[matches/20260915\|**1-5** (S)]] |
-| 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | — |
+| 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | [[matches/20260919\|**3-4** (V)]] |
 | 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | — |
 | Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
 | 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | — |
@@ -101,5 +101,6 @@ Ogni partita giocata (amichevoli incluse) ha una pagina dedicata con cronologia 
 | 05/09/2026 | Coppa Lombardia, Gara 1 | Bresso Calcio | ✈️ Trasferta | 0-3 (V) | [[matches/20260905\|Dettagli]] |
 | 12/09/2026 | Campionato, Giornata 1 | Football Club Parabiago | ✈️ Trasferta | 2-3 (V) | [[matches/20260912\|Dettagli]] |
 | 15/09/2026 | Coppa Lombardia, Gara 2 | Leone XIII Sport | 🏠 Casa | 1-5 (S) | [[matches/20260915\|Dettagli]] |
+| 19/09/2026 | Campionato, Giornata 2 | Centro Giov. Boffalorese | ✈️ Trasferta | 3-4 (V) | [[matches/20260919\|Dettagli]] |
 
 Retrospettiva/segnali sulle prime giornate: [[momenti-chiave|Momenti chiave]].

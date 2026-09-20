@@ -1,7 +1,7 @@
 ---
 title: "Capretti Guglielmo"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Capretti Guglielmo
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -44,3 +45,10 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Conquista il rigore del 2-2 involandosi in area e venendo steso. (fonte: [[../matches/20260919|partita]])
+**12/09/2026** — Molto solido al centro della difesa nei duelli individuali. (fonte: [[../matches/20260912|partita]])
+**31/08/2026** — Tra i nuovi arrivi più positivi (con Di Bello) secondo Teo: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti. (fonte: [[../sessions/20260831|partita]])

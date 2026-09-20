@@ -1,7 +1,7 @@
 ---
 title: "Grosso Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Grosso Davide
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 16 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 25 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 43 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -44,3 +45,11 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Non convocato. (fonte: [[../matches/20260919|partita]])
+**15/09/2026** — Finalmente buone risposte, miglioramento netto rispetto alle uscite precedenti. (fonte: [[../matches/20260915|partita]])
+**12/09/2026** — Resta un enigma tattico: corre e si impegna ma si isola dal gioco quando spostato punta. (fonte: [[../matches/20260912|partita]])
+**31/08/2026** — Molto disordinato nel finale sperimentale, giudizio negativo confermato anche da Teo. (fonte: [[../sessions/20260831|partita]])

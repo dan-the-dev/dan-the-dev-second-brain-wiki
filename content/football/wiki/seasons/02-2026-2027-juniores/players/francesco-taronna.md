@@ -1,7 +1,7 @@
 ---
 title: "Taronna Francesco"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Taronna Francesco
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 47 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 58 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -44,3 +45,11 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Sostituito al 58' (dentro Lapiccirella), nessuna nota specifica sulla prestazione. (fonte: [[../matches/20260919|partita]])
+**15/09/2026** — Prestazione negativa da subentrato. (fonte: [[../matches/20260915|partita]])
+**12/09/2026** — Cresce nel finale insieme a Lasagna. (fonte: [[../matches/20260912|partita]])
+**05/09/2026** — Affaticato quando ha la palla tra i piedi, ma ottimo lavoro senza palla. (fonte: [[../matches/20260905|partita]])

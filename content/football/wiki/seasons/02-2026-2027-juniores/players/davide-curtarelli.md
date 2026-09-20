@@ -1,7 +1,7 @@
 ---
 title: "Curtarelli Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Curtarelli Davide
@@ -45,4 +45,12 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | 14/09/2026 | In corso | Mononucleosi | Stop previsto di 3-4 settimane, comunicato il 14/09/2026. |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[../injuries|infortuni]]. (fonte: [[../sessions/20260914|allenamento]])
+**12/09/2026** — Entra molto bene a partita in corso, adattato con profitto anche a sinistra. (fonte: [[../matches/20260912|partita]])
+**27/08/2026** — Provato come esterno (ruolo non abituale), buone risposte tecniche, opzione valida da alternare al ruolo di mezzala. (fonte: [[../sessions/20260827|allenamento]])

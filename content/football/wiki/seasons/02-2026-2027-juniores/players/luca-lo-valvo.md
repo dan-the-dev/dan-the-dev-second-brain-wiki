@@ -1,7 +1,7 @@
 ---
 title: "Lo Valvo Luca"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Lo Valvo Luca
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -44,3 +45,8 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+Nessuna nota personale specifica registrata finora.

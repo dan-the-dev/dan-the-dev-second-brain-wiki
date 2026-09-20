@@ -1,7 +1,7 @@
 ---
 title: Momenti chiave — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 tags: [football, riflessioni, 2026-27]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 tags: [football, opponents, 2026-27]
 ---
 
@@ -10,6 +10,24 @@ tags: [football, opponents, 2026-27]
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
 ← [[index|Torna alla stagione]]
+
+---
+
+## Centro Giovanile Boffalorese
+
+Bilancio: 1V 0P 0S (Campionato) — Gol fatti 4, gol subiti 3. Ritorno in programma il 16/01/2027 (girone Ritorno).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Campionato | Giornata 2 | 19/09/2026 | ✈️ Trasferta | 3-4 | V | [[matches/20260919\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Giornata 2 del 19/09)
+
+- **Impressioni generali:** squadra ben organizzata, con buoni principi di gioco anche se con poco possesso palla.
+- **Uomini chiave:** la punta centrale, brava a proteggere il pallone e far salire la squadra.
+- **Disciplina:** un giocatore espulso al 45+1' per un fallo di strattonamento seguito da insulti all'arbitro.
+- **Come li abbiamo battuti:** più cinici di noi nello sfruttare i nostri errori individuali (2 dei loro 3 gol nascono da nostre palle perse in costruzione/su schema da corner) che superiori per qualità di manovra; abbiamo comunque vinto in rimonta e in 9 contro 11 negli ultimi 9 minuti.
+- **Nota per il ritorno:** attenzione a non ripetere gli stessi errori individuali che questa gara ci ha ancora una volta esposto — vedi [[matches/20260919#-consigli-da-coach|consigli da coach]].
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mingrone Gabriele"
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-20
 ---
 
 # Mingrone Gabriele
@@ -35,6 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 05/09/2026 | Bresso Calcio | ✈️ trasferta | ✅ sì | 90 | 2 | 0 | 0 | 0 |
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 81 | 1 | 0 | 0 | 1 |
 
 ---
 
@@ -44,3 +45,11 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 |:-----------:|:---------:|-------------|----------------------|
 | — | — | — | — |
 
+---
+
+## 📝 Note personali
+
+**19/09/2026** — Gol su rigore per il 2-2, ma anche cartellino rosso all'81' per fallo da ultimo uomo su una ripartenza — episodio disciplinare da rivedere insieme sulla lettura del rischio in transizione difensiva. (fonte: [[../matches/20260919|partita]])
+**09/09/2026** — Lavoro a parte per un fastidio fisico, non in gruppo. (fonte: [[../sessions/20260909|allenamento]])
+**05/09/2026** — Doppietta, di cui un rigore. (fonte: [[../matches/20260905|partita]])
+**31/08/2026** — Gran partita: assist per il primo gol e rigore trasformato per il 2-0. (fonte: [[../sessions/20260831|partita]])
