@@ -26,7 +26,7 @@ Bilancio: 1V 0P 0S (Campionato) — Gol fatti 4, gol subiti 3. Ritorno in progra
 - **Impressioni generali:** squadra ben organizzata, con buoni principi di gioco anche se con poco possesso palla.
 - **Uomini chiave:** la punta centrale, brava a proteggere il pallone e far salire la squadra.
 - **Disciplina:** un giocatore espulso al 45+1' per un fallo di strattonamento seguito da insulti all'arbitro.
-- **Come li abbiamo battuti:** più cinici di noi nello sfruttare i nostri errori individuali (2 dei loro 3 gol nascono da nostre palle perse in costruzione/su schema da corner) che superiori per qualità di manovra; abbiamo comunque vinto in rimonta e in 9 contro 11 negli ultimi 9 minuti.
+- **Come li abbiamo battuti:** più cinici di noi nello sfruttare i nostri errori individuali (2 dei loro 3 gol nascono da nostre palle perse in costruzione/su schema da corner) che superiori per qualità di manovra; abbiamo comunque vinto in rimonta giocando gli ultimi 9 minuti in 9 contro 10, in inferiorità numerica.
 - **Nota per il ritorno:** attenzione a non ripetere gli stessi errori individuali che questa gara ci ha ancora una volta esposto — vedi [[matches/20260919#-consigli-da-coach|consigli da coach]].
 
 ---
