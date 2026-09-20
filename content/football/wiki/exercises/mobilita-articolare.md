@@ -7,7 +7,7 @@ updated: 2026-09-14
 
 # Mobilità articolare
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento atletico
 **Giocatori:** tutta la squadra

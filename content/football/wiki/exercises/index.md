@@ -97,7 +97,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
-| [[test-gacon\|Test di Gacon]] | 6-12 per batteria | Test intermittente da campo per stimare la Velocità Aerobica Massima (VAM); risultati e gruppi in [[../seasons/02-2026-2027-juniores/test-fisici\|Test fisici stagione 2026/27]] |
+| [[test-gacon\|Test di Gacon]] | 6-12 per batteria | Test intermittente da campo per stimare la Velocità Aerobica Massima (VAM); risultati e gruppi in [[seasons/02-2026-2027-juniores/test-fisici\|Test fisici stagione 2026/27]] |
 
 ## Statistiche per categoria
 

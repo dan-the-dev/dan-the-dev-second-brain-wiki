@@ -8,7 +8,7 @@ updated: 2026-08-30
 
 Pagina di riferimento per i test fisici somministrati durante la stagione: quale test viene usato, i risultati di ogni giocatore e i gruppi di allenamento che ne derivano. Ogni nuova somministrazione aggiunge una sezione datata qui sotto, per avere sempre i gruppi comodi da ritrovare e per confrontare i risultati nel tempo.
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
 
 ---
 
@@ -16,7 +16,7 @@ Pagina di riferimento per i test fisici somministrati durante la stagione: quale
 
 Test intermittente da campo per stimare la Velocità Aerobica Massima (VAM): tratti di corsa di 45'' alternati a 15'' di recupero, distanza crescente di 6,25 m per step (+0,5 km/h), fino a due tratti falliti consecutivi. Il risultato è la velocità (km/h) dell'ultimo step completato.
 
-Scheda completa (protocollo, obiettivi, fonti): [[../../exercises/test-gacon|Test di Gacon]].
+Scheda completa (protocollo, obiettivi, fonti): [[exercises/test-gacon|Test di Gacon]].
 
 ### Legenda risultati (VAM, km/h)
 

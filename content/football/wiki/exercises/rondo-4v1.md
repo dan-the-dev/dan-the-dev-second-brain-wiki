@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo 4 contro 1 (Torello base)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 5 (4+1), ripetibile su più gruppi in parallelo

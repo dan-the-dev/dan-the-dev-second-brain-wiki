@@ -7,7 +7,7 @@ tags: [football, stats, 2026-27]
 
 # 📊 Classifiche e statistiche — Stagione 2026-27
 
-Pagina alimentata progressivamente con i dump partita ([[matches|storico partite]]). Compilazione completa (presenze allenamenti aggregate, minuti totali, ecc.) su richiesta a fine stagione — vedi [[index|torna alla stagione]].
+Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-juniores/matches|storico partite]]). Compilazione completa (presenze allenamenti aggregate, minuti totali, ecc.) su richiesta a fine stagione — vedi [[seasons/02-2026-2027-juniores/index|torna alla stagione]].
 
 ## Classifica marcatori — Coppa Lombardia
 
@@ -17,7 +17,7 @@ Pagina alimentata progressivamente con i dump partita ([[matches|storico partite
 | Columpsi Gabriele | 1 | — |
 | Frassinelli Lorenzo* | 1 | — |
 
-*Frassinelli Lorenzo non è in rosa Juniores: attaccante 2007 della Prima Squadra, aggregato una tantum per Gara 2 — vedi [[players#aggregati-occasionali-non-in-rosa|players]].
+*Frassinelli Lorenzo non è in rosa Juniores: attaccante 2007 della Prima Squadra, aggregato una tantum per Gara 2 — vedi [[seasons/02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]].
 
 **Totale gol fatti**: 4 (Gara 1 vs Bresso Calcio 0-3, Gara 2 vs Leone XIII Sport 1-5).
 **Totale gol subiti**: 5 (tutti in Gara 2 vs Leone XIII Sport).
@@ -87,7 +87,7 @@ Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [
 \*Minuti ridotti per cartellino rosso (Mingrone all'81', Sudano al 71' — minuti stimati, vedi [[matches/20260919|pagina partita]]).
 \*\*Banfi Paolo non è in rosa Juniores — attaccante esterno/mezzala 2007 della Prima Squadra, aggregato come fuori quota per questa gara (stesso principio di Frassinelli il 15/09).
 
-Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-2027-juniores/players|pagina giocatore]].
+Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[seasons/02-2026-2027-juniores/players|pagina giocatore]].
 
 ## Minuti giocati — Campionato Giornata 1 (12/09/2026 vs Football Club Parabiago)
 
@@ -114,7 +114,7 @@ Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-
 | Grassi Eric | 0 |
 | Brana Lorenzo | 0 |
 
-Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-2027-juniores/players|pagina giocatore]].
+Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[seasons/02-2026-2027-juniores/players|pagina giocatore]].
 
 ## Minuti giocati — Coppa Lombardia Gara 1 (05/09/2026 vs Bresso Calcio)
 
@@ -141,7 +141,7 @@ Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-
 | Grassi Eric | 0 |
 | Simonato Mattia Lorenzo | 0 |
 
-Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-2027-juniores/players|pagina giocatore]].
+Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[seasons/02-2026-2027-juniores/players|pagina giocatore]].
 
 ## Minuti giocati — Coppa Lombardia Gara 2 (15/09/2026 vs Leone XIII Sport)
 
@@ -169,8 +169,8 @@ Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-
 
 *Frassinelli Lorenzo non è in rosa Juniores — aggregato una tantum dalla Prima Squadra per Gara 2.
 
-Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[../02-2026-2027-juniores/players|pagina giocatore]].
+Dettaglio completo (convocazioni, gol, assist, cartellini) su ogni [[seasons/02-2026-2027-juniores/players|pagina giocatore]].
 
 ## Presenze allenamenti
 
-_Vedi [[attendance|contatori presenze allenamenti]] — aggiornati progressivamente ad ogni sessione dumpata._
+_Vedi [[seasons/02-2026-2027-juniores/attendance|contatori presenze allenamenti]] — aggiornati progressivamente ad ogni sessione dumpata._

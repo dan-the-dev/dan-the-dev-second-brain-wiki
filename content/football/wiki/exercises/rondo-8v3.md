@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo posizionale 8 contro 3 (metodo Ajax / Ten Hag)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 11 (8 posizionali + 3 al pressing)

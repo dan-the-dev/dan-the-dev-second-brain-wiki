@@ -9,6 +9,33 @@ Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
 NON usare git — sync automatico tramite plugin Obsidian Git.
 NON fare chiamate API esterne.
 
+## ⚠️ Sintassi wikilink (IMPORTANTE — causa link rotti sul sito pubblicato)
+Il sito pubblicato (Quartz, deploy football su Coolify) usa `markdownLinkResolution: shortest`.
+Sotto questa strategia, un target di wikilink che inizia con `../` (uno o più livelli) **non si risolve mai**
+correttamente: la libreria non fa una vera risoluzione relativa alla cartella del file corrente, tratta il target
+come un percorso "shortest/assoluto" e la stringa `../` residua produce un href sbagliato → link rotto (verificato
+sul build reale, non teorico). Vale per QUALSIASI file `.md` sotto `football/wiki/`, incluse le frecce di
+navigazione tipo `← [[../players|Torna alla rosa]]`.
+
+**Regola pratica per ogni nuovo wikilink `[[target|testo]]` o `[[target#anchor|testo]]`:**
+- MAI iniziare il target con `.` o `..` (niente `../`, niente `./`).
+- Se il nome file è univoco in tutto `football/wiki/` (es. `momenti-chiave`, `schedule`, `multe`,
+  `matches/20260919`, `players/alessandro-boniardi`, `sessions/20260826`, `exercises/core-stability`):
+  basta il percorso a partire dal punto in cui diventa univoco, senza prefissi (es. `[[matches/20260919|...]]`,
+  `[[exercises/index|...]]`), anche se il file corrente è annidato più in profondità.
+- Se il nome file è AMBIGUO perché esiste identico in più stagioni o cartelle (`attendance`, `index`, `injuries`,
+  `matches`, `opponents`, `players`, `stats` esistono sia in `seasons/01-2025-26-juniores/` sia in
+  `seasons/02-2026-2027-juniores/`, e `index` esiste anche a livello wiki/exercises/tactics/seasons): usare
+  SEMPRE il percorso completo dalla radice di `football/wiki/`, es. `[[seasons/02-2026-2027-juniores/opponents|...]]`,
+  mai `[[opponents|...]]` da solo.
+- Gli anchor (`#slug-header`) restano invariati rispetto a prima: sono lo slug (github-slugger) dell'header di
+  destinazione (minuscolo, spazi→trattini, emoji spesso collassata in un trattino iniziale tipo `#-consigli-da-coach`
+  per un header che inizia con emoji) — non serve toccarli, solo il percorso file prima del `#`.
+- I file allegati (PDF, immagini, video) vanno posizionati DENTRO `football/wiki/` per essere pubblicati: il build
+  Quartz del sito football usa `content/football/wiki` come radice, quindi qualunque file lasciato in `football/`
+  fuori da `wiki/` (es. `regolamento-squadra-2026-27.pdf`, screenshot, video allenamenti) non viene pubblicato e i
+  link che lo referenziano restano rotti — se serve linkarlo dal wiki, spostarlo (o copiarlo) sotto `football/wiki/`.
+
 ## Raw data types
 
 ### Stagioni — raw/seasons/{N}-{YYYY-YY}-{categoria}/

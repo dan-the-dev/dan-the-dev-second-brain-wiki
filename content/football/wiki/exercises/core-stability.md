@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Core stability
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento atletico
 **Giocatori:** tutta la squadra

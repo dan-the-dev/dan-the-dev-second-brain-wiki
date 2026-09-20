@@ -8,7 +8,7 @@ tags: [football, exercises, riscaldamento-tecnico, placeholder]
 
 # Riscaldamento tecnico — placeholder
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Stato:** ✅ Risolto — vedi [[riscaldamento-ajax-attivazione-tecnica|Attivazione tecnica pre allenamento - Ajax]]

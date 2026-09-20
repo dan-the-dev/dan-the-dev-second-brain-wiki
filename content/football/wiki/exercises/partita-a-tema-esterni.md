@@ -7,7 +7,7 @@ updated: 2026-09-07
 
 # Partita a tema con esterni
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Partitella
 **Giocatori:** tutta la squadra

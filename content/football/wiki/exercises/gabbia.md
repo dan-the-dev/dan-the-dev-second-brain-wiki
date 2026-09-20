@@ -7,7 +7,7 @@ tags: [football, exercises, possesso]
 
 # Gabbia
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** variabile (es. 7 in campo + 3 esterni nella variante classica)

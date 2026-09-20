@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo 4 contro 4 più 4 jolly (rondo alla Guardiola)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 12 (4 squadra sul perimetro + 4 squadra centrale + 4 jolly neutrali)

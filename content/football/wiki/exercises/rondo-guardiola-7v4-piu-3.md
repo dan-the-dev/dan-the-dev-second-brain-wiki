@@ -7,7 +7,7 @@ updated: 2026-09-01
 
 # Rondo alla Guardiola — 4v4 (+3) pre-partita, superiorità 7v4
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 11 (4 squadra sul perimetro + 4 squadra centrale + 3 jolly neutrali)

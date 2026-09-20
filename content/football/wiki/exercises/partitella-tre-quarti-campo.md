@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Partitella su tre quarti campo
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Partitella
 **Giocatori:** tutta la squadra

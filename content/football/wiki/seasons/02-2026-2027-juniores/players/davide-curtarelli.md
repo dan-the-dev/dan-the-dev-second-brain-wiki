@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Curtarelli Davide
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -51,6 +51,6 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[../injuries|infortuni]]. (fonte: [[../sessions/20260914|allenamento]])
-**12/09/2026** — Entra molto bene a partita in corso, adattato con profitto anche a sinistra. (fonte: [[../matches/20260912|partita]])
-**27/08/2026** — Provato come esterno (ruolo non abituale), buone risposte tecniche, opzione valida da alternare al ruolo di mezzala. (fonte: [[../sessions/20260827|allenamento]])
+**14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[seasons/02-2026-2027-juniores/injuries|infortuni]]. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
+**12/09/2026** — Entra molto bene a partita in corso, adattato con profitto anche a sinistra. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
+**27/08/2026** — Provato come esterno (ruolo non abituale), buone risposte tecniche, opzione valida da alternare al ruolo di mezzala. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260827|allenamento]])

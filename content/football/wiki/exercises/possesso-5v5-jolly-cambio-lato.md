@@ -7,7 +7,7 @@ updated: 2026-08-29
 
 # Possesso 5 contro 5 con 2 jolly esterni — cambio lato
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 12 (10 interni + 2 jolly)

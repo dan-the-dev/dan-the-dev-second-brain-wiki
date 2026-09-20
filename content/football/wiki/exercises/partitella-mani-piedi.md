@@ -7,7 +7,7 @@ updated: 2026-09-14
 
 # Riscaldamento partitella campo piccolo mani e piedi
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** tutta la squadra

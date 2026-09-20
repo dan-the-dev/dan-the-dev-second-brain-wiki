@@ -77,6 +77,6 @@ tags: [football, players, 2025-26]
 | Minora Tommaso | — | — | 1 | 0 | 1 | — |
 | Cesaratto Andrea * | — | — | 0 | 1 | 1 | — |
 
-\* Gol documentati nei tabellini delle partite ma non presenti nella classifica marcatori ufficiale riportata nel summary (possibile disallineamento sui totali di squadra: campionato 87 gol attribuiti su 93 fatti, coppa 24 attribuiti su 28 fatti — vedi [[stats|stats]]).
+\* Gol documentati nei tabellini delle partite ma non presenti nella classifica marcatori ufficiale riportata nel summary (possibile disallineamento sui totali di squadra: campionato 87 gol attribuiti su 93 fatti, coppa 24 attribuiti su 28 fatti — vedi [[seasons/01-2025-26-juniores/stats|stats]]).
 
 > Presenze, minuti giocati e assist non sono disponibili nel summary di fine stagione: da popolare con i dump partita futuri.

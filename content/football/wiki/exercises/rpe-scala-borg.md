@@ -7,7 +7,7 @@ updated: 2026-08-26
 
 # RPE — Scala di Borg 6-20 (session-RPE)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Monitoraggio carico atletico
 **Giocatori:** tutta la squadra

@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Stretching
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento atletico (defaticamento)
 **Giocatori:** tutta la squadra

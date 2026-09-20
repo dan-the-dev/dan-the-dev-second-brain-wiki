@@ -7,7 +7,7 @@ updated: 2026-08-29
 
 # Test di Gacon
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Test fisici
 **Giocatori:** 6-12 per batteria (l'intera rosa a rotazione)
@@ -48,7 +48,7 @@ Nota: il test tende a sovrastimare leggermente la VAM reale (circa 0,5-1 km/h).
 Il test di Gacon valuta bene la capacità aerobica ma, essendo lineare, non include cambi di direzione — aspetto rilevante nel calcio moderno. Va integrato con altri indicatori per un quadro condizionale completo.
 
 ## Risultati in stagione
-Prima somministrazione: 29/08/2026, su 22 giocatori di movimento (Palmisano escluso in quanto portiere). Risultati completi e gruppi derivati: [[../seasons/02-2026-2027-juniores/test-fisici|Test fisici — stagione 2026/27]].
+Prima somministrazione: 29/08/2026, su 22 giocatori di movimento (Palmisano escluso in quanto portiere). Risultati completi e gruppi derivati: [[seasons/02-2026-2027-juniores/test-fisici|Test fisici — stagione 2026/27]].
 
 ## Fonti
 - [Test di Gacon: che cos'è — PerformanceLab](https://blog.performancelab16.com/test-di-gacon/)

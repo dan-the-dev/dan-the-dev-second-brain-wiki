@@ -7,7 +7,7 @@ updated: 2026-08-26
 
 # TQR — Total Quality Recovery
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Monitoraggio carico atletico
 **Giocatori:** tutta la squadra

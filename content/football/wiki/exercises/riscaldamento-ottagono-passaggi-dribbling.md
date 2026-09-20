@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Octagon Passing & Dribbling Exercise - Warm-Up
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 8-12

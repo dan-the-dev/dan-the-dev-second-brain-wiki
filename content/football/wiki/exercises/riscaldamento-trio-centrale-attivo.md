@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Riscaldamento tecnico — trio con uomo centrale attivo
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** multipli di 3

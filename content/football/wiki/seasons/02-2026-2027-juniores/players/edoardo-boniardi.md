@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Boniardi Edoardo
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,5 +49,5 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Titolare confermato come terzino destro, gara solida senza note negative. (fonte: [[../matches/20260919|partita]])
-**26/08/2026 e 31/08/2026** — Ripetutamente segnalato molto bene fisicamente, sempre tra i più in forma nei lavori atletici. (fonte: [[../sessions/20260826|allenamento]], [[../matches/20260905|partita]])
+**19/09/2026** — Titolare confermato come terzino destro, gara solida senza note negative. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**26/08/2026 e 31/08/2026** — Ripetutamente segnalato molto bene fisicamente, sempre tra i più in forma nei lavori atletici. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]], [[seasons/02-2026-2027-juniores/matches/20260905|partita]])

@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Favaron Diego
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,6 +49,6 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Salta l'uomo con troppa fretta e causa un rigore dubbio (poi parato da Palmisano); pochi minuti dopo viene superato anche sul gol del contropiede avversario (1-2). (fonte: [[../matches/20260919|partita]])
-**14/09/2026** — A riposo per rotazione/recupero: sabato scorso (12/09) era arrivato stanco e con qualche fastidio. (fonte: [[../sessions/20260914|allenamento]])
-**09/09/2026** — Lavoro fisico a parte per un fastidio. (fonte: [[../sessions/20260909|allenamento]])
+**19/09/2026** — Salta l'uomo con troppa fretta e causa un rigore dubbio (poi parato da Palmisano); pochi minuti dopo viene superato anche sul gol del contropiede avversario (1-2). (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**14/09/2026** — A riposo per rotazione/recupero: sabato scorso (12/09) era arrivato stanco e con qualche fastidio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
+**09/09/2026** — Lavoro fisico a parte per un fastidio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

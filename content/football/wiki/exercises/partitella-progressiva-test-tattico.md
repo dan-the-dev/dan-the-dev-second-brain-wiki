@@ -7,7 +7,7 @@ updated: 2026-08-29
 
 # Partitella progressiva (test tattico di fine seduta)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Partitella
 **Giocatori:** tutta la squadra

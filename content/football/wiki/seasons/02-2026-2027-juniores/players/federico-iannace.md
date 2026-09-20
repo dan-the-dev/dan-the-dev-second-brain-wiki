@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Iannace Federico
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,4 +49,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**09/09/2026** — Prestazione positiva notata in allenamento. (fonte: [[../sessions/20260909|allenamento]])
+**09/09/2026** — Prestazione positiva notata in allenamento. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

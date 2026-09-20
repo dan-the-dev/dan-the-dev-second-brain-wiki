@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Lapiccirella Alessandro
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,4 +49,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Subentra al 58' e firma il gol del sorpasso al 70' (tap-in su assist di Sudano da corner) — decisivo nella vittoria in rimonta. (fonte: [[../matches/20260919|partita]])
+**19/09/2026** — Subentra al 58' e firma il gol del sorpasso al 70' (tap-in su assist di Sudano da corner) — decisivo nella vittoria in rimonta. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])

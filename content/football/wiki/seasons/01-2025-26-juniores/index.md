@@ -15,25 +15,25 @@ Coppa Lombardia Under 19 Provinciale**, con un percorso che ha eliminato in sequ
 prime o seconde nei rispettivi gironi (incluse Vigevano agli ottavi e Vigor FC in semifinale ai rigori),
 chiuso con la vittoria 1-0 in finale contro il Vidalengo.
 
-Dettagli in [[info|info stagione]], [[matches|storico partite]] e [[lessons|retrospettiva]].
+Dettagli in [[info|info stagione]], [[seasons/01-2025-26-juniores/matches|storico partite]] e [[lessons|retrospettiva]].
 
 ## Info stagione
 [[info|📋 Informazioni base]]
 [[objectives|🎯 Obiettivi stagione]]
 
 ## Squadra
-[[players|👥 Rosa e statistiche]]
+[[seasons/01-2025-26-juniores/players|👥 Rosa e statistiche]]
 [[player-profiles|🧬 Profili giocatori]]
 
 ## Allenamenti
 [[sessions|🏃 Storico sessioni]]
-[[attendance|✅ Presenze allenamenti]]
+[[seasons/01-2025-26-juniores/attendance|✅ Presenze allenamenti]]
 
 ## Partite
-[[matches|⚽ Storico partite]]
+[[seasons/01-2025-26-juniores/matches|⚽ Storico partite]]
 
 ## Analisi
-- [[stats|📊 Classifiche e statistiche]]
+- [[seasons/01-2025-26-juniores/stats|📊 Classifiche e statistiche]]
   - Presenze allenamenti (numero + percentuale)
   - Minuti giocati in partita
   - Marcatori (gol totali, di cui rigori)
@@ -48,13 +48,13 @@ Dettagli in [[info|info stagione]], [[matches|storico partite]] e [[lessons|retr
   - Classifica moduli usati
   - Rendimento per modulo (W/D/L, gol fatti/subiti)
   - Evoluzione tattica durante la stagione
-- [[opponents|🆚 Squadre avversarie]]
+- [[seasons/01-2025-26-juniores/opponents|🆚 Squadre avversarie]]
   - Risultati scontri diretti
   - Note tattiche per avversario
 - [[fitness|💪 Andamento fisico, statistiche infortuni]]
   - Elenco di tutti gli infortuni avuti dai membri della squadra
   - Classifica tipi di infortuni piu spesso avvenuti
-- [[injuries|🩹 Storico infortuni]]
+- [[seasons/01-2025-26-juniores/injuries|🩹 Storico infortuni]]
   - Dettaglio per giocatore: periodo, tipo, note
 
 ## Retrospettiva

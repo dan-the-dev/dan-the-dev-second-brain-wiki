@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Capretti Guglielmo
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,6 +49,6 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Conquista il rigore del 2-2 involandosi in area e venendo steso. (fonte: [[../matches/20260919|partita]])
-**12/09/2026** — Molto solido al centro della difesa nei duelli individuali. (fonte: [[../matches/20260912|partita]])
-**31/08/2026** — Tra i nuovi arrivi più positivi (con Di Bello) secondo Teo: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti. (fonte: [[../sessions/20260831|partita]])
+**19/09/2026** — Conquista il rigore del 2-2 involandosi in area e venendo steso. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**12/09/2026** — Molto solido al centro della difesa nei duelli individuali. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
+**31/08/2026** — Tra i nuovi arrivi più positivi (con Di Bello) secondo Teo: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])

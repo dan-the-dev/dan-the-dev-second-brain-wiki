@@ -7,7 +7,7 @@ updated: 2026-09-14
 
 # Rapidità con scaletta
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Preparazione atletica
 **Giocatori:** tutta la squadra

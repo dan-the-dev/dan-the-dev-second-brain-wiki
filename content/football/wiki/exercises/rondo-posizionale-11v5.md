@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo posizionale 11 contro 5 (struttura e forma di squadra)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 16 (11+5)

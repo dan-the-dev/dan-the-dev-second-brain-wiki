@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Lavoro atletico — piramide di ripetute
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Preparazione atletica
 **Giocatori:** tutta la squadra

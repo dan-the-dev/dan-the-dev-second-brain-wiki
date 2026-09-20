@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # 5-Man Passing Combination Exercise - Warm-Up
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 5 (o multipli di 5)

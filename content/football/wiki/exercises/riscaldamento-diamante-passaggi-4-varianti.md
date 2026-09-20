@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Diamond Passing Warm-Up | 4 Variations
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 4-8

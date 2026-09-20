@@ -7,7 +7,7 @@ tags: [football, exercises, tattica]
 
 # Attacco contro difesa 8 vs 5
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Tattica
 **Giocatori:** 13 (8 attaccanti + 5 difensori) + portiere

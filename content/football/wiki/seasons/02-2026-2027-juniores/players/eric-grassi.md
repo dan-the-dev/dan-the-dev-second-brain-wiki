@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Grassi Eric
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,4 +49,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**27/08/2026** — Atteggiamento nel riscaldamento da gestire, tema simile a quanto notato per Sudano nello stesso periodo. (fonte: [[../sessions/20260827|allenamento]])
+**27/08/2026** — Atteggiamento nel riscaldamento da gestire, tema simile a quanto notato per Sudano nello stesso periodo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260827|allenamento]])

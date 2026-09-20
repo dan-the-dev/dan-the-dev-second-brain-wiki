@@ -7,7 +7,7 @@ updated: 2026-09-01
 
 # Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 7 (5 in possesso + 2 difensori)

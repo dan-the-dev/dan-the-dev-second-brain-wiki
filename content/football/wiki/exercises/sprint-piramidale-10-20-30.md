@@ -7,7 +7,7 @@ updated: 2026-09-17
 
 # Sprint piramidale 10-20-30 metri
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Preparazione atletica
 **Giocatori:** tutta la squadra

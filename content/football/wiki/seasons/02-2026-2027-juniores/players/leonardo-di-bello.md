@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Di Bello Leonardo
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,7 +49,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Entra al 78' e si fa notare positivamente. (fonte: [[../matches/20260919|partita]])
-**15/09/2026** — Meglio da esterno, ma "fumoso" nelle ultime uscite. (fonte: [[../matches/20260915|partita]])
-**31/08/2026** — Tra i nuovi arrivi più positivi (con Capretti) secondo Teo, anche se a volte rischia troppo la giocata. (fonte: [[../sessions/20260831|partita]])
-**27/08/2026** — Buone qualità tecniche. (fonte: [[../sessions/20260827|allenamento]])
+**19/09/2026** — Entra al 78' e si fa notare positivamente. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**15/09/2026** — Meglio da esterno, ma "fumoso" nelle ultime uscite. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
+**31/08/2026** — Tra i nuovi arrivi più positivi (con Capretti) secondo Teo, anche se a volte rischia troppo la giocata. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])
+**27/08/2026** — Buone qualità tecniche. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260827|allenamento]])

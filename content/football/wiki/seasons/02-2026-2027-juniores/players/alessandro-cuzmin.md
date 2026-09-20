@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Cuzmin Alessandro
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,7 +49,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Convocato ma non utilizzato. (fonte: [[../matches/20260919|partita]])
-**15/09/2026** — Titolare, parte bene ma va in difficoltà dopo aver perso la marcatura sul primo gol subito. (fonte: [[../matches/20260915|partita]])
-**31/08/2026** — Molto aggressivo in fase difensiva, a volte troppo. (fonte: [[../sessions/20260831|partita]])
-**26/08/2026** — Sorprende positivamente nei lavori fisici, commentato anche con lo staff. (fonte: [[../sessions/20260826|allenamento]])
+**19/09/2026** — Convocato ma non utilizzato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**15/09/2026** — Titolare, parte bene ma va in difficoltà dopo aver perso la marcatura sul primo gol subito. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
+**31/08/2026** — Molto aggressivo in fase difensiva, a volte troppo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])
+**26/08/2026** — Sorprende positivamente nei lavori fisici, commentato anche con lo staff. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]])

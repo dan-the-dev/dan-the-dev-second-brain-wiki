@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo 3 contro 1
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 4 (3+1), ripetibile su più gruppi in parallelo

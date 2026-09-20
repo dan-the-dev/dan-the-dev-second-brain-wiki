@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Riccio Alessandro
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 

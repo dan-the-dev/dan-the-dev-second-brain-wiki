@@ -56,4 +56,4 @@ tags: [football, season, info, 2025-26]
 - Semifinale: eliminata la Vigor FC (andata in casa vinta 3-2, ritorno in trasferta perso 2-3 ma qualificazione ai rigori per 4-2)
 - Finale (03/05/2026, vs Vidalengo): vinta **1-0**, gol decisivo su rigore di Gabriele Mingrone
 
-Vedi [[matches|storico partite]] e [[stats|statistiche]] per il dettaglio.
+Vedi [[seasons/01-2025-26-juniores/matches|storico partite]] e [[seasons/01-2025-26-juniores/stats|statistiche]] per il dettaglio.

@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Boniardi Alessandro
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -51,7 +51,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Prima convocazione e primi minuti stagionali: subentra al 78'. "Non ha tanto fiato ma ha dato tutto" — partecipa in prima persona all'azione del gol vittoria al 90' (il suo tiro viene parato con la punta dal portiere, sulla respinta segna Columpsi). (fonte: [[../matches/20260919|partita]])
-**15/09/2026** — Lavoro atletico individuale (fartlek) invece di stare in panchina; Daniele lo indica come "unica alternativa credibile davanti per qualità tecniche" una volta rientrato, pur con cautela sulla continuità di Columpsi tra acciacchi e Muay Thai. (fonte: [[../matches/20260915|partita]])
-**14/09/2026** — Rientra in gruppo, sembra ok ma non ancora convocabile. (fonte: [[../sessions/20260914|allenamento]])
-**09/09/2026** — Nessuna notizia sui tempi di recupero, ancora fermo. (fonte: [[../sessions/20260909|allenamento]])
+**19/09/2026** — Prima convocazione e primi minuti stagionali: subentra al 78'. "Non ha tanto fiato ma ha dato tutto" — partecipa in prima persona all'azione del gol vittoria al 90' (il suo tiro viene parato con la punta dal portiere, sulla respinta segna Columpsi). (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**15/09/2026** — Lavoro atletico individuale (fartlek) invece di stare in panchina; Daniele lo indica come "unica alternativa credibile davanti per qualità tecniche" una volta rientrato, pur con cautela sulla continuità di Columpsi tra acciacchi e Muay Thai. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
+**14/09/2026** — Rientra in gruppo, sembra ok ma non ancora convocabile. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
+**09/09/2026** — Nessuna notizia sui tempi di recupero, ancora fermo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

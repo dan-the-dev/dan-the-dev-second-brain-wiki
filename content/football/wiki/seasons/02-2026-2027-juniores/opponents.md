@@ -9,7 +9,7 @@ tags: [football, opponents, 2026-27]
 
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
 
 ---
 

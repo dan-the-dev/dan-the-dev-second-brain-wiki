@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Rondo esagonale 3+3 contro 3+3 (possesso 6 contro 6)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 12 (6 per squadra: 3 esterni + 3 interni)

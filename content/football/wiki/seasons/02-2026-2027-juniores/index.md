@@ -22,26 +22,26 @@ La squadra è impegnata su due fronti:
 
 - [[schedule|📅 Calendario allenamenti e partite]] — tutte le date del mese
 - [[sessions|📄 Storico sessioni]] — una pagina per ogni allenamento (programma, presenze, note)
-- [[attendance|✅ Presenze allenamenti]] — contatori per giocatore
+- [[seasons/02-2026-2027-juniores/attendance|✅ Presenze allenamenti]] — contatori per giocatore
 
 ## ⚽ Partite
 
-- [[matches|📋 Calendario e storico partite]] — Campionato + Coppa Lombardia, con link a ogni pagina dedicata
-- [[opponents|🆚 Scouting avversari]] — bilancio scontri e note tattiche per squadra
+- [[seasons/02-2026-2027-juniores/matches|📋 Calendario e storico partite]] — Campionato + Coppa Lombardia, con link a ogni pagina dedicata
+- [[seasons/02-2026-2027-juniores/opponents|🆚 Scouting avversari]] — bilancio scontri e note tattiche per squadra
 - [[momenti-chiave|🧠 Momenti chiave]] — riflessioni da coach raccolte nel tempo
 
 ## 👥 Rosa & Giocatori
 
-- [[players|Rosa completa]] — elenco giocatori con pagina dedicata (presenze, statistiche partita, infortuni, note personali)
-- [[injuries|🩹 Infortuni]] — storico infortuni della stagione
+- [[seasons/02-2026-2027-juniores/players|Rosa completa]] — elenco giocatori con pagina dedicata (presenze, statistiche partita, infortuni, note personali)
+- [[seasons/02-2026-2027-juniores/injuries|🩹 Infortuni]] — storico infortuni della stagione
 - [[multe|💸 Registro multe]] — sanzioni secondo il Regolamento di Squadra
 - [[test-fisici|🏃 Test fisici]] — risultati e gruppi di allenamento derivati
 
 ## 📊 Statistiche & Libreria
 
-- [[stats|📊 Classifiche e statistiche]] — marcatori, assist, cartellini, minuti giocati
-- [[../../exercises/index|🔄 Libreria esercizi]] — trasversale a tutte le stagioni
-- [[../../tactics/index|♟️ Tattiche]] — schemi documentati
+- [[seasons/02-2026-2027-juniores/stats|📊 Classifiche e statistiche]] — marcatori, assist, cartellini, minuti giocati
+- [[exercises/index|🔄 Libreria esercizi]] — trasversale a tutte le stagioni
+- [[tactics/index|♟️ Tattiche]] — schemi documentati
 
 ---
 *Compilazione completa della wiki (formazioni, obiettivi, lessons di fine stagione) avverrà su richiesta o a fine stagione.*

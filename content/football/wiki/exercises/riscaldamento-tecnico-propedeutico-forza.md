@@ -7,7 +7,7 @@ tags: [football, exercises, riscaldamento-tecnico]
 
 # Riscaldamento tecnico propedeutico alla forza
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** tutta la squadra, a gruppi per stazione

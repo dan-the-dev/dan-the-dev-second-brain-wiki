@@ -27,4 +27,4 @@ Elenco delle sessioni di allenamento con pagina dedicata (programma, presenze, n
 - 🟡 Programmato / svolto senza dump — sessione pianificata o svolta ma non ancora completamente documentata
 - 🟢 Completato — sessione svolta, dump ricevuto e presenze/note aggiornate
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]

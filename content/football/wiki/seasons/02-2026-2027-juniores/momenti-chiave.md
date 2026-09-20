@@ -9,7 +9,7 @@ tags: [football, riflessioni, 2026-27]
 
 Pagina di riflessioni da coach, aggiunta a richiesta di Daniele. A differenza di [[lessons|lessons]] (retrospettiva di fine stagione), qui si raccolgono nel tempo episodi, segnali e letture parziali — voci datate, in ordine cronologico inverso.
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
 
 ---
 

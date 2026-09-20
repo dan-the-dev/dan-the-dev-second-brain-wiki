@@ -8,7 +8,7 @@ updated: 2026-09-20
 
 Storico infortuni della stagione. Il dettaglio di ogni giocatore è comunque riportato anche nella sua pagina dedicata (tabella "Infortuni").
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
 
 ---
 

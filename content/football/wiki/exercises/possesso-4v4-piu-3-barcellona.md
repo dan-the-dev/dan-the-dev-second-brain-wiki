@@ -7,7 +7,7 @@ updated: 2026-09-17
 
 # Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 11 (4 attaccanti + 4 difendenti + 3 jolly)

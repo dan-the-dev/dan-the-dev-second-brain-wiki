@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Fartlek — corsa a ritmo variabile
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Preparazione atletica
 **Giocatori:** tutta la squadra (di gruppo, a coppie o terzetti)

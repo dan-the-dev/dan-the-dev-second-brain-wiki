@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Passing & Dribbling Warm Up | 5 Variation
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 6-16

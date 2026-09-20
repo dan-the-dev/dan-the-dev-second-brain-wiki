@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Taronna Francesco
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,7 +49,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Sostituito al 58' (dentro Lapiccirella), nessuna nota specifica sulla prestazione. (fonte: [[../matches/20260919|partita]])
-**15/09/2026** — Prestazione negativa da subentrato. (fonte: [[../matches/20260915|partita]])
-**12/09/2026** — Cresce nel finale insieme a Lasagna. (fonte: [[../matches/20260912|partita]])
-**05/09/2026** — Affaticato quando ha la palla tra i piedi, ma ottimo lavoro senza palla. (fonte: [[../matches/20260905|partita]])
+**19/09/2026** — Sostituito al 58' (dentro Lapiccirella), nessuna nota specifica sulla prestazione. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**15/09/2026** — Prestazione negativa da subentrato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
+**12/09/2026** — Cresce nel finale insieme a Lasagna. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
+**05/09/2026** — Affaticato quando ha la palla tra i piedi, ma ottimo lavoro senza palla. (fonte: [[seasons/02-2026-2027-juniores/matches/20260905|partita]])

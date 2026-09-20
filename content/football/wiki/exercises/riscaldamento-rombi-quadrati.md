@@ -7,7 +7,7 @@ updated: 2026-08-29
 
 # Riscaldamento a rombi/quadrati — trasmissione, controllo orientato, terzo uomo
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 24 (3 gruppi da 8, adattabile al numero di rombi)

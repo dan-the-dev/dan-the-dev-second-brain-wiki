@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Columpsi Gabriele
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,8 +49,8 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Gol vittoria al 90' di testa sulla seconda respinta, dopo un contropiede lungo — decisivo nella vittoria in rimonta. (fonte: [[../matches/20260919|partita]])
-**15/09/2026** — Assente ma "manca molto": nonostante l'assenza resta il riferimento offensivo, difficile da sostituire. (fonte: [[../matches/20260915|partita]])
-**14/09/2026** — Fermo per fastidio alla caviglia, salta la gara del 15/09 (sostituito da Frassinelli). (fonte: [[../sessions/20260914|allenamento]])
-**09/09/2026** — Ha iniziato ad allenarsi anche in Muay Thai; da gestire il doppio impegno, incertezza sulla sua continuità nel calcio. (fonte: [[../sessions/20260909|allenamento]])
-**31/08/2026** — Segna nonostante 6 mesi fermo per infortunio, prestazione discreta. (fonte: [[../sessions/20260831|partita]])
+**19/09/2026** — Gol vittoria al 90' di testa sulla seconda respinta, dopo un contropiede lungo — decisivo nella vittoria in rimonta. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**15/09/2026** — Assente ma "manca molto": nonostante l'assenza resta il riferimento offensivo, difficile da sostituire. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
+**14/09/2026** — Fermo per fastidio alla caviglia, salta la gara del 15/09 (sostituito da Frassinelli). (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
+**09/09/2026** — Ha iniziato ad allenarsi anche in Muay Thai; da gestire il doppio impegno, incertezza sulla sua continuità nel calcio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])
+**31/08/2026** — Segna nonostante 6 mesi fermo per infortunio, prestazione discreta. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])

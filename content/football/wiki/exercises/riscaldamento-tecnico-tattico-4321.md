@@ -7,7 +7,7 @@ tags: [football, exercises, riscaldamento-tecnico, tattica]
 
 # Riscaldamento tecnico tattico 4321 — ricerca dell'esterno
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** tutta la squadra, su 2 stazioni a specchio

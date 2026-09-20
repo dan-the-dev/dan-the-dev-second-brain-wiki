@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Sudano Matteo
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ---
 
@@ -49,9 +49,9 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**19/09/2026** — Assist per il gol del sorpasso di Lapiccirella al 70', ma espulso al 71' per insulti a un avversario — secondo episodio disciplinare della stagione dopo la multa del 29/08. (fonte: [[../matches/20260919|partita]])
-**09/09/2026** — "Ogni tanto molla", da capire come stimolarlo senza sgridarlo soltanto o si rischia di perderlo mentalmente. (fonte: [[../sessions/20260909|allenamento]])
-**05/09/2026** — Si sente male per il caldo a fine gara (quasi svenimento), ripreso con acqua fredda, ghiaccio e zucchero. (fonte: [[../matches/20260905|partita]])
-**29/08/2026** — Prima multa della stagione per ritardo ingiustificato senza preavviso (5€, già pagati). (fonte: [[../sessions/20260829|allenamento]], [[../multe|registro multe]])
-**27/08/2026** — Atteggiamento da gestire nel riscaldamento, ma si applica quando serve e ha buona tecnica di palla. (fonte: [[../sessions/20260827|allenamento]])
-**26/08/2026** — Molto stanco nel primo allenamento della stagione, ma il più onesto nell'autovalutazione RPE. (fonte: [[../sessions/20260826|allenamento]])
+**19/09/2026** — Assist per il gol del sorpasso di Lapiccirella al 70', ma espulso al 71' per insulti a un avversario — secondo episodio disciplinare della stagione dopo la multa del 29/08. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
+**09/09/2026** — "Ogni tanto molla", da capire come stimolarlo senza sgridarlo soltanto o si rischia di perderlo mentalmente. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])
+**05/09/2026** — Si sente male per il caldo a fine gara (quasi svenimento), ripreso con acqua fredda, ghiaccio e zucchero. (fonte: [[seasons/02-2026-2027-juniores/matches/20260905|partita]])
+**29/08/2026** — Prima multa della stagione per ritardo ingiustificato senza preavviso (5€, già pagati). (fonte: [[seasons/02-2026-2027-juniores/sessions/20260829|allenamento]], [[seasons/02-2026-2027-juniores/multe|registro multe]])
+**27/08/2026** — Atteggiamento da gestire nel riscaldamento, ma si applica quando serve e ha buona tecnica di palla. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260827|allenamento]])
+**26/08/2026** — Molto stanco nel primo allenamento della stagione, ma il più onesto nell'autovalutazione RPE. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]])

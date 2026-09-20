@@ -7,7 +7,7 @@ updated: 2026-09-02
 
 # Riscaldamento tecnico — rettangoli, gruppi da 5
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** multipli di 5

@@ -7,7 +7,7 @@ updated: 2026-09-14
 
 # Tiri in porta con scambio al limite
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Tattica
 **Giocatori:** tutta la squadra

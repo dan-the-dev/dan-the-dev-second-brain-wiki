@@ -7,7 +7,7 @@ updated: 2026-09-17
 
 # Attivazione tecnica pre allenamento - Ajax
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 6 attivi per stazione, gruppo totale di 8-10 per stazione

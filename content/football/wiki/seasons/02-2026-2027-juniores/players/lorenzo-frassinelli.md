@@ -6,7 +6,7 @@ updated: 2026-09-20
 
 # Frassinelli Lorenzo
 
-← [[../players|Torna alla rosa]]
+← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
 ⚠️ Non fa parte della rosa Juniores: attaccante 2007 della Prima Squadra, aggregato una tantum il 15/09/2026 per l'assenza di Columpsi (fastidio alla caviglia). Nessuna tabella presenze allenamenti — non si allena con la Juniores.
 
@@ -32,4 +32,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**15/09/2026** — Aggregato una tantum dalla Prima Squadra per l'assenza di Columpsi (fastidio alla caviglia); segna il gol della bandiera all'82' alla sua unica presenza in stagione con la Juniores. (fonte: [[../matches/20260915|partita]])
+**15/09/2026** — Aggregato una tantum dalla Prima Squadra per l'assenza di Columpsi (fastidio alla caviglia); segna il gol della bandiera all'82' alla sua unica presenza in stagione con la Juniores. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

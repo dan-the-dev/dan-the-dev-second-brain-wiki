@@ -7,7 +7,7 @@ updated: 2026-09-07
 
 # Chelsea Passing Combinations - Warm-Up
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 3 per stazione (multipli di 3 per più stazioni in parallelo)

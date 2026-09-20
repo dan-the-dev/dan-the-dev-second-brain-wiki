@@ -7,7 +7,7 @@ updated: 2026-08-25
 
 # Passing and Receiving Drill With Two Balls | 3 Variation
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Riscaldamento tecnico
 **Giocatori:** 4-6

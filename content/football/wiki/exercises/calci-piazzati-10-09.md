@@ -7,7 +7,7 @@ tags: [football, exercises, calci-piazzati, placeholder]
 
 # Calci piazzati — placeholder
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Calci piazzati
 **Stato:** 🟡 Placeholder — schemi ancora in fase di decisione

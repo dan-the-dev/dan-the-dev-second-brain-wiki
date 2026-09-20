@@ -60,7 +60,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · **Infortunato dal 29/08** (distorsione alla caviglia di 2° grado), in attesa della diagnosi definitiva dopo gli esami — vedi [[injuries\|infortuni]] |
+| 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · **Infortunato dal 29/08** (distorsione alla caviglia di 2° grado), in attesa della diagnosi definitiva dopo gli esami — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
 | 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio |
 | 23 | [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta | ✓ confermato |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |

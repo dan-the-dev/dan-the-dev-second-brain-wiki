@@ -8,7 +8,7 @@ updated: 2026-08-30
 
 Registro delle sanzioni economiche applicate secondo il [[../../regolamento-squadra-2026-27|Regolamento di Squadra]]. Le sanzioni vanno al fondo comune di squadra.
 
-← [[index|Torna alla stagione]]
+← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
 
 ---
 

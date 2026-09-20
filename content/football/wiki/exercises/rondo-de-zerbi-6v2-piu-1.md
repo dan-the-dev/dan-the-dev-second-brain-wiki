@@ -7,7 +7,7 @@ updated: 2026-09-01
 
 # Rondo alla De Zerbi — 6v2 +1 jolly centrale mobile
 
-← [[index|Torna alla libreria esercizi]]
+← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
 **Giocatori:** 9 (6 in possesso + 1 jolly centrale + 2 difensori)
