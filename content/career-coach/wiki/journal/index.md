@@ -11,6 +11,8 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20260922-levels-day7]] — 2026-09-22 · **Levels Day 7** · Mailtrap introdotto per fermare invii mail reali in test; secondo segnale (dopo Day 5) di carenza cultura UX nel team; allineamento con Dario su back office/richieste/product-dev board; tool PM testati (Plane escluso, preferenza Asana su Linear/Shortcut, decisione entro 28/09); PR docs utility script DB + primo setup Cypress (login, Page Object Pattern) funzionante in locale; aperto tema qualità dei 5000+ test SAS scritti da Claude
+
 - [[20260921-levels-day6]] — 2026-09-21 · **Levels Day 6** · Inizio Settimana 2. Primo setup locale di SAS funzionante e connessioni DB (SAS + API dev); gap di documentazione individuati su repo SAS e repo utility script DB (task già su Todoist); Alberto chiede esplicitamente mentorship a Dan, prima richiesta spontanea del genere a Levels; scelto Resend come SMTP, mail service da progettare come "notifications service"; focus settimana sui test dell'account sub, in vista delle prime call di onboarding clienti la settimana prossima
 
 - [[20260918-levels-day5]] — 2026-09-18 · **Levels Day 5** · Fine Settimana 1. Refinement con Tommaso Lucarelli e Dario sul conteggio compliance subappaltatori (per sezioni, non documenti); prima osservazione diretta di Tommaso Vilotto (non legge codice né test generati dall'AI — seconda conferma dopo Alberto); SPI non testabile in locale, nuovo caso dello stesso problema di deploy/test; Peopleware finito; discussione UX in chat (possibile eco Pattern Jacopo/Muffin); retrospettiva Settimana 1 in [[../experiences/levels|wiki/experiences/levels]]
