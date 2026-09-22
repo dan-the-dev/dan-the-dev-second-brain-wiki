@@ -1,58 +1,48 @@
 ---
 title: "Ultime Modifiche"
 type: recent-changes
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Ultime Modifiche
 
 Registro delle pagine toccate nell'ultima sessione di lavoro sul piano di studio — non uno storico cumulativo: a ogni nuova sessione questa pagina viene sovrascritta con il nuovo elenco, non integrata. Serve a ritrovare rapidamente cosa è cambiato senza dover confrontare a mano `raw/` e `wiki/`.
 
-**Sessione del 2026-09-18 (quindicesima e ultima)** — Quindicesima e ultima sessione di lettura di *Peopleware: Productive Projects and Teams*: compilazione dei Capitoli 37 ("Chaos and Order"), 38 ("Free electrons") e 39 ("Holgar Danks"), che chiudono la **Parte 6** e il libro per intero. Diff rispetto agli appunti raw della quattordicesima sessione del 2026-09-17 (Capitoli 33-36, chiusura Parte 5). A seguire, nella stessa giornata, una seconda passata di coerenza ha verificato ed esteso tutte le pagine wiki correlate al libro ora completato — non solo quella dedicata.
+**Sessione del 2026-09-22** — Compilazione di due articoli della serie *Exploring Generative AI* di martinfowler.com, catturati come draft vuoti in una sessione precedente e ora studiati da Daniele con appunti personali reali: *The Economic Benefit of Refactoring* (Giles Edwards-Alexander) e *TDD inside the agent loop - theater or actual value?* (Birgitta Böckeler). Prima applicazione dello standard di compilazione introdotto con *Peopleware* (riscrittura in prosa, non riassunto; box `[!info] Approfondimento aggiunto in fase di compilazione` con ricerca online aggiuntiva) a contenuti di tipo `article`, non solo `book`.
 
 ## Raw aggiornati
 
-- **Peopleware: Productive Projects and Teams** — `raw/knowledge/book/peopleware-productive-projects-and-teams/content.md`
-  Corpo esteso con l'introduzione alla Parte 6, il Capitolo 37 (caos costruttivo, progetti pilota, coding war games, brainstorming), il Capitolo 38 (free electrons) e il Capitolo 39 (chiusura del libro, aneddoto di El Cordobés, Holger Danske). Frontmatter aggiornato: `status: done`, `study.completed_at: 2026-09-18`. Key Concepts, My Notes e My Takeaways completati (rimossi i placeholder `[... todo ...]` / `[... in progress ...]`).
-- **El Cordobés** — `raw/knowledge/person/el-cordobes/content.md` (nuovo)
-  Creato per la persona citata nell'aneddoto di chiusura del Capitolo 39. Nota trasparente in frontmatter: l'aneddoto specifico riportato da *Peopleware* non è stato rintracciato in una fonte primaria verificabile — la pagina riporta solo la biografia reale e verificata del torero.
+- **The Economic Benefit of Refactoring** — `raw/knowledge/article/refactoring-economic-benefit/content.md`
+  Frontmatter corretto: `topics` da `ai-engineering` (id di piano, errato in questo contesto) a `refactoring`, `ai-development` (id reali della tassonomia `wiki/topics/`); `status: captured` → `studied`; `study.started_at`/`completed_at: 2026-09-22`. Sezione "Connections" corretta con i link giusti. Corpo (Summary, My Notes) lasciato intatto — appunti di Daniele, non modificati.
+- **TDD inside the agent loop - theater or actual value?** — `raw/knowledge/article/tdd-in-the-agent-loop/content.md`
+  Stesse correzioni di frontmatter: `topics` → `tdd`, `ai-development`; `status: studied`; date di studio `2026-09-22`. "Connections" corretta.
 
-## Pagina wiki compilata aggiornata
+## Pagine wiki compilate create
 
-- **Peopleware: Productive Projects and Teams** — [[content/book/peopleware-productive-projects-and-teams|pagina]]
-  Estesa con la Parte 6 per intero (Capitoli 37-39), con un box di approfondimento sulla corrispondenza fra i Coding War Games del libro e il moderno "hackathon" (origine 1999, doppia nascita indipendente a Calgary/OpenBSD e alla JavaOne di Sun Microsystems) e uno sulla figura storica di Holger Danske/Holgar Danks. "Concetti chiave" esteso con quattro nuovi bullet, "My Takeaways" con cinque nuovi punti (33-37). Banner aggiornato da "lettura in corso" a "lettura completata — 15 sessioni, dal 2026-08-23 al 2026-09-18". Frontmatter: `status: done`, `study.completed_at: 2026-09-18`.
-- **El Cordobés** — [[content/person/el-cordobes|pagina]] (nuova)
-  Biografia di Manuel Benítez Pérez, con nota trasparente sulla non verificabilità dell'aneddoto specifico citato dal libro.
+- **The Economic Benefit of Refactoring** — [[content/article/refactoring-economic-benefit|pagina]] (nuova)
+  Sintesi in prosa dei tre concetti chiave (refactoring, token, input/output), dei tre passaggi dell'esperimento (baseline 159k token → cleanup 8h → risultato 27k token, -83%) e delle tre lezioni sorprendenti (l'AI non si autopulisce, l'organizzazione conta più della dimensione, l'"effetto scogliera"), ciascuna con paragrafo dedicato. Due box di approfondimento con ricerca online: dati di Augment Code e Vantage sul token spend nei loop agentici, e il report DORA 2025 sull'AI come amplificatore delle pratiche esistenti. Sezione di note personali che collega l'articolo al suo gemello sul TDD.
+- **TDD inside the agent loop - theater or actual value?** — [[content/article/tdd-in-the-agent-loop|pagina]] (nuova)
+  Sintesi in prosa dell'esperimento di Böckeler (tre workflow, tre risultati principali, la tabella dei quattro obiettivi umani del TDD vs la realtà per un agente, i quattro approcci alternativi proposti), ciascun elemento enumerato con paragrafo dedicato. Tre box di approfondimento con ricerca online, esplicitamente richiesti da Daniele: il contro-parere di Jason Gorman (il TDD aiuta a gestire il contesto limitato del modello, non la qualità del design), il filone "TDD per la fiducia nel comportamento" (SD Times, caso Ask Redfin), e la ricerca su TDAD che distingue cosa del TDD serve solo all'umano (il rituale rosso-verde-refactor) da cosa resta utile anche per l'agente (sapere quali test sono rilevanti). Sezione di note personali che sviluppa l'idea di Daniele del TDD come "checkpoint umano" nel loop, collegata a *Humans and Agents in Software Engineering Loops* già in archivio.
 
-## Pagine del piano e indice aggiornate
+## Pagine Topic aggiornate
 
-- **Learning Plan** — [[plan/learning-plan|pagina]]
-  Topic "People & Software Management" segnato come completato (`Peopleware` → `status: done`). Aggiunta la sezione "Cosa leggere dopo Peopleware", con le 5 opzioni concrete già presenti nel piano (Infrastructure as Code, AI Engineering, Empowered, Finance for Managers, Just Enough Research) e un richiamo al Backlog. Nota storica sul disallineamento dell'agosto 2026 preservata, non riscritta.
-- **`raw/learning/current.yml`** — Learning Item `Peopleware` → `status: done`.
-- **Study LLM Wiki — Index** — [[index|pagina]]
-  "Stato attuale" aggiornato per riflettere 1 Topic completato su 6 e il link alla sezione "Cosa leggere dopo Peopleware".
+- **Refactoring** — [[topics/refactoring|pagina]]
+  Nuova sezione "Il refactoring come leva economica nell'era degli agenti AI", con box DORA 2025. Footnote `[^refactoring-economic]` aggiunta, Sintesi e Vedi anche estesi.
+- **TDD** — [[topics/tdd|pagina]]
+  Nuova sezione "TDD dentro il loop degli agenti: teatro o valore reale?", che sintetizza il verdetto di Böckeler, il contro-parere di Gorman e la ricerca su TDAD, con un box di lettura conciliante (autonomia piena vs checkpoint umani). Footnote `[^tdd-agent-loop]` aggiunta, Sintesi riscritta per includere il nuovo asse "cosa succede quando il TDD lo esegue un agente", Vedi anche esteso.
+- **AI Development** — [[topics/ai-development|pagina]]
+  Nuova sezione "L'economia e la disciplina del lavoro con agenti di coding", che introduce entrambi gli articoli come coppia complementare (costo economico della struttura del codice / disciplina di processo del TDD) e rimanda ai topic dedicati per l'approfondimento. Sintesi estesa da tre a quattro livelli, footnote e Vedi anche aggiornati.
 
-## Pagine Topic aggiornate (seconda passata di coerenza, stessa giornata)
+## Pagine di indice aggiornate
 
-Verifica esplicita di tutti i Topic dichiarati nel frontmatter della pagina compilata (`tech-lead`, `leadership`, `psychological-safety`, `technical-excellence`): solo `tech-lead` risultava aggiornato dalla sessione precedente, gli altri tre citavano *Peopleware* solo come link passivo (`leadership`) o non lo citavano affatto (`psychological-safety`, `technical-excellence`), nonostante il libro fosse dichiarato pertinente fin dall'inizio. Integrati tutti e tre con contenuto reale tratto dal libro ora completo, non solo con il link:
-
-- **Tech Lead** — [[topics/tech-lead|pagina]]
-  Box di approfondimento sostituito: da "appunti ancora uno stub" a sintesi diretta del libro completo, con collegamento fra il potere di veto sulla delivery (*Peopleware*) e lo slack di controllo (*Slack*, stesso autore), e fra brain time/body time e la Legge di Lister già citata. *(Aggiornato nella sessione precedente, 2026-09-17; solo la data di frontmatter è stata allineata oggi.)*
-- **Psychological Safety** — [[topics/psychological-safety|pagina]] (nuova sezione)
-  Aggiunta "Teamicidio: le tecniche, spesso involontarie, con cui i manager distruggono la sicurezza psicologica" — le nove tecniche di teamicidio dei Capitoli 23-24 (defensive management, burocrazia, separazione fisica, frammentazione del tempo, riduzione della qualità, scadenze fasulle, controllo delle cricche, poster motivazionali, straordinario), lo stile Open Kimono del Capitolo 27 come loro opposto, e la citazione "the right to be right is irrelevant; it's only the right to be wrong that makes you free" collegata esplicitamente alla definizione di Edmondson. Box di approfondimento sullo Skunk Works. Sintesi e "Vedi anche" estesi con i link a Peopleware, Tom DeMarco, Timothy Lister.
-- **Leadership** — [[topics/leadership|pagina]] (nuova sezione)
-  Aggiunta "Autorità, autonomia e cambiamento in Peopleware" — Open Kimono, potere di veto, free electrons (Capitolo 38), e il parallelo di chiusura del libro (l'aneddoto di El Cordobés, Capitolo 39) collegato esplicitamente alla definizione di leadership come arruolamento già discussa nel libro *Slack* dello stesso DeMarco. Nuova nota a piè di pagina `[^peopleware]`, "Vedi anche" esteso con DeMarco, Lister, El Cordobés.
-- **Technical Excellence** — [[topics/technical-excellence|pagina]] (nuova sezione)
-  Aggiunta "La qualità come standard del team, non del mercato: l'argomento di Peopleware" — il Capitolo 4 ("Quality, if time permit"): flight from excellence, Philip Crosby e *Quality Is Free*, l'esempio giapponese (Tajima/Matsubara), il potere di veto collegato alla stessa argomentazione economica già presente nel topic tramite Fowler. Box di approfondimento su Crosby. Sintesi, indice delle fonti e "Vedi anche" estesi.
+- **By Type** — [[by-type|pagina]] — totale 78→80 contenuti, Article 35→37, le due nuove voci inserite in ordine alfabetico con annotazione *(studiato 2026-09-22)*.
+- **Completati** — [[completed|pagina]] — stessa correzione di conteggio, elenco alfabetico aggiornato con le due nuove voci.
+- **Study LLM Wiki — Index** — [[index|pagina]] — "Stato attuale" aggiornato con la nuova nota sui due articoli e il totale a 80.
 
 ## Vedi anche
 
-- [[content/book/peopleware-productive-projects-and-teams|Peopleware: Productive Projects and Teams]]
-- [[content/person/el-cordobes|El Cordobés]]
-- [[content/person/tom-demarco|Tom DeMarco]]
-- [[content/person/timothy-lister|Timothy Lister]]
-- [[plan/learning-plan|Learning Plan]]
-- [[topics/tech-lead|Tech Lead]]
-- [[topics/leadership|Leadership]]
-- [[topics/psychological-safety|Psychological Safety]]
-- [[topics/technical-excellence|Technical Excellence]]
+- [[content/article/refactoring-economic-benefit|The Economic Benefit of Refactoring]]
+- [[content/article/tdd-in-the-agent-loop|TDD inside the agent loop - theater or actual value?]]
+- [[topics/refactoring|Refactoring]]
+- [[topics/tdd|TDD]]
+- [[topics/ai-development|AI Development]]

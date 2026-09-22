@@ -1,14 +1,14 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # By Type
 
 Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i topic a cui ciascun elemento è agganciato. Per la vista organizzata per argomento si veda [[topics/agile-software-development|Topics]]; per l'archivio grezzo importato da Recall si veda [[knowledge-archive|Archivio Recall importato]].
 
-**Totale: 78 contenuti** (25 book, 35 article, 10 video, 3 conference, 3 podcast, 2 course). Le 3 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video — vedi [[index|nota in home]].
+**Totale: 80 contenuti** (25 book, 37 article, 10 video, 3 conference, 3 podcast, 2 course). Le 5 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video, 2 il 2026-09-22 (i primi due articoli studiati con appunti personali reali, non solo catturati) — vedi [[index|nota in home]].
 
 ### Book (25)
 
@@ -38,7 +38,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **When Will It Be Done?** — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]] — tech-lead, product-development
 - **Working Backwards** — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]] — product-development
 
-### Article (35)
+### Article (37)
 
 - **10 Things You Would Expect From a Technical Lead** — [[content/article/10-things-you-would-expect-from-a-technical-lead|pagina]] — communication, tech-lead
 - **20 Principles To Learn and Lead** — [[content/article/20-principles-to-learn-and-lead|pagina]] — tech-lead, leadership, learning
@@ -63,8 +63,10 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **Productivity** — [[content/article/productivity|pagina]] — agile-software-development
 - **Psychological Safety - PlasticBlog** — [[content/article/psychological-safety-plasticblog|pagina]] — leadership, psychological-safety
 - **Six Rules for Designing Company Goals** — [[content/article/six-rules-for-designing-company-goals|pagina]] — leadership
+- **TDD inside the agent loop - theater or actual value?** *(studiato 2026-09-22)* — [[content/article/tdd-in-the-agent-loop|pagina]] — tdd, ai-development
 - **Tech Debt Explained to Everyone** — [[content/article/tech-debt-explained-to-everyone|pagina]] — tech-lead, agile-software-development, tech-debt, technical-excellence
 - **The Developer Productivity Trap** — [[content/article/the-developer-productivity-trap|pagina]] — software-development
+- **The Economic Benefit of Refactoring** *(studiato 2026-09-22)* — [[content/article/refactoring-economic-benefit|pagina]] — refactoring, ai-development
 - **The Elephant Carpaccio** — [[content/article/the-elephant-carpaccio-intre|pagina]] — agile-software-development
 - **The Engineer → Executive Translation Layer** — [[content/article/the-engineer-executive-translation-layer|pagina]] — leadership
 - **The Golden Rules of Agent-First Product Engineering** — [[content/article/the-golden-rules-of-agent-first-product|pagina]] — ai, agile-software-development

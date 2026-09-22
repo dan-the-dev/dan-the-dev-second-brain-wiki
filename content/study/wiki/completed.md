@@ -1,12 +1,12 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-08-27
+updated: 2026-09-22
 ---
 
 # Completati
 
-Elenco dei 78 contenuti compilati in questo archivio (25 book, 35 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 3 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" e 1 video il 2026-08-27 (status ancora `to_read`/`to_watch`, non ancora segnati come studiati — restano inclusi qui perché la pagina compilata esiste già; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio). Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco degli 80 contenuti compilati in questo archivio (25 book, 37 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 5 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" (status ancora `to_read`/`to_watch`, non ancora segnati come studiati), 1 video il 2026-08-27 (idem), e 2 articoli il 2026-09-22, *The Economic Benefit of Refactoring* e *TDD inside the agent loop* — i primi due contenuti di questo archivio studiati per intero con appunti personali reali (`status: studied`), non solo catturati; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
 ## Timeline (cronologia parziale, a memoria di Daniele)
 
@@ -109,10 +109,12 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **Slack** (book) — Tom DeMarco — [[content/book/slack-getting-past-burnout-busywork-and-the-myth|pagina]]
 - **Talking with Tech Leads** (book) — Patrick Kua — [[content/book/talking-with-tech-leads-from-novices-to|pagina]]
 - **TDD Conference 2021** (conference) — [[content/conference/tdd-conference-2021|pagina]]
+- **TDD inside the agent loop - theater or actual value?** (article) *(studiato 2026-09-22)* — [[content/article/tdd-in-the-agent-loop|pagina]]
 - **Tech Debt Explained to Everyone** (article) — [[content/article/tech-debt-explained-to-everyone|pagina]]
 - **Test-Driven Development: By Example** (book) — Kent Beck — [[content/book/test-driven-development-by-example|pagina]]
 - **The Developer Productivity Trap** (article) — [[content/article/the-developer-productivity-trap|pagina]]
 - **The DevOps Handbook** (book) — Gene Kim, Jez Humble, Patrick Debois, John Willis — [[content/book/the-devops-handbook|pagina]]
+- **The Economic Benefit of Refactoring** (article) *(studiato 2026-09-22)* — [[content/article/refactoring-economic-benefit|pagina]]
 - **The Elephant Carpaccio** (article) — [[content/article/the-elephant-carpaccio-intre|pagina]]
 - **The Engineer → Executive Translation Layer** (article) — [[content/article/the-engineer-executive-translation-layer|pagina]]
 - **The Fearless Organization** (book) — Amy C. Edmondson — [[content/book/fearless-organization-creating-psychological|pagina]]
