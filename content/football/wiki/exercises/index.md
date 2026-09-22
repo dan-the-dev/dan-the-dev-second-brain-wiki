@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-17
+updated: 2026-09-22
 tags: [football, exercises, index]
 ---
 
@@ -28,6 +28,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
 | [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
 | [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
+| [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] 🟡 schema da confermare | 14 (2x7) | Due stazioni speculari da 7 postazioni: scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
 
 ## Riscaldamento atletico
 
@@ -64,6 +65,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[forza-esplosiva-circuito\|Forza esplosiva — circuito]] | tutta la squadra | Circuito di forza esplosiva arti inferiori; ⚠️ composizione esatta usata da confermare, 3 circuiti proposti da ricerca online |
 | [[rapidita-scaletta\|Rapidità con scaletta]] | tutta la squadra | Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazione |
 | [[sprint-piramidale-10-20-30\|Sprint piramidale 10-20-30 metri]] | tutta la squadra | 4 ripetizioni sui 10m, 4 sui 20m, 4 sui 30m, tutte a intensità massimale |
+| [[ripetute-intermittenti-80-metri\|Ripetute intermittenti 80 metri]] | tutta la squadra | 2 blocchi da 5': 80 metri di corsa + recupero pari al tempo di lavoro, ciclo ripetuto per tutto il blocco (~15"/15") |
 
 ## Monitoraggio carico atletico
 

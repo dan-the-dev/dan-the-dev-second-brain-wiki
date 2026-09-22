@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-22
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -19,7 +19,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | N. | Giocatore | Anno | Note |
 |----|-----------|------|------|
 | 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato |
-| 2 | [[players/amdy\|Amdy]] | 2006 | Fuori rosa — non convocabile, si allena con la squadra. In cerca di secondo portiere. |
+| 2 | [[players/amdy\|Amdy]] | 2006 | Fuori rosa — non convocabile. ⚠️ **Dal 21/09/2026** comunicato da Daniele: non si allenerà più con la squadra. In cerca di secondo portiere. |
 
 ---
 
@@ -62,7 +62,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 |----|-----------|------|-------|------|
 | 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · **Infortunato dal 29/08** (distorsione alla caviglia di 2° grado), in attesa della diagnosi definitiva dopo gli esami — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
 | 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio |
-| 23 | [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta | ✓ confermato |
+| 23 | [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta | ✓ confermato · ⚠️ **Dal 21/09/2026** ha chiesto lo svincolo alla società (richiesta in corso, resta in rosa fino a conferma dell'uscita) |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |
 | 25 | [[players/matteo-sudano\|Sudano Matteo]] | 2008 | Esterno / seconda punta | 🆕 nuovo · Molto forte, segnalato testa calda. Amichevole 31/08: tanta qualità e corsa, fatica mentalmente ma si impegna se stimolato — ha conquistato il rigore del 2-0 |
 

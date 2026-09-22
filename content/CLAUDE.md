@@ -18,7 +18,8 @@ vault/
 │   │   │   ├── 1-casavo/
 │   │   │   ├── 2-mymenu/
 │   │   │   ├── 3-tourradar/
-│   │   │   └── 4-muffin/
+│   │   │   ├── 4-muffin/    (chiusa, 2026-09-04)
+│   │   │   └── 5-levels/    (attiva)
 │   │   ├── learning/
 │   │   └── career/
 │   └── wiki/
@@ -92,7 +93,7 @@ Quando nasce un nuovo progetto/dominio da tracciare nel vault:
 5. Se il progetto sostituisce o assorbe un progetto esistente, marca il vecchio come deprecato nella sezione "Vault structure" (vedi nota su `pmdraft/`) invece di cancellarne la memoria storica.
 
 ## Riferimento ai CLAUDE.md dei progetti
-- [[career-coach/CLAUDE.md]] — AI Career Coach: diario di lavoro, esperienze professionali, crescita di carriera (Muffin e aziende precedenti).
+- [[career-coach/CLAUDE.md]] — AI Career Coach: diario di lavoro, esperienze professionali, crescita di carriera (Levels, esperienza attiva dal 2026-09-14, e aziende precedenti tra cui Muffin, chiusa il 2026-09-04).
 - [[goals/CLAUDE.md]] — Goals & Habits: obiettivi e abitudini whole-life (non solo carriera), tracking semestrale H2 2026.
 - [[football/CLAUDE.md]] — Allenatore Calcio: gestione stagione Ardor Bollate Juniores (allenamenti, partite, giocatori, tattiche, esercizi).
 - [[study/CLAUDE.md]] — Study LLM Wiki: Professional Learning Plan (Topic, Learning Item, Knowledge, Decision History).

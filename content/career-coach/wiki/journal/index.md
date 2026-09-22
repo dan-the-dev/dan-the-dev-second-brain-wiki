@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-18
+updated: 2026-09-22
 tags: [journal, index]
 ---
 
@@ -10,6 +10,8 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-muffin/, 5-levels/)
 
 ## Entries recenti
+
+- [[20260921-levels-day6]] — 2026-09-21 · **Levels Day 6** · Inizio Settimana 2. Primo setup locale di SAS funzionante e connessioni DB (SAS + API dev); gap di documentazione individuati su repo SAS e repo utility script DB (task già su Todoist); Alberto chiede esplicitamente mentorship a Dan, prima richiesta spontanea del genere a Levels; scelto Resend come SMTP, mail service da progettare come "notifications service"; focus settimana sui test dell'account sub, in vista delle prime call di onboarding clienti la settimana prossima
 
 - [[20260918-levels-day5]] — 2026-09-18 · **Levels Day 5** · Fine Settimana 1. Refinement con Tommaso Lucarelli e Dario sul conteggio compliance subappaltatori (per sezioni, non documenti); prima osservazione diretta di Tommaso Vilotto (non legge codice né test generati dall'AI — seconda conferma dopo Alberto); SPI non testabile in locale, nuovo caso dello stesso problema di deploy/test; Peopleware finito; discussione UX in chat (possibile eco Pattern Jacopo/Muffin); retrospettiva Settimana 1 in [[../experiences/levels|wiki/experiences/levels]]
 - [[20260917-levels-day4]] — 2026-09-17 · **Levels Day 4** · Chiusura loop onboarding (TFR/fondo pensione, policy, benefit, 1:1 founder tranne Emanuele); dati prodotto aggiornati (MAU/DAU, bug ultimi 6 mesi); primo disaccordo esplicito con Dario su qualità vs velocità, con riferimenti raccolti (Fowler, Beck, DORA, Amazon, Basecamp) per la prossima conversazione; prime ipotesi su come introdurre test in un sistema che non ne ha; tema aperto licenze AI individuali vs condivise

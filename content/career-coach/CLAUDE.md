@@ -3,7 +3,7 @@
 ## Domain
 Dan's professional life: daily work journal, career experiences, professional growth.
 Dan is a Senior Developer and Tech Lead since 2012.
-Companies: Casavo (2019-?), Mymenu (?), Tour Radar (?), Muffin (current).
+Companies: Casavo (2019-?), Mymenu (?), Tour Radar (?), Muffin (2024-10-07 → 2026-09-04, closed), Levels (2026-09-14 → current).
 Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno, Tom DeMarco, ThoughtWorks.
 
 ## Filesystem
@@ -16,12 +16,13 @@ Il sync su GitHub avviene automaticamente tramite il plugin Git di Obsidian.
 
 ### Journal — due formati (NON mescolare)
 
-**LEGACY (immutabile)** — raw/journal/1-casavo/, 2-mymenu/, 3-tourradar/, 4-muffin/
+**LEGACY (immutabile)** — raw/journal/1-casavo/, 2-mymenu/, 3-tourradar/
 File singoli per giorno: YYYYMMDD-{company}-day{N}.md
 Importati da Notion e Reflection.app. NON modificare mai questi file.
 NON creare nuovi file in queste cartelle.
 
-**MODERN (da oggi in poi)** — raw/journal/4-muffin/YYYYMMDD/
+**MODERN** — raw/journal/4-muffin/YYYYMMDD/ (chiusa, esperienza terminata 2026-09-04),
+raw/journal/5-levels/YYYYMMDD/ (attiva, da usare per tutti i nuovi dump da oggi in poi)
 Cartella per ogni giorno lavorativo con file separati.
 Tutti i file in questa cartella sono RAW — input grezzi, mai modificati dopo creazione.
 - morning-brief.md     → creato da Cowork durante il morning brief, o su richiesta
@@ -29,7 +30,7 @@ Tutti i file in questa cartella sono RAW — input grezzi, mai modificati dopo c
 - evening.md           → dump finale di fine giornata (da iPhone o desktop)
 
 ### Wiki journal (compilato — unica versione leggibile)
-wiki/journal/YYYYMMDD-muffin-day{N}.md
+wiki/journal/YYYYMMDD-{company}-day{N}.md (company = azienda attiva al momento, es. "levels")
 Generato da Cowork quando arriva evening.md.
 Questo è il diario leggibile — NON i raw.
 wiki/journal/index.md → lista cronologica di tutti i journal compilati.
@@ -51,49 +52,52 @@ wiki/journal/index.md → lista cronologica di tutti i journal compilati.
 
 ## Journal frontmatter schema
 
-### Morning brief — raw/journal/4-muffin/YYYYMMDD/morning-brief.md
+### Morning brief — raw/journal/5-levels/YYYYMMDD/morning-brief.md
 ---
 title: Morning Brief YYYY-MM-DD
 date: YYYY-MM-DD
 type: morning-brief
-company: muffin
+company: levels
 day_number: N
 updated: YYYY-MM-DD
 ---
 
-### Dump intraday — raw/journal/4-muffin/YYYYMMDD/dump-HHMM.md
+### Dump intraday — raw/journal/5-levels/YYYYMMDD/dump-HHMM.md
 ---
 title: Dump YYYY-MM-DD HHMM
 date: YYYY-MM-DD
 time: HH:MM
 type: intraday-dump
-company: muffin
+company: levels
 source: iphone|desktop
 updated: YYYY-MM-DD
 ---
 
-### Evening dump — raw/journal/4-muffin/YYYYMMDD/evening.md
+### Evening dump — raw/journal/5-levels/YYYYMMDD/evening.md
 ---
 title: Evening YYYY-MM-DD
 date: YYYY-MM-DD
 type: evening-dump
-company: muffin
+company: levels
 source: iphone|desktop
 updated: YYYY-MM-DD
 ---
 
-### Wiki journal compilato — wiki/journal/YYYYMMDD-muffin-dayN.md
+### Wiki journal compilato — wiki/journal/YYYYMMDD-levels-dayN.md
 ---
 title: Journal YYYY-MM-DD
 date: YYYY-MM-DD
-company: muffin
+company: levels
 day_number: N
 has_morning_brief: true|false
 dumps_count: N
 has_evening: true|false
-tags: [journal, muffin, daily]
+tags: [journal, levels, daily]
 updated: YYYY-MM-DD
 ---
+
+Nota: gli schemi sopra usano "levels" come azienda corrente (dal 2026-09-14). Quando cambierà
+di nuovo l'azienda attiva, aggiornare company/tags/percorsi qui e nelle Modalità operative sotto.
 
 ## Modalità operative
 
@@ -102,10 +106,10 @@ Trigger: Daniele dice "buongiorno" / "brief" / "morning" / task schedulato
 
 1. Leggi Google Calendar — eventi di oggi
 2. Leggi Todoist — task in scadenza oggi o arretrati
-3. Leggi gli ultimi 3 file evening.md in raw/journal/4-muffin/ — cose in sospeso
-4. Determina day_number: conta file legacy + cartelle modern in 4-muffin/
-5. Crea cartella raw/journal/4-muffin/YYYYMMDD/ se non esiste
-6. Scrivi raw/journal/4-muffin/YYYYMMDD/morning-brief.md con:
+3. Leggi gli ultimi 3 file evening.md in raw/journal/5-levels/ — cose in sospeso
+4. Determina day_number: conta file legacy + cartelle modern in 5-levels/
+5. Crea cartella raw/journal/5-levels/YYYYMMDD/ se non esiste
+6. Scrivi raw/journal/5-levels/YYYYMMDD/morning-brief.md con:
    - Agenda del giorno (eventi calendario con orari)
    - Task prioritari (da Todoist + sospesi dai journal precedenti)
    - Focus del giorno (1 cosa sola, la più importante)
@@ -116,7 +120,7 @@ Trigger: Daniele dice "buongiorno" / "brief" / "morning" / task schedulato
 ### 💬 DUMP INTRADAY
 Trigger: Daniele manda un messaggio breve durante il giorno
 
-1. Scrivi raw/journal/4-muffin/YYYYMMDD/dump-HHMM.md (HHMM = ora attuale)
+1. Scrivi raw/journal/5-levels/YYYYMMDD/dump-HHMM.md (HHMM = ora attuale)
    con frontmatter corretto e contenuto del dump
 2. Se emerge un task → aggiungilo su Todoist immediatamente
 3. Se emerge una decisione → scrivila nel file con prefisso [DECISIONE]
@@ -126,7 +130,7 @@ Trigger: Daniele manda un messaggio breve durante il giorno
 Trigger: Daniele dice "fine giornata" / "journal" / manda dump lungo serale
 
 PARTE 1 — Salva il raw:
-1. Scrivi raw/journal/4-muffin/YYYYMMDD/evening.md
+1. Scrivi raw/journal/5-levels/YYYYMMDD/evening.md
    con frontmatter corretto e contenuto del dump
 2. Estrai proattivamente tutti i task dal contenuto del dump e dall'evening.md.
    Default: progetto "Lavoro", data domani.
@@ -135,9 +139,9 @@ PARTE 1 — Salva il raw:
 3. Marca come completati i task done menzionati nel dump
 
 PARTE 2 — Compila il wiki journal:
-4. Leggi TUTTI i file della cartella raw/journal/4-muffin/YYYYMMDD/:
+4. Leggi TUTTI i file della cartella raw/journal/5-levels/YYYYMMDD/:
    morning-brief.md + tutti i dump-HHMM.md + evening.md
-5. Scrivi wiki/journal/YYYYMMDD-muffin-dayN.md con questa struttura:
+5. Scrivi wiki/journal/YYYYMMDD-levels-dayN.md con questa struttura:
 
 ---
 title: Journal YYYY-MM-DD
@@ -171,7 +175,7 @@ cosa resta aperto, cosa hai imparato]
 [OBBLIGATORIA — vedi dettagli sotto, subito dopo il template]
 
 6. Aggiorna wiki/journal/index.md aggiungendo in cima il link alla nuova entry:
-   - [[YYYYMMDD-muffin-dayN|DD MMM YYYY — titolo breve del giorno]]
+   - [[YYYYMMDD-levels-dayN|DD MMM YYYY — titolo breve del giorno]]
 
 ### 🎓 Riflessione da career coach — SEMPRE, ad ogni compilazione del wiki journal
 
@@ -197,7 +201,7 @@ una sezione `## 🎓 Riflessione da career coach` — un blockquote (`> [!tip]+`
 
 ### Retrospettiva settimanale (ogni domenica)
 Leggi tutti i journal compilati della settimana in wiki/journal/
-Aggiorna wiki/experiences/muffin.md, wiki/patterns/index.md,
+Aggiorna wiki/experiences/levels.md, wiki/patterns/index.md,
 wiki/people/ se emergono nuovi elementi.
 
 ### Retrospettiva mensile (ultima domenica del mese)
@@ -279,7 +283,7 @@ tipicamente dopo un'analisi incrociata fra i journal e un contenuto esterno.
   (vedi dettagli in Modalità operative → EVENING DUMP), con riferimento esplicito a
   eccellenze del settore (Tom DeMarco, Martin Fowler, ThoughtWorks, Kent Beck, Taiichi
   Ohno, ecc.) pertinenti a quanto accaduto
-- Determina day_number contando file legacy + cartelle modern in 4-muffin/
+- Determina day_number contando file legacy + cartelle modern in 5-levels/
 - Cross-linka sempre le entry wiki con [[wikilinks]] verso pagine correlate
 - Flagga contraddizioni invece di sovrascrivere silenziosamente
 - Italiano per i contenuti personali, inglese per frontmatter e tag tecnici
@@ -291,7 +295,7 @@ tipicamente dopo un'analisi incrociata fra i journal e un contenuto esterno.
 - Task estratti dal dump evening → progetto "Lavoro", data domani (default)
 - Task estratti dal morning brief → progetto "Lavoro", data oggi (default)
 - Task estratti da dump intraday → progetto "Lavoro", data oggi (default)
-- Se dal contesto è chiaro un progetto diverso (es. menziona Muffin, 
+- Se dal contesto è chiaro un progetto diverso (es. menziona Levels,
   Ardor, PMDraft, spese) → usa il progetto corretto
 - Dopo aver creato i task dimmi sempre quali hai aggiunto e dove
 - Chiedi conferma SOLO per: eventi calendario, decisioni strategiche irreversibili

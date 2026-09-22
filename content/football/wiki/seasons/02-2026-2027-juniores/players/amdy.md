@@ -1,7 +1,7 @@
 ---
 title: "Amdy"
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Amdy
@@ -23,6 +23,7 @@ updated: 2026-09-20
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ❌ no |
 | 14/09/2026 | allenamento | ❌ no |
+| 21/09/2026 | allenamento | ❌ no |
 
 ---
 
@@ -49,4 +50,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-Nessuna nota personale specifica registrata finora.
+**21/09/2026** — Daniele comunica che Amdy non verrà più ad allenarsi con la squadra: considerarlo assente di default nei prossimi allenamenti. (fonte: [[../sessions/20260921|allenamento]])

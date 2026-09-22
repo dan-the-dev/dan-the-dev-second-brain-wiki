@@ -1,7 +1,7 @@
 ---
 title: "Lentini Francesco"
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Lentini Francesco
@@ -23,6 +23,7 @@ updated: 2026-09-20
 | 07/09/2026 | allenamento | ✅ sì |
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
+| 21/09/2026 | allenamento | ✅ sì |
 
 ---
 

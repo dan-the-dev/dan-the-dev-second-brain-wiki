@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Boniardi Alessandro
@@ -23,6 +23,7 @@ updated: 2026-09-20
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ❌ no |
 | 14/09/2026 | allenamento | ❌ no |
+| 21/09/2026 | allenamento | ✅ sì |
 
 ⚠️ Infortunato dal 29/08/2026 al 14/09/2026 (vedi tabella infortuni sotto): segnato assente da tutti gli allenamenti e partite in questa finestra. Rientrato in gruppo il 14/09 (lavoro atletico individuale il 15/09, non convocabile), prima convocazione ufficiale il 19/09/2026.
 

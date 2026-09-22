@@ -1,7 +1,7 @@
 ---
 title: "Iannace Federico"
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Iannace Federico
@@ -23,6 +23,7 @@ updated: 2026-09-20
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
+| 21/09/2026 | allenamento | ❌ no |
 
 ---
 
@@ -48,5 +49,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 ---
 
 ## 📝 Note personali
+
+**21/09/2026** — Daniele comunica che ha chiesto lo svincolo alla società (richiesta in corso): considerarlo assente di default nei prossimi allenamenti. (fonte: [[../sessions/20260921|allenamento]])
 
 **09/09/2026** — Prestazione positiva notata in allenamento. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

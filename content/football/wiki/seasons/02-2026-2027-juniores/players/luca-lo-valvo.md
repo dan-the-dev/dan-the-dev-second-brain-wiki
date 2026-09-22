@@ -1,7 +1,7 @@
 ---
 title: "Lo Valvo Luca"
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Lo Valvo Luca
@@ -23,6 +23,7 @@ updated: 2026-09-20
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ❌ no |
 | 14/09/2026 | allenamento | ✅ sì |
+| 21/09/2026 | allenamento | ✅ sì |
 
 ---
 
