@@ -28,7 +28,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
 | [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
 | [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
-| [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] 🟡 schema da confermare | 14 (2x7) | Due stazioni speculari da 7 postazioni: scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
+| [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] | 14 (2x7), min. 10 | Due stazioni speculari da 7 postazioni ("Passing Drill - Barcellona"): scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
 
 ## Riscaldamento atletico
 
@@ -54,6 +54,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-de-zerbi-6v2-piu-1\|Rondo alla De Zerbi — 6v2 +1 jolly centrale mobile]] | 9 (6+1+2) | Costruzione posizionale: appoggi ad angolo e circolazione centrale compatta contro 2 difensori che pressano in coppia |
 | [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
 | [[possesso-4v4-piu-3-barcellona\|Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)]] | 11 (4+4+3) | Possesso 7v4 (4 attaccanti + 3 jolly contro 4 difendenti) in area 30x20m; ultimo minuto di ogni serie da 10' con obiettivo "passaggio veloce" (120 passaggi in 3'). Storicamente usato dal Barcellona di Guardiola (2007-08) |
+| [[possesso-5v2-transizione-doppio-campo\|Possesso 5 contro 2 con transizione a doppio campo]] | 20 (2 campi, 5v5 per campo) | 2 campi ~25x30m divisi in due metà: possesso 5 contro 2 in una metà, 1 punto se la squadra in inferiorità recupera senza tenerla, 3 punti se recupera e serve i compagni nell'altra metà (che riparte lì con ruoli invertiti). Sessioni 4-5' + 1' recupero |
 
 ## Preparazione atletica
 
