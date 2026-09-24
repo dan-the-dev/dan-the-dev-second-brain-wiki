@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-22
+updated: 2026-09-24
 tags: [journal, index]
 ---
 
@@ -10,6 +10,8 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-muffin/, 5-levels/)
 
 ## Entries recenti
+
+- [[20260924-levels-day9]] — 2026-09-24 · **Levels Day 9** · PR Cypress e PR velocità unit test (Dan + Alberto) mergeate, suite da 5 a 1 minuto sulla macchina di Alberto; [DECISIONE] Shortcut scelto con Dario, da condividere col team; lista e2e Cypress concordata con Dario (upload documenti = core value proposition); branch pipeline pronto (unit subito, e2e dopo stabilizzazione locale, linter/pre-commit in pausa per errori); prossimo passo mutation testing; domande pronte per 1:1 con Emanuele lunedì 28/09
 
 - [[20260923-levels-day8]] — 2026-09-23 · **Levels Day 8** · Proposta tool PM/dev board pronta (Shortcut vs Asana, decisione con Dario domani 14:00); PR utility script DB mergeata, PR Cypress ancora in sospeso; suite test SAS confermata a valore su ~130 campionati; lunga conversazione con Dario sui suoi dubbi su Slack (thread, UI, scetticismo generale) salvata come watch item scherzoso per il futuro; artifact recap tool pubblicato
 
