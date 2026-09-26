@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 47 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 58 | 0 | 0 | 0 | 0 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Assist per il 3-3 di Columpsi al 72'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Sostituito al 58' (dentro Lapiccirella), nessuna nota specifica sulla prestazione. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Prestazione negativa da subentrato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
 **12/09/2026** — Cresce nel finale insieme a Lasagna. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

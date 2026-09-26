@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-26
 tags: [football, opponents, 2026-27]
 ---
 
@@ -10,6 +10,24 @@ tags: [football, opponents, 2026-27]
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
 ← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
+
+---
+
+## Accademia Inveruno
+
+Bilancio: 0V 0P 1S (Campionato) — Gol fatti 3, gol subiti 4. Ritorno in programma il 23/01/2027 (girone Ritorno, in trasferta).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Campionato | Giornata 3 | 26/09/2026 | 🏠 Casa | 3-4 | S | [[matches/20260926\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Giornata 3 del 26/09)
+
+- **Modulo:** 3-5-2.
+- **Impressioni generali:** squadra fisica, ritmo alto. Giocano poco a calcio ma hanno tanta mentalità.
+- **Come ci hanno battuto:** hanno punito subito i nostri errori (palla persa a metà campo al 3'), le seconde palle in area (2-3 su tiro da fuori respinto) e le transizioni (3-4 in contropiede, subito dopo il nostro 3-3). Avevano anche un rigore, parato da Palmisano.
+- **Disciplina:** 3 gialli e un rosso all'84'.
+- **Nota per il ritorno:** contro la loro intensità servono partenza pulita, niente rischi in costruzione a metà campo e fallo tattico sulle ripartenze — vedi [[matches/20260926#-consigli-da-coach|consigli da coach]].
 
 ---
 

@@ -80,8 +80,8 @@ Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando s
 
 | Giocatore | Anno | Note |
 |-----------|------|------|
-| [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato una tantum per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi. |
-| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09) — titolare nel 4-2-3-1, sostituito al 78'. |
+| [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi e per Campionato Giornata 3 (26/09, 90', gol del 2-2). |
+| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09, titolare nel 4-2-3-1, sostituito al 78') e Giornata 3 (26/09, 90' nel 4-3-3). |
 
 ---
 

@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 25 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 43 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 8 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -46,12 +47,13 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| 15/09/2026 | In corso | Problema alla caviglia rimediato nella gara di Coppa vs Leone XIII Sport (sostituito al 43') | 23/09/2026: prova ad allenarsi ma si ferma a metà seduta per la caviglia. Da monitorare. |
+| 15/09/2026 | 26/09/2026 | Problema alla caviglia rimediato nella gara di Coppa vs Leone XIII Sport (sostituito al 43') | ✅ Risolto. Il 23/09 si era fermato a metà seduta; allenamento del 24/09 svolto, rientro in campo il 26/09 vs Accademia Inveruno (8 minuti). |
 
 ---
 
 ## 📝 Note personali
 
+**26/09/2026** — Rientro in campo dopo il problema alla caviglia del 15/09: entra all'82' al posto di Lasagna. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Prova ad allenarsi ma si ferma a metà seduta, sempre per la caviglia (infortunio nella gara contro il Leone XIII). Da monitorare. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Non convocato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Finalmente buone risposte, miglioramento netto rispetto alle uscite precedenti. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

@@ -41,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 37 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 23 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -54,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Rientro in campo dopo la mononucleosi: entra al 67' con il passaggio al 3-4-1-2, un tiro da fuori all'88'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Segnato presente nel dump dell'allenamento, dopo lo stop per mononucleosi dal 14/09: rientro in gruppo, confermato da Daniele il 26/09/2026. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[seasons/02-2026-2027-juniores/injuries|infortuni]]. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
 **12/09/2026** — Entra molto bene a partita in corso, adattato con profitto anche a sinistra. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

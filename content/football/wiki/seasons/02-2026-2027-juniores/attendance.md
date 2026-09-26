@@ -12,35 +12,35 @@ Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora
 
 ⚠️ **Le presenze del 02/09/2026 sono ancora provvisorie**: impostate identiche a quelle del 01/09, in attesa di conferma da Daniele. Le presenze del 07/09/2026 sono invece state **confermate da Daniele il 09/09/2026** (coincidono con l'impostazione provvisoria copiata dal 27/08, con l'eccezione di Boniardi Alessandro spostato tra gli assenti per infortunio). I contatori sotto includono entrambe le date; quelli del 02/09 verranno ricalcolati se necessario alla conferma.
 
-Partite ufficiali disputate finora: 4 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3 V; Campionato Giornata 1, 12/09/2026 vs Football Club Parabiago, 2-3 V; Coppa Lombardia Gara 2, 15/09/2026 vs Leone XIII Sport, 1-5 S; Campionato Giornata 2, 19/09/2026 vs Centro Giov. Boffalorese, 3-4 V). Nota: sono stati aggregati una tantum dalla Prima Squadra anche Frassinelli Lorenzo (Gara 2, 15/09) e Banfi Paolo (Giornata 2, 19/09) — entrambi 2007, non in rosa Juniores, non conteggiati in questa tabella, vedi le loro pagine dedicate ([[players/lorenzo-frassinelli|Frassinelli]], [[players/paolo-banfi|Banfi]]). All'allenamento del 23/09 hanno partecipato anche Marazzi e Montagner (Prima Squadra, non convocabili in Juniores): non conteggiati.
+Partite ufficiali disputate finora: 5 (Coppa Lombardia Gara 1, 05/09/2026 vs Bresso Calcio, 0-3 V; Campionato Giornata 1, 12/09/2026 vs Football Club Parabiago, 2-3 V; Coppa Lombardia Gara 2, 15/09/2026 vs Leone XIII Sport, 1-5 S; Campionato Giornata 2, 19/09/2026 vs Centro Giov. Boffalorese, 3-4 V; Campionato Giornata 3, 26/09/2026 vs Accademia Inveruno, 3-4 S). ⚠️ Per la Giornata 3 il dump riporta solo i 15 scesi in campo: i convocati rimasti in panchina senza minuti non sono conteggiati, finché Daniele non fornisce la lista completa. Nota: sono stati aggregati una tantum dalla Prima Squadra anche Frassinelli Lorenzo (Gara 2 del 15/09 e Giornata 3 del 26/09) e Banfi Paolo (Giornate 2 e 3, 19/09 e 26/09) — entrambi 2007, non in rosa Juniores, non conteggiati in questa tabella, vedi le loro pagine dedicate ([[players/lorenzo-frassinelli|Frassinelli]], [[players/paolo-banfi|Banfi]]). All'allenamento del 23/09 hanno partecipato anche Marazzi e Montagner (Prima Squadra, non convocabili in Juniores): non conteggiati.
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
-| Boniardi | Alessandro | 6 | 5 | 55% | 1 | 25% | 1 | 25% |
-| Boniardi | Edoardo | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Brana | Lorenzo | 11 | 0 | 100% | 2 | 50% | 0 | 0% |
-| Capretti | Guglielmo | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
-| Columpsi | Gabriele | 4 | 7 | 36% | 3 | 75% | 3 | 75% |
-| Curtarelli | Davide | 9 | 2 | 82% | 2 | 50% | 2 | 50% |
-| Cuzmin | Alessandro | 10 | 1 | 91% | 4 | 100% | 3 | 75% |
-| Di Bello | Leonardo | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
-| Favaron | Diego | 9 | 2 | 82% | 3 | 75% | 3 | 75% |
-| Grassi | Eric | 11 | 0 | 100% | 4 | 100% | 0 | 0% |
-| Grosso | Davide | 10 | 1 | 91% | 3 | 75% | 3 | 75% |
-| Iannace (svincolato) | Federico | 5 | 3 | 63% | 4 | 100% | 2 | 50% |
-| Lapiccirella | Alessandro | 5 | 6 | 45% | 3 | 75% | 2 | 50% |
-| Lasagna | Riccardo | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Lentini | Francesco | 10 | 1 | 91% | 4 | 100% | 0 | 0% |
-| Livelli | Luca | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
+| Boniardi | Alessandro | 6 | 5 | 55% | 2 | 40% | 2 | 40% |
+| Boniardi | Edoardo | 11 | 0 | 100% | 5 | 100% | 5 | 100% |
+| Brana | Lorenzo | 11 | 0 | 100% | 2 | 40% | 0 | 0% |
+| Capretti | Guglielmo | 10 | 1 | 91% | 5 | 100% | 5 | 100% |
+| Columpsi | Gabriele | 4 | 7 | 36% | 4 | 80% | 4 | 80% |
+| Curtarelli | Davide | 9 | 2 | 82% | 3 | 60% | 3 | 60% |
+| Cuzmin | Alessandro | 10 | 1 | 91% | 5 | 100% | 4 | 80% |
+| Di Bello | Leonardo | 9 | 2 | 82% | 5 | 100% | 5 | 100% |
+| Favaron | Diego | 9 | 2 | 82% | 3 | 60% | 3 | 60% |
+| Grassi | Eric | 11 | 0 | 100% | 4 | 80% | 0 | 0% |
+| Grosso | Davide | 10 | 1 | 91% | 4 | 80% | 4 | 80% |
+| Iannace (svincolato) | Federico | 5 | 3 | 63% | 4 | 80% | 2 | 40% |
+| Lapiccirella | Alessandro | 5 | 6 | 45% | 4 | 80% | 3 | 60% |
+| Lasagna | Riccardo | 11 | 0 | 100% | 5 | 100% | 5 | 100% |
+| Lentini | Francesco | 10 | 1 | 91% | 4 | 80% | 0 | 0% |
+| Livelli | Luca | 9 | 2 | 82% | 5 | 100% | 5 | 100% |
 | Lo Valvo | Luca | 7 | 4 | 64% | 0 | 0% | 0 | 0% |
-| Mingrone | Gabriele | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
-| Palmisano | Marco | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Parolini | Niccolò | 10 | 1 | 91% | 3 | 75% | 3 | 75% |
+| Mingrone | Gabriele | 10 | 1 | 91% | 4 | 80% | 4 | 80% |
+| Palmisano | Marco | 11 | 0 | 100% | 5 | 100% | 5 | 100% |
+| Parolini | Niccolò | 10 | 1 | 91% | 3 | 60% | 3 | 60% |
 | Pedullà | Samuele | 3 | 8 | 27% | 0 | 0% | 0 | 0% |
-| Riccio | Alessandro | 9 | 2 | 82% | 2 | 50% | 0 | 0% |
-| Simonato | Mattia Lorenzo | 8 | 3 | 73% | 3 | 75% | 0 | 0% |
-| Sudano | Matteo | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
-| Taronna | Francesco | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
+| Riccio | Alessandro | 9 | 2 | 82% | 2 | 40% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 8 | 3 | 73% | 3 | 60% | 0 | 0% |
+| Sudano | Matteo | 9 | 2 | 82% | 4 | 80% | 4 | 80% |
+| Taronna | Francesco | 10 | 1 | 91% | 5 | 100% | 5 | 100% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".

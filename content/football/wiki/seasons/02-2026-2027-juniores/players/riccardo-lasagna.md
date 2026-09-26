@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 78 | 0 | 0 | 0 | 0 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 82 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Suo il brutto passaggio a metà campo per Taronna da cui nasce lo 0-1 al 3' (seconda gara di fila con gol subito da una sua palla persa in costruzione). Poi assist per il 2-2 di Frassinelli al 49'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Due errori individuali in costruzione/palle inattive che portano a due gol subiti (palla persa al 6', schema d'angolo eseguito male al 58') — da lavorare nonostante il ruolo di capitano e metronomo. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **12/09/2026** — Cresce di condizione nel finale, come da copione, quando gli altri calano. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
 **05/09/2026** — Gran partita da regista; marcato a uomo dopo 10' senza che gli avversari riuscissero a fermarlo. (fonte: [[seasons/02-2026-2027-juniores/matches/20260905|partita]])

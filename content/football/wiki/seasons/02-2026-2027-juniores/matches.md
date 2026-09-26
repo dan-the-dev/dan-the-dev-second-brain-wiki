@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-26
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -27,7 +27,7 @@ updated: 2026-09-20
 | 1 | 12/09/2026 | Campionato Andata | ✈️ Trasferta | Football Club Parabiago | [[matches/20260912\|**2-3** (V)]] |
 | Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | [[matches/20260915\|**1-5** (S)]] |
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | [[matches/20260919\|**3-4** (V)]] |
-| 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | — |
+| 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | [[matches/20260926\|**3-4** (S)]] |
 | Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
 | 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | — |
 | 5 | 10/10/2026 | Campionato Andata | 🏠 Casa | Accademia Bustese | — |

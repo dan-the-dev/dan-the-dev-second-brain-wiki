@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Occasione per il pari sbagliata al 92'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Conquista il rigore del 2-2 involandosi in area e venendo steso. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **12/09/2026** — Molto solido al centro della difesa nei duelli individuali. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
 **31/08/2026** — Tra i nuovi arrivi più positivi (con Di Bello) secondo Teo: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])

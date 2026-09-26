@@ -41,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 12 | 0 | 0 | 0 | 0 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 55 | 1 | 0 | 0 | 0 |
 
 ---
 
@@ -54,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Titolare, segna l'1-1 al 13' sulla ribattuta dopo il contropiede Banfi-Frassinelli. Esce al 55'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Allenamento negativo: per Daniele è difficile pensare di farlo giocare, anche se Columpsi non si è allenato e davanti siamo in emergenza. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Prima convocazione e primi minuti stagionali: subentra al 78'. "Non ha tanto fiato ma ha dato tutto" — partecipa in prima persona all'azione del gol vittoria al 90' (il suo tiro viene parato con la punta dal portiere, sulla respinta segna Columpsi). (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Lavoro atletico individuale (fartlek) invece di stare in panchina; Daniele lo indica come "unica alternativa credibile davanti per qualità tecniche" una volta rientrato, pur con cautela sulla continuità di Columpsi tra acciacchi e Muay Thai. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

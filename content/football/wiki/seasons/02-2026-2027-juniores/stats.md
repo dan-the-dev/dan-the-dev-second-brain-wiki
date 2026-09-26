@@ -1,7 +1,7 @@
 ---
 title: Classifiche e statistiche — Stagione 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-20
+updated: 2026-09-26
 tags: [football, stats, 2026-27]
 ---
 
@@ -17,7 +17,7 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Columpsi Gabriele | 1 | — |
 | Frassinelli Lorenzo* | 1 | — |
 
-*Frassinelli Lorenzo non è in rosa Juniores: attaccante 2007 della Prima Squadra, aggregato una tantum per Gara 2 — vedi [[seasons/02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]].
+*Frassinelli Lorenzo non è in rosa Juniores: attaccante 2007 della Prima Squadra, aggregato per Coppa Gara 2 (15/09) e Campionato Giornata 3 (26/09) — vedi [[seasons/02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]].
 
 **Totale gol fatti**: 4 (Gara 1 vs Bresso Calcio 0-3, Gara 2 vs Leone XIII Sport 1-5).
 **Totale gol subiti**: 5 (tutti in Gara 2 vs Leone XIII Sport).
@@ -33,14 +33,16 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Giocatore | Gol | di cui rigori |
 |---|---|---|
 | Mingrone Gabriele | 1 | 1 |
-| Columpsi Gabriele | 2 | — |
+| Columpsi Gabriele | 3 | — |
 | Livelli Luca | 1 | — |
 | Sudano Matteo | 1 | — |
 | Lapiccirella Alessandro | 1 | — |
+| Boniardi Alessandro | 1 | — |
+| Frassinelli Lorenzo* | 1 | — |
 | — (autogol avversario) | 1 | — |
 
-**Totale gol fatti**: 7 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V).
-**Totale gol subiti**: 5 (2 in Giornata 1, 3 in Giornata 2).
+**Totale gol fatti**: 10 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V; Giornata 3 vs Accademia Inveruno 3-4 S).
+**Totale gol subiti**: 9 (2 in Giornata 1, 3 in Giornata 2, 4 in Giornata 3).
 
 ## Classifica assist — Campionato
 
@@ -49,6 +51,8 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Columpsi Gabriele | 1 |
 | Mingrone Gabriele | 1 |
 | Sudano Matteo | 1 |
+| Lasagna Riccardo | 1 |
+| Taronna Francesco | 1 |
 
 ## Cartellini — Campionato
 
@@ -58,6 +62,28 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Mingrone Gabriele | 0 | 1 |
 
 Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+
+## Minuti giocati — Campionato Giornata 3 (26/09/2026 vs Accademia Inveruno)
+
+| Giocatore | Minuti |
+|---|---:|
+| Palmisano Marco | 90 |
+| Boniardi Edoardo | 90 |
+| Capretti Guglielmo | 90 |
+| Livelli Luca | 90 |
+| Taronna Francesco | 90 |
+| Banfi Paolo\* | 90 |
+| Frassinelli Lorenzo\* | 90 |
+| Lasagna Riccardo | 82 |
+| Cuzmin Alessandro | 67 |
+| Lapiccirella Alessandro | 55 |
+| Boniardi Alessandro | 55 |
+| Columpsi Gabriele | 35 |
+| Di Bello Leonardo | 35 |
+| Curtarelli Davide | 23 |
+| Grosso Davide | 8 |
+
+\*Banfi e Frassinelli non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota. Lista completa dei convocati (panchinari senza minuti) non fornita nel dump.
 
 ## Minuti giocati — Campionato Giornata 2 (19/09/2026 vs Centro Giov. Boffalorese)
 

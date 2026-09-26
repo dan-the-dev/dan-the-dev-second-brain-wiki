@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -52,5 +53,6 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Para un rigore al 42', il secondo consecutivo dopo quello contro la Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Para un rigore nel secondo tempo (basso, sul suo palo sinistro) in una gara vinta 4-3 in rimonta; sfortunato sulla ribattuta della punizione da cui nasce il gol del 3-3 avversario. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **26/08/2026** — A fine seduta lavora a parte con il preparatore dei portieri. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]])
