@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-24
+updated: 2026-09-26
 tags: [football, exercises, index]
 ---
 
@@ -29,6 +29,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
 | [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
 | [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] | 14 (2x7), min. 10 | Due stazioni speculari da 7 postazioni ("Passing Drill - Barcellona"): scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
+| [[riscaldamento-circuito-doppio-uno-due-ostacolino\|Circuito doppio 1-2 e passaggio sotto l'ostacolino (gara a due gruppi)]] | tutta la squadra, 2 gruppi | Circuito tecnico: doppio uno-due poi passaggio rasoterra sotto l'ostacolino; due gruppi in gara a chi finisce prima |
 
 ## Riscaldamento atletico
 
@@ -92,12 +93,15 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[attacco-contro-difesa-8v5\|Attacco contro difesa 8 vs 5]] | 13 (8+5) + portiere | Superiorità numerica offensiva su tre zone: attirare gli avversari sulla palla per liberare linee di passaggio, finalizzazione in area |
 | [[tiri-in-porta-scambio-limite\|Tiri in porta con scambio al limite]] | tutta la squadra | Scambio uno-due al limite dell'area seguito da tiro di prima intenzione |
+| [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta) |
+| [[giro-palla\|Giro palla]] | squadra | Indicazioni su come far girare la palla in possesso; ⚠️ contenuto specifico da dettagliare |
 
 ## Calci piazzati
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[calci-piazzati-10-09\|Calci piazzati]] 🟡 placeholder | tutta la squadra | Schemi (falli laterali, punizioni, angoli) ancora in fase di decisione — pagina segnaposto |
+| [[calci-piazzati-angoli-fallo-laterale\|Calci d'angolo e schema su fallo laterale]] | tutta la squadra | Ripasso angoli + schema su fallo laterale con novità per non buttare sempre il pallone; ⚠️ dettaglio schemi da aggiungere |
 
 ## Test fisici
 

@@ -6,7 +6,7 @@ updated: 2026-09-26
 
 # ✅ Presenze — Juniores Regionali 2026/27
 
-Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati o svolti senza dump) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08, 01/09, 02/09, 07/09, 09/09, 14/09, 21/09, 23/09. L'allenamento del 10/09 (raw ricevuto ma con liste presenze descritte come "previste"/da confermare — vedi [[sessions/20260910|pagina]]) e quello del 04/09 (svolto ma senza dump reale — vedi [[sessions/20260904|pagina]]) **non** sono conteggiati qui finché non arriva conferma/dump. L'allenamento del 17/09 risulta ancora 🟡 programmato (nessun dump reale ricevuto) e non è conteggiato.
+Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati o svolti senza dump) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08, 01/09, 02/09, 07/09, 09/09, 14/09, 21/09, 23/09, 24/09. L'allenamento del 10/09 (raw ricevuto ma con liste presenze descritte come "previste"/da confermare — vedi [[sessions/20260910|pagina]]) e quello del 04/09 (svolto ma senza dump reale — vedi [[sessions/20260904|pagina]]) **non** sono conteggiati qui finché non arriva conferma/dump. L'allenamento del 17/09 risulta ancora 🟡 programmato (nessun dump reale ricevuto) e non è conteggiato.
 
 ⚠️ **Iannace Federico** ha chiesto lo svincolo ed è fuori dal gruppo dalla settimana del 21/09/2026: i suoi contatori si fermano al 14/09 (allenamenti successivi non conteggiati). Vedi [[seasons/02-2026-2027-juniores/players|pagina rosa]]. L'amichevole del 31/08 (vs Leone XIII Sport, 2-1) non viene conteggiata in questa tabella, dedicata ai soli allenamenti: la sua presenza/convocazione è su [[sessions/20260831|pagina dedicata]], e comparirà nella tabella "presenze allenamenti" di ogni singola pagina giocatore in [[seasons/02-2026-2027-juniores/players|players/]].
 
@@ -16,31 +16,31 @@ Partite ufficiali disputate finora: 4 (Coppa Lombardia Gara 1, 05/09/2026 vs Bre
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
-| Boniardi | Alessandro | 5 | 5 | 50% | 1 | 25% | 1 | 25% |
-| Boniardi | Edoardo | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Brana | Lorenzo | 10 | 0 | 100% | 2 | 50% | 0 | 0% |
-| Capretti | Guglielmo | 9 | 1 | 90% | 4 | 100% | 4 | 100% |
-| Columpsi | Gabriele | 4 | 6 | 40% | 3 | 75% | 3 | 75% |
-| Curtarelli | Davide | 8 | 2 | 80% | 2 | 50% | 2 | 50% |
-| Cuzmin | Alessandro | 9 | 1 | 90% | 4 | 100% | 3 | 75% |
-| Di Bello | Leonardo | 8 | 2 | 80% | 4 | 100% | 4 | 100% |
-| Favaron | Diego | 8 | 2 | 80% | 3 | 75% | 3 | 75% |
-| Grassi | Eric | 10 | 0 | 100% | 4 | 100% | 0 | 0% |
-| Grosso | Davide | 9 | 1 | 90% | 3 | 75% | 3 | 75% |
+| Boniardi | Alessandro | 6 | 5 | 55% | 1 | 25% | 1 | 25% |
+| Boniardi | Edoardo | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Brana | Lorenzo | 11 | 0 | 100% | 2 | 50% | 0 | 0% |
+| Capretti | Guglielmo | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
+| Columpsi | Gabriele | 4 | 7 | 36% | 3 | 75% | 3 | 75% |
+| Curtarelli | Davide | 9 | 2 | 82% | 2 | 50% | 2 | 50% |
+| Cuzmin | Alessandro | 10 | 1 | 91% | 4 | 100% | 3 | 75% |
+| Di Bello | Leonardo | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
+| Favaron | Diego | 9 | 2 | 82% | 3 | 75% | 3 | 75% |
+| Grassi | Eric | 11 | 0 | 100% | 4 | 100% | 0 | 0% |
+| Grosso | Davide | 10 | 1 | 91% | 3 | 75% | 3 | 75% |
 | Iannace (svincolato) | Federico | 5 | 3 | 63% | 4 | 100% | 2 | 50% |
-| Lapiccirella | Alessandro | 4 | 6 | 40% | 3 | 75% | 2 | 50% |
-| Lasagna | Riccardo | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Lentini | Francesco | 9 | 1 | 90% | 4 | 100% | 0 | 0% |
-| Livelli | Luca | 8 | 2 | 80% | 4 | 100% | 4 | 100% |
-| Lo Valvo | Luca | 6 | 4 | 60% | 0 | 0% | 0 | 0% |
-| Mingrone | Gabriele | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Palmisano | Marco | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
-| Parolini | Niccolò | 9 | 1 | 90% | 3 | 75% | 3 | 75% |
-| Pedullà | Samuele | 3 | 7 | 30% | 0 | 0% | 0 | 0% |
-| Riccio | Alessandro | 9 | 1 | 90% | 2 | 50% | 0 | 0% |
-| Simonato | Mattia Lorenzo | 7 | 3 | 70% | 3 | 75% | 0 | 0% |
-| Sudano | Matteo | 8 | 2 | 80% | 4 | 100% | 4 | 100% |
-| Taronna | Francesco | 9 | 1 | 90% | 4 | 100% | 4 | 100% |
+| Lapiccirella | Alessandro | 5 | 6 | 45% | 3 | 75% | 2 | 50% |
+| Lasagna | Riccardo | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Lentini | Francesco | 10 | 1 | 91% | 4 | 100% | 0 | 0% |
+| Livelli | Luca | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
+| Lo Valvo | Luca | 7 | 4 | 64% | 0 | 0% | 0 | 0% |
+| Mingrone | Gabriele | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
+| Palmisano | Marco | 11 | 0 | 100% | 4 | 100% | 4 | 100% |
+| Parolini | Niccolò | 10 | 1 | 91% | 3 | 75% | 3 | 75% |
+| Pedullà | Samuele | 3 | 8 | 27% | 0 | 0% | 0 | 0% |
+| Riccio | Alessandro | 9 | 2 | 82% | 2 | 50% | 0 | 0% |
+| Simonato | Mattia Lorenzo | 8 | 3 | 73% | 3 | 75% | 0 | 0% |
+| Sudano | Matteo | 9 | 2 | 82% | 4 | 100% | 4 | 100% |
+| Taronna | Francesco | 10 | 1 | 91% | 4 | 100% | 4 | 100% |
 
 ## Legenda
 - **All. fatti / saltati** — conteggiati solo sugli allenamenti con stato "completato".
