@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-24
+updated: 2026-09-26
 tags: [journal, index]
 ---
 
@@ -10,6 +10,8 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-muffin/, 5-levels/)
 
 ## Entries recenti
+
+- [[20260925-levels-day10]] — 2026-09-25 · **Levels Day 10** · Deploy in preparazione per stasera: chiesto al team di mettere la documentazione su un Drive condiviso e di tenere un journal del rilascio; e2e `create-site.feature` pushato, poi [DECISIONE] freeze dei nuovi e2e finché i mock non sono riprogettati (via gli if manuali nei client, MSW come candidato, mock stateful per OS API); regola "passa in locale e su dev"; deploy finito verso mezzanotte, servizi tagliati per layer tecnico → [DECISIONE] prima semplificare il deploy, poi scegliere tra refactoring e riscrittura
 
 - [[20260924-levels-day9]] — 2026-09-24 · **Levels Day 9** · PR Cypress e PR velocità unit test (Dan + Alberto) mergeate, suite da 5 a 1 minuto sulla macchina di Alberto; [DECISIONE] Shortcut scelto con Dario, da condividere col team; lista e2e Cypress concordata con Dario (upload documenti = core value proposition); branch pipeline pronto (unit subito, e2e dopo stabilizzazione locale, linter/pre-commit in pausa per errori); prossimo passo mutation testing; domande pronte per 1:1 con Emanuele lunedì 28/09
 
