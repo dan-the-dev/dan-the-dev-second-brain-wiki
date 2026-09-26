@@ -93,15 +93,15 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 |--------|:---------------:|-------------|
 | [[attacco-contro-difesa-8v5\|Attacco contro difesa 8 vs 5]] | 13 (8+5) + portiere | Superiorità numerica offensiva su tre zone: attirare gli avversari sulla palla per liberare linee di passaggio, finalizzazione in area |
 | [[tiri-in-porta-scambio-limite\|Tiri in porta con scambio al limite]] | tutta la squadra | Scambio uno-due al limite dell'area seguito da tiro di prima intenzione |
-| [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta) |
-| [[giro-palla\|Giro palla]] | squadra | Indicazioni su come far girare la palla in possesso; ⚠️ contenuto specifico da dettagliare |
+| [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta); raddoppio a mezzali o esterni alti a seconda del modulo |
+| [[giro-palla\|Giro palla]] | squadra | Postura di chi riceve nel giro palla: corpo aperto e 2-3 m più bassi in posizione laterale, non avanzati e girati verso il portiere |
 
 ## Calci piazzati
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[calci-piazzati-10-09\|Calci piazzati]] 🟡 placeholder | tutta la squadra | Schemi (falli laterali, punizioni, angoli) ancora in fase di decisione — pagina segnaposto |
-| [[calci-piazzati-angoli-fallo-laterale\|Calci d'angolo e schema su fallo laterale]] | tutta la squadra | Ripasso angoli + schema su fallo laterale con novità per non buttare sempre il pallone; ⚠️ dettaglio schemi da aggiungere |
+| [[calci-piazzati-angoli-fallo-laterale\|Calci d'angolo e schema su fallo laterale]] | tutta la squadra | Ripasso angoli + fallo laterale: alternativa alla spizzata di testa, palla sul petto con compagno a scarico che la mette dentro; ⚠️ schemi angoli da dettagliare |
 
 ## Test fisici
 
