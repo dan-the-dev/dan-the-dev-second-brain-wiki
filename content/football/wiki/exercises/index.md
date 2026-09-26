@@ -101,7 +101,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
 | [[calci-piazzati-10-09\|Calci piazzati]] 🟡 placeholder | tutta la squadra | Schemi (falli laterali, punizioni, angoli) ancora in fase di decisione — pagina segnaposto |
-| [[calci-piazzati-angoli-fallo-laterale\|Calci d'angolo e schema su fallo laterale]] | tutta la squadra | Ripasso angoli + fallo laterale: alternativa alla spizzata di testa, palla sul petto con compagno a scarico che la mette dentro; ⚠️ schemi angoli da dettagliare |
+| [[calci-piazzati-angoli-fallo-laterale\|Calci d'angolo e schema su fallo laterale]] | tutta la squadra | Ripasso angoli + fallo laterale: alternativa alla spizzata di testa, palla sul petto con compagno a scarico che la mette dentro; angoli: stessi schemi del 10/09, ripasso |
 
 ## Test fisici
 
