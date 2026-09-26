@@ -1,7 +1,7 @@
 ---
 title: "Pedullà Samuele"
 season: 02-2026-2027-juniores
-updated: 2026-09-21
+updated: 2026-09-24
 ---
 
 # Pedullà Samuele
@@ -24,6 +24,7 @@ updated: 2026-09-21
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ❌ no |
 | 21/09/2026 | allenamento | ✅ sì |
+| 23/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -44,10 +45,10 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| — | — | — | — |
+| 23/09/2026 | In corso | Infortunio alla caviglia (data esatta dell'infortunio non specificata) | 23/09/2026: segnalato da Daniele nel dump dell'allenamento. |
 
 ---
 
 ## 📝 Note personali
 
-Nessuna nota personale specifica registrata finora.
+**23/09/2026** — Infortunato alla caviglia, vedi tabella Infortuni. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])

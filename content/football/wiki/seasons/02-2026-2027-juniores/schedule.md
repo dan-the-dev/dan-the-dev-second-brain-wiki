@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Calendari allenamenti 2026/27
@@ -43,8 +43,8 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 16/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/09 | Gio | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260917\|📄 dettagli]] — core stability, mobilità, attivazione tecnica Ajax, possesso 4v4+3 Barcellona, sprint 4x10/20/30, partitella | programmato |
 | 19/09 | Sab | 18:00 | ⚽ partita | ✈️ G2 vs Centro Giov. Boffalorese | programmato |
-| 21/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 23/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 21/09 | Lun | 19:15–21:00 | 🏋️ allenamento | [[sessions/20260921\|📄 dettagli]] — a Ospiate; mobilità, due stazioni a specchio, possesso 5v2 doppio campo, ripetute 80m, partitella | 🟢 completato |
+| 23/09 | Mer | 19:10–20:25 | 🏋️ allenamento | [[sessions/20260923\|📄 dettagli]] — seduta di forza: forza analitica, forza applicata 1vs1/2vs2, partita a tema a settori, partitella | 🟢 completato |
 | 24/09 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 26/09 | Sab | 18:00 | ⚽ partita | 🏠 G3 vs Accademia Inveruno | programmato |
 | 28/09 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |

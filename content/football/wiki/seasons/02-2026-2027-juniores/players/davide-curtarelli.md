@@ -1,7 +1,7 @@
 ---
 title: "Curtarelli Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-21
+updated: 2026-09-24
 ---
 
 # Curtarelli Davide
@@ -24,6 +24,7 @@ updated: 2026-09-21
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ❌ no (mononucleosi) |
 | 21/09/2026 | allenamento | ❌ no |
+| 23/09/2026 | allenamento | ✅ sì |
 
 ⚠️ Infortunato dal 14/09/2026 (vedi tabella infortuni sotto): sarà segnato assente da tutti gli allenamenti e partite fino al termine dello stop previsto.
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**23/09/2026** — Segnato presente nel dump dell'allenamento, nonostante lo stop per mononucleosi dal 14/09 (3-4 settimane previste). ⚠️ Rientro da confermare con Daniele. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[seasons/02-2026-2027-juniores/injuries|infortuni]]. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
 **12/09/2026** — Entra molto bene a partita in corso, adattato con profitto anche a sinistra. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
 **27/08/2026** — Provato come esterno (ruolo non abituale), buone risposte tecniche, opzione valida da alternare al ruolo di mezzala. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260827|allenamento]])

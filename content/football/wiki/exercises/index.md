@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-22
+updated: 2026-09-24
 tags: [football, exercises, index]
 ---
 
@@ -24,7 +24,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-trio-centrale-attivo\|Trio con uomo centrale attivo]] | multipli di 3 | Linee da 3 (due ai lati, uno al centro): il centrale lavora sempre attivo, i laterali passivi. Tecnica in movimento |
 | [[riscaldamento-rettangoli-gruppi-5\|Rettangoli, gruppi da 5]] | multipli di 5 | Gruppi da 5 disposti a rettangolo: tecnica in movimento all'interno dello spazio delimitato |
 | [[riscaldamento-passing-combinations-chelsea\|Chelsea Passing Combinations - Warm-Up]] | 3 per stazione | Stazione a quadrato con cinesini: combinazione a 3 con dai-e-vai, stop a due tocchi e scarico sul terzo uomo |
-| [[riscaldamento-tecnico-propedeutico-forza\|Riscaldamento tecnico propedeutico alla forza]] | tutta la squadra, a gruppi | Circuito a 4 stazioni: balzi (laterali, polpacci, ginocchia al petto, scorrimento) abbinati a gesto tecnico (palleggio, uno-due, slalom), ponte verso il circuito di forza esplosiva |
+| [[riscaldamento-tecnico-propedeutico-forza\|Riscaldamento tecnico propedeutico alla forza]] | tutta la squadra, a gruppi | Circuito a 4 stazioni: balzi (laterali, polpacci, ginocchia al petto, scorrimento) abbinati a gesto tecnico (palleggio, uno-due, slalom), ponte verso il lavoro di forza. Principi fissi: si mantiene la palla, focus sullo scaldarsi bene per la forza (stazioni variabili) |
 | [[riscaldamento-tecnico-tattico-4321\|Riscaldamento tecnico tattico 4321 — ricerca dell'esterno]] | tutta la squadra, 2 stazioni a specchio | Combinazioni a 5 posizioni (dc, terzino, mezzala, trequartista, punta) su metà campo, 3 varianti per liberare l'esterno nel modulo 4-3-2-1 |
 | [[partitella-mani-piedi\|Riscaldamento partitella campo piccolo mani e piedi]] | tutta la squadra | Partitella su campo piccolo giocata a mani e piedi, soluzione rapida quando c'è poco tempo |
 | [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
@@ -55,6 +55,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
 | [[possesso-4v4-piu-3-barcellona\|Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)]] | 11 (4+4+3) | Possesso 7v4 (4 attaccanti + 3 jolly contro 4 difendenti) in area 30x20m; ultimo minuto di ogni serie da 10' con obiettivo "passaggio veloce" (120 passaggi in 3'). Storicamente usato dal Barcellona di Guardiola (2007-08) |
 | [[possesso-5v2-transizione-doppio-campo\|Possesso 5 contro 2 con transizione a doppio campo]] | 20 (2 campi, 5v5 per campo) | 2 campi ~25x30m divisi in due metà: possesso 5 contro 2 in una metà, 1 punto se la squadra in inferiorità recupera senza tenerla, 3 punti se recupera e serve i compagni nell'altra metà (che riparte lì con ruoli invertiti). Sessioni 4-5' + 1' recupero |
+| [[partita-a-tema-a-settori\|Partita a tema a settori — consolidare il possesso]] | 22 (11vs11) | Metà campo divisa in 3 settori: tocchi limitati (2 difesa, 3 centro, liberi in attacco), gol solo dopo 6 passaggi salvo recupero palla nel settore offensivo |
 
 ## Preparazione atletica
 
@@ -67,6 +68,8 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rapidita-scaletta\|Rapidità con scaletta]] | tutta la squadra | Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazione |
 | [[sprint-piramidale-10-20-30\|Sprint piramidale 10-20-30 metri]] | tutta la squadra | 4 ripetizioni sui 10m, 4 sui 20m, 4 sui 30m, tutte a intensità massimale |
 | [[ripetute-intermittenti-80-metri\|Ripetute intermittenti 80 metri]] | tutta la squadra | 2 blocchi da 5': 80 metri di corsa + recupero pari al tempo di lavoro, ciclo ripetuto per tutto il blocco (~15"/15") |
+| [[forza-analitica\|Lavoro atletico — forza analitica]] | tutta la squadra, a gruppi | 3 stazioni: squat a coppie con palla medica, balzi monopodalici, corsa con palla medica in mano |
+| [[forza-applicata-1-vs-1-2-vs-2\|Lavoro atletico — forza applicata in 1vs1 e 2vs2]] | tutta la squadra, a coppie | 1vs1 di 30" su due campetti laterali, poi al fischio transizione in 2vs2 (bianchi difendono al limite dell'area, arancio ricevono a metà campo e attaccano); ruoli invertiti |
 
 ## Monitoraggio carico atletico
 

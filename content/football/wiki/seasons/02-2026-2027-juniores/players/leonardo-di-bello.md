@@ -1,7 +1,7 @@
 ---
 title: "Di Bello Leonardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-21
+updated: 2026-09-24
 ---
 
 # Di Bello Leonardo
@@ -24,6 +24,7 @@ updated: 2026-09-21
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
 | 21/09/2026 | allenamento | ✅ sì |
+| 23/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -50,6 +51,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**23/09/2026** — In crescita, ha fatto bene. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Entra al 78' e si fa notare positivamente. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Meglio da esterno, ma "fumoso" nelle ultime uscite. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
 **31/08/2026** — Tra i nuovi arrivi più positivi (con Capretti) secondo Teo, anche se a volte rischia troppo la giocata. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])

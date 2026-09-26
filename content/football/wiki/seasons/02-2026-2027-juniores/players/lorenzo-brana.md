@@ -1,7 +1,7 @@
 ---
 title: "Brana Lorenzo"
 season: 02-2026-2027-juniores
-updated: 2026-09-21
+updated: 2026-09-24
 ---
 
 # Brana Lorenzo
@@ -24,6 +24,7 @@ updated: 2026-09-21
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
 | 21/09/2026 | allenamento | ✅ sì |
+| 23/09/2026 | allenamento | ✅ sì |
 
 ---
 

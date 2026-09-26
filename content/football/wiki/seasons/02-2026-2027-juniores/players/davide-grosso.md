@@ -1,7 +1,7 @@
 ---
 title: "Grosso Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-21
+updated: 2026-09-24
 ---
 
 # Grosso Davide
@@ -24,6 +24,7 @@ updated: 2026-09-21
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
 | 21/09/2026 | allenamento | ❌ no |
+| 23/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -44,12 +45,13 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| — | — | — | — |
+| 15/09/2026 | In corso | Problema alla caviglia rimediato nella gara di Coppa vs Leone XIII Sport (sostituito al 43') | 23/09/2026: prova ad allenarsi ma si ferma a metà seduta per la caviglia. Da monitorare. |
 
 ---
 
 ## 📝 Note personali
 
+**23/09/2026** — Prova ad allenarsi ma si ferma a metà seduta, sempre per la caviglia (infortunio nella gara contro il Leone XIII). Da monitorare. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Non convocato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Finalmente buone risposte, miglioramento netto rispetto alle uscite precedenti. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
 **12/09/2026** — Resta un enigma tattico: corre e si impegna ma si isola dal gioco quando spostato punta. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])
