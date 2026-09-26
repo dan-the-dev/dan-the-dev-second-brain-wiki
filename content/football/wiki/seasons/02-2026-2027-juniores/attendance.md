@@ -1,14 +1,14 @@
 ---
 title: Presenze — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # ✅ Presenze — Juniores Regionali 2026/27
 
 Contatori aggiornati solo dopo gli allenamenti **completati** (non quelli ancora programmati o svolti senza dump) e dopo le partite giocate. Allenamenti completati finora: 26/08, 27/08, 29/08, 01/09, 02/09, 07/09, 09/09, 14/09, 21/09, 23/09. L'allenamento del 10/09 (raw ricevuto ma con liste presenze descritte come "previste"/da confermare — vedi [[sessions/20260910|pagina]]) e quello del 04/09 (svolto ma senza dump reale — vedi [[sessions/20260904|pagina]]) **non** sono conteggiati qui finché non arriva conferma/dump. L'allenamento del 17/09 risulta ancora 🟡 programmato (nessun dump reale ricevuto) e non è conteggiato.
 
-⚠️ **Dal 21/09/2026** Amdy e Iannace Federico vanno considerati assenti di default nei prossimi allenamenti, salvo diversa indicazione di Daniele: Amdy non si allenerà più con la squadra, Iannace ha chiesto lo svincolo. Vedi [[seasons/02-2026-2027-juniores/players|pagina rosa]]. L'amichevole del 31/08 (vs Leone XIII Sport, 2-1) non viene conteggiata in questa tabella, dedicata ai soli allenamenti: la sua presenza/convocazione è su [[sessions/20260831|pagina dedicata]], e comparirà nella tabella "presenze allenamenti" di ogni singola pagina giocatore in [[seasons/02-2026-2027-juniores/players|players/]].
+⚠️ **Iannace Federico** ha chiesto lo svincolo ed è fuori dal gruppo dalla settimana del 21/09/2026: i suoi contatori si fermano al 14/09 (allenamenti successivi non conteggiati). Vedi [[seasons/02-2026-2027-juniores/players|pagina rosa]]. L'amichevole del 31/08 (vs Leone XIII Sport, 2-1) non viene conteggiata in questa tabella, dedicata ai soli allenamenti: la sua presenza/convocazione è su [[sessions/20260831|pagina dedicata]], e comparirà nella tabella "presenze allenamenti" di ogni singola pagina giocatore in [[seasons/02-2026-2027-juniores/players|players/]].
 
 ⚠️ **Le presenze del 02/09/2026 sono ancora provvisorie**: impostate identiche a quelle del 01/09, in attesa di conferma da Daniele. Le presenze del 07/09/2026 sono invece state **confermate da Daniele il 09/09/2026** (coincidono con l'impostazione provvisoria copiata dal 27/08, con l'eccezione di Boniardi Alessandro spostato tra gli assenti per infortunio). I contatori sotto includono entrambe le date; quelli del 02/09 verranno ricalcolati se necessario alla conferma.
 
@@ -16,7 +16,6 @@ Partite ufficiali disputate finora: 4 (Coppa Lombardia Gara 1, 05/09/2026 vs Bre
 
 | Cognome | Nome | All. fatti | All. saltati | % presenza all. | Partite convocato | % convocato | Partite giocate | % giocato |
 |---------|------|:-----------:|:--------------:|:------------------:|:--------------------:|:---------------:|:-------------------:|:------------:|
-| Amdy | — | 0 | 10 | 0% | 0 | 0% | 0 | 0% |
 | Boniardi | Alessandro | 5 | 5 | 50% | 1 | 25% | 1 | 25% |
 | Boniardi | Edoardo | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
 | Brana | Lorenzo | 10 | 0 | 100% | 2 | 50% | 0 | 0% |
@@ -28,7 +27,7 @@ Partite ufficiali disputate finora: 4 (Coppa Lombardia Gara 1, 05/09/2026 vs Bre
 | Favaron | Diego | 8 | 2 | 80% | 3 | 75% | 3 | 75% |
 | Grassi | Eric | 10 | 0 | 100% | 4 | 100% | 0 | 0% |
 | Grosso | Davide | 9 | 1 | 90% | 3 | 75% | 3 | 75% |
-| Iannace | Federico | 5 | 5 | 50% | 4 | 100% | 2 | 50% |
+| Iannace (svincolato) | Federico | 5 | 3 | 63% | 4 | 100% | 2 | 50% |
 | Lapiccirella | Alessandro | 4 | 6 | 40% | 3 | 75% | 2 | 50% |
 | Lasagna | Riccardo | 10 | 0 | 100% | 4 | 100% | 4 | 100% |
 | Lentini | Francesco | 9 | 1 | 90% | 4 | 100% | 0 | 0% |

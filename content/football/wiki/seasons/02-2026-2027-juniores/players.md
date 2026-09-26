@@ -1,14 +1,14 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Rosa — Juniores Regionali 2026/27
 
 **Campionato:** Juniores Regionali U19 — Girone H
 **Regola fuori quota:** max 3 calciatori nati dal 01/01/2007 in poi
-**Rosa:** 26 giocatori (+ 1 portiere fuori rosa)
+**Rosa:** 24 giocatori (Iannace svincolato dal 21/09/2026, vedi sotto). ⚠️ In cerca di un secondo portiere.
 
 Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze in partita e infortuni — cliccare sul nome per aprirla.
 
@@ -19,7 +19,6 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | N. | Giocatore | Anno | Note |
 |----|-----------|------|------|
 | 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato |
-| 2 | [[players/amdy\|Amdy]] | 2006 | Fuori rosa — non convocabile. ⚠️ **Dal 21/09/2026** comunicato da Daniele: non si allenerà più con la squadra. In cerca di secondo portiere. |
 
 ---
 
@@ -62,9 +61,16 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 |----|-----------|------|-------|------|
 | 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · **Infortunato dal 29/08** (distorsione alla caviglia di 2° grado), in attesa della diagnosi definitiva dopo gli esami — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
 | 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio |
-| 23 | [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta | ✓ confermato · ⚠️ **Dal 21/09/2026** ha chiesto lo svincolo alla società (richiesta in corso, resta in rosa fino a conferma dell'uscita) |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |
 | 25 | [[players/matteo-sudano\|Sudano Matteo]] | 2008 | Esterno / seconda punta | 🆕 nuovo · Molto forte, segnalato testa calda. Amichevole 31/08: tanta qualità e corsa, fatica mentalmente ma si impegna se stimolato — ha conquistato il rigore del 2-0 |
+
+---
+
+## Svincolati in corso di stagione
+
+| Giocatore | Anno | Note |
+|-----------|------|------|
+| [[players/federico-iannace\|Iannace Federico]] | 2008 | Esterno / seconda punta. Ha chiesto lo svincolo alla società: fuori dal gruppo dalla settimana del 21/09/2026. Storico presenze e partite fino al 19/09 conservato nella sua pagina. |
 
 ---
 
@@ -81,7 +87,7 @@ Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando s
 
 ## Movimenti rispetto alla stagione 2025/26
 
-### 🆕 Nuovi arrivi (10)
+### 🆕 Nuovi arrivi (9)
 - Lentini Francesco (2009) — difensore centrale
 - Capretti Guglielmo (2009) — difensore centrale, **da Vigor**
 - Curtarelli Davide (2009) — mezzala/esterno
@@ -90,7 +96,6 @@ Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando s
 - Di Bello Leonardo (2008) — mezzala/esterno
 - Simonato Mattia Lorenzo (2009) — esterno/seconda punta
 - Sudano Matteo (2008) — esterno/seconda punta
-- Amdy (2006) — portiere fuori rosa (non convocabile)
 - Livelli Luca (2008) — difensore centrale, **da Baranzatese (Elite)**. Confermato in rosa dal 30/08, dopo un periodo di prova (26, 27 e 29/08) valutato anche da Teo.
 
 ### ❌ Usciti dalla rosa Juniores (17)

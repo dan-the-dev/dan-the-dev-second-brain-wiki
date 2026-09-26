@@ -1,12 +1,14 @@
 ---
 title: "Iannace Federico"
 season: 02-2026-2027-juniores
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Iannace Federico
 
 ← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
+
+⚠️ **Svincolato:** ha chiesto lo svincolo alla società ed è fuori dal gruppo dalla settimana del 21/09/2026. Storico conservato fino al 19/09.
 
 ---
 
@@ -23,8 +25,6 @@ updated: 2026-09-24
 | 07/09/2026 | allenamento | ❌ no |
 | 09/09/2026 | allenamento | ✅ sì |
 | 14/09/2026 | allenamento | ✅ sì |
-| 21/09/2026 | allenamento | ❌ no |
-| 23/09/2026 | allenamento | ❌ no |
 
 ---
 
