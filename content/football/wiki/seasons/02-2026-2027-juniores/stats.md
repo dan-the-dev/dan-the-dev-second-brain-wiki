@@ -82,8 +82,13 @@ Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [
 | Di Bello Leonardo | 35 |
 | Curtarelli Davide | 23 |
 | Grosso Davide | 8 |
+| Brana Lorenzo | 0 |
+| Grassi Eric | 0 |
+| Lentini Francesco | 0 |
+| Riccio Alessandro | 0 |
+| Simonato Mattia Lorenzo | 0 |
 
-\*Banfi e Frassinelli non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota. Lista completa dei convocati (panchinari senza minuti) non fornita nel dump.
+\*Banfi e Frassinelli non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota. Mingrone e Sudano non convocati per squalifica (rossi del 19/09).
 
 ## Minuti giocati — Campionato Giornata 2 (19/09/2026 vs Centro Giov. Boffalorese)
 

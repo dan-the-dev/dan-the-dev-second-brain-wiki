@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 81 | 1 | 0 | 0 | 1 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Non convocato: squalificato dopo il rosso del 19/09 vs Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Gol su rigore per il 2-2, ma anche cartellino rosso all'81' per fallo da ultimo uomo su una ripartenza — episodio disciplinare da rivedere insieme sulla lettura del rischio in transizione difensiva. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **09/09/2026** — Lavoro a parte per un fastidio fisico, non in gruppo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])
 **05/09/2026** — Doppietta, di cui un rigore. (fonte: [[seasons/02-2026-2027-juniores/matches/20260905|partita]])

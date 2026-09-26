@@ -39,6 +39,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 12/09/2026 | Football Club Parabiago | ✈️ trasferta | ✅ sì | 85 | 1 | 0 | 0 | 0 |
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 75 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 71 | 0 | 1 | 0 | 1 |
+| 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -52,6 +53,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**26/09/2026** — Non convocato: squalificato dopo il rosso del 19/09 vs Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Assist per il gol del sorpasso di Lapiccirella al 70', ma espulso al 71' per insulti a un avversario — secondo episodio disciplinare della stagione dopo la multa del 29/08. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **09/09/2026** — "Ogni tanto molla", da capire come stimolarlo senza sgridarlo soltanto o si rischia di perderlo mentalmente. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])
 **05/09/2026** — Si sente male per il caldo a fine gara (quasi svenimento), ripreso con acqua fredda, ghiaccio e zucchero. (fonte: [[seasons/02-2026-2027-juniores/matches/20260905|partita]])
