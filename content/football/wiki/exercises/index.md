@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-26
+updated: 2026-09-27
 tags: [football, exercises, index]
 ---
 
@@ -86,6 +86,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[partitella-progressiva-test-tattico\|Partitella progressiva (test tattico di fine seduta)]] | tutta la squadra | 3 fasi crescenti: 1 porta + 2 porticine → 6v6 con jolly e cambio campo → partita normale con gol validi solo a squadra tutta in metà campo offensiva |
 | [[partitella-tre-quarti-campo\|Partitella su tre quarti campo]] | tutta la squadra | Partita a tema su campo ridotto a tre quarti, chiusura seduta senza fasi/vincoli particolari |
 | [[partita-a-tema-esterni\|Partita a tema con esterni]] | tutta la squadra | Campo diviso in tre zone (possesso centrale + due zone cross): un giocatore per fascia, rotazione esterno-dentro/compagno-si allarga, obiettivo primario scambio e occasioni da fascia |
+| [[partita-a-tema-riaggressione-immediata\|Partita a tema: riaggressione immediata, pressione e pressing]] | 12 (6v6) + 2 portieri | Campo diviso in due metà: chi ha palla la tiene nella propria metà, l'altra pressa con 4 avanti + 2 dietro. Versione Ardor: 6 passaggi → attacco in +1 entro 8"; recupero → gol immediato (+2) o consolidare (+1). Fonte MisterCalcio.com |
 
 ## Tattica
 
