@@ -75,7 +75,32 @@ Deprecato: pmdraft/ (PMDraft skills brand) — progetto interrotto ad agosto 202
 - Flag contradictions explicitly rather than silently overwriting
 - Italian for personal content, English for technical content
 - Never store sensitive company data (customer data, proprietary code, financials)
-- NON usare git direttamente e NON fare chiamate API esterne (GitHub, ecc.) per leggere/scrivere contenuti del vault — tutti i file si leggono e scrivono DIRETTAMENTE sul filesystem locale. Il sync su GitHub avviene automaticamente tramite il plugin Git di Obsidian, in background, senza intervento diretto di Claude sui comandi git.
+- Tutti i file si leggono e scrivono DIRETTAMENTE sul filesystem locale — MAI chiamate API esterne (GitHub, ecc.) per leggere/scrivere contenuti del vault.
+- Il versionamento è gestito da Claude via `git` locale secondo la sezione "Git workflow" qui sotto.
+
+## Git workflow (standard comune a tutti i sub-wiki)
+Il vault vive sulla VPS ed è scritto da Claude Code; Daniele usa Obsidian (via Remote SSH) solo per scrivere a mano file raw quando serve. Il sync è responsabilità di Claude tramite `git` locale: il plugin Obsidian Git, se attivo, è solo un plus e questo workflow NON deve tenerne conto né dipenderne.
+
+### Quando committare / pushare
+| Cosa è cambiato nell'operazione | Commit | Push |
+|---|---|---|
+| Qualsiasi file in `wiki/` (compilato), anche insieme a raw | ✅ obbligatorio | ✅ automatico, ultimo step |
+| Solo file `raw/` (nessuna compilazione wiki) | ✅ obbligatorio | ⏸️ solo su richiesta di Daniele |
+| File di istruzioni (`CLAUDE.md`, README, config vault) | ✅ obbligatorio | ✅ automatico |
+
+- Il commit/push è l'**ultimo step** dell'operazione: si fa dopo aver finito di scrivere tutti i file, non a metà.
+- Commit raw-only non pushati partono comunque col push successivo (quello automatico di una compilazione wiki o uno esplicito).
+- Una compilazione che ingerisce un raw appena creato → un unico commit con raw + wiki, poi push.
+
+### Come
+1. `git status` per vedere cosa è cambiato.
+2. Stage **solo i file toccati dall'operazione** (`git add <path>...`), mai `git add -A`/`.` alla cieca: Daniele potrebbe avere modifiche manuali in corso via Obsidian. Eccezione: un file raw scritto a mano da Daniele che l'operazione sta ingerendo va incluso nel commit.
+3. Commit message in inglese, conventional commits, scope = sub-wiki: `docs(football): ...`, `docs(career-coach): ...`, `docs(goals): ...`, `docs(study): ...`; `chore(vault): ...` o `docs(vault): ...` per modifiche trasversali/istruzioni. Subject conciso; body opzionale con il riepilogo dei file aggiornati per le compilazioni grandi.
+4. Push su `origin main`. Se rifiutato (remote avanti, es. push dal plugin Obsidian): `git pull --rebase` e ripeti il push.
+5. MAI `--force`, MAI riscrivere history già pushata, MAI `git reset --hard`/`checkout --` su file non propri. In caso di conflitti non banali: fermati e segnala a Daniele.
+6. Nella risposta finale indica sempre l'esito: hash del commit e se è stato pushato (o perché no).
+
+I `CLAUDE.md` dei sub-wiki richiamano questa sezione senza ridefinirla; eventuali specializzazioni (es. scope diverso) vanno scritte lì esplicitamente.
 
 ## Come navigare tra i sub-wiki
 Ogni sotto-cartella di primo livello (`career-coach/`, `goals/`, `football/`, `study/`, ...) è un sub-wiki autonomo con il proprio `CLAUDE.md`, che **estende e specializza** queste regole globali — non le sostituisce. Quando lavori dentro un sub-wiki:
@@ -87,7 +112,7 @@ Ogni sotto-cartella di primo livello (`career-coach/`, `goals/`, `football/`, `s
 ## Come aggiungere un nuovo sub-wiki
 Quando nasce un nuovo progetto/dominio da tracciare nel vault:
 1. Crea una nuova cartella di primo livello (es. `nome-progetto/`) con la struttura standard `raw/` + `wiki/`.
-2. Scrivi un `CLAUDE.md` dedicato dentro la cartella, seguendo lo stile degli altri (Domain, Filesystem, Raw data types, Wiki structure, Frontmatter schema, Modalità operative, Rules). Non duplicare le regole già coperte da questo file globale — richiamale, non riscriverle.
+2. Scrivi un `CLAUDE.md` dedicato dentro la cartella, seguendo lo stile degli altri (Domain, Filesystem & Git, Raw data types, Wiki structure, Frontmatter schema, Modalità operative, Rules). Non duplicare le regole già coperte da questo file globale — richiamale, non riscriverle.
 3. Aggiorna la sezione "Vault structure" qui sopra con il nuovo albero di cartelle.
 4. Aggiungi una riga nella sezione "Riferimento ai CLAUDE.md dei progetti" qui sotto.
 5. Se il progetto sostituisce o assorbe un progetto esistente, marca il vecchio come deprecato nella sezione "Vault structure" (vedi nota su `pmdraft/`) invece di cancellarne la memoria storica.

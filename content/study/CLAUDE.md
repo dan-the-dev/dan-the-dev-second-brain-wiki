@@ -5,11 +5,11 @@ Il Professional Learning Plan di Daniele: cosa vuole imparare, attraverso quali 
 Dan è Senior Developer e Tech Lead dal 2012.
 Non è una reading list: è un piano di apprendimento organizzato per argomenti (Topic), alimentato da contenuti eterogenei (Learning Item).
 
-## Filesystem
+## Filesystem & Git
 Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
 Cartella base del progetto: `study/`
-NON usare git, NON fare chiamate API GitHub.
-Il sync su GitHub avviene automaticamente tramite il plugin Git di Obsidian (stesso vault di career-coach).
+NON fare chiamate API GitHub per leggere/scrivere contenuti.
+Versionamento: segui la sezione "Git workflow" del [[CLAUDE.md]] root — wiki cambiata ⇒ commit + push automatico come ultimo step; solo raw ⇒ commit obbligatorio, push su richiesta. Scope commit: `docs(study)`. Nota: `raw/learning/current.yml` è raw ⇒ se cambia solo lui (senza ricompilare la wiki) il push è su richiesta.
 
 ## Modello concettuale
 Il sistema distingue quattro concetti, tenuti separati ma collegati:
@@ -237,11 +237,11 @@ Quando viene chiesta una modifica al piano:
 
 Il progetto deve restare semplice: niente LMS, niente project management tool.
 Knowledge + Learning Plan + AI reasoning + compilazione automatica.
-Markdown/YAML + Git (sync automatico Obsidian), AI come interfaccia conversazionale, frontend compilato come vista, nessun database se non necessario. La complessità sta nell'elaborazione, non nella gestione manuale dei dati.
+Markdown/YAML + Git (commit/push gestiti da Claude), AI come interfaccia conversazionale, frontend compilato come vista, nessun database se non necessario. La complessità sta nell'elaborazione, non nella gestione manuale dei dati.
 
 ## Rules
 - TUTTI i file raw vanno scritti sul filesystem locale — MAI chiamate API GitHub
-- NON usare git — il sync è automatico tramite plugin Obsidian Git
+- Git: a fine operazione commit sempre; push automatico se è cambiato qualcosa in wiki/, su richiesta se sono cambiati solo file raw (vedi "Git workflow" nel CLAUDE.md root)
 - MAI modificare le entry passate di Decision History
 - `current.yml` è l'UNICA source of truth del piano — la wiki è sempre derivata
 - Non inventare mai contenuti, topic, autori, date, priorità, Study Period (vedi Regole fondamentali)

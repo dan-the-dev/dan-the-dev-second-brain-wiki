@@ -4,10 +4,10 @@
 Daniele è vice-allenatore e membro del consiglio dell'Ardor Bollate Juniores.
 Questo vault gestisce: allenamenti, partite, giocatori, tattiche, esercizi.
 
-## Filesystem
+## Filesystem & Git
 Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
-NON usare git — sync automatico tramite plugin Obsidian Git.
 NON fare chiamate API esterne.
+Versionamento: segui la sezione "Git workflow" del [[CLAUDE.md]] root — wiki cambiata ⇒ commit + push automatico come ultimo step; solo raw ⇒ commit obbligatorio, push su richiesta. Scope commit: `docs(football)`.
 
 ## ⚠️ Sintassi wikilink (IMPORTANTE — causa link rotti sul sito pubblicato)
 Il sito pubblicato (Quartz, deploy football su Coolify) usa `markdownLinkResolution: shortest`.
@@ -234,7 +234,7 @@ Trigger: Daniele fa domande tipo "chi ha fatto più allenamenti?",
 Leggi i wiki compilati e rispondi direttamente senza riscrivere file.
 
 ## Rules
-- NON usare git — sync automatico tramite Obsidian Git
+- Git: a fine operazione commit sempre; push automatico se è cambiato qualcosa in wiki/, su richiesta se sono cambiati solo file raw (vedi "Git workflow" nel CLAUDE.md root)
 - NON modificare mai i file raw dopo la loro creazione
 - Stagione corrente = cartella con numero più alto in raw/seasons/
 - I nomi dei giocatori vanno sempre normalizzati (Nome Cognome, prima lettera maiuscola)

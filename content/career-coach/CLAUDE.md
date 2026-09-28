@@ -6,11 +6,11 @@ Dan is a Senior Developer and Tech Lead since 2012.
 Companies: Casavo (2019-?), Mymenu (?), Tour Radar (?), Muffin (2024-10-07 → 2026-09-04, closed), Levels (2026-09-14 → current).
 Inspired by: Martin Fowler, Kent Beck, Ward Cunningham, Taiichi Ohno, Tom DeMarco, ThoughtWorks.
 
-## Filesystem
+## Filesystem & Git
 Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
 Cartella base del progetto: career-coach/
-NON usare git, NON fare chiamate API GitHub.
-Il sync su GitHub avviene automaticamente tramite il plugin Git di Obsidian.
+NON fare chiamate API GitHub per leggere/scrivere contenuti.
+Versionamento: segui la sezione "Git workflow" del [[CLAUDE.md]] root — wiki cambiata ⇒ commit + push automatico come ultimo step; solo raw ⇒ commit obbligatorio, push su richiesta. Scope commit: `docs(career-coach)`.
 
 ## Raw data types
 
@@ -273,7 +273,7 @@ tipicamente dopo un'analisi incrociata fra i journal e un contenuto esterno.
 
 ## Rules
 - TUTTI i file raw vanno scritti sul filesystem locale — MAI chiamate API GitHub
-- NON usare git — il sync è automatico tramite plugin Obsidian Git
+- Git: a fine operazione commit sempre; push automatico se è cambiato qualcosa in wiki/, su richiesta se sono cambiati solo file raw (vedi "Git workflow" nel CLAUDE.md root)
 - MAI modificare i file legacy in raw/journal/
 - I file modern sono RAW — scritti una volta, mai modificati
 - La wiki journal è l'UNICA versione leggibile — i raw sono solo input

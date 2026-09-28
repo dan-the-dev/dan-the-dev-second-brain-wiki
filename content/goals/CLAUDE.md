@@ -5,6 +5,10 @@ Dan's personal and professional goals and habits tracking.
 Covers all life areas: professional, health, personal, financial, relationships.
 NOT limited to career — this is a whole-life section.
 
+## Filesystem & Git
+Tutti i file vengono letti e scritti DIRETTAMENTE sul filesystem locale.
+Versionamento: segui la sezione "Git workflow" del [[CLAUDE.md]] root — wiki cambiata ⇒ commit + push automatico come ultimo step; solo raw ⇒ commit obbligatorio, push su richiesta. Scope commit: `docs(goals)`.
+
 ## Raw data types
 - raw/2026-H2-initial.md → goal list as defined at the start of H2 2026 (immutable)
 - raw/2026-H2-redefinition-YYYY-MM-DD.md → snapshot completo in caso di ridefinizione major dei goal a metà periodo (immutabile, come l'initial ma con data). Non sostituisce il file initial come archivio storico, ma diventa il riferimento per il tracking attivo da quella data in poi.
@@ -96,4 +100,4 @@ Quando Dan chiede un aggiornamento completo/ridefinizione dei goal (non un norma
 - raw/2026-H2-initial.md e ogni raw/2026-H2-redefinition-*.md sono immutabili — non modificarli mai una volta creati
 - Le abitudini in wiki/habits.md hanno sempre il goal collegato
 - Italiano per tutto il contenuto
-- NON usare git — sync automatico tramite plugin Obsidian Git
+- Git: a fine operazione commit sempre; push automatico se è cambiato qualcosa in wiki/, su richiesta se sono cambiati solo file raw (vedi "Git workflow" nel CLAUDE.md root)
