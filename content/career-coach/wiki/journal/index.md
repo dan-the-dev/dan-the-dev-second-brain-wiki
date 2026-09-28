@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-09-26
+updated: 2026-09-28
 tags: [journal, index]
 ---
 
@@ -10,6 +10,8 @@ Diario giornaliero compilato da Cowork a partire dai dump raw.
 I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-muffin/, 5-levels/)
 
 ## Entries recenti
+
+- [[20260928-levels-day11]] — 2026-09-28 · **Levels Day 11** · Analisi del deploy del 25/09 con Claude, confermata con Paolo e Alberto → [DECISIONE] sequenza test → mock → rilascio SAS automatico senza downtime (blue-green, variabili d'ambiente); weekly: si prepara lo sviluppo dell'ingresso in cantiere; primo 1:1 sales con Emanuele, che vede l'ingresso in cantiere come transizione per introdurre nuove pratiche e arrivare a un setup diverso dal 2027; PR linter/Prettier a zero errori, con fix reali invece dei disable messi da Claude
 
 - [[20260925-levels-day10]] — 2026-09-25 · **Levels Day 10** · Deploy in preparazione per stasera: chiesto al team di mettere la documentazione su un Drive condiviso e di tenere un journal del rilascio; e2e `create-site.feature` pushato, poi [DECISIONE] freeze dei nuovi e2e finché i mock non sono riprogettati (via gli if manuali nei client, MSW come candidato, mock stateful per OS API); regola "passa in locale e su dev"; deploy finito verso mezzanotte, servizi tagliati per layer tecnico → [DECISIONE] prima semplificare il deploy, poi scegliere tra refactoring e riscrittura
 
