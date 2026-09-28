@@ -9,32 +9,47 @@ Sources are ingested once into `raw/`, compiled by Claude into structured wiki p
 | Folder | Project | Status |
 |---|---|---|
 | `career-coach/` | AI Career Coach — journal, experiences, growth | 🟢 Active |
-| `football/` | Allenatore calcio — Ardor Juniores | 🔜 Coming soon |
+| `goals/` | Goals & habits — whole-life tracking (H2 2026) | 🟢 Active |
+| `football/` | Allenatore calcio — Ardor Bollate Juniores | 🟢 Active |
+| `study/` | Professional Learning Plan & knowledge base | 🟢 Active |
 
 ## Structure
+
+```
 vault/
-├── CLAUDE.md          # global rules for Claude
+├── CLAUDE.md          # global rules for Claude (incl. git workflow)
+├── README.md
 ├── _index.md          # wiki homepage
 ├── .quartzignore      # excludes raw/ folders from publishing
-└── career-coach/      # first active project
-├── CLAUDE.md      # domain-specific rules
-├── raw/           # immutable source material (not published)
-└── wiki/          # compiled knowledge (published via Quartz)
+└── <sub-wiki>/        # career-coach/, goals/, football/, study/
+    ├── CLAUDE.md      # domain-specific rules (extend the global ones)
+    ├── raw/           # immutable source material (not published)
+    └── wiki/          # compiled knowledge (published via Quartz)
+```
 
 ## Stack
 
 | Tool | Role |
 |---|---|
-| Obsidian + Git plugin | Local editor + GitHub sync |
+| Claude Code (VPS) | Writes and maintains the vault, commits and pushes |
 | GitHub (this repo) | Source of truth |
-| Quartz → GitHub Pages | Published wiki |
+| Obsidian (Remote SSH) | Optional: manual editing of raw files |
+| Quartz | Published wiki (GitHub Pages; football site on Coolify) |
 | n8n (VPS) | Nightly automation: frontmatter → HTML dashboard |
-| Claude Code | Writes and maintains the vault |
 
 ## How to use
 
-Open `~/Documents/personal/dan-the-dev-second-brain` as an Obsidian vault.
-Claude handles all writes — just send dumps in chat.
+The vault lives on the VPS and is maintained by Claude Code there — just send dumps in chat.
+When a raw file needs to be written by hand, open the vault in Obsidian via Remote SSH.
+
+## Sync
+
+Git is managed by Claude Code, not by the Obsidian Git plugin (which is at most a bonus):
+
+- **Wiki changes** (compiled content, instructions) → commit + push automatically, as the last step of the operation.
+- **Raw-only changes** → always committed; pushed on request (or with the next automatic push).
+
+Full rules: see "Git workflow" in [`CLAUDE.md`](CLAUDE.md).
 
 ## Related
 
