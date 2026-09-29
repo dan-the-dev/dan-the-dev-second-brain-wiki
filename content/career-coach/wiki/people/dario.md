@@ -22,10 +22,14 @@ Day 4 (17/09): prima vera frizione esplicita, ma gestita bene da entrambi. Dario
 
 Day 11 (28/09): pranzo andato bene, di nuovo sul futuro e su come organizzarsi ([[../journal/20260928-levels-day11|journal Day 11]]). Dario, abituato a un approccio classico, vorrebbe decidere come lavora il team e imporlo. Dan gli suggerisce di aspettare e coinvolgere il team nella decisione: dove il team ha meno esperienza seguirà le proposte, ma deve sentirsi partecipe.
 
+Day 12 (29/09): primo refinement fatto insieme ([[../journal/20260929-levels-day12|journal Day 12]]). Dario arriva con una soluzione già disegnata quasi fino ai campi; Dan propone di validare prima il nuovo processo, fuori dalla piattaforma, e percepisce che Dario la prende male: il contributo arrivato a soluzione fatta sembra rework, come una code review asincrona. Dan chiede subito un confronto e lo ottiene lo stesso giorno. Dario esprime il dubbio che le pratiche Agile/XP/DevOps funzionino davvero (i suoi riferimenti: tutti fanno tutto, parallelizzare al massimo, cioè efficienza delle risorse), ma è aperto e chiede a Dan indicazioni più chiare. Concordano per il refinement dell'ingresso in cantiere una struttura di 60': problema chiaro (15'), divergenza facilitata da Dan, convergenza su soluzione o esperimento/spike. Il form di indagine che Dario aveva in mente si decide dopo il primo giro.
+
 ## Dinamica
 Molto concentrato sui problemi, un po' preoccupato — percezione di Dan è che Dario non voglia mettere a rischio il momento di Levels e senta l'urgenza di deliberare in fretta. Lascia autonomia al team ma partecipa personalmente ai dettagli implementativi (osservato nel weekly Day 1, dove discute scelte tecniche senza il resto del prodotto strutturato attorno). Rapporto ancora agli inizi ma aperto: accoglie le proposte di processo di Dan senza resistenza esplicita.
 
 Day 4: primo disaccordo esplicito nel merito (qualità↔velocità), gestito con rispetto reciproco da entrambe le parti — buon segnale di sicurezza psicologica nella relazione, anche se il punto resta da convincere.
+
+Day 12: il modello mentale di Dario è l'efficienza delle risorse (tutti occupati, tutto in parallelo), lo stesso da cui nasce il disaccordo qualità↔velocità del Day 4. Gli argomenti razionali di Dan li riconosce, ma per cambiare idea deve vederli funzionare: meglio esperimenti piccoli con dati di flusso (tempo dall'inizio al rilascio) che spiegazioni. Tende a fidarsi e, se interpellato direttamente, si apre e chiede aiuto. La frizione nasce soprattutto quando Dan interviene *dopo* che Dario ha già investito in una soluzione.
 
 ## Citazioni o momenti significativi
 - Day 1 (14/09) — mini-roadmap mentale per fine 2026/inizio 2027 condivisa con Dan (invito subappaltatori → account completo → accesso in cantiere → controlli POS → UX → wallet/portfolio).
