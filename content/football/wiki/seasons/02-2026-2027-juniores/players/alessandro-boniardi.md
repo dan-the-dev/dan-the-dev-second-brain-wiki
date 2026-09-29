@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Boniardi Alessandro
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ⚠️ Infortunato dal 29/08/2026 al 14/09/2026 (vedi tabella infortuni sotto): segnato assente da tutti gli allenamenti e partite in questa finestra. Rientrato in gruppo il 14/09 (lavoro atletico individuale il 15/09, non convocabile), prima convocazione ufficiale il 19/09/2026.
 
@@ -42,6 +43,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 12 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 55 | 1 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 57 | 0 | 0 | 0 | 0 |
 
 ---
 

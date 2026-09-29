@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-27
+updated: 2026-09-29
 tags: [football, exercises, index]
 ---
 
@@ -30,6 +30,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-ajax-attivazione-tecnica\|Attivazione tecnica pre allenamento - Ajax]] | 6 attivi per stazione (gruppo 8-10) | Formazione a rettangolo su 6 posizioni: passaggio, scarico e cambio di posizione continuo (pass-and-follow) |
 | [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] | 14 (2x7), min. 10 | Due stazioni speculari da 7 postazioni ("Passing Drill - Barcellona"): scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
 | [[riscaldamento-circuito-doppio-uno-due-ostacolino\|Circuito doppio 1-2 e passaggio sotto l'ostacolino (gara a due gruppi)]] | tutta la squadra, 2 gruppi | Circuito tecnico: doppio uno-due poi passaggio rasoterra sotto l'ostacolino; due gruppi in gara a chi finisce prima |
+| [[riscaldamento-stazioni-passaggio-scambio-tommy\|Riscaldamento a stazioni — passaggio e scambio di posizione (Tommy)]] | tutta la squadra, a stazioni | Stazioni in cui si dà palla e ci si scambia di posizione, percorso meno lineare del solito; ⚠️ dettagli da completare |
 
 ## Riscaldamento atletico
 

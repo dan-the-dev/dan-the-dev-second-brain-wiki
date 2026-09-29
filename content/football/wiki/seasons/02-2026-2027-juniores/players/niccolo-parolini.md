@@ -1,7 +1,7 @@
 ---
 title: "Parolini Niccolò"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Parolini Niccolò
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 85 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -47,12 +49,13 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| — | — | — | — |
+| 29/09/2026 | In corso | Uscito per infortunio all'85' vs Sempione Half (tipo non specificato) | 29/09/2026: sostituito da Cuzmin, entità da verificare |
 
 ---
 
 ## 📝 Note personali
 
+**29/09/2026** — Torna titolare dopo due gare senza convocazione, nella difesa a 3 del 3-5-2. Esce all'85' per infortunio (sostituito da Cuzmin), entità da verificare. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Non convocato per la prima volta in stagione: si fa strada l'idea di Capretti-Livelli centrali o di una difesa a 3 con Boniardi E. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]], [[seasons/02-2026-2027-juniores/momenti-chiave|momenti chiave]])
 **15/09/2026** — Prestazione negativa ("Paro male"); emerge più una difficoltà psicologica che tecnica nell'adattarsi al salto di livello e alla concorrenza di Capretti/Livelli — rischio di sentirsi messo da parte. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]], [[seasons/02-2026-2027-juniores/momenti-chiave|momenti chiave]])
 **12/09/2026** — In apprensione quando deve attaccare/accorciare in avanti; tolto dal campo a inizio ripresa (dentro Livelli) dopo un primo tempo difficile. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

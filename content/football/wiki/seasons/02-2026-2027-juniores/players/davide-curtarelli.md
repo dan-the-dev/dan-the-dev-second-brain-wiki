@@ -1,7 +1,7 @@
 ---
 title: "Curtarelli Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Curtarelli Davide
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ❌ no |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ✅ Assente dal 14/09 al 21/09/2026 per mononucleosi, rientrato in gruppo il 23/09/2026 (vedi tabella infortuni sotto).
 
@@ -42,6 +43,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 23 | 0 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 69 | 0 | 0 | 0 | 0 |
 
 ---
 

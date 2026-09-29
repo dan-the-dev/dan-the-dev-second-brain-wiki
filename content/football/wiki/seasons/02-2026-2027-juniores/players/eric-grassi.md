@@ -1,7 +1,7 @@
 ---
 title: "Grassi Eric"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Grassi Eric
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 

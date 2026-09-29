@@ -1,7 +1,7 @@
 ---
 title: "Taronna Francesco"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Taronna Francesco
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 47 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 58 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 69 | 0 | 0 | 0 | 0 |
 
 ---
 

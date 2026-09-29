@@ -1,7 +1,7 @@
 ---
 title: "Cuzmin Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Cuzmin Alessandro
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ❌ no |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 53 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 67 | 0 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 5 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -53,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Entra all'85' al posto di Parolini, uscito per infortunio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Convocato ma non utilizzato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Titolare, parte bene ma va in difficoltà dopo aver perso la marcatura sul primo gol subito. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
 **31/08/2026** — Molto aggressivo in fase difensiva, a volte troppo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260831|partita]])

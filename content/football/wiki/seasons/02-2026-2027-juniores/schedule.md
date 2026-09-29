@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 
 # Calendari allenamenti 2026/27
@@ -47,8 +47,8 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 23/09 | Mer | 19:10–20:25 | 🏋️ allenamento | [[sessions/20260923\|📄 dettagli]] — seduta di forza: forza analitica, forza applicata 1vs1/2vs2, partita a tema a settori, partitella | 🟢 completato |
 | 24/09 | Gio | 19:30–21:00 | 🏋️ allenamento | [[sessions/20260924\|📄 dettagli]] — rifinitura: mobilità, circuito doppio 1-2 + ostacolino, principi difensivi palla esterna, giro palla, angoli e fallo laterale, partitella | 🟢 completato |
 | 26/09 | Sab | 18:00 | ⚽ partita | 🏠 G3 vs Accademia Inveruno — [[matches/20260926\|**3-4** (S)]] | 🟢 completato |
-| 28/09 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260928\|📄 dettagli]] — partita a tema riaggressione immediata (resto scaletta da definire) | programmato |
-| 29/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 3 vs Sempione Half 1919 | programmato |
+| 28/09 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260928\|📄 dettagli]] — condotto da Daniele e Tommy (Teo assente); mobilità, riscaldamento a stazioni (Tommy), partita a tema riaggressione immediata, partita | 🟢 completato |
+| 29/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 3 vs Sempione Half 1919 — [[matches/20260929\|📄 dettagli]] — **2-1 (V)** | 🟢 completato |
 | 30/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 
 ---

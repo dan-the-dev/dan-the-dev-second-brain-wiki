@@ -1,7 +1,7 @@
 ---
 title: Classifiche e statistiche — Stagione 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 tags: [football, stats, 2026-27]
 ---
 
@@ -15,18 +15,29 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 |---|---|---|
 | Mingrone Gabriele | 2 | 1 |
 | Columpsi Gabriele | 1 | — |
+| Favaron Diego | 1 | — |
+| Sudano Matteo | 1 | — |
 | Frassinelli Lorenzo* | 1 | — |
 
 *Frassinelli Lorenzo non è in rosa Juniores: attaccante 2007 della Prima Squadra, aggregato per Coppa Gara 2 (15/09) e Campionato Giornata 3 (26/09) — vedi [[seasons/02-2026-2027-juniores/players#aggregati-occasionali-non-in-rosa|players]].
 
-**Totale gol fatti**: 4 (Gara 1 vs Bresso Calcio 0-3, Gara 2 vs Leone XIII Sport 1-5).
-**Totale gol subiti**: 5 (tutti in Gara 2 vs Leone XIII Sport).
+**Totale gol fatti**: 6 (Gara 1 vs Bresso Calcio 0-3 V, Gara 2 vs Leone XIII Sport 1-5 S, Gara 3 vs Sempione Half 1919 2-1 V).
+**Totale gol subiti**: 6 (5 in Gara 2 vs Leone XIII Sport, 1 in Gara 3 vs Sempione Half).
+**Girone concluso:** 2V 1S, 6 punti.
 
 ## Classifica assist — Coppa Lombardia
 
 | Giocatore | Assist |
 |---|---|
 | Boniardi Edoardo | 1 |
+| Di Bello Leonardo | 1 |
+| Favaron Diego | 1 |
+
+## Cartellini — Coppa Lombardia
+
+| Giocatore | Gialli | Rossi |
+|---|:---:|:---:|
+| Favaron Diego | 1 | 0 |
 
 ## Classifica marcatori — Campionato
 
@@ -62,6 +73,28 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Mingrone Gabriele | 0 | 1 |
 
 Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+
+## Minuti giocati — Coppa Lombardia Gara 3 (29/09/2026 vs Sempione Half 1919)
+
+| Giocatore | Minuti |
+|---|---:|
+| Palmisano Marco | 90 |
+| Capretti Guglielmo | 90 |
+| Livelli Luca | 90 |
+| Di Bello Leonardo | 90 |
+| Favaron Diego | 90 |
+| Sudano Matteo | 90 |
+| Picca Riccardo\* | 90 |
+| Parolini Niccolò | 85 |
+| Curtarelli Davide | 69 |
+| Taronna Francesco | 69 |
+| Boniardi Alessandro | 57 |
+| Columpsi Gabriele | 33 |
+| Lapiccirella Alessandro | 21 |
+| Lentini Francesco | 21 |
+| Cuzmin Alessandro | 5 |
+
+\*Picca Riccardo non è in rosa Juniores: centrocampista 2007 della Prima Squadra, aggregato come fuori quota. Il dump non riporta la panchina: eventuali convocati rimasti a 0 minuti non sono elencati. Recupero finale (90+5') non conteggiato nei minuti.
 
 ## Minuti giocati — Campionato Giornata 3 (26/09/2026 vs Accademia Inveruno)
 

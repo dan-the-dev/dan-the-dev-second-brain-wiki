@@ -1,7 +1,7 @@
 ---
 title: Stagione 2026-27 — Juniores
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 tags: [football, season, 2026-27]
 ---
 
@@ -11,10 +11,10 @@ tags: [football, season, 2026-27]
 
 La squadra è impegnata su due fronti:
 - **Campionato Juniores Regionali U19 — Girone H** (15 giornate di andata + 15 di ritorno) — 2V 1S su 3 giocate
-- **Coppa Lombardia U19 Provinciale** — girone a 4 squadre (Bresso Calcio, Ardor Bollate, Leone XIII Sport, Sempione Half 1919) — 1V 1S su 2 giocate
+- **Coppa Lombardia U19 Provinciale** — girone a 4 squadre (Bresso Calcio, Ardor Bollate, Leone XIII Sport, Sempione Half 1919) — 2V 1S, girone concluso (6 punti)
 
-**Ultimo risultato:** 🔴 Ardor Bollate 3 – 4 Accademia Inveruno (26/09, Campionato G3) → [[seasons/02-2026-2027-juniores/matches/20260926|dettagli]]
-**Prossimo impegno:** 29/09 vs Sempione Half 1919 (Coppa Lombardia Gara 3, casa) → [[seasons/02-2026-2027-juniores/schedule|calendario completo]]
+**Ultimo risultato:** 🟢 Ardor Bollate 2 – 1 Sempione Half 1919 (29/09, Coppa Lombardia Gara 3) → [[seasons/02-2026-2027-juniores/matches/20260929|dettagli]]
+**Prossimo impegno:** 03/10 vs Vighi 1967 (Campionato G4, trasferta) → [[seasons/02-2026-2027-juniores/schedule|calendario completo]]
 
 ---
 

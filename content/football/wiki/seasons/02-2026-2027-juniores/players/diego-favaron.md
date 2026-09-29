@@ -1,7 +1,7 @@
 ---
 title: "Favaron Diego"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Favaron Diego
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ❌ no | — | — | — | — | — |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 1 | 1 | 1 | 0 |
 
 ---
 
@@ -53,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Torna titolare dopo due gare senza convocazione e decide la partita: gol dell'1-0 al 20' (assist Di Bello) e assist per il 2-0 di Sudano al 38'. Ammonito al 78'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Salta l'uomo con troppa fretta e causa un rigore dubbio (poi parato da Palmisano); pochi minuti dopo viene superato anche sul gol del contropiede avversario (1-2). (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **14/09/2026** — A riposo per rotazione/recupero: sabato scorso (12/09) era arrivato stanco e con qualche fastidio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])
 **09/09/2026** — Lavoro fisico a parte per un fastidio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

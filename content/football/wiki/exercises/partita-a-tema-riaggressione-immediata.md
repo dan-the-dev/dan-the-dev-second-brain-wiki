@@ -1,7 +1,7 @@
 ---
 title: "Partita a tema: riaggressione immediata, pressione e pressing"
 slug: partita-a-tema-riaggressione-immediata
-updated: 2026-09-27
+updated: 2026-09-29
 tags: [football, exercises, partitella, transizioni, pressing]
 ---
 
@@ -69,10 +69,19 @@ Adattamento scelto da Daniele per l'allenamento del [[seasons/02-2026-2027-junio
 ## Perché ci serve
 Risponde al consiglio n. 4 della [[matches/20260926|G3 vs Accademia Inveruno]] (transizioni: sul contropiede del 3-4 nessuno ha aggredito subito o spezzato l'azione). La variante 1 lavora anche sulla gestione della palla appena recuperata, collegata alla [[exercises/partita-a-tema-a-settori|partita a tema a settori]].
 
+## Come è andata da noi
+
+**28/09/2026** ([[seasons/02-2026-2027-juniores/sessions/20260928|allenamento]]), versione 11 contro 11 con limite di **6 passaggi**:
+- Riaggressione: mediamente bene.
+- Fase offensiva: molto male. Possesso statico, di fatto 5 contro 8: lo spazio c'era, ma stando fermi si riduceva.
+- Raggiunti i 6 passaggi, alcuni continuavano a tenere palla invece di cercare la giocata in avanti.
+
+Prossima volta: premiare la verticalizzazione dopo il punto (es. [[#varianti|variante 2]], attacco alla porta obbligatorio dopo i passaggi) e chiedere movimento senza palla a chi è in possesso.
+
 ## Note aperte
 - Dimensioni e durata da definire in base al gruppo. La versione Ardor adatta numeri e superiorità (+1 sui difensori rimasti dietro) ai presenti.
 - Da definire dopo la prova: cosa succede dopo un gol o allo scadere degli 8" (ripartenza dal portiere di chi ha difeso?), e se il tempo si ferma durante l'attacco.
 - Con 24 in rosa valutare due campi in parallelo o rotazione con jolly.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores · Usato il 28/09/2026 ([[seasons/02-2026-2027-juniores/sessions/20260928|allenamento]])

@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -16,6 +16,7 @@ updated: 2026-09-26
 **Coppa Lombardia — Girone Under 19 Provinciale**
 - Classifica live: [tuttocampo.it](https://www.tuttocampo.it/Lombardia/JunioresRegionaliU19/GironeCoppaLombardiaJunioresU19/Risultati)
 - Girone a 4 squadre, andata secca (3 giornate): Bresso Calcio, **Ardor Bollate**, Leone XIII Sport, Sempione Half 1919
+- **Girone concluso per l'Ardor:** 2V 1S, 6 punti, gol fatti 6, subiti 6 (classifica finale del girone su tuttocampo)
 
 ---
 
@@ -28,7 +29,7 @@ updated: 2026-09-26
 | Gara 2 | 15/09/2026 | Coppa Lombardia | 🏠 Casa | Leone XIII Sport | [[matches/20260915\|**1-5** (S)]] |
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | [[matches/20260919\|**3-4** (V)]] |
 | 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | [[matches/20260926\|**3-4** (S)]] |
-| Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | — |
+| Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | [[matches/20260929\|**2-1** (V)]] |
 | 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | — |
 | 5 | 10/10/2026 | Campionato Andata | 🏠 Casa | Accademia Bustese | — |
 | 6 | 17/10/2026 | Campionato Andata | ✈️ Trasferta | Accademia BMV | — |
@@ -102,5 +103,7 @@ Ogni partita giocata (amichevoli incluse) ha una pagina dedicata con cronologia 
 | 12/09/2026 | Campionato, Giornata 1 | Football Club Parabiago | ✈️ Trasferta | 2-3 (V) | [[matches/20260912\|Dettagli]] |
 | 15/09/2026 | Coppa Lombardia, Gara 2 | Leone XIII Sport | 🏠 Casa | 1-5 (S) | [[matches/20260915\|Dettagli]] |
 | 19/09/2026 | Campionato, Giornata 2 | Centro Giov. Boffalorese | ✈️ Trasferta | 3-4 (V) | [[matches/20260919\|Dettagli]] |
+| 26/09/2026 | Campionato, Giornata 3 | Accademia Inveruno | 🏠 Casa | 3-4 (S) | [[matches/20260926\|Dettagli]] |
+| 29/09/2026 | Coppa Lombardia, Gara 3 | Sempione Half 1919 | 🏠 Casa | 2-1 (V) | [[matches/20260929\|Dettagli]] |
 
 Retrospettiva/segnali sulle prime giornate: [[momenti-chiave|Momenti chiave]].

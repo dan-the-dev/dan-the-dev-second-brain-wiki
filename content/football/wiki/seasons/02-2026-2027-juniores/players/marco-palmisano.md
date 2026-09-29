@@ -1,7 +1,7 @@
 ---
 title: "Palmisano Marco"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Palmisano Marco
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -53,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Decisivo nel primo tempo: mette una pezza sulle una-due occasioni vere concesse al Sempione Half. Gara vinta 2-1 con un solo gol subito. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Para un rigore al 42', il secondo consecutivo dopo quello contro la Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Para un rigore nel secondo tempo (basso, sul suo palo sinistro) in una gara vinta 4-3 in rimonta; sfortunato sulla ribattuta della punizione da cui nasce il gol del 3-3 avversario. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **26/08/2026** — A fine seduta lavora a parte con il preparatore dei portieri. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]])

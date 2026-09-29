@@ -1,7 +1,7 @@
 ---
 title: "Di Bello Leonardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Di Bello Leonardo
@@ -26,6 +26,7 @@ updated: 2026-09-26
 | 21/09/2026 | allenamento | ✅ sì |
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
+| 28/09/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -40,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 12 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 35 | 0 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -53,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Assist per l'1-0 di Favaron, da quinto destro nel 3-5-2. Però troppo timido: il passaggio dal braccetto o dal centrale verso di lui, quinto alto a destra, era spesso disponibile e andava sfruttato molto di più. Da lavorare sulla fiducia nel prendersi lo spazio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **23/09/2026** — In crescita, ha fatto bene. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Entra al 78' e si fa notare positivamente. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Meglio da esterno, ma "fumoso" nelle ultime uscite. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

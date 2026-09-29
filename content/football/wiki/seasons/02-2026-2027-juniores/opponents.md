@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-26
+updated: 2026-09-29
 tags: [football, opponents, 2026-27]
 ---
 
@@ -10,6 +10,23 @@ tags: [football, opponents, 2026-27]
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
 ← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
+
+---
+
+## Sempione Half 1919
+
+Bilancio: 1V 0P 0S (Coppa Lombardia) — Gol fatti 2, gol subiti 1. Nessun altro incontro in programma nel girone di Coppa (girone ad andata secca).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Coppa Lombardia | Gara 3 | 29/09/2026 | 🏠 Casa | 2-1 | V | [[matches/20260929\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Gara 3 del 29/09)
+
+- **Modulo:** 4-3-3.
+- **Come li abbiamo battuti:** con il nostro 3-5-2 compatto nel primo tempo hanno creato poco (una, al massimo due occasioni vere, sventate da Palmisano), mentre noi abbiamo segnato due volte (Favaron, Sudano).
+- **Dove ci hanno messo in difficoltà:** nel secondo tempo, quando ci siamo abbassati e non uscivamo più, hanno preso campo e accorciato al 67'. Occasioni meno pulite di quelle del primo tempo, ma tanta pressione.
+- **Nota:** i dettagli individuali sugli avversari non sono stati indicati nel dump.
 
 ---
 
