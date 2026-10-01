@@ -1,12 +1,12 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # Completati
 
-Elenco degli 80 contenuti compilati in questo archivio (25 book, 37 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 5 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" (status ancora `to_read`/`to_watch`, non ancora segnati come studiati), 1 video il 2026-08-27 (idem), e 2 articoli il 2026-09-22, *The Economic Benefit of Refactoring* e *TDD inside the agent loop* — i primi due contenuti di questo archivio studiati per intero con appunti personali reali (`status: studied`), non solo catturati; vedi [[recent-changes|Ultime Modifiche]] per il dettaglio. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco degli 82 contenuti compilati in questo archivio (25 book, 39 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 7 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" (status ancora `to_read`/`to_watch`, non ancora segnati come studiati), 1 video il 2026-08-27 (idem), e 2 articoli il 2026-09-22, *The Economic Benefit of Refactoring* e *TDD inside the agent loop* — i primi due contenuti di questo archivio studiati per intero con appunti personali reali (`status: studied`), non solo catturati; e 2 articoli il 2026-10-01, *Evals as Theory Building* e *Why Good Product Ideas Don't Survive*, anch'essi studiati (`status: studied`); vedi [[recent-changes|Ultime Modifiche]] per il dettaglio. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
 ## Timeline (cronologia parziale, a memoria di Daniele)
 
@@ -78,6 +78,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **DORA — Balancing AI Tensions** (article) — [[content/article/dora-balancing-ai-tensions-moving-from-ai|pagina]]
 - **Endymion Spring** (book) — Matthew Skelton — [[content/book/endymion-spring|pagina]]
 - **Ep. 78 — Hexagonal Architecture con Alessandro Minoccheri** (podcast) — [[content/podcast/ep-78-hexagonal-architecture-con-alessandro|pagina]]
+- **Evals as Theory Building** (article) *(studiato 2026-10-01)* — [[content/article/evals-as-theory-building|pagina]]
 - **Eventstorming Facilitation** (course) — [[content/course/eventstorming-facilitation|pagina]]
 - **Everything We Learned at Stanford Business School in 19 Minutes** (video) — [[content/video/everything-we-learned-at-stanford-business-school|pagina]]
 - **Extreme Programming: Explained** (book) — Kent Beck — [[content/book/extreme-programming-explained|pagina]]
@@ -128,6 +129,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **Tutto quello che ho imparato su Team Topologies** (article) — [[content/article/tutto-quello-che-ho-imparato-su-team-topologies|pagina]]
 - **When Will It Be Done?** (book) — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]]
 - **Who Should Enable TDD? — Scrum Master | Line Manager | Tech Lead** (video) — [[content/video/who-should-enable-tdd-scrum-master-line-manager|pagina]]
+- **Why Good Product Ideas Don't Survive** (article) *(studiato 2026-10-01)* — [[content/article/why-good-product-ideas-dont-survive|pagina]]
 - **Why did Martin Fowler invite 60 engineers to a ski resort?** (article) — [[content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina]]
 - **Working Backwards** (book) — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]]
 - **XPUG Bg — Luca Giovenzana, Bounded Context** (video) — [[content/video/xpug-bg-27-01-2026-luca-giovenzana-bounded|pagina]]

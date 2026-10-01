@@ -2,7 +2,7 @@
 title: "Product Development"
 type: topic
 id: product-development
-updated: 2026-08-20
+updated: 2026-10-01
 ---
 
 # Product Development
@@ -29,6 +29,12 @@ La differenza fra il codice attuale e la sua versione ideale prende il nome di *
 
 > [!info] Approfondimento aggiunto in fase di compilazione
 > Questo articolo è la versione estesa e aggiornata di quella che lo stesso autore chiamava "Design Stamina Hypothesis" — l'idea, illustrata dal celebre grafico a due curve (funzionalità cumulate nel tempo, con e senza design/qualità interna), secondo cui la qualità interna non ha un costo netto ma un ritorno economico positivo che si manifesta dopo poche settimane di sviluppo continuo.
+
+## Quante idee buone sopravvivono al processo: l'evidence-guided development
+
+Una domanda che collega la feature factory all'impianto lean è quantitativa: quante idee davvero buone arrivano intatte in produzione? Itamar Gilad parte dalla legge di potenza delle idee di prodotto (una piccola minoranza genera la grandissima parte dell'impatto) e segue un'idea ad alto valore attraverso il classico modello **launch-and-iterate**[^good-ideas]. Nella prioritizzazione, decisa da consenso, intuito, gerarchia e politica, sopravvive al massimo nel 20% dei casi; nella specifica, dove la decisione per comitato produce compromessi mediocri e chi rivede raramente appartiene al pubblico del prodotto, resta di valore al massimo nel 40%; nell'implementazione, dove lo scope si taglia sulle parti non ancora costruite e non su quelle di minor valore, esce intatta nel 50%; e l'iterazione post-lancio, politicamente rischiosa, spesso senza dati e senza tempo in roadmap, ne recupera solo il 10%. Il prodotto fa circa il 5%: una idea buona su venti esprime il suo potenziale[^good-ideas]. L'AI, finora, ha soprattutto accelerato questo modello (*outputmaxing*: più PRD, più codice, più design), con il rischio di annegare le idee buone fra quelle mediocri.
+
+Nel modello **evidence-guided** la prioritizzazione diventa una *valutazione* basata su evidenze (90%), si aggiunge una *validazione* economica prima del build con ricerche nei dati, A/B test e lanci parziali (80%), la *delivery* costruisce qualcosa il cui valore centrale è già stato testato (90%), e l'iterazione è più probabile perché il team sa misurare (30% di recupero): circa 8 idee buone su 10 arrivano al traguardo, e in più le idee mediocri vengono filtrate[^good-ideas]. È la traduzione di prodotto di due principi lean sviluppati più sotto, eliminare lo spreco (il più grande è costruire la cosa sbagliata) e creare conoscenza prima di impegnarsi. Per metterlo a terra esistono strumenti concreti: il modello GIST e il Confidence Meter dello stesso Gilad, che dà alle idee un punteggio di confidenza in base al tipo di evidenza che le sostiene, dalla convinzione personale (0,01) ai dati di lancio (10); l'Opportunity Solution Tree e l'assumption testing di Teresa Torres; l'assumption mapping di David Bland; e il comunicato stampa scritto prima del prodotto del metodo Amazon descritto più sotto. La pagina dedicata all'articolo raccoglie questi framework e un percorso di adozione graduale[^good-ideas].
 
 ## Le origini: dal Toyota Production System al pensiero lean
 
@@ -146,7 +152,7 @@ Chiude il topic un riferimento più operativo che mostra come i metodi di produc
 
 ## Sintesi
 
-Letto nel suo insieme, questo topic disegna una traiettoria che va dal riconoscimento dell'anti-pattern più comune (la feature factory) fino a un intero impianto teorico e pratico per evitarlo: una cultura di team missionari piuttosto che mercenari, un'economia della qualità interna che ribalta l'intuizione comune sul rapporto costo/qualità, un impianto di principi lean con radici dirette nel Toyota Production System — eliminazione dello spreco, costruzione della qualità, creazione di conoscenza, rimando dell'impegno, consegna veloce, rispetto per le persone, ottimizzazione del tutto — declinato in pratiche concrete di flusso, teoria delle code e gestione delle persone alla Deming. A questo impianto si affiancano strumenti operativi specifici per ogni fase del ciclo di vita di un prodotto: l'EventStorming per la discovery del dominio, il forecasting probabilistico per rispondere con onestà a "quando sarà pronto", il metodo Amazon per lavorare a ritroso dall'esperienza del cliente. E infine due casi di studio agli estremi opposti dello spettro organizzativo — la disciplina di processo di Amazon su scala enorme, l'ownership diffusa e ingegneristica di una startup come Portkey — che dimostrano come principi identici possano tradursi in strutture organizzative anche molto diverse fra loro, purché restino fedeli all'idea di fondo: partire sempre dal problema reale del cliente, non dalla soluzione che si vorrebbe costruire.
+Letto nel suo insieme, questo topic disegna una traiettoria che va dal riconoscimento dell'anti-pattern più comune (la feature factory), con il calcolo di quante poche idee buone sopravvivano a un processo launch-and-iterate e di quante in più ne salvi un approccio evidence-guided, fino a un intero impianto teorico e pratico per evitarlo: una cultura di team missionari piuttosto che mercenari, un'economia della qualità interna che ribalta l'intuizione comune sul rapporto costo/qualità, un impianto di principi lean con radici dirette nel Toyota Production System — eliminazione dello spreco, costruzione della qualità, creazione di conoscenza, rimando dell'impegno, consegna veloce, rispetto per le persone, ottimizzazione del tutto — declinato in pratiche concrete di flusso, teoria delle code e gestione delle persone alla Deming. A questo impianto si affiancano strumenti operativi specifici per ogni fase del ciclo di vita di un prodotto: l'EventStorming per la discovery del dominio, il forecasting probabilistico per rispondere con onestà a "quando sarà pronto", il metodo Amazon per lavorare a ritroso dall'esperienza del cliente. E infine due casi di studio agli estremi opposti dello spettro organizzativo — la disciplina di processo di Amazon su scala enorme, l'ownership diffusa e ingegneristica di una startup come Portkey — che dimostrano come principi identici possano tradursi in strutture organizzative anche molto diverse fra loro, purché restino fedeli all'idea di fondo: partire sempre dal problema reale del cliente, non dalla soluzione che si vorrebbe costruire.
 
 ## Indice delle fonti
 
@@ -158,11 +164,12 @@ Letto nel suo insieme, questo topic disegna una traiettoria che va dal riconosci
 [^when-done]: Daniel S. Vacanti, *When Will It Be Done? Lean-Agile Forecasting to Answer Your Customers' Most Important Question* — [[../content/book/when-will-it-be-done|pagina dedicata]]
 [^working-backwards]: Colin Bryar, Bill Carr, *Working Backwards: Insights, Stories, and Secrets from Inside Amazon* — [[../content/book/working-backwards|pagina dedicata]]
 [^portkey]: Gregor Ojstersek, *The Product Engineer Company: How Portkey Works and Builds Its Product* — [[../content/article/the-product-engineer-company-how-portkey-works|pagina dedicata]]
+[^good-ideas]: Itamar Gilad, *Why Good Product Ideas Don't Survive*, itamargilad.com — [[../content/article/why-good-product-ideas-dont-survive|pagina dedicata]]
 [^pm-skills]: Dean Peters, *GitHub - deanpeters/Product-Manager-Skills* — [[../content/resource/github-deanpeters-product-manager-skills-product|pagina dedicata]]
 
 ## Vedi anche
 
 - Topic collegati: [[product-teams|Product Teams]] · [[agile-software-development|Agile Software Development]] · [[lean|Lean]] · [[eventstorming|EventStorming]]
 - Concetto: [[../content/concept/domain-driven-design|Domain-driven design]]
-- Persone citate in questo percorso: [[../content/person/john-doerr|John Doerr]] · [[../content/person/john-cutler|John Cutler]] · [[../content/person/pietro-campagnano|Pietro Campagnano]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/tom-poppendieck|Tom Poppendieck]] · [[../content/person/dean-peters|Dean Peters]] · [[../content/person/geoffrey-moore|Geoffrey Moore]]
+- Persone citate in questo percorso: [[../content/person/john-doerr|John Doerr]] · [[../content/person/itamar-gilad|Itamar Gilad]] · [[../content/person/john-cutler|John Cutler]] · [[../content/person/pietro-campagnano|Pietro Campagnano]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/tom-poppendieck|Tom Poppendieck]] · [[../content/person/dean-peters|Dean Peters]] · [[../content/person/geoffrey-moore|Geoffrey Moore]]
 - Organizzazioni citate: [[../content/organization/amazon-company|Amazon]] · [[../content/organization/mitre-corporation|MITRE]]

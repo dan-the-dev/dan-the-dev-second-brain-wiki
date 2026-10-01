@@ -1,14 +1,14 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # By Type
 
 Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i topic a cui ciascun elemento è agganciato. Per la vista organizzata per argomento si veda [[topics/agile-software-development|Topics]]; per l'archivio grezzo importato da Recall si veda [[knowledge-archive|Archivio Recall importato]].
 
-**Totale: 80 contenuti** (25 book, 37 article, 10 video, 3 conference, 3 podcast, 2 course). Le 5 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video, 2 il 2026-09-22 (i primi due articoli studiati con appunti personali reali, non solo catturati) — vedi [[index|nota in home]].
+**Totale: 82 contenuti** (25 book, 39 article, 10 video, 3 conference, 3 podcast, 2 course). Le 7 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video, 2 il 2026-09-22 (i primi due articoli studiati con appunti personali reali, non solo catturati), 2 il 2026-10-01 (studiati con summary preparati da Daniele e indicazioni per gli approfondimenti) — vedi [[index|nota in home]].
 
 ### Book (25)
 
@@ -38,7 +38,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **When Will It Be Done?** — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]] — tech-lead, product-development
 - **Working Backwards** — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]] — product-development
 
-### Article (37)
+### Article (39)
 
 - **10 Things You Would Expect From a Technical Lead** — [[content/article/10-things-you-would-expect-from-a-technical-lead|pagina]] — communication, tech-lead
 - **20 Principles To Learn and Lead** — [[content/article/20-principles-to-learn-and-lead|pagina]] — tech-lead, leadership, learning
@@ -54,6 +54,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **Cos'è il debito tecnico e come affrontarlo in modo Agile** — [[content/article/cose-il-debito-tecnico-e-come-affrontarlo-in-modo|pagina]] — tech-lead, agile-software-development, tech-debt, technical-excellence
 - **Doerr's Law on Product Teams** — [[content/article/doerr-s-law-on-product-teams|pagina]] — agile-software-development, product-development, product-teams
 - **DORA — Balancing AI Tensions** — [[content/article/dora-balancing-ai-tensions-moving-from-ai|pagina]] — ai, agile-software-development, dora
+- **Evals as Theory Building** *(studiato 2026-10-01)* — [[content/article/evals-as-theory-building|pagina]] — ai-development, ai
 - **How LennyRPG Was Built in 8 Hours** — [[content/article/how-lennyrpg-was-built-in-8-hours-by-ben-shih-in|pagina]] — technology, ai-development
 - **Humans and Agents in Software Engineering Loops** — [[content/article/humans-and-agents-in-software-engineering-loops|pagina]] — ai, agile-software-development
 - **Il peggior modo di fare una riunione** — [[content/article/il-peggior-modo-di-fare-una-riunione|pagina]] — communication, meetings
@@ -76,6 +77,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **The Three-Year Bill: Why Fast Teams Slow Down** — [[content/article/the-three-year-bill-why-fast-teams-slow-down|pagina]] — agile-software-development
 - **Trunk-Based Development And Branch By Abstraction** — [[content/article/trunk-based-development-and-branch-by-abstraction|pagina]] — agile-software-development, trunk-based-development
 - **Tutto quello che ho imparato su Team Topologies** — [[content/article/tutto-quello-che-ho-imparato-su-team-topologies|pagina]] — agile-software-development
+- **Why Good Product Ideas Don't Survive** *(studiato 2026-10-01)* — [[content/article/why-good-product-ideas-dont-survive|pagina]] — product-development
 - **Why did Martin Fowler invite 60 engineers to a ski resort?** *(aggiunto 2026-08-22)* — [[content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina]] — ai, software-development, technical-excellence
 
 ### Video (10)

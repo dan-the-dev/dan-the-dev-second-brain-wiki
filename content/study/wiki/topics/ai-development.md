@@ -2,7 +2,7 @@
 title: "AI Development"
 type: topic
 id: ai-development
-updated: 2026-08-20
+updated: 2026-10-01
 ---
 
 # AI Development
@@ -62,9 +62,15 @@ Due contributi recenti spostano l'attenzione dai pattern architetturali al costo
 
 Sul fronte della disciplina di processo, un esperimento indipendente sul Test-Driven Development eseguito interamente da agenti arriva a un risultato che smentisce l'intuizione più diffusa: imporre il ciclo Red-Green-Refactor a un agente non ne migliora la qualità del codice prodotto e ne moltiplica il costo in token fino a 8,5 volte, perché i benefici cognitivi che il TDD offre a un essere umano — l'attrito produttivo del passo Red, la gestione della paura — non si trasferiscono a un sistema che non riflette né teme nello stesso senso[^tdd-agent-loop]. Il dibattito che ne segue, approfondito nel topic [[tdd|TDD]], individua però un terreno diverso su cui il TDD (o quantomeno la sua cadenza) resta utile anche per un agente: non migliorare la qualità del design, ma gestire il contesto limitato del modello e offrire checkpoint frequenti a chi supervisiona il lavoro — un punto che si ricollega direttamente al modello "sul loop, non dentro il loop" già discusso sopra a proposito dell'harness engineering.
 
+## Valutare sistemi probabilistici: le eval come teoria del successo
+
+Lavorare con componenti AI pone un problema di verifica che il testing tradizionale non conosce: il sistema non è deterministico, la risposta giusta può avere molte forme, e quindi non esiste un `assertEquals` che dica con certezza se l'output è corretto. Le **eval** nascono per questo: invece di verificare un output esatto, stimano quanto bene un sistema si comporta su una distribuzione di casi realistici, con asserzioni deterministiche dove il criterio è oggettivo, giudizio umano o di un altro modello (*LLM-as-judge*) dove serve, e A/B test in produzione. Il primo livello è identico agli unit test; gli altri due sono il territorio specifico delle eval, che costano di più da eseguire e da mantenere[^evals-theory].
+
+Il punto più importante, però, non è la tecnica ma l'oracolo. Un'eval è una teoria di cosa significhi avere successo, e come ogni mappa semplifica il territorio: quando i suoi risultati entrano in un loop di miglioramento automatico, la mappa acquista autorità e un sistema può imparare a soddisfare il valutatore invece di fare il lavoro, che è la legge di Goodhart applicata all'AI (*reward hacking*)[^evals-theory]. La risposta proposta da High Performance AI Lab è trattare anche l'eval come qualcosa da testare: metterla sotto pressione con casi noti come corretti, contraffazioni controllate e variazioni generate; fissare le regole di decisione *prima* di vedere i risultati; separare il processo che migliora il sistema da quello che decide che il miglioramento c'è stato; e far evolvere sistema ed eval in due loop accoppiati[^evals-theory]. È la stessa preoccupazione che emerge nel dibattito sul TDD con gli agenti, dove il rischio sono i test tautologici e la difesa è misurare l'esito (per esempio con il mutation testing) più che imporre un processo: in entrambi i casi la domanda è se lo strumento di verifica sa davvero distinguere il giusto dallo sbagliato. Sullo sfondo c'è l'idea di Peter Naur del programma come teoria che vive nelle persone: ciò che deve accumularsi non sono i punteggi, che invecchiano con i modelli, ma la comprensione del lavoro e le "ricevute" che permettono di verificarla.
+
 ## Sintesi
 
-L'AI development, letta attraverso queste fonti, si articola su quattro livelli che si completano a vicenda: un livello di pattern architetturali che riusano principi classici dell'ingegneria del software adattandoli a un'interfaccia probabilistica e in linguaggio naturale (prompt come codice, tool use e MCP, gestione del contesto e retrieval, routing e affidabilità, flow engineering); un livello di fondamentali pratici da SDK reale, che riguardano statelessness, streaming, memoria, RAG in profondità, guardrail e testing di sistemi non deterministici; un livello di product engineering, dove l'autonomia crescente degli agenti (Cowork) e la velocità di prototipazione (il caso LennyRPG) cambiano il modo stesso in cui un prodotto viene concepito e costruito; e un livello più recente, economico e di processo, che misura direttamente in token il costo di una codebase disorganizzata e la convenienza (o meno) di imporre discipline come il TDD a chi scrive codice non è più solo umano — senza mai eliminare, in nessuno di questi livelli, la necessità di sapere con precisione dove i limiti pratici dell'AI restano evidenti.
+L'AI development, letta attraverso queste fonti, si articola su cinque livelli che si completano a vicenda: un livello di pattern architetturali che riusano principi classici dell'ingegneria del software adattandoli a un'interfaccia probabilistica e in linguaggio naturale (prompt come codice, tool use e MCP, gestione del contesto e retrieval, routing e affidabilità, flow engineering); un livello di fondamentali pratici da SDK reale, che riguardano statelessness, streaming, memoria, RAG in profondità, guardrail e testing di sistemi non deterministici; un livello di product engineering, dove l'autonomia crescente degli agenti (Cowork) e la velocità di prototipazione (il caso LennyRPG) cambiano il modo stesso in cui un prodotto viene concepito e costruito; e un livello più recente, economico e di processo, che misura direttamente in token il costo di una codebase disorganizzata e la convenienza (o meno) di imporre discipline come il TDD a chi scrive codice non è più solo umano; e un livello di verifica, che con le eval sposta la domanda dal "il sistema passa?" al "di cosa ci si può fidare, e perché?" — senza mai eliminare, in nessuno di questi livelli, la necessità di sapere con precisione dove i limiti pratici dell'AI restano evidenti.
 
 ## Indice delle fonti
 
@@ -75,9 +81,10 @@ L'AI development, letta attraverso queste fonti, si articola su quattro livelli 
 [^antirez-video]: *Come (non) usare l'AI per programmare? - Reaction a @antirez* (video) — [[../content/video/come-non-usare-l-ai-per-programmare-reaction-a|pagina dedicata]]
 [^refactoring-economic]: Giles Edwards-Alexander, *The Economic Benefit of Refactoring*, martinfowler.com, 2026 — [[../content/article/refactoring-economic-benefit|pagina dedicata]]
 [^tdd-agent-loop]: Birgitta Böckeler, *TDD inside the agent loop - theater or actual value?*, martinfowler.com, 2026 — [[../content/article/tdd-in-the-agent-loop|pagina dedicata]]
+[^evals-theory]: High Performance AI Lab, *Evals as Theory Building*, 2026 — [[../content/article/evals-as-theory-building|pagina dedicata]]
 
 ## Vedi anche
 
 - Topic collegati: [[ai|AI]] · [[technology|Tecnologia]] · [[software-development|Software Development]] · [[refactoring|Refactoring]] · [[tdd|TDD]]
-- Concetti: [[../content/concept/rag|RAG]] · [[../content/concept/large-language-model|Large Language Model]]
+- Concetti: [[../content/concept/rag|RAG]] · [[../content/concept/large-language-model|Large Language Model]] · [[../content/concept/goodhart-s-law|Goodhart's law]]
 - Persone citate: [[../content/person/salvatore-sanfilippo|Salvatore Sanfilippo]] (antirez)
