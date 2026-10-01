@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -59,7 +59,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · **Infortunato dal 29/08** (distorsione alla caviglia di 2° grado), in attesa della diagnosi definitiva dopo gli esami — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
+| 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · Distorsione alla caviglia di 2° grado il 29/08, ✅ recuperato: in gruppo dal 14/09, di nuovo in campo dal 19/09 (gol al 26/09 vs Inveruno) — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
 | 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |
 | 25 | [[players/matteo-sudano\|Sudano Matteo]] | 2008 | Esterno / seconda punta | 🆕 nuovo · Molto forte, segnalato testa calda. Amichevole 31/08: tanta qualità e corsa, fatica mentalmente ma si impegna se stimolato — ha conquistato il rigore del 2-0 |
