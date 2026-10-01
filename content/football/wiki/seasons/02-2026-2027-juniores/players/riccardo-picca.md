@@ -1,7 +1,7 @@
 ---
 title: "Picca Riccardo"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Picca Riccardo
@@ -32,4 +32,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**29/09/2026** — Aggregato dalla Prima Squadra come fuori quota, con Parolini e Favaron. Titolare per 90' nel 3-5-2. Al 29' sbaglia il gol del possibile 2-0. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
+**29/09/2026** — Aggregato dalla Prima Squadra come fuori quota, con Parolini e Favaron. Titolare per 90': mezzala destra nel 3-5-2, poi in mezzo con Taronna nel 3-4-1-2. Al 29' sbaglia il gol del possibile 2-0. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])

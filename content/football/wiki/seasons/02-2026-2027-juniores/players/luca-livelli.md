@@ -1,7 +1,7 @@
 ---
 title: "Livelli Luca"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Livelli Luca
@@ -55,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Braccetto sinistro nel 3-5-2 del primo tempo. All'intervallo, su richiesta di Teo, scambiato di lato con Parolini (Livelli a destra): mossa difensiva contro il loro 11, ma la nostra uscita palla è peggiorata tantissimo. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Titolare per l'intera gara, nessuna nota negativa. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Confermato su ottimi livelli. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])
 **12/09/2026** — Entra a inizio ripresa e cambia la partita con personalità da giocatore mentalmente superiore alla categoria. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

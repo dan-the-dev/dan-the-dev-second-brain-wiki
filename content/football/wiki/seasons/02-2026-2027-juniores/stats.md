@@ -1,7 +1,7 @@
 ---
 title: Classifiche e statistiche — Stagione 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 tags: [football, stats, 2026-27]
 ---
 
@@ -93,8 +93,12 @@ Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [
 | Lapiccirella Alessandro | 21 |
 | Lentini Francesco | 21 |
 | Cuzmin Alessandro | 5 |
+| Boniardi Edoardo | 0 |
+| Mingrone Gabriele | 0 |
+| Riccio Alessandro | 0 |
+| Simonato Mattia Lorenzo | 0 |
 
-\*Picca Riccardo non è in rosa Juniores: centrocampista 2007 della Prima Squadra, aggregato come fuori quota. Il dump non riporta la panchina: eventuali convocati rimasti a 0 minuti non sono elencati. Recupero finale (90+5') non conteggiato nei minuti.
+\*Picca Riccardo non è in rosa Juniores: centrocampista 2007 della Prima Squadra, aggregato come fuori quota. In panchina anche un portiere classe 2010 aggregato, non entrato. Recupero finale (90+5') non conteggiato nei minuti.
 
 ## Minuti giocati — Campionato Giornata 3 (26/09/2026 vs Accademia Inveruno)
 

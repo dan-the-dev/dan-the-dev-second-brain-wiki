@@ -1,7 +1,7 @@
 ---
 title: "Curtarelli Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Curtarelli Davide
@@ -57,6 +57,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Mezzala sinistra nel 3-5-2, poi dal 28' trequartista a uomo sul play avversario nel 3-4-1-2. Esce al 69' (dentro Lapiccirella). (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Rientro in campo dopo la mononucleosi: entra al 67' con il passaggio al 3-4-1-2, un tiro da fuori all'88'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Segnato presente nel dump dell'allenamento, dopo lo stop per mononucleosi dal 14/09: rientro in gruppo, confermato da Daniele il 26/09/2026. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **14/09/2026** — Diagnosi di mononucleosi, stop previsto di 3-4 settimane — vedi [[seasons/02-2026-2027-juniores/injuries|infortuni]]. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])

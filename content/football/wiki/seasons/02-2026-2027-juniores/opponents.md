@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 tags: [football, opponents, 2026-27]
 ---
 
@@ -24,6 +24,7 @@ Bilancio: 1V 0P 0S (Coppa Lombardia) — Gol fatti 2, gol subiti 1. Nessun altro
 ### Scouting (aggiornato dopo Gara 3 del 29/09)
 
 - **Modulo:** 4-3-3.
+- **Uomini chiave:** il loro 11, che nel primo tempo ci ha messo in difficoltà sul lato di Parolini (all'intervallo abbiamo scambiato i braccetti per questo).
 - **Come li abbiamo battuti:** con il nostro 3-5-2 compatto nel primo tempo hanno creato poco (una, al massimo due occasioni vere, sventate da Palmisano), mentre noi abbiamo segnato due volte (Favaron, Sudano).
 - **Dove ci hanno messo in difficoltà:** nel secondo tempo, quando ci siamo abbassati e non uscivamo più, hanno preso campo e accorciato al 67'. Occasioni meno pulite di quelle del primo tempo, ma tanta pressione.
 - **Nota:** i dettagli individuali sugli avversari non sono stati indicati nel dump.

@@ -1,7 +1,7 @@
 ---
 title: "Grosso Davide"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Grosso Davide
@@ -41,6 +41,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 15/09/2026 | Leone XIII Sport | 🏠 casa | ✅ sì | 43 | 0 | 0 | 0 | 0 |
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 8 | 0 | 0 | 0 | 0 |
+| 29/09/2026 | Sempione Half 1919 | 🏠 casa | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -54,6 +55,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**29/09/2026** — Non convocato per febbre. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Rientro in campo dopo il problema alla caviglia del 15/09: entra all'82' al posto di Lasagna. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Prova ad allenarsi ma si ferma a metà seduta, sempre per la caviglia (infortunio nella gara contro il Leone XIII). Da monitorare. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])
 **19/09/2026** — Non convocato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
