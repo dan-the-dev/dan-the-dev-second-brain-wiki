@@ -2,7 +2,7 @@
 title: Dario
 company: [levels]
 role: Co-Founder, ruolo tecnico/prodotto (Dario Del Gaizo)
-updated: 2026-09-29
+updated: 2026-10-01
 tags: [people, levels]
 ---
 
@@ -23,6 +23,8 @@ Day 4 (17/09): prima vera frizione esplicita, ma gestita bene da entrambi. Dario
 Day 11 (28/09): pranzo andato bene, di nuovo sul futuro e su come organizzarsi ([[../journal/20260928-levels-day11|journal Day 11]]). Dario, abituato a un approccio classico, vorrebbe decidere come lavora il team e imporlo. Dan gli suggerisce di aspettare e coinvolgere il team nella decisione: dove il team ha meno esperienza seguirà le proposte, ma deve sentirsi partecipe.
 
 Day 12 (29/09): primo refinement fatto insieme ([[../journal/20260929-levels-day12|journal Day 12]]). Dario arriva con una soluzione già disegnata quasi fino ai campi; Dan propone di validare prima il nuovo processo, fuori dalla piattaforma, e percepisce che Dario la prende male: il contributo arrivato a soluzione fatta sembra rework, come una code review asincrona. Dan chiede subito un confronto e lo ottiene lo stesso giorno. Dario esprime il dubbio che le pratiche Agile/XP/DevOps funzionino davvero (i suoi riferimenti: tutti fanno tutto, parallelizzare al massimo, cioè efficienza delle risorse), ma è aperto e chiede a Dan indicazioni più chiare. Concordano per il refinement dell'ingresso in cantiere una struttura di 60': problema chiaro (15'), divergenza facilitata da Dan, convergenza su soluzione o esperimento/spike. Il form di indagine che Dario aveva in mente si decide dopo il primo giro.
+
+Day 13 (30/09): primo refinement sul wallet ([[../journal/20260930-levels-day13|journal Day 13]]), più di due ore ma con grandi passi avanti e punti lasciati esplicitamente in sospeso (legal sui documenti condivisi con chi non è registrato, spike affidato a Dan). Secondo Dan, Dario sottostima la complessità da trasferire: da gestire con i dati dello spike, non come opinione.
 
 ## Dinamica
 Molto concentrato sui problemi, un po' preoccupato — percezione di Dan è che Dario non voglia mettere a rischio il momento di Levels e senta l'urgenza di deliberare in fretta. Lascia autonomia al team ma partecipa personalmente ai dettagli implementativi (osservato nel weekly Day 1, dove discute scelte tecniche senza il resto del prodotto strutturato attorno). Rapporto ancora agli inizi ma aperto: accoglie le proposte di processo di Dan senza resistenza esplicita.
