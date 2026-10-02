@@ -2,7 +2,7 @@
 title: Alberto
 company: [levels]
 role: AI Software Engineer (Alberto Sandri)
-updated: 2026-09-17
+updated: 2026-10-02
 tags: [people, levels]
 ---
 
@@ -17,6 +17,8 @@ Day 1 (14/09): prima call col team dev, guidata da Alberto sulla parte SSO/archi
 Day 2 (15/09): programmata la prima sessione di pairing con Alberto per il 16/09, 10:00-11:00.
 
 Day 3 (16/09): sessione collaborativa in cui Alberto mostra a Dan come lavora sulla feature in corso. Uso molto intensivo dell'AI ma dentro una struttura disciplinata — skill "superpowers" (verosimilmente di Matt Pocock): piano generato, scomposizione in sottotask, una task alla volta, code review, poi merge sul branch. Legge bene la documentazione (Swagger), ma di sua ammissione non legge i test generati dall'AI — troppo tempo richiesto secondo lui. Struttura backend classica (controller → handler → service, pattern repository, Prisma come ORM). Impressione di Dan: buon processo nel complesso. Alberto ha inoltre segnalato per primo (indipendentemente da Paolo) l'anti-pattern sulla lambda di sync reportistica, dove il SAS chiude una transaction aperta/gestita da un altro servizio (vedi [[../journal/20260916-levels-day3|journal Day 3]]).
+
+Day 15 (02/10): primo lavoro condiviso sulla feature di sharing del cantiere. Divisione concordata: Dan su SaaS + frontend (API di gestione link, pagina pubblica), Alberto sull'API di download anche per la casistica della pagina pubblica. Prima PR di Dan (API di condivisione) rivista **insieme**, in modo sincrono: nel team di solito le review sono asincrone. Sono emersi piccoli aggiustamenti; merge concordato per lunedì 05/10, dopo il rilascio in prod (vedi [[../journal/20261002-levels-day15|journal Day 15]]).
 
 ## Dinamica
 Guida naturalmente le conversazioni tecniche sulla parte identity/SSO — punto di riferimento del team su quell'area. Condivide con il resto del team la percezione di complessità architetturale ingiustificata, segnale di apertura al cambiamento più che di difesa dello status quo.

@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-10-01
+updated: 2026-10-02
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20261002-levels-day15]] — 2026-10-02 · **Levels Day 15** · Primo giorno di sviluppo con le skill XP su un progetto vero: lavoro diviso con Albi sulla feature di sharing (Dan SaaS + frontend, Albi API di download); API di condivisione sviluppate in giornata e PR rivista insieme ad Albi (il team di solito fa review asincrone); piccoli aggiustamenti da fare, merge rimandato a lunedì per non interferire col rilascio in prod della sera
 - [[20261001-levels-day14]] — 2026-10-01 · **Levels Day 14** · Completati alcuni refinement (il formato è ancora da trovare, ma è un buon inizio): da domani si sviluppa; test in pipeline verificati su dev, rilascio in prod in serata, primo fallimento dei test in pipeline; Paolo "lupo solitario" (lavoro a mezzanotte, assente alla riunione organizzativa, ha fatto un'attività diversa da quella concordata senza confrontarsi); autodiagnosi di Dan: "ho accelerato troppo, devo rallentare"
 - [[20260930-levels-day13]] — 2026-09-30 · **Levels Day 13** · PR linter/Prettier mergiata in dev e verificata, test in pipeline sul SaaS (prod rimandato, va fatto fuori orario); primo refinement sul wallet (2h+, grandi passi avanti, Dario sottostima la complessità) → punti in sospeso sul legal per i documenti condivisi con chi non è registrato e [DECISIONE] spike di Dan "in casa o tool esterno"; [DECISIONE] creazione cantiere: primo step invariato per i GC, step aggiuntivi per i sub; obiettivi delle prossime 2-3 settimane: supportare il wallet (toccare il codice) e sbloccare mock e Cypress
 - [[20260929-levels-day12]] — 2026-09-29 · **Levels Day 12** · Piano di remediation fase 1 per il deploy del SaaS (tracciate 1.7, 1.6, 1.1, 1.2+1.10, 1.8, 1.13); primo refinement insieme: frizione con Dario, che arriva con la soluzione già disegnata e vive il contributo di Dan come rework ("code review asincrona") → [DECISIONE] chiedergli subito feedback e aspettative; chiacchierata con Dario lo stesso giorno: dubbi sul fatto che le pratiche funzionino (efficienza delle risorse contro flusso), ma apertura e richiesta di struttura → [DECISIONE] refinement dell'ingresso in cantiere in 3 fasi (problema 15', divergenza facilitata da Dan, convergenza su soluzione o spike) e form di indagine solo dopo; branch linter/Prettier chiuso a 0 errori, merge in dev dopo l'ultimo rilascio del team
