@@ -1,7 +1,7 @@
 ---
 title: "Mingrone Gabriele"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Mingrone Gabriele
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 81 | 1 | 0 | 0 | 1 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 90 | 0 | 2 | 0 | 0 |
 
 ---
 
@@ -55,6 +56,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Torna titolare dopo la squalifica e fa la differenza con le palle lunghe: assist per Banfi al 6' e per Columpsi al 58', e il tiro respinto da cui nasce il 2-5 di Boniardi A. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Rientra tra i convocati dopo il turno di squalifica (rosso del 19/09), resta in panchina senza entrare. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Non convocato: squalificato dopo il rosso del 19/09 vs Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Gol su rigore per il 2-2, ma anche cartellino rosso all'81' per fallo da ultimo uomo su una ripartenza — episodio disciplinare da rivedere insieme sulla lettura del rischio in transizione difensiva. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])

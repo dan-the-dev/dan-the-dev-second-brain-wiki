@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -26,7 +26,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 3 | [[players/niccolo-parolini\|Parolini Niccolò]] | 2007 | Difensore centrale | ✓ confermato · FQ · Bravo coi piedi, a volte cincischia troppo. In difficoltà psicologica con l'arrivo di Capretti/Livelli (vedi [[momenti-chiave|momenti chiave]]) — non convocato per Campionato G2 (19/09) · 🩹 uscito per infortunio all'85' il 29/09 vs Sempione Half, entità da verificare |
+| 3 | [[players/niccolo-parolini\|Parolini Niccolò]] | 2007 | Difensore centrale | ✓ confermato · FQ · Bravo coi piedi, a volte cincischia troppo. In difficoltà psicologica con l'arrivo di Capretti/Livelli (vedi [[momenti-chiave|momenti chiave]]) — non convocato per Campionato G2 (19/09) · uscito all'85' il 29/09 vs Sempione Half per un infortunio lieve, niente di serio |
 | 4 | [[players/diego-favaron\|Favaron D. Diego]] | 2007 | Terzino/quinto sx-dx | ✓ confermato · FQ · Ansioso ma buona gamba e tecnica di base. Amichevole 31/08: molto bene, anche se a volte rischia troppo la giocata e va sempre avanti |
 | 5 | [[players/edoardo-boniardi\|Boniardi E. Edoardo]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Forte in marcatura, veloce, aggressivo. Bene fisicamente anche nell'amichevole del 31/08 |
 | 6 | [[players/alessandro-cuzmin\|Cuzmin Alessandro]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Buona alternativa, adattato anche esterno. Amichevole 31/08: molto aggressivo, a volte troppo |
@@ -43,7 +43,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 12 | [[players/riccardo-lasagna\|Lasagna Riccardo]] | 2007 | Regista / mezzala / difensore centrale | ✓ confermato · FQ · **Capitano**. Confermato metronomo della squadra anche nell'amichevole del 31/08 |
+| 12 | [[players/riccardo-lasagna\|Lasagna Riccardo]] | 2007 | Regista / mezzala / difensore centrale | ✓ confermato · FQ · **Capitano**. Confermato metronomo della squadra anche nell'amichevole del 31/08 · Fuori dal 29/09 per motivi personali |
 | 13 | [[players/luca-lo-valvo\|Lo Valvo Luca]] | 2007 | Centrocampista centrale | ✓ confermato · FQ · Riserva, difficile vederlo in campo da FQ |
 | 14 | [[players/francesco-taronna\|Taronna Francesco]] | 2008 | Mediano / mezzala | ✓ confermato · Gran recuperatore di palloni — confermato anche in amichevole |
 | 15 | [[players/alessandro-lapiccirella\|Lapiccirella Alessandro]] | 2008 | Mediano / mezzala | ✓ confermato · Buona tecnica e temperamento, incostante |
@@ -76,13 +76,14 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 ## Aggregati occasionali (non in rosa)
 
-Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando serve (max 3 fuori quota per gara, vedi "Regole schieramento").
+Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando serve (max 3 fuori quota per gara, vedi "Regole schieramento"), più giocatori più giovani aggregati quando serve.
 
 | Giocatore | Anno | Note |
 |-----------|------|------|
 | [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi e per Campionato Giornata 3 (26/09, 90', gol del 2-2). |
-| [[players/riccardo-picca\|Picca Riccardo]] | 2007 | Centrocampista della Prima Squadra (in Juniores nella stagione 2025/26), aggregato per Coppa Lombardia Gara 3 (29/09, titolare 90' nel 3-5-2). |
-| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09, titolare nel 4-2-3-1, sostituito al 78') e Giornata 3 (26/09, 90' nel 4-3-3). |
+| [[players/cristhofer-vaca-pangay\|Vaca Pangay Cristhofer]] | 2010 | Portiere, aggregato come secondo portiere (la rosa non ne ha uno): allenamento del 28/09, in panchina per Coppa Lombardia Gara 3 (29/09). Non è un fuori quota. |
+| [[players/riccardo-picca\|Picca Riccardo]] | 2007 | Centrocampista della Prima Squadra (in Juniores nella stagione 2025/26), aggregato per Coppa Lombardia Gara 3 (29/09, titolare 90' nel 3-5-2) e Campionato Giornata 4 (03/10, titolare 90' nel 3-4-2-1). |
+| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09, titolare nel 4-2-3-1, sostituito al 78') Giornata 3 (26/09, 90' nel 4-3-3) e Giornata 4 (03/10, 90' nel 3-4-2-1, gol e assist). |
 
 ---
 

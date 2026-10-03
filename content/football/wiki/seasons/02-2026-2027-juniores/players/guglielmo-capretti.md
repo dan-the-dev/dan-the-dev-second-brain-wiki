@@ -1,7 +1,7 @@
 ---
 title: "Capretti Guglielmo"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Capretti Guglielmo
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 1 | 0 |
 
 ---
 
@@ -55,6 +56,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Ammonito al 49'. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **26/09/2026** — Occasione per il pari sbagliata al 92'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Conquista il rigore del 2-2 involandosi in area e venendo steso. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **12/09/2026** — Molto solido al centro della difesa nei duelli individuali. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

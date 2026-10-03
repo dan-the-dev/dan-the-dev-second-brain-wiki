@@ -1,7 +1,7 @@
 ---
 title: Partite — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Partite — Juniores Regionali 2026/27
@@ -30,7 +30,7 @@ updated: 2026-09-29
 | 2 | 19/09/2026 | Campionato Andata | ✈️ Trasferta | Centro Giov. Boffalorese | [[matches/20260919\|**3-4** (V)]] |
 | 3 | 26/09/2026 | Campionato Andata | 🏠 Casa | Accademia Inveruno | [[matches/20260926\|**3-4** (S)]] |
 | Gara 3 | 29/09/2026 | Coppa Lombardia | 🏠 Casa | Sempione Half 1919 | [[matches/20260929\|**2-1** (V)]] |
-| 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | — |
+| 4 | 03/10/2026 | Campionato Andata | ✈️ Trasferta | Vighi 1967 | [[matches/20261003\|**2-5** (V)]] |
 | 5 | 10/10/2026 | Campionato Andata | 🏠 Casa | Accademia Bustese | — |
 | 6 | 17/10/2026 | Campionato Andata | ✈️ Trasferta | Accademia BMV | — |
 | 7 | 24/10/2026 | Campionato Andata | ✈️ Trasferta | Vela Mesero | — |
@@ -105,5 +105,6 @@ Ogni partita giocata (amichevoli incluse) ha una pagina dedicata con cronologia 
 | 19/09/2026 | Campionato, Giornata 2 | Centro Giov. Boffalorese | ✈️ Trasferta | 3-4 (V) | [[matches/20260919\|Dettagli]] |
 | 26/09/2026 | Campionato, Giornata 3 | Accademia Inveruno | 🏠 Casa | 3-4 (S) | [[matches/20260926\|Dettagli]] |
 | 29/09/2026 | Coppa Lombardia, Gara 3 | Sempione Half 1919 | 🏠 Casa | 2-1 (V) | [[matches/20260929\|Dettagli]] |
+| 03/10/2026 | Campionato, Giornata 4 | Vighi 1967 | ✈️ Trasferta | 2-5 (V) | [[matches/20261003\|Dettagli]] |
 
 Retrospettiva/segnali sulle prime giornate: [[momenti-chiave|Momenti chiave]].

@@ -1,7 +1,7 @@
 ---
 title: "Lapiccirella Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Lapiccirella Alessandro
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 32 | 1 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 55 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 21 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ❌ no (febbre) | — | — | — | — | — |
 
 ---
 
@@ -55,4 +56,5 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Convocato, ma assente all'ultimo per febbre. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **19/09/2026** — Subentra al 58' e firma il gol del sorpasso al 70' (tap-in su assist di Sudano da corner); buona anche la prestazione complessiva dopo l'ingresso, non solo il gol — contributo importante nella vittoria in rimonta. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])

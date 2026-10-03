@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [football, opponents, 2026-27]
 ---
 
@@ -10,6 +10,23 @@ tags: [football, opponents, 2026-27]
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
 ← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
+
+---
+
+## Vighi 1967
+
+Bilancio: 1V 0P 0S (Campionato) — Gol fatti 5, gol subiti 2. Ritorno in programma il 30/01/2027 (girone Ritorno, in casa).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Campionato | Giornata 4 | 03/10/2026 | ✈️ Trasferta | 2-5 | V | [[matches/20261003\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Giornata 4 del 03/10)
+
+- **Modulo:** 4-2-3-1.
+- **Come li abbiamo battuti:** partenza aggressiva (3-0 in 11 minuti), pressione alta e palle lunghe di Mingrone alle spalle della difesa. Sul cambio gioco dopo l'uscita a sinistra hanno sofferto.
+- **Come ci hanno segnato:** solo su situazioni da palla inattiva nate da errori nostri (rinvio sbagliato dopo una nostra punizione, punizione laterale respinta). Il dump non registra loro occasioni nate dalla manovra.
+- **Nota per il ritorno:** non regalare punizioni laterali e attenzione alle respinte in area.
 
 ---
 

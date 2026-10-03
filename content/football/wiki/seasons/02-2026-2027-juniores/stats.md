@@ -1,7 +1,7 @@
 ---
 title: Classifiche e statistiche — Stagione 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [football, stats, 2026-27]
 ---
 
@@ -43,27 +43,33 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 
 | Giocatore | Gol | di cui rigori |
 |---|---|---|
+| Columpsi Gabriele | 5 | — |
+| Boniardi Alessandro | 2 | — |
 | Mingrone Gabriele | 1 | 1 |
-| Columpsi Gabriele | 3 | — |
 | Livelli Luca | 1 | — |
 | Sudano Matteo | 1 | — |
 | Lapiccirella Alessandro | 1 | — |
-| Boniardi Alessandro | 1 | — |
+| Di Bello Leonardo | 1 | — |
+| Banfi Paolo* | 1 | — |
 | Frassinelli Lorenzo* | 1 | — |
 | — (autogol avversario) | 1 | — |
 
-**Totale gol fatti**: 10 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V; Giornata 3 vs Accademia Inveruno 3-4 S).
-**Totale gol subiti**: 9 (2 in Giornata 1, 3 in Giornata 2, 4 in Giornata 3).
+**Totale gol fatti**: 15 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V; Giornata 3 vs Accademia Inveruno 3-4 S; Giornata 4 vs Vighi 1967 2-5 V).
+**Totale gol subiti**: 11 (2 in Giornata 1, 3 in Giornata 2, 4 in Giornata 3, 2 in Giornata 4).
+**Bilancio:** 3V 0P 1S, 9 punti.
+
+*Banfi e Frassinelli: 2007 della Prima Squadra, aggregati come fuori quota.
 
 ## Classifica assist — Campionato
 
 | Giocatore | Assist |
 |---|---|
+| Mingrone Gabriele | 3 |
 | Columpsi Gabriele | 1 |
-| Mingrone Gabriele | 1 |
 | Sudano Matteo | 1 |
 | Lasagna Riccardo | 1 |
 | Taronna Francesco | 1 |
+| Banfi Paolo* | 1 |
 
 ## Cartellini — Campionato
 
@@ -71,8 +77,33 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 |---|:---:|:---:|
 | Sudano Matteo | 0 | 1 |
 | Mingrone Gabriele | 0 | 1 |
+| Capretti Guglielmo | 1 | 0 |
 
-Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+
+## Minuti giocati — Campionato Giornata 4 (03/10/2026 vs Vighi 1967)
+
+| Giocatore | Minuti |
+|---|---:|
+| Palmisano Marco | 90 |
+| Boniardi Edoardo | 90 |
+| Capretti Guglielmo | 90 |
+| Livelli Luca | 90 |
+| Curtarelli Davide | 90 |
+| Mingrone Gabriele | 90 |
+| Banfi Paolo\* | 90 |
+| Picca Riccardo\* | 90 |
+| Columpsi Gabriele | 86 |
+| Di Bello Leonardo | 78 |
+| Favaron Diego | 71 |
+| Taronna Francesco | 19 |
+| Boniardi Alessandro | 12 |
+| Simonato Mattia Lorenzo | 4 |
+| Cuzmin Alessandro | 0 |
+| Grassi Eric | 0 |
+| Lentini Francesco | 0 |
+
+\*Banfi e Picca non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota. Lapiccirella e Riccio erano convocati ma assenti all'ultimo per febbre. Recupero finale (90+2') non conteggiato nei minuti.
 
 ## Minuti giocati — Coppa Lombardia Gara 3 (29/09/2026 vs Sempione Half 1919)
 
@@ -98,7 +129,7 @@ Entrambi espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [
 | Riccio Alessandro | 0 |
 | Simonato Mattia Lorenzo | 0 |
 
-\*Picca Riccardo non è in rosa Juniores: centrocampista 2007 della Prima Squadra, aggregato come fuori quota. In panchina anche un portiere classe 2010 aggregato, non entrato. Recupero finale (90+5') non conteggiato nei minuti.
+\*Picca Riccardo non è in rosa Juniores: centrocampista 2007 della Prima Squadra, aggregato come fuori quota. In panchina anche Vaca Pangay Cristhofer, portiere 2010 aggregato, non entrato. Recupero finale (90+5') non conteggiato nei minuti.
 
 ## Minuti giocati — Campionato Giornata 3 (26/09/2026 vs Accademia Inveruno)
 

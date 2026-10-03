@@ -1,7 +1,7 @@
 ---
 title: "Lasagna Riccardo"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Lasagna Riccardo
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 78 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 82 | 0 | 1 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ❌ no | — | — | — | — | — |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
 ---
 
@@ -55,6 +56,8 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Ancora non convocato: fuori per motivi personali. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
+**29/09/2026** — Non convocato: non sta bene a livello personale. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Suo il brutto passaggio a metà campo per Taronna da cui nasce lo 0-1 al 3' (seconda gara di fila con gol subito da una sua palla persa in costruzione). Poi assist per il 2-2 di Frassinelli al 49'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Due errori individuali in costruzione/palle inattive che portano a due gol subiti (palla persa al 6', schema d'angolo eseguito male al 58') — da lavorare nonostante il ruolo di capitano e metronomo. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **12/09/2026** — Cresce di condizione nel finale, come da copione, quando gli altri calano. (fonte: [[seasons/02-2026-2027-juniores/matches/20260912|partita]])

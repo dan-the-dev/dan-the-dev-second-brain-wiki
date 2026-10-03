@@ -1,7 +1,7 @@
 ---
 title: "Simonato Mattia Lorenzo"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Simonato Mattia Lorenzo
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 4 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -55,4 +56,5 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Prime presenze in gara ufficiale della stagione: entra all'86' al posto di Columpsi. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **09/09/2026** — Due bei gol in allenamento/partitella. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260909|allenamento]])

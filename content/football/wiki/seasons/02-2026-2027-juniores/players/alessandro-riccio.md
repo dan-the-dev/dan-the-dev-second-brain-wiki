@@ -1,7 +1,7 @@
 ---
 title: "Riccio Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Riccio Alessandro
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ❌ no (febbre) | — | — | — | — | — |
 
 ---
 
@@ -55,4 +56,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-Nessuna nota personale specifica registrata finora.
+**03/10/2026** — Convocato, ma assente all'ultimo per febbre. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])

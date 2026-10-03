@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Edoardo"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Boniardi Edoardo
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 

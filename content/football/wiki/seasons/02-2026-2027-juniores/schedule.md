@@ -57,8 +57,8 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 
 | Data | Giorno | Orario | Tipo | Descrizione | Stato |
 |------|--------|--------|------|-------------|-------|
-| 01/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
-| 03/10 | Sab | 18:00 | ⚽ partita | ✈️ G4 vs Vighi 1967 | programmato |
+| 01/10 | Gio | 19:00–20:30 | 🏋️ allenamento | svolto, recap di Daniele in arrivo | 🟡 svolto, dump in sospeso |
+| 03/10 | Sab | 18:15 | ⚽ partita | ✈️ G4 vs Vighi 1967 — [[matches/20261003\|📄 dettagli]] — **2-5 (V)** | 🟢 completato |
 | 05/10 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 07/10 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 08/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |

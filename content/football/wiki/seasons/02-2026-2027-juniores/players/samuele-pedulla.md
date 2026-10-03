@@ -1,7 +1,7 @@
 ---
 title: "Pedullà Samuele"
 season: 02-2026-2027-juniores
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Pedullà Samuele
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ❌ no | — | — | — | — | — |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ❌ no | — | — | — | — | — |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ❌ no | — | — | — | — | — |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Favaron Diego"
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Favaron Diego
@@ -42,6 +42,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 19/09/2026 | Centro Giov. Boffalorese | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 1 | 1 | 1 | 0 |
+| 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 71 | 0 | 0 | 0 | 0 |
 
 ---
 
