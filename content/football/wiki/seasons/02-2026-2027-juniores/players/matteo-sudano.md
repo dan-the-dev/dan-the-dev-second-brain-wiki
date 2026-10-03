@@ -56,6 +56,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Non convocato: ancora squalificato in campionato per il rosso del 19/09 (seconda giornata di squalifica). (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Rientra dalla squalifica e segna il 2-0 al 38' su assist di Favaron; al 94' sbaglia il possibile 3-1. Nel primo tempo fatica a stare dentro la partita senza palla, ma nel secondo, soprattutto nel finale, va sull'uomo e raddoppia quando serve. Da gestire con equilibrio: se si pretende troppo si rischia di perderlo mentalmente, ma se resta in partita è un giocatore vero. Daniele lo vedrebbe anche da quinto destro, al posto di un Di Bello troppo timido. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Non convocato: squalificato dopo il rosso del 19/09 vs Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Assist per il gol del sorpasso di Lapiccirella al 70', ma espulso al 71' per insulti a un avversario — secondo episodio disciplinare della stagione dopo la multa del 29/08. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])

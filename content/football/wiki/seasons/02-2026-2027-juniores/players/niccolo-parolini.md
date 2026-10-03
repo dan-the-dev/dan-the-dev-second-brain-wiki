@@ -56,6 +56,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**03/10/2026** — Non convocato per il limite dei fuori quota: i 3 posti 2007 sono andati a Banfi, Picca e Favaron. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Torna titolare dopo due gare senza convocazione, braccetto destro nel 3-5-2. Nel primo tempo l'11 avversario lo mette in difficoltà sul suo lato: all'intervallo, su richiesta di Teo, passa a sinistra (Livelli a destra). Esce all'85' per infortunio (sostituito da Cuzmin), niente di serio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Non convocato per la prima volta in stagione: si fa strada l'idea di Capretti-Livelli centrali o di una difesa a 3 con Boniardi E. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]], [[seasons/02-2026-2027-juniores/momenti-chiave|momenti chiave]])
 **15/09/2026** — Prestazione negativa ("Paro male"); emerge più una difficoltà psicologica che tecnica nell'adattarsi al salto di livello e alla concorrenza di Capretti/Livelli — rischio di sentirsi messo da parte. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]], [[seasons/02-2026-2027-juniores/momenti-chiave|momenti chiave]])

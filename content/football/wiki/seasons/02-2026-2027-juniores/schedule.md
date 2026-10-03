@@ -49,7 +49,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 26/09 | Sab | 18:00 | ⚽ partita | 🏠 G3 vs Accademia Inveruno — [[matches/20260926\|**3-4** (S)]] | 🟢 completato |
 | 28/09 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20260928\|📄 dettagli]] — condotto da Daniele e Tommy (Teo assente); mobilità, riscaldamento a stazioni (Tommy), partita a tema riaggressione immediata, partita | 🟢 completato |
 | 29/09 | Mar | 20:00 | ⚽ partita | 🏠 Coppa Lombardia — Gara 3 vs Sempione Half 1919 — [[matches/20260929\|📄 dettagli]] — **2-1 (V)** | 🟢 completato |
-| 30/09 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 30/09 | Mer | — | 🏋️ allenamento | Non svolto: dopo la partita di martedì 29/09 si è fatto solo giovedì 01/10 | ❌ non svolto |
 
 ---
 

@@ -79,7 +79,7 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Mingrone Gabriele | 0 | 1 |
 | Capretti Guglielmo | 1 | 0 |
 
-Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09). Mingrone ha saltato una giornata (G3), Sudano due (G3 e G4) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
 
 ## Minuti giocati — Campionato Giornata 4 (03/10/2026 vs Vighi 1967)
 
