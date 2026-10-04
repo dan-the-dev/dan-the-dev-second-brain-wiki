@@ -2,7 +2,7 @@
 title: "Rapidità con scaletta"
 slug: rapidita-scaletta
 categoria: preparazione-atletica
-updated: 2026-09-14
+updated: 2026-10-04
 ---
 
 # Rapidità con scaletta
@@ -21,4 +21,4 @@ Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazio
 ⚠️ Categoria indicata da Daniele nel dump ("rapidita") non è tra quelle valide dello schema — riclassificato come "preparazione-atletica", da confermare. Schemi di footwork specifici non ancora indicati.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores · Usato il 14/09/2026 e il 01/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261001|allenamento]])

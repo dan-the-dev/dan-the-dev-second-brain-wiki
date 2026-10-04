@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-09-29
+updated: 2026-10-04
 tags: [football, exercises, index]
 ---
 
@@ -31,6 +31,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-due-stazioni-specchio\|Riscaldamento tecnico — due stazioni a specchio, 7 postazioni]] | 14 (2x7), min. 10 | Due stazioni speculari da 7 postazioni ("Passing Drill - Barcellona"): scambi continui e uno-due, l'ultimo passaggio manda il giro nella stazione opposta |
 | [[riscaldamento-circuito-doppio-uno-due-ostacolino\|Circuito doppio 1-2 e passaggio sotto l'ostacolino (gara a due gruppi)]] | tutta la squadra, 2 gruppi | Circuito tecnico: doppio uno-due poi passaggio rasoterra sotto l'ostacolino; due gruppi in gara a chi finisce prima |
 | [[riscaldamento-stazioni-passaggio-scambio-tommy\|Riscaldamento a stazioni — passaggio e scambio di posizione (Tommy)]] | tutta la squadra, a stazioni | Stazioni in cui si dà palla e ci si scambia di posizione, percorso meno lineare del solito; ⚠️ dettagli da completare |
+| [[riscaldamento-stazioni-esagono\|Riscaldamento tecnico a stazioni ad esagono]] | tutta la squadra, a stazioni | Circuito di passaggi a stazioni disposte ad esagono; ⚠️ da verificare se coincide con un riscaldamento già in libreria |
 
 ## Riscaldamento atletico
 
@@ -96,6 +97,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[attacco-contro-difesa-8v5\|Attacco contro difesa 8 vs 5]] | 13 (8+5) + portiere | Superiorità numerica offensiva su tre zone: attirare gli avversari sulla palla per liberare linee di passaggio, finalizzazione in area |
 | [[tiri-in-porta-scambio-limite\|Tiri in porta con scambio al limite]] | tutta la squadra | Scambio uno-due al limite dell'area seguito da tiro di prima intenzione |
 | [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta); raddoppio a mezzali o esterni alti a seconda del modulo |
+| [[possesso-attacco-esterno-cross-difesa-area\|Possesso, attacco sull'esterno, cross e difesa dell'area]] | tutta la squadra | Possesso → 1v1 in fascia → cross dal fondo e 3v3 in area, con tre difensori centrali che difendono a turno. Lavoro sul contatto con l'attaccante in area |
 | [[giro-palla\|Giro palla]] | squadra | Postura di chi riceve nel giro palla: corpo aperto e 2-3 m più bassi in posizione laterale, non avanzati e girati verso il portiere |
 
 ## Calci piazzati

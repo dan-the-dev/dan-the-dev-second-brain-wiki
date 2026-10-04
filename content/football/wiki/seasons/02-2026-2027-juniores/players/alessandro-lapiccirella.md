@@ -1,7 +1,7 @@
 ---
 title: "Lapiccirella Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Lapiccirella Alessandro
@@ -27,6 +27,7 @@ updated: 2026-10-03
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
 | 28/09/2026 | allenamento | ✅ sì |
+| 01/10/2026 | allenamento | ✅ sì |
 
 ---
 

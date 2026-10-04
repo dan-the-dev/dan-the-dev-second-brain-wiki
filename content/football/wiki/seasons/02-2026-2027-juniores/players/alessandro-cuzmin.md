@@ -1,7 +1,7 @@
 ---
 title: "Cuzmin Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Cuzmin Alessandro
@@ -27,6 +27,7 @@ updated: 2026-10-03
 | 23/09/2026 | allenamento | ✅ sì |
 | 24/09/2026 | allenamento | ✅ sì |
 | 28/09/2026 | allenamento | ✅ sì |
+| 01/10/2026 | allenamento | ✅ sì |
 
 ---
 
@@ -56,6 +57,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**01/10/2026** — Colpo al ginocchio in allenamento (ginocchio contro ginocchio), non dovrebbe essere niente. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261001|allenamento]])
 **29/09/2026** — Entra all'85' al posto di Parolini, uscito per infortunio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Convocato ma non utilizzato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Titolare, parte bene ma va in difficoltà dopo aver perso la marcatura sul primo gol subito. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

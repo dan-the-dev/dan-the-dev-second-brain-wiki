@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Storico sessioni 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-09-29
+updated: 2026-10-04
 ---
 
 # 🏃 Allenamenti — Storico sessioni
@@ -26,6 +26,7 @@ Elenco delle sessioni di allenamento con pagina dedicata (programma, presenze, n
 | 23/09/2026 | Mer | 🟢 Completato | [[sessions/20260923\|Allenamento 23/09]] |
 | 24/09/2026 | Gio | 🟢 Completato | [[sessions/20260924\|Allenamento 24/09]] |
 | 28/09/2026 | Lun | 🟢 Completato | [[sessions/20260928\|Allenamento 28/09]] |
+| 01/10/2026 | Gio | 🟢 Completato | [[sessions/20261001\|Allenamento 01/10]] |
 
 ## Legenda stato
 - 🟡 Programmato / svolto senza dump — sessione pianificata o svolta ma non ancora completamente documentata
