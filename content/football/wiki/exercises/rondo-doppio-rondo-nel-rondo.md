@@ -69,4 +69,4 @@ Due quadrati concentrici. Si parte con un rondo piccolo nel quadrato interno; qu
 
 ## Statistiche d'uso
 Score medio: — · Volte usato: 0 · Stagioni: —
-Previsto: [[sessions/20261005|allenamento 05/10/2026]] (slot possesso)
+Previsto inizialmente per l'[[sessions/20261005|allenamento 05/10/2026]] (slot possesso), poi rimandato a mercoledì 07/10 o giovedì 08/10 per i molti assenti attesi.
