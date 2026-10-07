@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-10-06
+updated: 2026-10-07
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20261007-levels-day18]] — 2026-10-07 · **Levels Day 18** · Prima retro a Levels (compilazione parziale, solo dump delle 14:32): 5 cluster (come lavoriamo, deploy, debito tecnico, testing, product-centric) e 7 action, ognuna con owner e tempi. Daily alle 9:30 facilitato da Dan, weekly del lunedì, on call a rotazione, canale unico per le richieste, retro mensile, checkpoint sul deploy venerdì alle 14:30. Nella riflessione c'è la direttiva del daily
 - [[20261006-levels-day17]] — 2026-10-06 · **Levels Day 17** · Giornata positiva: in ufficio per la visita medica, semi pair con Albi (review al mattino, checkpoint sui test nel pomeriggio), pagina pubblica su dev con UI basic da rifinire domani con i mockup; riunione al volo di Dario alle 9 e i tre temi della retro (ritmo, collaborazione, impatto); chiacchierata serena con Dario sul nuovo tema degli account separati GC/CSE/Sub, oltre all'accesso in cantiere entro fine anno ("è la mia natura")
 - [[20261005-levels-day16]] — 2026-10-05 · **Levels Day 16** · PR delle API di sharing mergiata e rilasciata su dev, anche Albi rilascia la sua parte; il pezzo successivo (pagina pubblica) va ad Albi con review di Filippo e semi pair con Dan domattina; Dan vuole muovere il tema mock nelle prossime settimane ma la fatica è farlo da solo, va portato nel lavoro di tutti; lo UX designer torna operativo per due giornate; in serata Dan sente il bisogno di migliorare (commit fuori orario, confusione, poco ritmo) e prepara retro e incontro con Dario sulle due opzioni di feature per GC e SUB
 - [[20261002-levels-day15]] — 2026-10-02 · **Levels Day 15** · Primo giorno di sviluppo con le skill XP su un progetto vero: lavoro diviso con Albi sulla feature di sharing (Dan SaaS + frontend, Albi API di download); API di condivisione sviluppate in giornata e PR rivista insieme ad Albi (il team di solito fa review asincrone); piccoli aggiustamenti da fare, merge rimandato a lunedì per non interferire col rilascio in prod della sera
