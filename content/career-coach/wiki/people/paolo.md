@@ -21,6 +21,8 @@ Day 14 (01/10): prima frizione di coordinamento ([[../journal/20261001-levels-da
 
 Day 19 (08/10): frizione sul lavoro in parallelo ([[../journal/20261008-levels-day19|journal Day 19]]). Porta avanti due attività senza chiuderne nessuna, anche se in retro aveva detto che "di cose da fare in parallelo ce n'è sempre". Al daily esprime qualche perplessità. Nel confronto sul servizio mail per il cliente la tensione si scioglie: esito positivo. Dan osserva un forte multitasking (più tab di Claude aperte insieme) e una soluzione tecnica molto complessa, con tanti job per coprire tutti i casi limite, e cerca di riportarla verso la semplicità. Prossimo passo: pair sul servizio mail (09/10).
 
+Day 20 (09/10): pair sul servizio mail, impostato insieme il piano per la parte di codice ([[../journal/20261009-levels-day20|journal Day 20]]). In due giorni si passa dalla frizione al daily a un piano condiviso.
+
 ## Dinamica
 Owner tecnico principale dell'infrastruttura e della pipeline AI/documenti — l'interlocutore più rilevante per capire davvero come funziona il sistema sotto al prodotto. Disponibile e dettagliato nelle spiegazioni (due overview approfondite in due giorni). Il pattern di ownership individuale osservato su di lui ("business as usual" gestito da solo) rispecchia la stessa dinamica già segnalata Day 1 come possibile fonte di dipendenze non gestite.
 
