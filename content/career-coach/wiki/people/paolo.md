@@ -2,7 +2,7 @@
 title: Paolo
 company: [levels]
 role: AI Software Engineer (Paolo Battellani)
-updated: 2026-10-01
+updated: 2026-10-09
 tags: [people, levels]
 ---
 
@@ -18,6 +18,8 @@ Day 2 (15/09): 1:1 focus AWS/infrastruttura. Regione attiva Irlanda; Paolo ha pe
 Day 3 (16/09): overview approfondita di infrastruttura, data model e pipeline documenti (vedi [[../journal/20260916-levels-day3|journal Day 3]] per il dettaglio tecnico completo). Punti chiave: infrastruttura gestita a mano via CloudFormation (~10 stack da template, versionati su un repo Git ma senza alcuna automazione di deploy), divisa in shared services / identity / levels; servizio LLM Proxy per centralizzare le chiamate LLM (usato anche da lambda); pipeline di document processing basata su step function/lambda, priva di logica applicativa esplicita e difficile da testare, oggi su Gemini Pro (costoso); anti-pattern di ownership sulla lambda di sync reportistica (il SAS chiude una transaction aperta da un altro servizio) — stesso anti-pattern già segnalato indipendentemente da Alberto; deploy lunghi (~20 minuti nel caso migliore), fatti fuori orario per evitare downtime oggi ritenuto inevitabile; cultura dei test assente, percepita come costo difficile da giustificare.
 
 Day 14 (01/10): prima frizione di coordinamento ([[../journal/20261001-levels-day14|journal Day 14]]). Paolo si collega a mezzanotte per un lavoro non chiaro, la mattina dorme e manca alla riunione in cui il team si organizza, nonostante Dan l'avesse taggato. Fa poi un'attività diversa da quella che in teoria gli spettava, senza confrontarsi con il team. Per Dan, *"così è dura"*. Prossimo passo: una chiacchierata che parta dalla curiosità (cosa stava risolvendo di notte?) e chiuda con un accordo su come coinvolgerlo e su come segnala i cambi di priorità.
+
+Day 19 (08/10): frizione sul lavoro in parallelo ([[../journal/20261008-levels-day19|journal Day 19]]). Porta avanti due attività senza chiuderne nessuna, anche se in retro aveva detto che "di cose da fare in parallelo ce n'è sempre". Al daily esprime qualche perplessità. Nel confronto sul servizio mail per il cliente la tensione si scioglie: esito positivo. Dan osserva un forte multitasking (più tab di Claude aperte insieme) e una soluzione tecnica molto complessa, con tanti job per coprire tutti i casi limite, e cerca di riportarla verso la semplicità. Prossimo passo: pair sul servizio mail (09/10).
 
 ## Dinamica
 Owner tecnico principale dell'infrastruttura e della pipeline AI/documenti — l'interlocutore più rilevante per capire davvero come funziona il sistema sotto al prodotto. Disponibile e dettagliato nelle spiegazioni (due overview approfondite in due giorni). Il pattern di ownership individuale osservato su di lui ("business as usual" gestito da solo) rispecchia la stessa dinamica già segnalata Day 1 come possibile fonte di dipendenze non gestite.
