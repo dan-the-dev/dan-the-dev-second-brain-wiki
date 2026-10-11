@@ -58,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Schierato quinto a sinistra nel 3-5-2, dal lato opposto rispetto al solito. Esce al 56' per Curtarelli, poco dopo lo 0-2. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Eurogol da fuori su una respinta per lo 0-2 al 10'. Al 30' dà a Columpsi, di testa, un cross dopo il cambio gioco. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Assist per l'1-0 di Favaron, da quinto destro nel 3-5-2. Però troppo timido: il passaggio dal braccetto o dal centrale verso di lui, quinto alto a destra, era spesso disponibile e andava sfruttato molto di più. Da lavorare sulla fiducia nel prendersi lo spazio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **23/09/2026** — In crescita, ha fatto bene. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])

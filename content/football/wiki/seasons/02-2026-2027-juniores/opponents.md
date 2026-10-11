@@ -26,9 +26,9 @@ Bilancio: 0V 1P 0S (Campionato) — Gol fatti 3, gol subiti 3. Ritorno in progra
 - **Modulo:** 4-3-3.
 - **Impressioni generali:** buona squadra, soprattutto fisicamente, ma niente di speciale come gioco.
 - **Strategia:** quasi solo palla lunga, su due riferimenti. Il 9 è una punta centrale brava a proteggere palla e a giocare col corpo. L'11, **Scazzosi**, segna tantissimo ed è davvero molto forte.
-- **Uomo chiave:** Scazzosi (n. 11), doppietta: al 20' su palla lunga a sinistra, superando Pagliato con relativa facilità, e al 54' su filtrante tra i nostri due centrali.
+- **Uomo chiave:** Scazzosi (n. 11), doppietta: al 20' su palla lunga a sinistra, superando Pagliato con relativa facilità, e al 54' su filtrante tra Livelli e Boniardi E. (braccetto e quinto).
 - **Occasioni:** 9 nette (3 gol, 6 sbagliate: 33', 45', 52', 59', 69', 89').
-- **Tenuta mentale:** dopo la nostra rimonta da 0-2 a 3-2 sono andati in difficoltà. Secondo Daniele l'idea di avere davanti una squadra senza portiere li ha messi in ansia e li ha spinti a tirare da ogni posizione. Hanno comunque pareggiato al 90+2'.
+- **Tenuta mentale:** dopo la nostra rimonta da 0-2 a 3-2 sono andati in difficoltà. Abbiamo giocato dal 4' con Boniardi A. in porta. Secondo Daniele l'idea di avere davanti una squadra senza portiere li ha messi in ansia e li ha spinti a tirare da ogni posizione. Hanno comunque pareggiato al 90+2'.
 - **Nota per il ritorno:** marcatura preventiva su Scazzosi prima del lancio e linea pronta a scappare quando la palla è scoperta. Serve un portiere di riserva in panchina — vedi [[matches/20261010#-consigli-da-coach|consigli da coach]].
 
 ---

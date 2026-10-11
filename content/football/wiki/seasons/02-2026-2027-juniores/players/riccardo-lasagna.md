@@ -58,7 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**10/10/2026** — Rientra dopo due gare saltate per motivi personali, titolare nel 3-5-2. Esce all'82' per Taronna. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
+**10/10/2026** — Rientra dopo due gare saltate per motivi personali, titolare da play nel 3-5-2. Esce all'82' per Taronna. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Ancora non convocato: fuori per motivi personali. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Non convocato: non sta bene a livello personale. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Suo il brutto passaggio a metà campo per Taronna da cui nasce lo 0-1 al 3' (seconda gara di fila con gol subito da una sua palla persa in costruzione). Poi assist per il 2-2 di Frassinelli al 49'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])

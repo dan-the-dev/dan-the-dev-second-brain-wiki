@@ -97,11 +97,11 @@ Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09). 
 | Banfi Paolo\* | 90 |
 | Pagliato Gabriele\* | 90 |
 | Lasagna Riccardo | 82 |
+| Boniardi Alessandro | 86\*\* |
 | Di Bello Leonardo | 56 |
 | Curtarelli Davide | 34 |
 | Taronna Francesco | 8 |
-| Palmisano Marco | n.d.\*\* |
-| Boniardi Alessandro | n.d.\*\* |
+| Palmisano Marco | 4\*\* |
 | Cuzmin Alessandro | 0 |
 | Grassi Eric | 0 |
 | Lapiccirella Alessandro | 0 |
@@ -110,7 +110,7 @@ Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09). 
 | Simonato Mattia Lorenzo | 0 |
 
 \*Banfi e Pagliato non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota (il terzo è Lasagna).
-\*\*Palmisano è uscito ed è entrato Boniardi A. in porta (nessun portiere in panchina), ma il dump non indica il minuto: da confermare. Il cambio Di Bello ⟶ Curtarelli è al 56' (corretto da Daniele, nell'app risultava all'82'). Recupero finale (90+4') non conteggiato nei minuti.
+\*\*Palmisano esce al 4' per una lussazione al dito presa in uscita. Entra Boniardi A., che fa il portiere per il resto della gara (nessun portiere in panchina). Il cambio Di Bello ⟶ Curtarelli è al 56' (corretto da Daniele, nell'app risultava all'82'). Recupero finale (90+4') non conteggiato nei minuti.
 
 ## Minuti giocati — Campionato Giornata 4 (03/10/2026 vs Vighi 1967)
 

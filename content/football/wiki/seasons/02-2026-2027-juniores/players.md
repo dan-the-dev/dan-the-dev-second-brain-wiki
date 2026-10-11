@@ -18,7 +18,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Note |
 |----|-----------|------|------|
-| 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato · Il 10/10 vs Bustese è uscito senza un portiere in panchina: in porta è finito Boniardi A. |
+| 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato · 🩹 Lussazione a un dito il 10/10 vs Bustese (uscito al 4', 2 settimane con la stecca, rientro previsto intorno al 24/10). Senza portiere in panchina, in porta è andato Boniardi A. per 86' — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
 
 ---
 

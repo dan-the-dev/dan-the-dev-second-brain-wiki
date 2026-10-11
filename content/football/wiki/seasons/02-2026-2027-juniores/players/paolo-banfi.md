@@ -8,7 +8,7 @@ updated: 2026-10-11
 
 ← [[seasons/02-2026-2027-juniores/players|Torna alla rosa]]
 
-⚠️ Non fa parte della rosa Juniores: attaccante esterno/mezzala classe 2007 della Prima Squadra, richiamabile come fuori quota (vedi "Regole schieramento" in rosa). Aggregato per Campionato Giornata 2 (19/09/2026, titolare nel 4-2-3-1) Giornata 3 (26/09/2026, titolare nel 4-3-3) Giornata 4 (03/10/2026, titolare nel 3-4-2-1) e Giornata 5 (10/10/2026, titolare nel 3-5-2). Nessuna tabella presenze allenamenti — non si allena con la Juniores.
+⚠️ Non fa parte della rosa Juniores: attaccante esterno/mezzala classe 2007 della Prima Squadra, richiamabile come fuori quota (vedi "Regole schieramento" in rosa). Aggregato per Campionato Giornata 2 (19/09/2026, titolare nel 4-2-3-1) Giornata 3 (26/09/2026, titolare nel 4-3-3) Giornata 4 (03/10/2026, titolare nel 3-4-2-1) e Giornata 5 (10/10/2026, titolare da mezzala nel 3-5-2). Nessuna tabella presenze allenamenti — non si allena con la Juniores.
 
 ---
 
@@ -35,7 +35,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-**10/10/2026** — Gol del 3-2 all'84' su assist di Columpsi, il secondo consecutivo in campionato. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
+**10/10/2026** — Mezzala nel 3-5-2, con Mingrone. Gol del 3-2 all'84' su assist di Columpsi, il secondo consecutivo in campionato. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Gol dello 0-1 al 6' su palla lunga di Mingrone. All'11' punta l'uomo dopo un recupero alto e serve a Columpsi il pallone del 3-0. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **26/09/2026** — Titolare nel 4-3-3, parte da lui il contropiede dell'1-1 (esterno, uno-due con Frassinelli). Sbaglia però 3 gol (17', 18', 66'). (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Aggregato dalla Prima Squadra per l'assenza di alternative sull'esterno destro: titolare nel 4-2-3-1, ci prova su un cambio gioco di Sudano ma calcia addosso al portiere con troppa fretta dopo aver saltato l'uomo; sostituito al 78' da Boniardi A. al suo rientro dall'infortunio. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
