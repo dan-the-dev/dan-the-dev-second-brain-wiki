@@ -1,7 +1,7 @@
 ---
 title: "Favaron Diego"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Favaron Diego
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 1 | 1 | 1 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 71 | 0 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ❌ no (limite fuori quota) | — | — | — | — | — |
 
 ---
 
@@ -57,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Non convocato: con Banfi, Pagliato e Lasagna i 3 fuori quota sono già occupati. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **29/09/2026** — Torna titolare dopo due gare senza convocazione e decide la partita: gol dell'1-0 al 20' (assist Di Bello) e assist per il 2-0 di Sudano al 38'. Ammonito al 78'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **19/09/2026** — Salta l'uomo con troppa fretta e causa un rigore dubbio (poi parato da Palmisano); pochi minuti dopo viene superato anche sul gol del contropiede avversario (1-2). (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **14/09/2026** — A riposo per rotazione/recupero: sabato scorso (12/09) era arrivato stanco e con qualche fastidio. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260914|allenamento]])

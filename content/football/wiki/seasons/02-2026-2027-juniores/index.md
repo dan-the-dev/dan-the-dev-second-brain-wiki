@@ -1,7 +1,7 @@
 ---
 title: Stagione 2026-27 — Juniores
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-11
 tags: [football, season, 2026-27]
 ---
 
@@ -10,11 +10,11 @@ tags: [football, season, 2026-27]
 ## 📋 Stato stagione
 
 La squadra è impegnata su due fronti:
-- **Campionato Juniores Regionali U19 — Girone H** (15 giornate di andata + 15 di ritorno) — 3V 1S su 4 giocate (9 punti)
+- **Campionato Juniores Regionali U19 — Girone H** (15 giornate di andata + 15 di ritorno) — 3V 1P 1S su 5 giocate (10 punti)
 - **Coppa Lombardia U19 Provinciale** — girone a 4 squadre (Bresso Calcio, Ardor Bollate, Leone XIII Sport, Sempione Half 1919) — 2V 1S, girone concluso (6 punti)
 
-**Ultimo risultato:** 🟢 Vighi 1967 2 – 5 Ardor Bollate (03/10, Campionato G4) → [[seasons/02-2026-2027-juniores/matches/20261003|dettagli]]
-**Prossimo impegno:** 10/10 vs Accademia Bustese (Campionato G5, casa) → [[seasons/02-2026-2027-juniores/schedule|calendario completo]]
+**Ultimo risultato:** 🟡 Ardor Bollate 3 – 3 Accademia Bustese (10/10, Campionato G5) → [[seasons/02-2026-2027-juniores/matches/20261010|dettagli]]
+**Prossimo impegno:** 17/10 vs Accademia BMV (Campionato G6, trasferta) → [[seasons/02-2026-2027-juniores/schedule|calendario completo]]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Columpsi Gabriele"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Columpsi Gabriele
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 35 | 1 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 33 | 0 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 86 | 2 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | 90 | 2 | 1 | 0 | 0 |
 
 ---
 
@@ -57,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Doppietta (61' e 66') che rimette in piedi la gara da 0-2 a 2-2, poi assist per il 3-2 di Banfi all'84'. Sbaglia però altre 3 occasioni (13', 62', 84'). Sale a 7 gol in 5 giornate di campionato. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Doppietta (11' e 58'). Avrebbe potuto segnare di più: colpo di testa fuori di poco al 30', tiro strozzato al 31', palo al 59'. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **26/09/2026** — Entra al 55', segna il 3-3 al 72' su assist di Taronna. Al 95' si vede annullare per fuorigioco il gol del possibile pari. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Gol vittoria al 90' di testa sulla seconda respinta, dopo un contropiede lungo — decisivo nella vittoria in rimonta. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])

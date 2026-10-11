@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Alessandro"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Boniardi Alessandro
@@ -46,6 +46,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 55 | 1 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 57 | 0 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 12 | 1 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | n.d. | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -59,6 +60,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Entra al posto di Palmisano e va in porta: in panchina non c'era un portiere di riserva. Minuto del cambio non indicato nel dump. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Entra al 78' e all'86' segna il 2-5 sulla respinta di un tiro di Mingrone. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **26/09/2026** — Titolare, segna l'1-1 al 13' sulla ribattuta dopo il contropiede Banfi-Frassinelli. Esce al 55'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Allenamento negativo: per Daniele è difficile pensare di farlo giocare, anche se Columpsi non si è allenato e davanti siamo in emergenza. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])

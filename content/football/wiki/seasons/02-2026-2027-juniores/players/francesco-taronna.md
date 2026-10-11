@@ -1,7 +1,7 @@
 ---
 title: "Taronna Francesco"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Taronna Francesco
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 69 | 0 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 19 | 0 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | 8 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -57,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Entra all'82' per Lasagna. Al 90+4' ha l'ultima palla della partita per il 4-3. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **26/09/2026** — Assist per il 3-3 di Columpsi al 72'. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **19/09/2026** — Sostituito al 58' (dentro Lapiccirella), nessuna nota specifica sulla prestazione. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **15/09/2026** — Prestazione negativa da subentrato. (fonte: [[seasons/02-2026-2027-juniores/matches/20260915|partita]])

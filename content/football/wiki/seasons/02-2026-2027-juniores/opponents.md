@@ -1,7 +1,7 @@
 ---
 title: Squadre avversarie 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-11
 tags: [football, opponents, 2026-27]
 ---
 
@@ -10,6 +10,26 @@ tags: [football, opponents, 2026-27]
 Pagina di scouting sulle squadre avversarie: precedenti (amichevoli e gare ufficiali) e note tattiche raccolte dal mister. Una sezione per squadra, aggiornata man mano che si accumulano informazioni.
 
 ← [[seasons/02-2026-2027-juniores/index|Torna alla stagione]]
+
+---
+
+## Accademia Bustese
+
+Bilancio: 0V 1P 0S (Campionato) — Gol fatti 3, gol subiti 3. Ritorno in programma il 06/02/2027 (girone Ritorno, in trasferta a Busto Garolfo).
+
+| Competizione | Turno | Data | Casa/Trasferta | Risultato | Esito | Note |
+|---|---|---|---|---|---|---|
+| Campionato | Giornata 5 | 10/10/2026 | 🏠 Casa | 3-3 | P | [[matches/20261010\|Dettagli partita]] |
+
+### Scouting (aggiornato dopo Giornata 5 del 10/10)
+
+- **Modulo:** 4-3-3.
+- **Impressioni generali:** buona squadra, soprattutto fisicamente, ma niente di speciale come gioco.
+- **Strategia:** quasi solo palla lunga, su due riferimenti. Il 9 è una punta centrale brava a proteggere palla e a giocare col corpo. L'11, **Scazzosi**, segna tantissimo ed è davvero molto forte.
+- **Uomo chiave:** Scazzosi (n. 11), doppietta: al 20' su palla lunga a sinistra, superando Pagliato con relativa facilità, e al 54' su filtrante tra i nostri due centrali.
+- **Occasioni:** 9 nette (3 gol, 6 sbagliate: 33', 45', 52', 59', 69', 89').
+- **Tenuta mentale:** dopo la nostra rimonta da 0-2 a 3-2 sono andati in difficoltà. Secondo Daniele l'idea di avere davanti una squadra senza portiere li ha messi in ansia e li ha spinti a tirare da ogni posizione. Hanno comunque pareggiato al 90+2'.
+- **Nota per il ritorno:** marcatura preventiva su Scazzosi prima del lancio e linea pronta a scappare quando la palla è scoperta. Serve un portiere di riserva in panchina — vedi [[matches/20261010#-consigli-da-coach|consigli da coach]].
 
 ---
 

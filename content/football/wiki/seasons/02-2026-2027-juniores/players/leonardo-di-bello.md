@@ -1,7 +1,7 @@
 ---
 title: "Di Bello Leonardo"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Di Bello Leonardo
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 35 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 78 | 1 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | 56 | 0 | 0 | 0 | 0 |
 
 ---
 

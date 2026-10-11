@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -18,7 +18,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Note |
 |----|-----------|------|------|
-| 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato |
+| 1 | [[players/marco-palmisano\|Palmisano Marco]] | 2008 | Titolare ✓ confermato · Il 10/10 vs Bustese è uscito senza un portiere in panchina: in porta è finito Boniardi A. |
 
 ---
 
@@ -43,7 +43,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
-| 12 | [[players/riccardo-lasagna\|Lasagna Riccardo]] | 2007 | Regista / mezzala / difensore centrale | ✓ confermato · FQ · **Capitano**. Confermato metronomo della squadra anche nell'amichevole del 31/08 · Fuori dal 29/09 per motivi personali |
+| 12 | [[players/riccardo-lasagna\|Lasagna Riccardo]] | 2007 | Regista / mezzala / difensore centrale | ✓ confermato · FQ · **Capitano**. Confermato metronomo della squadra anche nell'amichevole del 31/08 · Fuori il 29/09 e il 03/10 per motivi personali, rientrato il 10/10 (titolare vs Bustese) |
 | 13 | [[players/luca-lo-valvo\|Lo Valvo Luca]] | 2007 | Centrocampista centrale | ✓ confermato · FQ · Riserva, difficile vederlo in campo da FQ |
 | 14 | [[players/francesco-taronna\|Taronna Francesco]] | 2008 | Mediano / mezzala | ✓ confermato · Gran recuperatore di palloni — confermato anche in amichevole |
 | 15 | [[players/alessandro-lapiccirella\|Lapiccirella Alessandro]] | 2008 | Mediano / mezzala | ✓ confermato · Buona tecnica e temperamento, incostante |
@@ -83,7 +83,8 @@ Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando s
 | [[players/lorenzo-frassinelli\|Frassinelli Lorenzo]] | 2007 | Attaccante della Prima Squadra, aggregato per Coppa Lombardia Gara 2 (15/09) per l'assenza di Columpsi e per Campionato Giornata 3 (26/09, 90', gol del 2-2). |
 | [[players/cristhofer-vaca-pangay\|Vaca Pangay Cristhofer]] | 2010 | Portiere, aggregato come secondo portiere (la rosa non ne ha uno): allenamento del 28/09, in panchina per Coppa Lombardia Gara 3 (29/09). Non è un fuori quota. |
 | [[players/riccardo-picca\|Picca Riccardo]] | 2007 | Centrocampista della Prima Squadra (in Juniores nella stagione 2025/26), aggregato per Coppa Lombardia Gara 3 (29/09, titolare 90' nel 3-5-2) e Campionato Giornata 4 (03/10, titolare 90' nel 3-4-2-1). |
-| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09, titolare nel 4-2-3-1, sostituito al 78') Giornata 3 (26/09, 90' nel 4-3-3) e Giornata 4 (03/10, 90' nel 3-4-2-1, gol e assist). |
+| [[players/paolo-banfi\|Banfi Paolo]] | 2007 | Attaccante esterno/mezzala della Prima Squadra, aggregato per Campionato Giornata 2 (19/09, titolare nel 4-2-3-1, sostituito al 78') Giornata 3 (26/09, 90' nel 4-3-3) Giornata 4 (03/10, 90' nel 3-4-2-1, gol e assist) e Giornata 5 (10/10, 90' nel 3-5-2, gol del 3-2). |
+| [[players/gabriele-pagliato\|Pagliato Gabriele]] | 2007 | Difensore (terzino dx / centrale) della Prima Squadra, in Juniores nel 2025/26. Aggregato per Campionato Giornata 5 (10/10, titolare 90' nel 3-5-2) per dare aggressività alla difesa. |
 
 ---
 
@@ -101,7 +102,7 @@ Giocatori della Prima Squadra, nati 2007, richiamabili come fuori quota quando s
 - Livelli Luca (2008) — difensore centrale, **da Baranzatese (Elite)**. Confermato in rosa dal 30/08, dopo un periodo di prova (26, 27 e 29/08) valutato anche da Teo.
 
 ### ❌ Usciti dalla rosa Juniores (17)
-Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · Pagliato Gabriele · Belotti Luca · Annoni Mattia · Cascio Mattia · Favaron Mattia · Ghioni Mattia · Montagner Mattia · Portararo Mattia · Banfi Paolo (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Boniardi Riccardo · Conti Riccardo · Picca Riccardo (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Minora Tommaso
+Cesaratto Andrea · Cimmino Christian · Celardo Federico · Irmici Federico · Pagliato Gabriele (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Belotti Luca · Annoni Mattia · Cascio Mattia · Favaron Mattia · Ghioni Mattia · Montagner Mattia · Portararo Mattia · Banfi Paolo (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Boniardi Riccardo · Conti Riccardo · Picca Riccardo (classe 2007, passato alla Prima Squadra — richiamabile come fuori quota, vedi "Aggregati occasionali" sopra) · Minora Tommaso
 
 ---
 

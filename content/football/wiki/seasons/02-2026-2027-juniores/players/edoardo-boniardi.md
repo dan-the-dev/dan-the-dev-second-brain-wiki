@@ -1,7 +1,7 @@
 ---
 title: "Boniardi Edoardo"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Boniardi Edoardo
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 0 | 0 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | 90 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -57,5 +58,6 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Assist per l'1-2 di Columpsi al 61', da fallo laterale. Al 54' la palla filtrante dello 0-2 passa tra lui e Livelli. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **19/09/2026** — Titolare confermato come terzino destro, gara solida senza note negative. (fonte: [[seasons/02-2026-2027-juniores/matches/20260919|partita]])
 **26/08/2026 e 31/08/2026** — Ripetutamente segnalato molto bene fisicamente, sempre tra i più in forma nei lavori atletici. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260826|allenamento]], [[seasons/02-2026-2027-juniores/matches/20260905|partita]])

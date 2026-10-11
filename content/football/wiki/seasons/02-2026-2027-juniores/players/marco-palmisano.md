@@ -1,7 +1,7 @@
 ---
 title: "Palmisano Marco"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Palmisano Marco
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ✅ sì | 90 | 0 | 0 | 0 | 0 |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | n.d. | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -57,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Titolare, poi sostituito da Boniardi A. (che va in porta, nessun portiere in panchina). Minuto e motivo del cambio non indicati nel dump. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Sbaglia il rinvio al 45', dopo aver bloccato la palla su una nostra punizione persa, e regala il gol dell'1-3. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Decisivo nel primo tempo: mette una pezza sulle una-due occasioni vere concesse al Sempione Half. Gara vinta 2-1 con un solo gol subito. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Para un rigore al 42', il secondo consecutivo dopo quello contro la Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])

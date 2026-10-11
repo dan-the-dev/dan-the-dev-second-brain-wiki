@@ -1,7 +1,7 @@
 ---
 title: Classifiche e statistiche — Stagione 2026-27
 season: 02-2026-2027-juniores
-updated: 2026-10-03
+updated: 2026-10-11
 tags: [football, stats, 2026-27]
 ---
 
@@ -43,33 +43,36 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 
 | Giocatore | Gol | di cui rigori |
 |---|---|---|
-| Columpsi Gabriele | 5 | — |
+| Columpsi Gabriele | 7 | — |
 | Boniardi Alessandro | 2 | — |
+| Banfi Paolo* | 2 | — |
 | Mingrone Gabriele | 1 | 1 |
 | Livelli Luca | 1 | — |
 | Sudano Matteo | 1 | — |
 | Lapiccirella Alessandro | 1 | — |
 | Di Bello Leonardo | 1 | — |
-| Banfi Paolo* | 1 | — |
 | Frassinelli Lorenzo* | 1 | — |
 | — (autogol avversario) | 1 | — |
 
-**Totale gol fatti**: 15 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V; Giornata 3 vs Accademia Inveruno 3-4 S; Giornata 4 vs Vighi 1967 2-5 V).
-**Totale gol subiti**: 11 (2 in Giornata 1, 3 in Giornata 2, 4 in Giornata 3, 2 in Giornata 4).
-**Bilancio:** 3V 0P 1S, 9 punti.
+**Totale gol fatti**: 18 (Giornata 1 vs Football Club Parabiago 2-3 V; Giornata 2 vs Boffalorese 3-4 V; Giornata 3 vs Accademia Inveruno 3-4 S; Giornata 4 vs Vighi 1967 2-5 V; Giornata 5 vs Accademia Bustese 3-3 P).
+**Totale gol subiti**: 14 (2 in Giornata 1, 3 in Giornata 2, 4 in Giornata 3, 2 in Giornata 4, 3 in Giornata 5).
+**Bilancio:** 3V 1P 1S, 10 punti.
 
 *Banfi e Frassinelli: 2007 della Prima Squadra, aggregati come fuori quota.
+
+**Gol avversari — Giornata 5:** Scazzosi (Accademia Bustese, n. 11) doppietta (20', 54'); marcatore del 90+2' non indicato.
 
 ## Classifica assist — Campionato
 
 | Giocatore | Assist |
 |---|---|
-| Mingrone Gabriele | 3 |
-| Columpsi Gabriele | 1 |
+| Mingrone Gabriele | 4 |
+| Columpsi Gabriele | 2 |
 | Sudano Matteo | 1 |
 | Lasagna Riccardo | 1 |
 | Taronna Francesco | 1 |
 | Banfi Paolo* | 1 |
+| Boniardi Edoardo | 1 |
 
 ## Cartellini — Campionato
 
@@ -80,6 +83,34 @@ Pagina alimentata progressivamente con i dump partita ([[seasons/02-2026-2027-ju
 | Capretti Guglielmo | 1 | 0 |
 
 Sudano e Mingrone espulsi nella stessa gara (Giornata 2 vs Boffalorese, 19/09). Mingrone ha saltato una giornata (G3), Sudano due (G3 e G4) — vedi [[matches/20260919|dettagli]] e [[momenti-chiave|momenti chiave]].
+
+## Minuti giocati — Campionato Giornata 5 (10/10/2026 vs Accademia Bustese)
+
+| Giocatore | Minuti |
+|---|---:|
+| Boniardi Edoardo | 90 |
+| Capretti Guglielmo | 90 |
+| Livelli Luca | 90 |
+| Columpsi Gabriele | 90 |
+| Mingrone Gabriele | 90 |
+| Sudano Matteo | 90 |
+| Banfi Paolo\* | 90 |
+| Pagliato Gabriele\* | 90 |
+| Lasagna Riccardo | 82 |
+| Di Bello Leonardo | 56 |
+| Curtarelli Davide | 34 |
+| Taronna Francesco | 8 |
+| Palmisano Marco | n.d.\*\* |
+| Boniardi Alessandro | n.d.\*\* |
+| Cuzmin Alessandro | 0 |
+| Grassi Eric | 0 |
+| Lapiccirella Alessandro | 0 |
+| Lentini Francesco | 0 |
+| Riccio Alessandro | 0 |
+| Simonato Mattia Lorenzo | 0 |
+
+\*Banfi e Pagliato non sono in rosa Juniores: 2007 della Prima Squadra, aggregati come fuori quota (il terzo è Lasagna).
+\*\*Palmisano è uscito ed è entrato Boniardi A. in porta (nessun portiere in panchina), ma il dump non indica il minuto: da confermare. Il cambio Di Bello ⟶ Curtarelli è al 56' (corretto da Daniele, nell'app risultava all'82'). Recupero finale (90+4') non conteggiato nei minuti.
 
 ## Minuti giocati — Campionato Giornata 4 (03/10/2026 vs Vighi 1967)
 

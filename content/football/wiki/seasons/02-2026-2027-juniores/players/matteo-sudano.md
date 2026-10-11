@@ -1,7 +1,7 @@
 ---
 title: "Sudano Matteo"
 season: 02-2026-2027-juniores
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Sudano Matteo
@@ -44,6 +44,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 | 26/09/2026 | Accademia Inveruno | 🏠 casa | ❌ no | — | — | — | — | — |
 | 29/09/2026 | Sempione Half 1919 | 🏠 casa | ✅ sì | 90 | 1 | 0 | 0 | 0 |
 | 03/10/2026 | Vighi 1967 | ✈️ trasferta | ❌ no | — | — | — | — | — |
+| 10/10/2026 | Accademia Bustese | 🏠 casa | ✅ sì | 90 | 0 | 0 | 0 | 0 |
 
 ---
 
@@ -57,6 +58,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**10/10/2026** — Rientra in campionato dopo le due giornate di squalifica (rosso del 19/09): titolare, 90'. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Non convocato: ancora squalificato in campionato per il rosso del 19/09 (seconda giornata di squalifica). (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **29/09/2026** — Rientra dalla squalifica e segna il 2-0 al 38' su assist di Favaron; al 94' sbaglia il possibile 3-1. Nel primo tempo fatica a stare dentro la partita senza palla, ma nel secondo, soprattutto nel finale, va sull'uomo e raddoppia quando serve. Da gestire con equilibrio: se si pretende troppo si rischia di perderlo mentalmente, ma se resta in partita è un giocatore vero. Daniele lo vedrebbe anche da quinto destro, al posto di un Di Bello troppo timido. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Non convocato: squalificato dopo il rosso del 19/09 vs Boffalorese. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
