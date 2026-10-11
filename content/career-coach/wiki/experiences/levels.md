@@ -242,9 +242,65 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ---
 
+## 📊 Settimana 2 (21-25 settembre 2026) — retrospettiva
+
+*Recuperata l'11 ottobre 2026 dai journal, non scritta a fine settimana.*
+
+**Periodo**: [[../journal/20260921-levels-day6|Day 6]] → [[../journal/20260925-levels-day10|Day 10]]. È la prima settimana con il computer aziendale.
+
+**Summary**: la settimana in cui Dan passa dall'osservazione al codice, partendo dall'infrastruttura dei test. Setup locale del SAS e connessioni DB (Day 6), Mailtrap per non mandare mail vere in test (Day 7), primo setup di Cypress con Page Object Pattern, PR sugli utility script DB e PR sulla velocità degli unit test (suite da 5 a 1-2 minuti sulla macchina di Alberto, Day 9). Sul fronte processo si chiude la scelta del tool di PM e dev board, Plane → Asana → **Shortcut**, scelto con Dario (Day 9). Venerdì il primo deploy vissuto dal vivo finisce a mezzanotte e rivela la causa strutturale: servizi tagliati per layer tecnico, non per dominio (Day 10).
+
+**Cosa è andato bene**:
+- **Alberto chiede esplicitamente mentorship** (Day 6). È il segnale opposto al [[../patterns/index#5-il-mentoring-involontario-di-un-pari|Pattern 5]] di Muffin, dove il mentoring era subìto e mai riconosciuto.
+- **Contributi tecnici piccoli e mergeati**: utility script DB, Cypress, velocità dei test. Batch piccoli, in linea con il metodo fissato in Settimana 1.
+- **Rollout dei test in pipeline a passi separati** (Day 9): unit subito, e2e dopo la stabilizzazione, quality gate dopo la pulizia. Un cambiamento alla volta.
+- **Il valore della suite SAS verificato su un campione** (~130 test, Day 8) invece di giudicarla a priori.
+- **Un test che passa senza verificare nulla è peggio di nessun test**: Dan toglie i controlli che con i mock sarebbero sempre verdi (Day 10).
+
+**Cosa non è andato / da monitorare**:
+- **I mock sono il collo di bottiglia**: `if` manuali nei client, OS API che in locale non gira. [DECISIONE] freeze dei nuovi e2e finché non vengono riprogettati (Day 10).
+- **Il deploy è lungo, poco strutturato e fuori orario**: documentazione offline, nessun registro, fine a mezzanotte. Dan chiede documentazione condivisa e un journal del rilascio.
+- **Secondo segnale di carenza di cultura UX** (Day 7): le discussioni scivolano sull'estetica invece che sui principi.
+- **Scetticismo di Dario su Slack** (Day 8), salvato come watch item.
+- **Ritmo personale**: un venerdì sera fino a mezzanotte dopo una settimana piena.
+
+**Decisioni prese**: Resend come SMTP per il futuro notifications service (Day 6); Mailtrap in test (Day 7); segmentazione degli strumenti in back office / richieste / board product+dev (Day 7); Shortcut (Day 9); rollout dei test a passi (Day 9); freeze degli e2e, regola "passa in locale e su dev", mock da riprogettare con MSW come candidato (Day 10); prima semplificare il deploy, poi scegliere tra refactoring e riscrittura (Day 10).
+
+**Focus per la Settimana 3**: analizzare il deploy del 25/09 e trasformarlo in un piano; iniziare a toccare il codice di prodotto insieme al team; primo 1:1 con Emanuele (28/09).
+
+---
+
+## 📊 Settimana 3 (28 settembre - 2 ottobre 2026) — retrospettiva
+
+*Recuperata l'11 ottobre 2026 dai journal, non scritta a fine settimana.*
+
+**Periodo**: [[../journal/20260928-levels-day11|Day 11]] → [[../journal/20261002-levels-day15|Day 15]].
+
+**Summary**: la settimana dei refinement e della prima PR di prodotto. L'analisi del deploy fatta con Claude viene confermata da Paolo e Alberto e diventa un piano: test → mock → rilascio senza downtime (blue-green), con una remediation di fase 1 per il SaaS (Day 11-12). Con Dario il rapporto si sposta sul *come* si lavora: il modo di lavorare si decide con il team (Day 11); al primo refinement Dario arriva con la soluzione già disegnata e vive il contributo di Dan come rework, poi gli chiede aiuto e struttura (Day 12). Il refinement sul wallet applica il formato "problema → divergenza → soluzione o spike" (Day 13). Mercoledì il primo test rosso in pipeline ferma qualcosa prima della prod. Venerdì Dan sviluppa in giornata le API di sharing e le rivede in coppia con Albi (Day 15).
+
+**Cosa è andato bene**:
+- **L'analisi AI validata dalle persone** (Day 11): così diventa un'analisi del team, non l'opinione del nuovo arrivato.
+- **La frizione con Dario gestita in giornata** (Day 12): feedback chiesto subito, e in poche ore si passa da "non so come prenderlo" a "mi ha chiesto aiuto".
+- **Il formato dei refinement funziona**: punti lasciati in sospeso invece che decisi per forza, uno spike con un owner (Day 13).
+- **Il primo test rosso in pipeline** (Day 14): il quality gate fa il suo lavoro.
+- **Prima PR di Dan rivista in coppia e chiusa in giornata** (Day 15), in un team abituato alle review asincrone.
+- **1:1 sales con Emanuele** (Day 11): il freno commerciale non è più la stabilità ma il time-to-value; nei GC chi decide non è chi compra.
+
+**Cosa non è andato / da monitorare**:
+- **Il modello mentale di Dario è l'efficienza delle risorse** (tutti occupati, tutto in parallelo), non l'efficienza del flusso (Day 12). Sottostima la complessità del wallet (Day 13).
+- **Paolo "lupo solitario"** (Day 14): lavoro a mezzanotte, assente alla riunione organizzativa, attività diversa da quella concordata senza confronto.
+- **Autodiagnosi di Dan: "ho accelerato troppo, devo rallentare"** (Day 14). Wallet, mock/Cypress e remediation insieme: troppo lavoro aperto (→ [[../patterns/index#11-troppo-lavoro-in-parallelo-come-sintomo-di-sistema|Pattern 11]]).
+- **I refinement non hanno ancora un formato stabile** (Day 14).
+
+**Decisioni prese**: sequenza test → mock → rilascio senza downtime (Day 11); il modo di lavorare del team si decide con il team (Day 11); refinement in tre fasi e form di indagine dopo il refinement (Day 12); spike "in casa o tool esterno" sulla condivisione documenti e creazione cantiere invariata per i GC (Day 13); divisione del lavoro sullo sharing con Albi e niente merge nel giorno del rilascio in prod (Day 15).
+
+**Focus per la Settimana 4**: rallentare e chiudere una cosa alla volta; mergiare lo sharing; parlare con Paolo; capire come portare al team il bisogno di più ritmo.
+
+---
+
 ## 📊 Settimana 4 (5-9 ottobre 2026) — retrospettiva
 
-**Periodo**: [[../journal/20261005-levels-day16|Day 16]] → [[../journal/20261009-levels-day20|Day 20]]. Le retrospettive delle settimane 2 e 3 (21 settembre - 2 ottobre) non sono state scritte: vedi i journal nell'[[../journal/index|indice]].
+**Periodo**: [[../journal/20261005-levels-day16|Day 16]] → [[../journal/20261009-levels-day20|Day 20]].
 
 **Summary**: la settimana in cui il team si è dato un ritmo. Lunedì sera Dan nomina il disagio (*"troppi commit fuori orario, troppa libertà, troppa confusione, poco ritmo"*) e chiede come portarlo in retro. Mercoledì la prima retrospettiva del team tech produce 5 cluster e 7 action, ognuna con owner e tempi: daily alle 9:30 facilitato da Dan, weekly del lunedì (Dario), on call a rotazione, canale unico per le richieste, outcome chiari al refinement, retro mensile, checkpoint sul deploy. Giovedì parte il primo daily. Venerdì il team rivede il piano di Dan per rilasciare in orario di lavoro e ci trova sei punti deboli. In parallelo, la feature di sharing arriva su dev e sul sito per i sub, con la pagina pubblica sviluppata da Albi.
 
@@ -318,7 +374,16 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 - [[20261007-levels-day18|7 ott 2026 — Day 18: prima retro del team, 7 action con owner]]
 - [[20261006-levels-day17|6 ott 2026 — Day 17: semi pair con Albi, account separati GC/CSE/Sub, "è la mia natura"]]
 - [[20261005-levels-day16|5 ott 2026 — Day 16: sharing su dev, pagina pubblica ad Albi, temi per la retro]]
-- *Day 6 → Day 15 (21 set - 2 ott): vedi l'[[../journal/index|indice dei journal]].*
+- [[20261002-levels-day15|2 ott 2026 — Day 15: API di sharing, prima PR rivista in coppia con Albi]]
+- [[20261001-levels-day14|1 ott 2026 — Day 14: primo test rosso in pipeline, Paolo "lupo solitario", "devo rallentare"]]
+- [[20260930-levels-day13|30 set 2026 — Day 13: linter/Prettier su dev, refinement sul wallet, spike]]
+- [[20260929-levels-day12|29 set 2026 — Day 12: remediation fase 1, primo refinement e frizione con Dario]]
+- [[20260928-levels-day11|28 set 2026 — Day 11: analisi del deploy validata dal team, 1:1 sales con Emanuele]]
+- [[20260925-levels-day10|25 set 2026 — Day 10: freeze degli e2e, deploy fino a mezzanotte]]
+- [[20260924-levels-day9|24 set 2026 — Day 9: Cypress e velocità dei test mergeati, Shortcut]]
+- [[20260923-levels-day8|23 set 2026 — Day 8: proposta tool PM, valore della suite SAS, dubbi di Dario su Slack]]
+- [[20260922-levels-day7|22 set 2026 — Day 7: Mailtrap, segnale UX, primo setup Cypress]]
+- [[20260921-levels-day6|21 set 2026 — Day 6: setup locale SAS, Alberto chiede mentorship]]
 - [[20260918-levels-day5|18 set 2026 — Day 5: chiusura Settimana 1 — refinement compliance, prima osservazione di Tommaso Vilotto, SPI non testabile in locale]]
 - [[20260917-levels-day4|17 set 2026 — Day 4: chiusura loop onboarding, dati prodotto, prima frizione con Dario su qualità/velocità]]
 - [[20260916-levels-day3|16 set 2026 — Day 3: buy vs build, overview infra/pipeline con Paolo, mappatura persone]]

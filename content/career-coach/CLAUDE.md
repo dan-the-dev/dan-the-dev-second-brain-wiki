@@ -176,6 +176,9 @@ cosa resta aperto, cosa hai imparato]
 
 6. Aggiorna wiki/journal/index.md aggiungendo in cima il link alla nuova entry:
    - [[YYYYMMDD-levels-dayN|DD MMM YYYY — titolo breve del giorno]]
+7. Se è la prima compilazione della settimana (di norma il lunedì, o il primo giorno
+   lavorativo della settimana): esegui il **check delle retrospettive mancanti**
+   (vedi "Automated tasks → Check retrospettive mancanti") prima del commit.
 
 ### 🎓 Riflessione da career coach — SEMPRE, ad ogni compilazione del wiki journal
 
@@ -203,6 +206,13 @@ una sezione `## 🎓 Riflessione da career coach` — un blockquote (`> [!tip]+`
 Leggi tutti i journal compilati della settimana in wiki/journal/
 Aggiorna wiki/experiences/levels.md, wiki/patterns/index.md,
 wiki/people/ se emergono nuovi elementi.
+La retrospettiva vive in wiki/experiences/{company}.md come sezione
+`## 📊 Settimana N (date) — retrospettiva`, in ordine cronologico crescente
+(dopo le settimane precedenti, prima di `## 🌱 Riflessioni applicate`), con:
+Periodo (link al primo e all'ultimo journal), Summary, Cosa è andato bene,
+Cosa non è andato / da monitorare, Decisioni prese, Focus per la settimana dopo.
+Settimana 1 = la prima settimana lavorativa intera in azienda (a Levels: 14-18/09/2026).
+Aggiorna anche la lista `## Journal` della pagina esperienza con i giorni della settimana.
 
 ### Retrospettiva mensile (ultima domenica del mese)
 Controlla se siamo nell'ultima domenica del mese o negli ultimi 3 giorni.
@@ -213,6 +223,28 @@ Se sì: genera wiki/retrospectives/YYYY-MM.md con:
 - Pattern emersi
 - Skills in sviluppo
 - Focus per il mese prossimo
+Aggiungi la retrospettiva in cima alla sezione "Retrospettive" di wiki/index.md.
+
+### 🔎 Check retrospettive mancanti (alla prima compilazione journal della settimana)
+Trigger: la prima compilazione del wiki journal della settimana (di norma il lunedì,
+o il primo giorno lavorativo se il lunedì manca), sia da evening dump sia da
+compilazione "con quello che c'è".
+
+1. **Settimanali**: per ogni settimana lavorativa conclusa dell'azienda attiva
+   (dalla Settimana 1 fino alla settimana scorsa compresa) verifica che in
+   wiki/experiences/{company}.md esista la sezione `## 📊 Settimana N ...`.
+2. **Mensili**: per ogni mese concluso verifica che esista
+   wiki/retrospectives/YYYY-MM.md (il controllo copre i mesi successivi
+   all'ultima retrospettiva mensile presente).
+3. Se ne manca qualcuna, **recuperala** subito leggendo i journal compilati del
+   periodo (e, per le mensili, le retrospettive settimanali, le pagine esperienza
+   e la mensile precedente), seguendo lo stesso formato delle retrospettive
+   ordinarie. In apertura segnala che è recuperata:
+   `*Recuperata il YYYY-MM-DD dai journal, non scritta a fine settimana/mese.*`
+4. Le retro recuperate vanno nello stesso commit del journal (o in un commit
+   separato subito dopo) e vengono pushate (sono file wiki).
+5. Nella risposta a Daniele elenca quali retrospettive sono state recuperate.
+   Se non ne manca nessuna, non serve dirlo.
 
 ### Experience synthesis (su richiesta o a cambio azienda)
 Genera o aggiorna wiki/experiences/{company}.md
@@ -278,6 +310,7 @@ tipicamente dopo un'analisi incrociata fra i journal e un contenuto esterno.
 - I file modern sono RAW — scritti una volta, mai modificati
 - La wiki journal è l'UNICA versione leggibile — i raw sono solo input
 - Compila wiki/journal/ SEMPRE quando arriva evening.md
+- Alla prima compilazione journal della settimana: check retrospettive settimanali e mensili mancanti, e recupero se assenti (vedi Automated tasks)
 - Se manca evening.md ma Daniele chiede la compilazione: compila con quello che c'è
 - Ogni wiki journal compilato include SEMPRE la sezione "🎓 Riflessione da career coach"
   (vedi dettagli in Modalità operative → EVENING DUMP), con riferimento esplicito a
