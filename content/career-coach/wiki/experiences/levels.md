@@ -5,7 +5,7 @@ started: 2026-09-14
 status: active
 current: true
 probation_end: 2027-03-14
-updated: 2026-09-18
+updated: 2026-10-11
 tags: [experience, levels, regtech, ai]
 ---
 
@@ -242,6 +242,38 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ---
 
+## 📊 Settimana 4 (5-9 ottobre 2026) — retrospettiva
+
+**Periodo**: [[../journal/20261005-levels-day16|Day 16]] → [[../journal/20261009-levels-day20|Day 20]]. Le retrospettive delle settimane 2 e 3 (21 settembre - 2 ottobre) non sono state scritte: vedi i journal nell'[[../journal/index|indice]].
+
+**Summary**: la settimana in cui il team si è dato un ritmo. Lunedì sera Dan nomina il disagio (*"troppi commit fuori orario, troppa libertà, troppa confusione, poco ritmo"*) e chiede come portarlo in retro. Mercoledì la prima retrospettiva del team tech produce 5 cluster e 7 action, ognuna con owner e tempi: daily alle 9:30 facilitato da Dan, weekly del lunedì (Dario), on call a rotazione, canale unico per le richieste, outcome chiari al refinement, retro mensile, checkpoint sul deploy. Giovedì parte il primo daily. Venerdì il team rivede il piano di Dan per rilasciare in orario di lavoro e ci trova sei punti deboli. In parallelo, la feature di sharing arriva su dev e sul sito per i sub, con la pagina pubblica sviluppata da Albi.
+
+**Cosa è andato bene**:
+- **La delega ad Albi ha funzionato.** Dan chiude il suo pezzo e passa il successivo ad Albi, restando vicino con semi pair e checkpoint ([[../journal/20261006-levels-day17|Day 17]]). È la prima volta che una feature avanza senza che sia Dan a scrivere il codice, e mette in pratica il "devo rallentare" del [[../journal/20261001-levels-day14|Day 14]].
+- **La retro è stata del team, non di Dan.** I temi sono stati votati e le action hanno owner diversi, Dario compreso. È la differenza principale rispetto alle esperienze precedenti, in cui le proposte di Dan restavano sue (→ [[../patterns/index#2-le-proposte-strategiche-ben-argomentate-che-restano-senza-seguito-concreto|Pattern 2]]).
+- **Paolo: dal giudizio al confronto.** Una frizione sul lavoro in parallelo (Day 19), affrontata partendo dalla curiosità e dal tema che Paolo stesso aveva chiesto di discutere, diventa in due giorni un piano condiviso sul servizio mail.
+- **Il piano sul deploy è stato messo in discussione apertamente.** Sei punti deboli trovati dal team e accolti come un guadagno. Il principio che ne esce, "rendere sicuro il caso peggiore prima di ottimizzare il caso comune", e l'ammissione che si tratta di un cerotto danno credibilità alla proposta.
+
+**Cosa non è andato / da monitorare**:
+- **Il "finito" non è condiviso.** Manca una definition of done, e per Dario finito vuol dire "liberi per la prossima cosa". Il fix "piccolo" di venerdì con dentro temi di UX è lo stesso problema visto da un altro lato: non è chiaro *quando* una cosa è finita, né *chi* lo decide.
+- **L'urgenza di Dario è una costante, non un episodio.** "Tutte e due ASAP" (Day 16), la riunione al volo (Day 17), il "siamo liberi" (Day 19), il fix "un po' così" (Day 20). Lui la definisce *"la mia natura"*: va incanalata, non corretta.
+- **Il lavoro in parallelo è ovunque**: Dan stesso (Day 14), Dario con le due opzioni, Paolo con due attività aperte e più tab di Claude, i mock portati avanti da Dan da solo (→ [[../patterns/index#11-troppo-lavoro-in-parallelo-come-sintomo-di-sistema|Pattern 11]]).
+- **Il backlog dei temi grossi cresce**: accesso in cantiere entro fine anno, account separati GC/CSE/Sub, le due opzioni per GC e SUB. Serve una lista unica ordinata con Dario.
+- **Restano aperti** i mock (ancora sulle spalle di Dan), la verifica di come vengono usate le giornate dello UX designer e i tre cluster della retro non discussi (debito tecnico, testing, metriche di prodotto).
+
+**Decisioni prese**: la pagina pubblica la fa Albi (Day 16); daily, weekly, on call a rotazione, canale unico per le richieste e retro mensile (Day 18); piano in 5 step per il deploy in orario di lavoro (coda persistente, coda versionata, database solo additivo con expand and contract, interruttori, contorni), dichiarato come cerotto (Day 20).
+
+**Persone**: [[../people/alberto|Alberto]] cresce come owner di pezzi interi. [[../people/paolo|Paolo]] risponde bene a un confronto basato sulla curiosità, ma tende a costruire soluzioni complesse e a tenere più cose aperte. [[../people/dario|Dario]] accetta di avere tre action come owner: è il primo segnale che il processo non viene vissuto come "la cosa di Dan". [[../people/emanuele|Emanuele]] compare al daily e sulle decisioni di UX.
+
+**Focus per la Settimana 5 (12-16 ottobre)**:
+1. **Weekly di lunedì**: portare insieme daily, definition of done (checklist di massimo 5 righe) e la regola "UX prima del fix" come unico pacchetto "come lavoriamo", non come tre correzioni separate.
+2. **Piano deploy**: ordine degli step e owner; segnare il cerotto come debito tecnico nel backlog.
+3. **Daily entro i 15 minuti**, con la domanda *"cosa chiudi oggi?"*.
+4. **Paolo**: chiudere una delle due attività aperte.
+5. **Sustainable pace**: non lavorare la sera per preparare le cose del giorno dopo.
+
+---
+
 ## 🌱 Riflessioni applicate
 
 > Spazio per raccogliere, nel tempo, le riflessioni su cosa provare concretamente in Levels a partire da cose imparate altrove — libri, pattern, esperienze precedenti (Muffin e prima) — incrociate con episodi specifici vissuti qui. Ogni voce è datata e collegata, dove possibile, ai journal e ai contenuti di studio che l'hanno generata. **Ordine cronologico decrescente: la voce più recente sta in cima.**
@@ -281,6 +313,12 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ## Journal
 
+- [[20261009-levels-day20|9 ott 2026 — Day 20: piano del servizio mail con Paolo, rilascio sul sito per i sub, piano deploy rivisto dal team]]
+- [[20261008-levels-day19|8 ott 2026 — Day 19: primo daily, frizione e confronto con Paolo, definition of done]]
+- [[20261007-levels-day18|7 ott 2026 — Day 18: prima retro del team, 7 action con owner]]
+- [[20261006-levels-day17|6 ott 2026 — Day 17: semi pair con Albi, account separati GC/CSE/Sub, "è la mia natura"]]
+- [[20261005-levels-day16|5 ott 2026 — Day 16: sharing su dev, pagina pubblica ad Albi, temi per la retro]]
+- *Day 6 → Day 15 (21 set - 2 ott): vedi l'[[../journal/index|indice dei journal]].*
 - [[20260918-levels-day5|18 set 2026 — Day 5: chiusura Settimana 1 — refinement compliance, prima osservazione di Tommaso Vilotto, SPI non testabile in locale]]
 - [[20260917-levels-day4|17 set 2026 — Day 4: chiusura loop onboarding, dati prodotto, prima frizione con Dario su qualità/velocità]]
 - [[20260916-levels-day3|16 set 2026 — Day 3: buy vs build, overview infra/pipeline con Paolo, mappatura persone]]

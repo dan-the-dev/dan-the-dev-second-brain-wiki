@@ -1,12 +1,12 @@
 ---
 title: Patterns — Index
-updated: 2026-09-18
+updated: 2026-10-11
 tags: [patterns, index]
 ---
 
 # 🔁 Pattern ricorrenti
 
-Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente dai journal di Casavo, Mymenu, Tour Radar e Muffin.
+Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente dai journal di Casavo, Mymenu, Tour Radar, Muffin e Levels.
 
 ## 1. Comunicare le decisioni di uscita in modo progressivo e rispettoso dei ruoli
 
@@ -45,6 +45,8 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: la mancata adozione genera frustrazione crescente e diventa, in più di un caso, l'**accelerante diretto della decisione di andarsene** — "ancora più grave che nessuno abbia risposto al mio messaggio" (Casavo); la riflessione critica post-layoff su Travis e il tech debt (Tour Radar) suggerisce lo stesso meccanismo. A Muffin la frustrazione con Luca genera episodi di "comunicazione violenta" che Dan riconosce come errori propri.
 
 **Insight**: questo è probabilmente il pattern più "costoso" emotivamente nella carriera di Dan — la "frustrazione dell'intrapreneur" che propone, argomenta, e raramente vede il cambiamento realizzarsi. La novità di Muffin è che Dan trova una strategia parzialmente efficace: il rinforzo esterno come proxy del cambiamento interno (→ Pattern 6). Ma la resistenza residua di alcuni peer (Luca) suggerisce che la strategia ha limiti quando non è l'intera organizzazione a riconoscere il problema.
+
+**Levels — prima controprova (settimana 5-9 ottobre 2026, Day 16-20)**: per la prima volta il pattern sembra invertirsi, e per un motivo preciso. Invece di elaborare una proposta strutturata e portarla ai decisori, Dan porta il disagio (*"poco ritmo"*) in una **retrospettiva di team**: i temi vengono votati e le 7 action hanno owner diversi, tre delle quali in capo a Dario ([[../journal/20261007-levels-day18|Day 18]]). Il giorno dopo il daily parte davvero. Venerdì il piano sul deploy viene sottoposto al team, che ci trova sei punti deboli: la proposta diventa del team ([[../journal/20261009-levels-day20|Day 20]]). Il meccanismo è diverso da quello di Muffin: lì il cambiamento si sbloccava con un rinforzo esterno (→ Pattern 6), qui con la **partecipazione interna**. È presto per parlare di adozione: è passata una settimana, e il test vero sarà se daily, weekly e piano deploy sono ancora vivi tra un mese. Ma è la prima volta che una proposta di processo di Dan ha owner diversi da lui fin dal primo giorno.
 
 ---
 
@@ -236,6 +238,24 @@ Pattern tecnici, organizzativi e comportamentali che emergono trasversalmente da
 **Cosa non ha funzionato**: con un profilo esperto come Alberto il costo è "solo" una minore affidabilità dei test; con un profilo junior come Vilotto il costo è doppio — oltre al rischio sui test, c'è il rischio che l'assenza di lettura critica rallenti la sua stessa crescita tecnica, perché l'AI gli sta facendo anche il lavoro di comprensione che dovrebbe essere suo.
 
 **Insight**: coerente con l'idea già annotata da Dan al Day 3 di un **LLM-as-judge** come feedback automatico — ma un giudice che nessuno legge rischia di essere lo stesso problema spostato di un livello. Prima di introdurre lo strumento, distinguere gli interventi per profilo: con un dev esperto come Alberto probabilmente basta rendere visibile il costo (es. bug che un test avrebbe catturato); con un junior come Vilotto serve più probabilmente mentoring/pairing diretto sulla lettura critica del codice, non solo un tool aggiuntivo — coerente con l'approccio di crescita tecnica che Dan applica come manager (vedi [[../people/CLAUDE|wiki/people/CLAUDE.md]]).
+
+---
+
+## 11. Troppo lavoro in parallelo come sintomo di sistema
+
+**Aziende**: [[levels|Levels]] (emergente)
+
+**Frequenza**: osservato su quattro fronti diversi, Dan compreso, nell'arco di due settimane (1-9 ottobre 2026).
+
+**Descrizione**: a Levels il lavoro in parallelo compare a ogni livello. **Dan** al [[../journal/20261001-levels-day14|Day 14]] si accorge di aver *"accelerato troppo"* e di dover rallentare. **[[../people/dario|Dario]]** chiede di fare *"tutte e due ASAP"* le due opzioni di prodotto ([[../journal/20261005-levels-day16|Day 16]]), e appena una cosa sembra chiusa passa alla successiva (*"siamo liberi"*, [[../journal/20261008-levels-day19|Day 19]]). **[[../people/paolo|Paolo]]** porta avanti due attività senza chiuderne nessuna, lavora con più tab di Claude in contemporanea e costruisce soluzioni con tanti job per coprire ogni caso limite ([[../journal/20261008-levels-day19|Day 19]]). I **mock** restano un progetto parallelo di Dan, portato avanti da solo ([[../journal/20261005-levels-day16|Day 16]]).
+
+**Come si manifesta**: lavoro "quasi finito" per giorni; nessuna definition of done condivisa; domande e richieste che arrivano direttamente alle persone; idee nuove che entrano subito nel lavoro invece che in una coda; agenti AI che moltiplicano le cose "in corso" senza moltiplicare l'attenzione disponibile per rivederle e chiuderle.
+
+**Cosa ha funzionato**: la delega con semi pair ad Albi (Dan chiude il suo pezzo prima di passare al successivo); la retro, che ha prodotto cadenza (daily, weekly) e protezione dalle interruzioni (on call a rotazione, canale unico per le richieste); la chiacchierata con Paolo impostata sulla curiosità invece che sul giudizio.
+
+**Cosa non ha funzionato / da verificare**: manca ancora il pezzo che rende visibile il "finito" (definition of done), e Dario non lo percepisce come un problema. Le contromisure hanno meno di una settimana.
+
+**Insight**: è un problema di sistema, non di persone, nel senso di **Deming**: lo stesso comportamento su profili diversissimi (founder, dev senior, Head of Development) indica una causa comune. Il calcolo di **Weinberg** sul costo del cambio di contesto (*Quality Software Management*) e lo "stop starting, start finishing" del Kanban sono gli argomenti da usare. La leva più forte probabilmente non è chiedere alle persone di fare meno cose, ma rendere visibile l'età del lavoro in corso (Vacanti, [[../../study/wiki/content/book/when-will-it-be-done|When Will It Be Done?]]) e il costo dei pezzi che restano aperti. Da verificare se il pattern compare anche nei journal di Muffin prima di considerarlo trasversale.
 
 ---
 

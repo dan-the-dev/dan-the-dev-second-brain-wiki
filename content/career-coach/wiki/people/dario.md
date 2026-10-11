@@ -2,7 +2,7 @@
 title: Dario
 company: [levels]
 role: Co-Founder, ruolo tecnico/prodotto (Dario Del Gaizo)
-updated: 2026-10-01
+updated: 2026-10-11
 tags: [people, levels]
 ---
 
@@ -25,6 +25,8 @@ Day 11 (28/09): pranzo andato bene, di nuovo sul futuro e su come organizzarsi (
 Day 12 (29/09): primo refinement fatto insieme ([[../journal/20260929-levels-day12|journal Day 12]]). Dario arriva con una soluzione già disegnata quasi fino ai campi; Dan propone di validare prima il nuovo processo, fuori dalla piattaforma, e percepisce che Dario la prende male: il contributo arrivato a soluzione fatta sembra rework, come una code review asincrona. Dan chiede subito un confronto e lo ottiene lo stesso giorno. Dario esprime il dubbio che le pratiche Agile/XP/DevOps funzionino davvero (i suoi riferimenti: tutti fanno tutto, parallelizzare al massimo, cioè efficienza delle risorse), ma è aperto e chiede a Dan indicazioni più chiare. Concordano per il refinement dell'ingresso in cantiere una struttura di 60': problema chiaro (15'), divergenza facilitata da Dan, convergenza su soluzione o esperimento/spike. Il form di indagine che Dario aveva in mente si decide dopo il primo giro.
 
 Day 13 (30/09): primo refinement sul wallet ([[../journal/20260930-levels-day13|journal Day 13]]), più di due ore ma con grandi passi avanti e punti lasciati esplicitamente in sospeso (legal sui documenti condivisi con chi non è registrato, spike affidato a Dan). Secondo Dan, Dario sottostima la complessità da trasferire: da gestire con i dati dello spike, non come opinione.
+
+Settimana 5-9/10 (Day 16-20, retrospettiva settimanale): l'urgenza di Dario attraversa tutta la settimana. Day 16: chiede una stima di costo fra due opzioni per le prossime feature, per *"capire se riusciamo a farle tutte e due ASAP"*, ammettendo che *"sembra una follia"* ([[../journal/20261005-levels-day16|Day 16]]). Day 17: riunione al volo alle 9; nella chiacchierata tornando a casa emerge il nuovo tema degli account separati GC/CSE/Sub e, quando Dan gli fa notare che lo vede fremere, risponde *"è la mia natura"*. Confronto sereno ([[../journal/20261006-levels-day17|Day 17]]). Day 18: alla prima retro diventa owner di tre action: setup del weekly del lunedì, evoluzione del sistema di richieste (target 2 settimane), outcome chiari al primo refinement ([[../journal/20261007-levels-day18|Day 18]]). Day 19: secondo Dan non vede il tema della definition of done e lo sottovaluta (*"siamo liberi, abbiamo finito, ci sono altre cose da fare"*) ([[../journal/20261008-levels-day19|Day 19]]). Day 20: vuole gestire *"un po' così"* un piccolo fix che conteneva temi di UX, e si perde tempo finché non viene coinvolto Emanuele ([[../journal/20261009-levels-day20|Day 20]]).
 
 ## Dinamica
 Molto concentrato sui problemi, un po' preoccupato — percezione di Dan è che Dario non voglia mettere a rischio il momento di Levels e senta l'urgenza di deliberare in fretta. Lascia autonomia al team ma partecipa personalmente ai dettagli implementativi (osservato nel weekly Day 1, dove discute scelte tecniche senza il resto del prodotto strutturato attorno). Rapporto ancora agli inizi ma aperto: accoglie le proposte di processo di Dan senza resistenza esplicita.
