@@ -5,7 +5,7 @@ started: 2026-09-14
 status: active
 current: true
 probation_end: 2027-03-14
-updated: 2026-10-11
+updated: 2026-10-12
 tags: [experience, levels, regtech, ai]
 ---
 
@@ -369,6 +369,7 @@ Da tracciare qui l'avanzamento (giorni/settimane lavorate, eventuali checkpoint 
 
 ## Journal
 
+- [[20261012-levels-day21|12 ott 2026 — Day 21: primo weekly, cinque obiettivi della settimana, PR allineata con Paolo, feature flag su DB]]
 - [[20261009-levels-day20|9 ott 2026 — Day 20: piano del servizio mail con Paolo, rilascio sul sito per i sub, piano deploy rivisto dal team]]
 - [[20261008-levels-day19|8 ott 2026 — Day 19: primo daily, frizione e confronto con Paolo, definition of done]]
 - [[20261007-levels-day18|7 ott 2026 — Day 18: prima retro del team, 7 action con owner]]
