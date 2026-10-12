@@ -2,7 +2,7 @@
 title: "Clean Code"
 type: topic
 id: clean-code
-updated: 2026-08-20
+updated: 2026-10-12
 ---
 
 # Clean Code
@@ -16,6 +16,14 @@ Il movimento *software craftsmanship*, di cui questo testo è il manifesto più 
 ## Il costo composto del codice sporco
 
 Con codice sporco la produttività decresce nel tempo in modo composto, non lineare: in un anno o due, team incredibilmente veloci diventano incredibilmente lenti. La reazione tipica è il "grande redesign nei cieli" — un team d'elite parte a riscrivere tutto da zero, e ora due sistemi corrono in parallelo, mentre il sistema legacy continua comunque a crescere di funzionalità, a volte per dieci anni, finché anche il nuovo sistema non viene giudicato da rifare. La tesi è tagliente: quando si produce codice sporco è colpa nostra, ed è nostra responsabilità difenderlo — come un chirurgo non salterebbe il lavaggio delle mani solo per fare prima. Il "Primal Conundrum" del libro è che si crede che il disordine serva a rispettare le scadenze, ma è falso: l'unico modo per andare veloci è mantenere il codice il più pulito possibile. La regola pratica che riassume l'intera etica del libro è la **Boy Scout Rule**: lascia il campeggio più pulito di come l'hai trovato.
+
+### Il paradosso del boy scout solitario
+
+La Boy Scout Rule ha un punto debole che il libro non affronta: funziona se la segue tutto il team. Matteo Pipitone, in *Il piatto esce lo stesso*, lo descrive con la metafora della cucina professionale, dove il principio equivalente è il *clean as you go*[^piatto]. In una cucina in cui nessun altro pulisce, chi pulisce mentre cucina ci mette di più, perché sgombera anche lo spazio lasciato dagli altri. Il costo della pulizia ricade su di lui ed è visibile nel suo output più lento; il beneficio si distribuisce sul lavoro di tutti ed è invisibile. Nel software questo si traduce nella domanda "perché la tua stima è più lunga di quella dei colleghi?", e chi pulisce finisce per scegliere fra andarsene o smettere di pulire: in entrambi i casi il team perde l'unica persona che teneva le cose in ordine[^piatto]. Se ne esce in un solo modo: rendere la disciplina collettiva, perché il beneficio diventa visibile (chi arriva nuovo trova gli attrezzi al loro posto) o perché la leadership guarda lo stato della codebase e non solo la velocità di consegna. A quel punto chi pulisce smette di essere il più lento e diventano tutti più veloci, perché sparisce la tassa nascosta del disordine.
+
+> [!info] Approfondimento aggiunto in fase di compilazione — renderlo parte del lavoro, non un extra
+> Martin Fowler propone una via pratica per disinnescare il paradosso: trattare la pulizia come *opportunistic refactoring*, parte normale del lavoro su ogni feature e non attività pianificata a parte, e soprattutto come *preparatory refactoring*, ristrutturare prima il codice in modo che la nuova funzionalità sia facile da aggiungere. È la frase di Kent Beck "make the change easy (warning: this may be hard), then make the easy change": in questa forma il beneficio della pulizia torna subito a chi la fa, sulla feature che sta consegnando, invece di andare solo alla persona che verrà dopo.
+> Fonte: [Martin Fowler — Opportunistic Refactoring](https://www.martinfowler.com/bliki/OpportunisticRefactoring.html) · [Martin Fowler — An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
 
 ## Nomi
 
@@ -58,14 +66,15 @@ Il libro chiude con un capitolo sulla concorrenza, descritta come strategia di d
 
 ## Sintesi
 
-*Clean Code* resta, in questo archivio, un topic costruito su un'unica fonte ma densissima: un intero sistema di pratiche — nomi, funzioni, commenti, oggetti, gestione degli errori, test, classi, design emergente, concorrenza — tenuto insieme da un'unica idea di fondo, che la qualità del codice non è un lusso negoziabile ma la precondizione stessa della velocità sostenibile. Non è un caso che il capitolo sui test citi parola per parola le stesse tre leggi del TDD che tornano nel topic dedicato, né che il design emergente richiami direttamente le quattro regole di Kent Beck: Clean Code, TDD e Refactoring, in questo archivio, sono tre finestre sulla stessa disciplina, praticate quasi sempre insieme.
+*Clean Code* resta, in questo archivio, un topic costruito soprattutto su un'unica fonte densissima, oggi integrata da un articolo che ne mette alla prova la regola più famosa: un intero sistema di pratiche — nomi, funzioni, commenti, oggetti, gestione degli errori, test, classi, design emergente, concorrenza — tenuto insieme da un'unica idea di fondo, che la qualità del codice non è un lusso negoziabile ma la precondizione stessa della velocità sostenibile. Non è un caso che il capitolo sui test citi parola per parola le stesse tre leggi del TDD che tornano nel topic dedicato, né che il design emergente richiami direttamente le quattro regole di Kent Beck: Clean Code, TDD e Refactoring, in questo archivio, sono tre finestre sulla stessa disciplina, praticate quasi sempre insieme. E la Boy Scout Rule, che riassume l'etica del libro, regge solo come disciplina di team: praticata da una persona sola diventa una penalità per chi la segue.
 
 ## Indice delle fonti
 
 [^cleancode]: Robert C. Martin, *Clean Code: A Handbook of Agile Software Craftsmanship* — [[../content/book/clean-code-a-handbook-of-agile-software|pagina dedicata]]
+[^piatto]: Matteo Pipitone, *Il piatto esce lo stesso*, matteopipitone.it, 2026 — [[../content/article/il-piatto-esce-lo-stesso|pagina dedicata]]
 
 ## Vedi anche
 
-- Contenuti: [[../content/book/clean-code-a-handbook-of-agile-software|Clean Code: A Handbook of Agile Software Craftsmanship]]
-- Topic collegati: [[tdd|TDD]] · [[refactoring|Refactoring]] · [[technical-excellence|Technical Excellence]] · [[agile-software-development|Agile Software Development]]
-- Persone: [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/kent-beck|Kent Beck]]
+- Contenuti: [[../content/book/clean-code-a-handbook-of-agile-software|Clean Code: A Handbook of Agile Software Craftsmanship]] · [[../content/article/il-piatto-esce-lo-stesso|Il piatto esce lo stesso]]
+- Topic collegati: [[tdd|TDD]] · [[refactoring|Refactoring]] · [[technical-excellence|Technical Excellence]] · [[agile-software-development|Agile Software Development]] · [[tech-debt|Tech Debt]]
+- Persone: [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/kent-beck|Kent Beck]] · [[../content/person/matteo-pipitone|Matteo Pipitone]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]]

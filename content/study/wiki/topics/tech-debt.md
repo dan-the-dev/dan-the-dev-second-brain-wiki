@@ -2,7 +2,7 @@
 title: "Tech Debt"
 type: topic
 id: tech-debt
-updated: 2026-08-20
+updated: 2026-10-12
 ---
 
 # Tech Debt
@@ -29,6 +29,16 @@ Una delle sfide più concrete — e più spesso trascurate — nella gestione de
 
 Tradurre questo in termini comprensibili a un product manager o a uno stakeholder di business significa smettere di parlare di "codice sporco" e cominciare a parlare di velocità futura: ogni unità di debito non ripagata è un costo che si aggiunge al prezzo di ogni funzionalità successiva, non un problema isolato di un singolo componente. È lo stesso principio, applicato in senso inverso, per cui i team ad alte prestazioni misurati dalla ricerca DORA (si veda il topic [[dora|DORA]]) risultano più veloci *e* più stabili contemporaneamente: qualità interna e velocità di consegna non sono in trade-off strutturale, sono la stessa variabile osservata da due lati.
 
+## Pagare gli interessi ogni giorno: il disordine non blocca, rallenta
+
+La metafora di Cunningham ha un lato che le fonti precedenti lasciano sullo sfondo: l'interesse sul debito non si paga una volta, si paga **a ogni compito**. È il punto centrale di *Il piatto esce lo stesso* di Matteo Pipitone, che lo rende visibile con un'immagine di cucina: in una cucina in disordine i piatti escono lo stesso, ma si cerca il coltello sotto i taglieri e si spostano le pentole per liberare un fornello, e il coltello nascosto non fa perdere tempo una volta sola, lo fa perdere a ogni piatto che ne ha bisogno[^piatto]. Nel codice è lo stesso: prima di scrivere la riga che serve bisogna capire dove va, spostare cose che non c'entrano e sperare di non rompere altro. Proprio perché non blocca il lavoro ma lo rallenta, il debito è facile da ignorare: quando qualcosa si rompe lo si vede, quando il lavoro diventa ogni giorno un po' più lento quella lentezza diventa la normalità. A questo costo se ne aggiunge uno che non compare mai nelle stime, la **frustrazione**: lavorare ogni giorno nel caos stanca più del lavoro in sé, spinge a fare il minimo, e allontana le persone più brave, che possono scegliere di andarsene[^piatto].
+
+> [!info] Approfondimento aggiunto in fase di compilazione — l'interesse in numeri
+> Lo studio *Code Red: The Business Impact of Code Quality* (Adam Tornhill, Markus Borg, IEEE/ACM TechDebt 2022), condotto su 39 codebase proprietarie in produzione, ha misurato nel codice di bassa qualità 15 volte più difetti, il 124% di tempo in più per risolvere un ticket e tempi massimi di ciclo fino a 9 volte più lunghi rispetto al codice sano. Lo studio è correlazionale e usa la metrica dello strumento commerciale degli autori, ma dà una misura concreta all'"interesse" della metafora. Il report *The Developer Coefficient* di Stripe (2018) stimava invece, su un sondaggio a oltre mille sviluppatori, circa 17 ore a settimana spese fra debito tecnico e codice scritto male, intorno al 42% della settimana lavorativa.
+> Fonte: [Tornhill, Borg — Code Red (arXiv)](https://arxiv.org/abs/2203.04374) · [Dice — Technical Debt and Bad Code Have a Bigger Impact Than You Think](https://insights.dice.com/2018/12/06/technical-debt-bad-code-bigger-impact-think/)
+
+Se l'interesse si paga a ogni compito, anche il rimborso deve avvenire a ogni compito. Le cucine professionali lo fanno con il principio del *clean as you go*, pulire fra un piatto e l'altro invece che a fine serata, che Dan Charnas mette fra i principi fondamentali della mise en place in *Work Clean*; nel software lo stesso principio è la **Boy Scout Rule** di Robert C. Martin (si veda [[clean-code|Clean Code]])[^piatto]. Rimandare la pulizia a "dopo" non funziona perché una codebase è un servizio che non finisce quasi mai: dietro ogni feature ce n'è un'altra, e chi aspetta la fine resta rallentato per mesi prima di arrivarci. Rispetto alla strategia **rush, learn, refactor** descritta più sotto, questo sposta il rimborso dalla scala del ciclo a quella del singolo file toccato. Il limite resta lo stesso: la pulizia serve alla consegna e non la sostituisce, si pulisce ciò che è d'intralcio ora e ciò che ostacolerà la prossima persona, senza fermare la delivery e senza riscrivere tutto[^piatto]. L'unica eccezione dichiarata è lo **spike**, il codice usa e getta scritto per imparare, che può essere disordinato a patto di non finire in produzione (e, secondo la definizione di Extreme Programming, di vivere separato dal codice condiviso).
+
 ## Due strategie per gestirlo: investire in design o abbracciare il ciclo rush-learn-refactor
 
 Per ridurre il debito alla radice esistono, in sostanza, due strategie complementari, e la scelta fra le due dipende da quanto è prevedibile il futuro del progetto[^cose-debito].
@@ -45,14 +55,15 @@ Nessuna delle due strategie elimina il debito: entrambe lo gestiscono. La differ
 
 ## Sintesi
 
-Il debito tecnico, letto attraverso queste fonti, non è un difetto morale del codice né una scusa per giustificare software scritto male: è una metafora finanziaria precisa, coniata da chi lavorava concretamente sul problema di spedire software funzionante sotto incertezza, e serve a rendere visibile — soprattutto a chi non legge codice — un costo altrimenti invisibile: il tempo extra che ogni funzionalità futura costerà se lo scarto fra bisogno di business e struttura del codice non viene periodicamente ridotto. Le sue cause sono duplici (un design sbagliato fin dall'inizio, o un contesto che è cambiato più in fretta del codice), la sua gestione è duplice (investire prima in design, o imparare in fretta e rifattorizzare dopo), e la sua comunicazione a chi non è tecnico funziona meglio quando si evita il linguaggio della colpa e si usa quello, molto più neutro e molto più efficace, del prestito e del piano di rimborso.
+Il debito tecnico, letto attraverso queste fonti, non è un difetto morale del codice né una scusa per giustificare software scritto male: è una metafora finanziaria precisa, coniata da chi lavorava concretamente sul problema di spedire software funzionante sotto incertezza, e serve a rendere visibile — soprattutto a chi non legge codice — un costo altrimenti invisibile: il tempo extra che ogni funzionalità futura costerà se lo scarto fra bisogno di business e struttura del codice non viene periodicamente ridotto. Le sue cause sono duplici (un design sbagliato fin dall'inizio, o un contesto che è cambiato più in fretta del codice), la sua gestione è duplice (investire prima in design, o imparare in fretta e rifattorizzare dopo), e la sua comunicazione a chi non è tecnico funziona meglio quando si evita il linguaggio della colpa e si usa quello, molto più neutro e molto più efficace, del prestito e del piano di rimborso. L'interesse, infine, si paga a ogni compito e in frustrazione oltre che in tempo: per questo il rimborso più efficace è quello continuo, pulire mentre si lavora, a patto che lo faccia tutto il team.
 
 ## Vedi anche
 
-- Contenuti: [[../content/article/cose-il-debito-tecnico-e-come-affrontarlo-in-modo|Cos'è il debito tecnico e come affrontarlo in modo Agile]] · [[../content/article/tech-debt-explained-to-everyone|Tech Debt Explained to Everyone]]
-- Topic collegati: [[tech-lead|Tech Lead]] · [[technical-excellence|Technical Excellence]] · [[agile-software-development|Agile Software Development]] · [[dora|DORA]]
-- Persone: [[../content/person/ward-cunningham|Ward Cunningham]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]]
+- Contenuti: [[../content/article/cose-il-debito-tecnico-e-come-affrontarlo-in-modo|Cos'è il debito tecnico e come affrontarlo in modo Agile]] · [[../content/article/tech-debt-explained-to-everyone|Tech Debt Explained to Everyone]] · [[../content/article/il-piatto-esce-lo-stesso|Il piatto esce lo stesso]]
+- Topic collegati: [[tech-lead|Tech Lead]] · [[technical-excellence|Technical Excellence]] · [[agile-software-development|Agile Software Development]] · [[dora|DORA]] · [[clean-code|Clean Code]] · [[refactoring|Refactoring]]
+- Persone: [[../content/person/ward-cunningham|Ward Cunningham]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/matteo-pipitone|Matteo Pipitone]]
 
 [^cunningham-oopsla]: Ward Cunningham, "The WyCash Portfolio Management System", OOPSLA 1992 — [c2.com/doc/oopsla92.html](https://c2.com/doc/oopsla92.html)
 [^cose-debito]: [[../content/article/cose-il-debito-tecnico-e-come-affrontarlo-in-modo|Cos'è il debito tecnico e come affrontarlo in modo Agile]]
 [^tech-debt-explained]: [[../content/article/tech-debt-explained-to-everyone|Tech Debt Explained to Everyone]]
+[^piatto]: Matteo Pipitone, *Il piatto esce lo stesso*, matteopipitone.it, 2026 — [[../content/article/il-piatto-esce-lo-stesso|pagina dedicata]]

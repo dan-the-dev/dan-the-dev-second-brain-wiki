@@ -2,7 +2,7 @@
 title: "Technical Excellence"
 type: topic
 id: technical-excellence
-updated: 2026-09-18
+updated: 2026-10-12
 ---
 
 # Technical Excellence
@@ -93,6 +93,8 @@ Il punto economico centrale dell'articolo è che, mentre per la qualità esterna
 
 Anche i team migliori producono cruft — la differenza è che ne producono meno e ne rimuovono a sufficienza per continuare ad aggiungere funzionalità rapidamente, tramite test automatizzati che fanno emergere i problemi in fretta e refactoring frequente[^quality-cost]. Fowler chiude notando come gli sviluppatori spesso giustifichino l'attenzione alla qualità interna invocando il "professionismo" — un argomento che implicitamente suggerisce che la qualità costi di più, quando in realtà l'argomento corretto è economico: l'alta qualità interna *riduce* il costo delle funzionalità future[^quality-cost]. È lo stesso ragionamento, spiegato in chiave più divulgativa, dell'analogia del mutuo: il debito tecnico, come quello finanziario, va bene finché resta sotto controllo e si ha un piano per ripagarlo[^tech-debt-everyone].
 
+*Il piatto esce lo stesso* di Matteo Pipitone aggiunge a questo quadro la dimensione del team: il cruft si rimuove meglio pulendo mentre si lavora (il *clean as you go* delle cucine professionali, la Boy Scout Rule nel software), ma chi lo fa da solo paga il costo di tutti e sembra il più lento, finché smette o se ne va[^piatto]. L'eccellenza tecnica, in questa lettura, non è la qualità del singolo sviluppatore più disciplinato ma uno standard condiviso, che regge solo se la leadership guarda anche lo stato della codebase e non solo la velocità di consegna. Il dettaglio, con le reference su DORA, XP e lo studio *Code Red* di Tornhill e Borg, è nei topic [[tech-debt|Tech Debt]] e [[clean-code|Clean Code]].
+
 ## La qualità come standard del team, non del mercato: l'argomento di Peopleware
 
 *Peopleware* di Tom DeMarco e Timothy Lister arriva alla stessa conclusione economica di Fowler — l'alta qualità interna costa meno, non di più — partendo però da un argomento diverso, radicato nella psicologia del lavoro intellettuale piuttosto che nell'economia del software[^peopleware]. Il punto di partenza è che i knowledge worker legano la propria autostima alla *qualità* del lavoro prodotto, non alla quantità: ogni professionista si impone uno standard personale — tipicamente il livello più alto sperimentato nelle proprie esperienze precedenti — quasi sempre più alto di quanto il mercato richieda o sia disposto a pagare. Da qui il concetto di **"flight from excellence"** (fuga dall'eccellenza): usare lo standard di qualità dettato dal compratore, invece di quello più alto che i builder sono in grado di garantire, sembra un compromesso ragionevole nel breve periodo, ma nel lungo periodo costa di più — perché una qualità più alta di quella richiesta è, paradossalmente, un mezzo per raggiungere una produttività più alta, non un suo ostacolo[^peopleware].
@@ -134,12 +136,13 @@ Messe insieme, le fonti di questo topic disegnano una mappa a strati dell'eccell
 [^cqrs]: Greg Young, *CQRS and Event Sourcing — Code on the Beach 2014* — [[../content/video/greg-young-cqrs-and-event-sourcing-code-on-the|pagina dedicata]]
 [^ivett-retreat]: Ivett Ördög, *Why did Martin Fowler invite 60 engineers to a ski resort?*, ivettordog.com — [[../content/article/why-did-martin-fowler-invite-60-engineers-to-a-ski-resort|pagina dedicata]]
 [^peopleware]: Tom DeMarco, Timothy Lister, *Peopleware: Productive Projects and Teams* — [[../content/book/peopleware-productive-projects-and-teams|pagina dedicata]]
+[^piatto]: Matteo Pipitone, *Il piatto esce lo stesso*, matteopipitone.it, 2026 — [[../content/article/il-piatto-esce-lo-stesso|pagina dedicata]]
 
 Vedi anche il topic [[tdd|TDD]] per il ciclo rosso-verde-refactor e il pattern language completo del Test-Driven Development, e la conferenza [[../content/conference/tdd-conference-2021|TDD Conference 2021]] per la dimensione culturale e organizzativa della pratica.
 
 ## Vedi anche
 
 - Topic collegati: [[tdd|TDD]] · [[agile-software-development|Agile Software Development]] · [[tech-debt|Tech Debt]] · [[clean-code|Clean Code]] · [[refactoring|Refactoring]] · [[ddd|DDD]] · [[architecture|Architettura Software]] · [[tech-lead|Tech Lead]]
-- Contenuti: [[../content/book/peopleware-productive-projects-and-teams|Peopleware]]
-- Persone: [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/kent-beck|Kent Beck]] · [[../content/person/ward-cunningham|Ward Cunningham]] · [[../content/person/alessandro-minoccheri|Alessandro Minoccheri]] · [[../content/person/bertrand-meyer|Bertrand Meyer]] · [[../content/person/ivett-ordog|Ivett Ördög]] · [[../content/person/tom-demarco|Tom DeMarco]] · [[../content/person/timothy-lister|Timothy Lister]] · [[../content/person/philip-crosby|Philip Crosby]]
+- Contenuti: [[../content/book/peopleware-productive-projects-and-teams|Peopleware]] · [[../content/article/il-piatto-esce-lo-stesso|Il piatto esce lo stesso]]
+- Persone: [[../content/person/robert-c-martin|Robert C. Martin]] · [[../content/person/martin-fowler-software-engineer|Martin Fowler]] · [[../content/person/kent-beck|Kent Beck]] · [[../content/person/ward-cunningham|Ward Cunningham]] · [[../content/person/alessandro-minoccheri|Alessandro Minoccheri]] · [[../content/person/bertrand-meyer|Bertrand Meyer]] · [[../content/person/ivett-ordog|Ivett Ördög]] · [[../content/person/tom-demarco|Tom DeMarco]] · [[../content/person/timothy-lister|Timothy Lister]] · [[../content/person/philip-crosby|Philip Crosby]] · [[../content/person/matteo-pipitone|Matteo Pipitone]]
 - Concetti: [[../content/concept/hexagonal-architecture-software|Hexagonal architecture]] · [[../content/concept/domain-driven-design|Domain-driven design]] · [[../content/concept/commandquery-separation|Command–query separation]]

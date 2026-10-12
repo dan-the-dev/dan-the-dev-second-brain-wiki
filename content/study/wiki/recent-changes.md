@@ -1,7 +1,7 @@
 ---
 title: "Ultime Modifiche"
 type: recent-changes
-updated: 2026-10-01
+updated: 2026-10-12
 tags: [meta, recent-changes]
 ---
 
@@ -9,34 +9,32 @@ tags: [meta, recent-changes]
 
 Registro delle pagine toccate nell'ultima sessione di lavoro sul piano di studio — non uno storico cumulativo: a ogni nuova sessione questa pagina viene sovrascritta con il nuovo elenco, non integrata. Serve a ritrovare rapidamente cosa è cambiato senza dover confrontare a mano `raw/` e `wiki/`.
 
-**Sessione del 2026-10-01** — Compilazione di due articoli, catturati come draft vuoti nella stessa giornata e poi riempiti da Daniele con summary in due parti (Key Concepts + Summary parafrasato) generati con una skill di Brave: *Evals as Theory Building* (High Performance AI Lab) e *Why Good Product Ideas Don't Survive* (Itamar Gilad). Le note personali di Daniele indicavano dove concentrare gli approfondimenti: un confronto eval vs test tradizionali per il primo, framework pratici per applicare l'evidence-guided model per il secondo.
+**Sessione del 2026-10-12** — Compilazione dell'articolo *Il piatto esce lo stesso* (Matteo Pipitone), catturato come draft vuoto nella stessa giornata e poi riempito da Daniele con Key Concepts, Summary e due note personali. Le note chiedevano di cercare reference sul fatto che l'eccellenza, in cucina come nel software, è pulizia continua e maniacale, e mettevano in discussione il paragone dell'autore fra spike e cucina di casa.
 
 ## Raw aggiornati
 
-- **Evals as Theory Building** — `raw/knowledge/article/evals-as-theory-building/content.md`
-  Frontmatter: `status: to_read` → `studied`; `study.started_at`/`completed_at: 2026-10-01`. Sezione "Connections" compilata. Corpo (Key Concepts, Summary, My Notes) lasciato intatto.
-- **Why Good Product Ideas Don't Survive** — `raw/knowledge/article/why-good-product-ideas-dont-survive/content.md`
-  Stesse modifiche di frontmatter e "Connections". Corpo intatto.
-- **Itamar Gilad** — `raw/knowledge/person/itamar-gilad/content.md` (nuovo)
-  Scheda persona per l'autore, con bio da ricerca su itamargilad.com.
+- **Il piatto esce lo stesso** — `raw/knowledge/article/il-piatto-esce-lo-stesso/content.md`
+  Frontmatter: `status: to_read` → `studied`; `study.completed_at: 2026-10-12`. Sezione "Connections" compilata. Corpo (Key Concepts, Summary, My Notes) lasciato intatto.
+- **Matteo Pipitone** — `raw/knowledge/person/matteo-pipitone/content.md` (nuovo)
+  Scheda persona per l'autore, con bio dal sito personale (ruolo e azienda non indicati).
 
 ## Pagine wiki compilate create
 
-- **Evals as Theory Building** — [[content/article/evals-as-theory-building|pagina]] (nuova)
-  Tutti i 10 concetti chiave con paragrafo dedicato, riscrittura in prosa di tutte le sezioni (teoria del successo, mappa/territorio, fumo e fuoco, ProofPack e Assay, loop accoppiati, ontologia e theory building, eval rigorose). Box di approfondimento: legge di Goodhart; contesto sul caso delle 89 fughe e sul fatto che ProofPack/Assay sono strumenti del lab stesso; Peter Naur e *Programming as Theory Building* (1985); **confronto eval vs test tradizionali** (tabella + livelli di Hamel Husain + parallelo con passo Red e mutation testing), richiesto da Daniele.
-- **Why Good Product Ideas Don't Survive** — [[content/article/why-good-product-ideas-dont-survive|pagina]] (nuova)
-  Tutti i 9 concetti chiave con paragrafo dedicato, entrambe le pipeline fase per fase con le stime di sopravvivenza (≈5% vs ≈80%) e le sezioni sull'AI. Box di approfondimento: collegamento con i principi Lean; **framework per metterlo a terra** (GIST con AFTER, Confidence Meter con la scala completa, Opportunity Solution Tree, assumption mapping, Working Backwards) più un percorso di adozione graduale, richiesto da Daniele.
-- **Itamar Gilad** — [[content/person/itamar-gilad|pagina]] (nuova)
+- **Il piatto esce lo stesso** — [[content/article/il-piatto-esce-lo-stesso|pagina]] (nuova)
+  Tutti i 9 concetti chiave con paragrafo dedicato, riscrittura in prosa di tutte le sezioni (costo del disordine, pulire mentre si lavora, paradosso di chi pulisce da solo, manutenzione continua, cucina di casa/spike, pulizia al servizio della consegna). Box di approfondimento: costo del disordine in numeri (Code Red di Tornhill e Borg, Stripe Developer Coefficient); mise en place e i principi di *Work Clean*, Bourdain; opportunistic e preparatory refactoring, Design Stamina Hypothesis; lo spike in Extreme Programming; **reference sull'eccellenza come disciplina continua** in cucina e nel software (Work Clean, Bourdain, DORA, XP, Fowler, Code Red), richieste da Daniele. Nelle note personali, la lettura di Daniele dello spike come "postazione a parte" è confrontata con la definizione di XP, che la sostiene.
+- **Matteo Pipitone** — [[content/person/matteo-pipitone|pagina]] (nuova)
 
 ## Pagine Topic aggiornate
 
-- **AI Development** — [[topics/ai-development|pagina]]
-  Nuova sezione "Valutare sistemi probabilistici: le eval come teoria del successo"; Sintesi estesa da quattro a cinque livelli; footnote `[^evals-theory]`; Goodhart's law in Vedi anche.
-- **Product Development** — [[topics/product-development|pagina]]
-  Nuova sezione "Quante idee buone sopravvivono al processo: l'evidence-guided development", fra la feature factory e le origini lean; Sintesi estesa; footnote `[^good-ideas]`; Itamar Gilad fra le persone citate.
+- **Tech Debt** — [[topics/tech-debt|pagina]]
+  Nuova sezione "Pagare gli interessi ogni giorno: il disordine non blocca, rallenta" (con box sui numeri di Code Red e Stripe), Sintesi estesa, footnote `[^piatto]`, Vedi anche aggiornato.
+- **Clean Code** — [[topics/clean-code|pagina]]
+  Nuova sottosezione "Il paradosso del boy scout solitario" (con box su opportunistic/preparatory refactoring), Sintesi estesa, footnote `[^piatto]`.
+- **Technical Excellence** — [[topics/technical-excellence|pagina]]
+  Nuovo paragrafo nella sezione sul debito tecnico come questione economica (l'eccellenza come standard condiviso), footnote `[^piatto]`.
 
 ## Pagine di indice aggiornate
 
-- **By Type** — [[by-type|pagina]] — totale 80→82 contenuti, Article 37→39.
-- **Completati** — [[completed|pagina]] — stessa correzione di conteggio, nuove voci in ordine alfabetico.
-- **Study LLM Wiki — Index** — [[index|pagina]] — nota sulla sessione e totale a 82.
+- **By Type** — [[by-type|pagina]] — totale 82→83 contenuti, Article 39→40.
+- **Completati** — [[completed|pagina]] — stessa correzione di conteggio, nuova voce in ordine alfabetico.
+- **Study LLM Wiki — Index** — [[index|pagina]] — nota sulla sessione e totale a 83.

@@ -1,12 +1,12 @@
 ---
 title: "Completati"
 type: completed
-updated: 2026-10-01
+updated: 2026-10-12
 ---
 
 # Completati
 
-Elenco degli 82 contenuti compilati in questo archivio (25 book, 39 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 7 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" (status ancora `to_read`/`to_watch`, non ancora segnati come studiati), 1 video il 2026-08-27 (idem), e 2 articoli il 2026-09-22, *The Economic Benefit of Refactoring* e *TDD inside the agent loop* — i primi due contenuti di questo archivio studiati per intero con appunti personali reali (`status: studied`), non solo catturati; e 2 articoli il 2026-10-01, *Evals as Theory Building* e *Why Good Product Ideas Don't Survive*, anch'essi studiati (`status: studied`); vedi [[recent-changes|Ultime Modifiche]] per il dettaglio. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
+Elenco degli 83 contenuti compilati in questo archivio (25 book, 40 article, 10 video, 3 conference, 3 podcast, 2 course): i 75 dello storico importato da Notion/Recall, più 8 voci aggiunte manualmente dopo l'import — 2 articoli il 2026-08-22 tramite il flusso "Online articles study draft" (status ancora `to_read`/`to_watch`, non ancora segnati come studiati), 1 video il 2026-08-27 (idem), e 2 articoli il 2026-09-22, *The Economic Benefit of Refactoring* e *TDD inside the agent loop* — i primi due contenuti di questo archivio studiati per intero con appunti personali reali (`status: studied`), non solo catturati; e 2 articoli il 2026-10-01, *Evals as Theory Building* e *Why Good Product Ideas Don't Survive*, anch'essi studiati (`status: studied`); e 1 articolo il 2026-10-12, *Il piatto esce lo stesso*, studiato (`status: studied`); vedi [[recent-changes|Ultime Modifiche]] per il dettaglio. Per la vista organizzata per tipo si veda [[by-type|By Type]]; per quella organizzata per argomento, [[topics/agile-software-development|Topics]].
 
 ## Timeline (cronologia parziale, a memoria di Daniele)
 
@@ -88,6 +88,7 @@ I restanti 53 contenuti dell'archivio non hanno una data nota: nessun racconto d
 - **How LennyRPG Was Built in 8 Hours** (article) — [[content/article/how-lennyrpg-was-built-in-8-hours-by-ben-shih-in|pagina]]
 - **Humans and Agents in Software Engineering Loops** (article) — [[content/article/humans-and-agents-in-software-engineering-loops|pagina]]
 - **Il peggior modo di fare una riunione** (article) — [[content/article/il-peggior-modo-di-fare-una-riunione|pagina]]
+- **Il piatto esce lo stesso** (article) *(studiato 2026-10-12)* — Matteo Pipitone — [[content/article/il-piatto-esce-lo-stesso|pagina]]
 - **Implementing Lean Software Development** (book) — Mary Poppendieck, Tom Poppendieck — [[content/book/implementing-lean-software-development|pagina]]
 - **Is High Quality Software Worth the Cost?** (article) — [[content/article/is-high-quality-software-worth-the-cost|pagina]]
 - **Italian Agile Days 2021** (conference) — [[content/conference/italian-agile-days-2021|pagina]]
