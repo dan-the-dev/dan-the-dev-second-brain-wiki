@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-10-12
+updated: 2026-10-13
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20261013-levels-day22]] — 2026-10-13 · **Levels Day 22** · Giornata abbastanza positiva: annuncio dell'invito ai sub e secondo rilascio alle 18:30 a utenti spenti; analisi di notifiche, alert, statistiche e dashboard di prodotto con Dario, rimandate (per ora query in locale via tunnel, Dan scrive un piano); il deploy senza downtime slitta a domani; chiamata con Emanuele fissata per giovedì dopo lo stand-up
 - [[20261012-levels-day21]] — 2026-10-12 · **Levels Day 21** · Giornata positiva: WIP sulla UX dell'invito ai sub chiuso (rilascio alle 22), primo weekly del team, cinque obiettivi per la settimana. PR review ottima con Paolo ("ci eravamo davvero capiti"), planning con Albi off. Lezione sul feature flag: era su una tabella DB, non su PostHog, e l'ha scoperto la domanda di Alberto
 - [[20261009-levels-day20]] — 2026-10-09 · **Levels Day 20** · Fine di una settimana impegnativa, andata bene: piano per il codice del servizio mail con Paolo, piano dei prototipi con Emanuele, test e rilascio sul sito per i sub (anche la parte dell'invito), piano in 5 step per rilasciare in orario di lavoro, rivisto con tutto il team dev (sei punti deboli trovati). Unica frizione: un fix "piccolo" con dentro temi di UX, che Dario voleva gestire in fretta e che ha fatto perdere un po' di tempo
 - [[20261008-levels-day19]] — 2026-10-08 · **Levels Day 19** · Giornata abbastanza positiva. Primo daily, un po' lungo come previsto, con Emanuele presente. Frizione con Paolo (due attività in parallelo, nessuna chiusa) che si scioglie nel confronto sul servizio mail, con Dan che spinge verso una soluzione più semplice. Manca una definition of done condivisa e Dario non la vede. Evening dettato il mattino dopo
