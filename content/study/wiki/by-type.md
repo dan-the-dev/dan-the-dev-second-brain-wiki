@@ -1,14 +1,14 @@
 ---
 title: "By Type"
 type: by-type
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # By Type
 
 Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i topic a cui ciascun elemento è agganciato. Per la vista organizzata per argomento si veda [[topics/agile-software-development|Topics]]; per l'archivio grezzo importato da Recall si veda [[knowledge-archive|Archivio Recall importato]].
 
-**Totale: 83 contenuti** (25 book, 40 article, 10 video, 3 conference, 3 podcast, 2 course). Le 8 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video, 2 il 2026-09-22 (i primi due articoli studiati con appunti personali reali, non solo catturati), 2 il 2026-10-01 (studiati con summary preparati da Daniele e indicazioni per gli approfondimenti), 1 il 2026-10-12 (studiato con summary e note personali di Daniele) — vedi [[index|nota in home]].
+**Totale: 84 contenuti** (25 book, 41 article, 10 video, 3 conference, 3 podcast, 2 course). Le 9 voci più recenti (contrassegnate sotto) sono state aggiunte manualmente dopo l'import Recall del 2026-08-19 — 2 il 2026-08-22 tramite il flusso "Online articles study draft", 1 il 2026-08-27 dallo studio di un video, 2 il 2026-09-22 (i primi due articoli studiati con appunti personali reali, non solo catturati), 2 il 2026-10-01 (studiati con summary preparati da Daniele e indicazioni per gli approfondimenti), 1 il 2026-10-12 (studiato con summary e note personali di Daniele), 1 il 2026-10-13 (idem) — vedi [[index|nota in home]].
 
 ### Book (25)
 
@@ -38,7 +38,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **When Will It Be Done?** — Daniel S. Vacanti — [[content/book/when-will-it-be-done|pagina]] — tech-lead, product-development
 - **Working Backwards** — Colin Bryar, Bill Carr — [[content/book/working-backwards|pagina]] — product-development
 
-### Article (40)
+### Article (41)
 
 - **10 Things You Would Expect From a Technical Lead** — [[content/article/10-things-you-would-expect-from-a-technical-lead|pagina]] — communication, tech-lead
 - **20 Principles To Learn and Lead** — [[content/article/20-principles-to-learn-and-lead|pagina]] — tech-lead, leadership, learning
@@ -67,6 +67,7 @@ Vista dell'intero archivio compilato organizzata per tipo di contenuto, con i to
 - **Six Rules for Designing Company Goals** — [[content/article/six-rules-for-designing-company-goals|pagina]] — leadership
 - **TDD inside the agent loop - theater or actual value?** *(studiato 2026-09-22)* — [[content/article/tdd-in-the-agent-loop|pagina]] — tdd, ai-development
 - **Tech Debt Explained to Everyone** — [[content/article/tech-debt-explained-to-everyone|pagina]] — tech-lead, agile-software-development, tech-debt, technical-excellence
+- **The Art of Simplifying Decisions** *(studiato 2026-10-13)* — David Pereira — [[content/article/the-art-of-simplifying-decisions|pagina]] — product-development, leadership, product-teams, decision-making
 - **The Developer Productivity Trap** — [[content/article/the-developer-productivity-trap|pagina]] — software-development
 - **The Economic Benefit of Refactoring** *(studiato 2026-09-22)* — [[content/article/refactoring-economic-benefit|pagina]] — refactoring, ai-development
 - **The Elephant Carpaccio** — [[content/article/the-elephant-carpaccio-intre|pagina]] — agile-software-development

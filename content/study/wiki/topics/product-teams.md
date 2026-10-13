@@ -2,7 +2,7 @@
 title: "Product Teams"
 type: topic
 id: product-teams
-updated: 2026-08-20
+updated: 2026-10-13
 ---
 
 # Product Teams
@@ -39,12 +39,28 @@ Trasformare un team mercenario in un team missionario non è un cambiamento di i
 
 **Curare il feedback grezzo degli utenti.** Passare il feedback dei clienti al team di prodotto nella sua forma originale, senza tradurlo o riassumerlo attraverso passaggi intermedi, riduce la distanza fra chi ascolta il cliente e chi decide, mantenendo viva l'empatia lungo tutta la catena decisionale. Ogni passaggio di traduzione o sintesi, per quanto ben intenzionato, filtra via parte del contesto emotivo e concreto che rende un team capace di comprendere davvero il problema dell'utente.
 
+## Decidere è il nuovo collo di bottiglia
+
+Quando costruire software diventa economico e veloce, il vincolo di un team di prodotto smette di essere l'implementazione e diventa la decisione su cosa costruire[^simplifying]. C'è un legame diretto con la distinzione fra missionari e mercenari. Un team a cui arriva una soluzione già decisa non ha niente da decidere, quindi esegue. Un team a cui arriva un *outcome* deve decidere di continuo, e il suo valore dipende da quanto bene e quanto in fretta lo fa. Il *decision-empowerment*, cioè dare ai team autonomia decisionale dentro un perimetro chiaro e orientato ai risultati, è la condizione organizzativa perché il mindset missionario diventi pratica quotidiana.
+
+Il modo più frequente in cui i team sprecano questa autonomia è non decidere. Meeting che finiscono con altri meeting, compromessi accettati pur di chiudere, strategie rifinite per mesi mentre la crescita si ferma. Una decisione sbagliata produce almeno apprendimento, una non-decisione produce solo frustrazione[^simplifying]. Per uscirne servono due passaggi brevi e deliberati. Il primo è **classificare la decisione** per impatto e reversibilità. Nel prodotto quasi tutto è una *two-way door* nel senso di Bezos, reversibile, anche se i team lo trattano come irreversibile. Il framework *hats, haircuts and tattoos* di James Clear aggiunge una categoria intermedia: le decisioni reversibili ma con un costo di ritorno. Il secondo passaggio è **scegliere il metodo**: democratico per le scelte a basso impatto, direttivo per crisi ed expertise indiscussa, consenso solo per le decisioni irreversibili, collaborativo, con un owner (tipicamente il PM) che raccoglie input e decide, per la maggior parte del lavoro di prodotto[^simplifying].
+
+> [!info] Approfondimento aggiunto in fase di compilazione
+> Il perimetro del decision-empowerment si può rendere esplicito con il **Delegation Poker** di Jurgen Appelo (Management 3.0), che definisce sette livelli di delega da *Tell* a *Delegate*. Il metodo collaborativo si struttura con l'**advice process** (Dennis Bakke, poi Frederic Laloux) o con il modello di ruoli **DACI**. Per le decisioni reversibili, il criterio sociocratico del *consent*, cioè *good enough for now, safe enough to try*, evita la lentezza del consenso pieno. Il dettaglio delle tecniche è nella pagina dell'articolo.
+> Fonte: [Klaxoon: Delegation Poker](https://klaxoon.com/community-content/delegation-poker/) · [Umbrex: Advice Process](https://umbrex.com/resources/frameworks/decision-making-frameworks/advice-process-2/)
+
+Lo stesso vale con l'AI. Gli agenti possono proporre opzioni basate sui dati, ma un team di prodotto deve progettare punti di decisione espliciti in cui sono le persone a scegliere la direzione, dopo aver capito il proprio contesto[^simplifying].
+
 ## Sintesi
 
-Il tratto che distingue un team di prodotto efficace da uno che si limita a eseguire non è la competenza tecnica né la struttura organizzativa, ma il mindset: coinvolgimento profondo nel problema di business, empatia reale per il cliente, e la capacità — che ne è insieme causa e conseguenza — di dire no a ciò che non serve a risolvere quel problema. Questo mindset non è legato alla natura del rapporto di lavoro (dipendente o consulente) ma a come un'organizzazione tratta i propri team: se li coinvolge presto nella definizione del problema, se chiede loro alternative invece di ordini, se condivide il perché oltre al cosa, e se preserva il contatto diretto con il feedback grezzo degli utenti lungo tutta la catena decisionale. È un cambiamento culturale e pratico, non un dato di fatto immutabile sulla composizione del team.
+Il tratto che distingue un team di prodotto efficace da uno che si limita a eseguire non è la competenza tecnica né la struttura organizzativa, ma il mindset: coinvolgimento profondo nel problema di business, empatia reale per il cliente, e la capacità — che ne è insieme causa e conseguenza — di dire no a ciò che non serve a risolvere quel problema. Questo mindset non è legato alla natura del rapporto di lavoro (dipendente o consulente) ma a come un'organizzazione tratta i propri team: se li coinvolge presto nella definizione del problema, se chiede loro alternative invece di ordini, se condivide il perché oltre al cosa, e se preserva il contatto diretto con il feedback grezzo degli utenti lungo tutta la catena decisionale. È un cambiamento culturale e pratico, non un dato di fatto immutabile sulla composizione del team. L'altra faccia dell'autonomia è la capacità di decidere bene e in fretta: classificare ogni decisione per impatto e reversibilità, scegliere di proposito il metodo adatto e accettare che non decidere è il risultato peggiore.
+
+## Indice delle fonti
+
+[^simplifying]: David Pereira, *The Art of Simplifying Decisions*: [[../content/article/the-art-of-simplifying-decisions|pagina dedicata]]
 
 ## Vedi anche
 
-- Contenuti: [[../content/article/doerr-s-law-on-product-teams|Doerr's Law on Product Teams]]
-- Persone: [[../content/person/john-doerr|John Doerr]]
-- Topic collegati: [[product-development|Product Development]] · [[agile-software-development|Agile Software Development]]
+- Contenuti: [[../content/article/doerr-s-law-on-product-teams|Doerr's Law on Product Teams]] · [[../content/article/the-art-of-simplifying-decisions|The Art of Simplifying Decisions]]
+- Persone: [[../content/person/john-doerr|John Doerr]] · [[../content/person/david-pereira|David Pereira]]
+- Topic collegati: [[product-development|Product Development]] · [[agile-software-development|Agile Software Development]] · [[meetings|Riunioni]] · [[leadership|Leadership]]
