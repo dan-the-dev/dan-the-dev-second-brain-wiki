@@ -1,7 +1,7 @@
 ---
 title: Rosa — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Rosa — Juniores Regionali 2026/27
@@ -30,7 +30,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 4 | [[players/diego-favaron\|Favaron D. Diego]] | 2007 | Terzino/quinto sx-dx | ✓ confermato · FQ · Ansioso ma buona gamba e tecnica di base. Amichevole 31/08: molto bene, anche se a volte rischia troppo la giocata e va sempre avanti |
 | 5 | [[players/edoardo-boniardi\|Boniardi E. Edoardo]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Forte in marcatura, veloce, aggressivo. Bene fisicamente anche nell'amichevole del 31/08 |
 | 6 | [[players/alessandro-cuzmin\|Cuzmin Alessandro]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Buona alternativa, adattato anche esterno. Amichevole 31/08: molto aggressivo, a volte troppo |
-| 7 | [[players/lorenzo-brana\|Brana Lorenzo]] | 2008 | Difensore centrale | ✓ confermato · Rientro da infortunio, molto grosso fisicamente |
+| 7 | [[players/lorenzo-brana\|Brana Lorenzo]] | 2008 | Difensore centrale | ✓ confermato · Rientro da infortunio, molto grosso fisicamente · ⚠️ 12/10: secondo Daniele **probabilmente smette di giocare** |
 | 8 | [[players/francesco-lentini\|Lentini Francesco]] | 2009 | Difensore centrale, adattabile mediano | 🆕 nuovo · Bel difensore, bella mentalità, deve crescere |
 | 9 | [[players/alessandro-riccio\|Riccio Alessandro]] | 2008 | Terzino | ✓ confermato · Buon tackle, ottimo in gruppo |
 | 10 | [[players/samuele-pedulla\|Pedullà Samuele]] | 2008 | Difensore centrale o laterale | ✓ confermato · Rincalzo di qualità, deve crescere |
@@ -49,7 +49,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 15 | [[players/alessandro-lapiccirella\|Lapiccirella Alessandro]] | 2008 | Mediano / mezzala | ✓ confermato · Buona tecnica e temperamento, incostante |
 | 16 | [[players/gabriele-mingrone\|Mingrone G. Gabriele]] | 2008 | Mezzala / trequartista / seconda punta | ✓ confermato · **Il campione della squadra**. Gran partita nell'amichevole del 31/08: assist per il primo gol e rigore trasformato per il 2-0 — reparto offensivo con Sudano e Columpsi giudicato "un tridente forte vero" da Teo |
 | 17 | [[players/davide-curtarelli\|Curtarelli Davide]] | 2009 | Mezzala / esterno / attaccante / mediano | 🆕 nuovo · Amichevole 31/08: mezzala tipica, prende molte iniziative e va spesso al tiro |
-| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare (giudizio negativo confermato anche da Teo) |
+| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare (giudizio negativo confermato anche da Teo) · 🩹 12/10: di nuovo infortunato (tipo non indicato) |
 | 19 | [[players/eric-grassi\|Grassi Eric]] | 2009 | Centrocampista centrale | 🆕 nuovo |
 | 20 | [[players/leonardo-di-bello\|Di Bello Leonardo]] | 2008 | Mezzala / esterno | 🆕 nuovo · Amichevole 31/08: molto bene (anche adattato quinto), ma a volte rischia troppo la giocata — tra i nuovi più positivi anche secondo Teo |
 
@@ -60,7 +60,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | N. | Giocatore | Anno | Ruolo | Note |
 |----|-----------|------|-------|------|
 | 21 | [[players/alessandro-boniardi\|Boniardi A. Alessandro]] | 2008 | Punta centrale / esterno | ✓ confermato · Distorsione alla caviglia di 2° grado il 29/08, ✅ recuperato: in gruppo dal 14/09, di nuovo in campo dal 19/09 (gol al 26/09 vs Inveruno) — vedi [[seasons/02-2026-2027-juniores/injuries\|infortuni]] |
-| 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio |
+| 22 | [[players/gabriele-columpsi\|Columpsi Gabriele]] | 2008 | Punta centrale | ✓ confermato · Da valutare fisicamente, grande potenziale. Nell'amichevole del 31/08 ha segnato ed è apparso discreto nonostante 6 mesi fermo per infortunio · Pratica Muay Thai: il lunedì salterà spesso l'allenamento |
 | 24 | [[players/mattia-lorenzo-simonato\|Simonato Mattia Lorenzo]] | 2009 | Esterno / seconda punta | 🆕 nuovo |
 | 25 | [[players/matteo-sudano\|Sudano Matteo]] | 2008 | Esterno / seconda punta | 🆕 nuovo · Molto forte, segnalato testa calda. Amichevole 31/08: tanta qualità e corsa, fatica mentalmente ma si impegna se stimolato — ha conquistato il rigore del 2-0 |
 

@@ -1,7 +1,7 @@
 ---
 title: "Sudano Matteo"
 season: 02-2026-2027-juniores
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Sudano Matteo
@@ -28,6 +28,7 @@ updated: 2026-10-11
 | 24/09/2026 | allenamento | ✅ sì |
 | 28/09/2026 | allenamento | ✅ sì |
 | 01/10/2026 | allenamento | ❌ no |
+| 12/10/2026 | allenamento | ❌ no (lavoro) |
 
 ---
 

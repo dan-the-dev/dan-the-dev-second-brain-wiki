@@ -1,7 +1,7 @@
 ---
 title: "Brana Lorenzo"
 season: 02-2026-2027-juniores
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Brana Lorenzo
@@ -28,6 +28,7 @@ updated: 2026-10-11
 | 24/09/2026 | allenamento | ✅ sì |
 | 28/09/2026 | allenamento | ✅ sì |
 | 01/10/2026 | allenamento | ❌ no |
+| 12/10/2026 | allenamento | ❌ no |
 
 ---
 
@@ -58,4 +59,4 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
-Nessuna nota personale specifica registrata finora.
+**12/10/2026** — Assente. Secondo Daniele probabilmente smette di giocare. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]])

@@ -2,7 +2,7 @@
 title: "Ripetute intermittenti 80 metri"
 slug: ripetute-intermittenti-80-metri
 categoria: preparazione-atletica
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 # Ripetute intermittenti 80 metri
@@ -11,7 +11,7 @@ updated: 2026-09-22
 
 **Categoria:** Preparazione atletica
 **Giocatori:** tutta la squadra
-**Durata consigliata:** 10 min (2 blocchi da 5')
+**Durata consigliata:** 8-10 min di lavoro (2 blocchi da 4' o 5') + recupero tra i blocchi
 **Materiale:** coni, cronometro
 
 ## Descrizione breve
@@ -25,9 +25,10 @@ Il giocatore corre 80 metri, poi recupera per un tempo pari a quello impiegato n
 - Transfer a situazioni di gara con sforzi ripetuti ravvicinati nel tempo
 
 ## Come si esegue
-- 2 blocchi da 5' ciascuno
+- 2 blocchi da 5' (21/09) o da 4' (12/10)
 - In ogni blocco: 80 metri di corsa, poi recupero pari al tempo di lavoro, poi di nuovo 80 metri, ciclicamente fino a fine blocco
-- Rapporto lavoro/recupero risultante: ~15" lavoro / 15" recupero (stima; tempo di percorrenza esatto degli 80m non specificato dal mister)
+- Rapporto lavoro/recupero: 15" lavoro / 15" recupero. Gli 80 m si corrono in circa 10-12", arrotondati a 15" (confermato da Daniele il 12/10): in un blocco da 4' sono circa 8 allunghi
+- Tra i due blocchi recupero pari al tempo di lavoro (4' di recupero dopo un blocco da 4')
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores · Usato il 21/09/2026 (2×5') e il 12/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]], 2×4', 15' totali di blocco)

@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-10-05
+updated: 2026-10-14
 tags: [football, exercises, index]
 ---
 
@@ -32,6 +32,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-circuito-doppio-uno-due-ostacolino\|Circuito doppio 1-2 e passaggio sotto l'ostacolino (gara a due gruppi)]] | tutta la squadra, 2 gruppi | Circuito tecnico: doppio uno-due poi passaggio rasoterra sotto l'ostacolino; due gruppi in gara a chi finisce prima |
 | [[riscaldamento-stazioni-passaggio-scambio-tommy\|Riscaldamento a stazioni — passaggio e scambio di posizione (Tommy)]] | tutta la squadra, a stazioni | Stazioni in cui si dà palla e ci si scambia di posizione, percorso meno lineare del solito; ⚠️ dettagli da completare |
 | [[riscaldamento-stazioni-esagono\|Riscaldamento tecnico a stazioni ad esagono]] | tutta la squadra, a stazioni | Circuito di passaggi a stazioni disposte ad esagono; ⚠️ da verificare se coincide con un riscaldamento già in libreria |
+| [[riscaldamento-stazioni-fallo-laterale-terzo-uomo\|Riscaldamento a stazioni: fallo laterale e scarico al terzo uomo]] | tutta la squadra, a stazioni | Stazioni che partono da una rimessa laterale con scarico al terzo uomo |
 
 ## Riscaldamento atletico
 
@@ -58,7 +59,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
 | [[possesso-4v4-piu-3-barcellona\|Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)]] | 11 (4+4+3) | Possesso 7v4 (4 attaccanti + 3 jolly contro 4 difendenti) in area 30x20m; ultimo minuto di ogni serie da 10' con obiettivo "passaggio veloce" (120 passaggi in 3'). Storicamente usato dal Barcellona di Guardiola (2007-08) |
 | [[possesso-5v2-transizione-doppio-campo\|Possesso 5 contro 2 con transizione a doppio campo]] | 20 (2 campi, 5v5 per campo) | 2 campi ~25x30m divisi in due metà: possesso 5 contro 2 in una metà, 1 punto se la squadra in inferiorità recupera senza tenerla, 3 punti se recupera e serve i compagni nell'altra metà (che riparte lì con ruoli invertiti). Sessioni 4-5' + 1' recupero |
-| [[rondo-doppio-rondo-nel-rondo\|Double rondo — il rondo dentro il rondo (3v1 → 5v3 / 4v2 → 6v4 / 4v2 → 8v4)]] | 8, 10 o 12 | Due quadrati concentrici: rondo piccolo nel quadrato interno, al recupero palla si apre nel quadrato esterno in superiorità (5v3 / 6v4 / 8v4). Possesso, pressing di squadra, reazione immediata alla perdita |
+| [[rondo-doppio-rondo-nel-rondo\|Double rondo — il rondo dentro il rondo (3v1 → 5v3 / 4v2 → 6v4 / 4v2 → 8v4)]] | 8, 10, 12 o 16 | Due quadrati concentrici: rondo piccolo nel quadrato interno, al recupero palla si apre nel quadrato esterno in superiorità (5v3 / 6v4 / 8v4). Variante di Daniele a tre quadrati 4v2 → 6v4 → 10v6, usata il 12/10. Possesso, pressing di squadra, reazione immediata alla perdita |
 | [[possesso-regola-5-secondi-riaggressione\|Possesso con regola dei 5 secondi — riaggressione immediata]] | da 9 a 16 | Possesso a due squadre + jolly: 1 punto ogni 6 passaggi, 2 punti a chi riconquista entro 5" dalla perdita. Progressione con porticine: gol entro 8" dalla riconquista vale 3 |
 | [[partita-a-tema-a-settori\|Partita a tema a settori — consolidare il possesso]] | 22 (11vs11) | Metà campo divisa in 3 settori: tocchi limitati (2 difesa, 3 centro, liberi in attacco), gol solo dopo 6 passaggi salvo recupero palla nel settore offensivo |
 
@@ -72,7 +73,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[forza-esplosiva-circuito\|Forza esplosiva — circuito]] | tutta la squadra | Circuito di forza esplosiva arti inferiori; ⚠️ composizione esatta usata da confermare, 3 circuiti proposti da ricerca online |
 | [[rapidita-scaletta\|Rapidità con scaletta]] | tutta la squadra | Serie di esercizi di rapidità/agilità dei piedi con la scaletta di coordinazione |
 | [[sprint-piramidale-10-20-30\|Sprint piramidale 10-20-30 metri]] | tutta la squadra | 4 ripetizioni sui 10m, 4 sui 20m, 4 sui 30m, tutte a intensità massimale |
-| [[ripetute-intermittenti-80-metri\|Ripetute intermittenti 80 metri]] | tutta la squadra | 2 blocchi da 5': 80 metri di corsa + recupero pari al tempo di lavoro, ciclo ripetuto per tutto il blocco (~15"/15") |
+| [[ripetute-intermittenti-80-metri\|Ripetute intermittenti 80 metri]] | tutta la squadra | 2 blocchi da 4-5': 80 metri di corsa + recupero pari al tempo di lavoro, ciclo ripetuto per tutto il blocco (15"/15", ~8 allunghi in 4') |
 | [[forza-analitica\|Lavoro atletico — forza analitica]] | tutta la squadra, a gruppi | 3 stazioni: squat a coppie con palla medica, balzi monopodalici, corsa con palla medica in mano |
 | [[forza-applicata-1-vs-1-2-vs-2\|Lavoro atletico — forza applicata in 1vs1 e 2vs2]] | tutta la squadra, a coppie | 1vs1 di 30" su due campetti laterali, poi al fischio transizione in 2vs2 (bianchi difendono al limite dell'area, arancio ricevono a metà campo e attaccano); ruoli invertiti |
 

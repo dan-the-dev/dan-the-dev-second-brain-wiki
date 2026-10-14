@@ -2,7 +2,7 @@
 title: "Double rondo — il rondo dentro il rondo (3v1 → 5v3 / 4v2 → 6v4 / 4v2 → 8v4)"
 slug: rondo-doppio-rondo-nel-rondo
 categoria: possesso
-updated: 2026-10-05
+updated: 2026-10-14
 tags: [football, exercises, possesso, rondo]
 ---
 
@@ -11,7 +11,7 @@ tags: [football, exercises, possesso, rondo]
 ← [[exercises/index|Torna alla libreria esercizi]]
 
 **Categoria:** Possesso
-**Giocatori:** 8 (3v1 → 5v3), 10 (4v2 → 6v4) o 12 (4v2 → 8v4)
+**Giocatori:** 8 (3v1 → 5v3), 10 (4v2 → 6v4), 12 (4v2 → 8v4) o 16 (4v2 → 6v4 → 10v6, versione a tre quadrati)
 **Durata consigliata:** ~20'
 **Materiale:** coni/cinesini per 2 quadrati concentrici, palloni, pettorine (2 colori)
 **Video:** [Onside Training](https://www.youtube.com/shorts/gaMWxPjNTZk) · [SomS Football Lab](https://www.youtube.com/shorts/sPwWVhd47sQ) · [KS Performance — Double Square Rondo](https://www.youtube.com/watch?v=D2vHV6dMvqo) ([[fonte-ks-performance-double-square-rondo|trascrizione]])
@@ -49,6 +49,15 @@ Due quadrati concentrici. Si parte con un rondo piccolo nel quadrato interno; qu
 - **Ritorno:** quando i blu recuperano palla rientrano nel quadrato interno e si torna al 4v2. **Due rossi qualsiasi** entrano a fare i difensori, quindi i rossi devono decidere al volo chi va dentro
 - Nel video l'obiettivo è tenere palla in spazi stretti e, senza palla, pressare e recuperare il più in fretta possibile. Non viene indicato un sistema di punteggio
 
+## Versione D — "Rondo nel rondo nel rondo" (4v2 → 6v4 → 10v6), 16 giocatori
+Variante inventata da Daniele e usata il 12/10/2026, partendo dalla versione C. Si aggiunge un terzo quadrato, ancora più grande, e a ogni cambio di possesso si allarga lo spazio.
+- **Arancioni (10)** e **neri (6)**, tre quadrati concentrici
+- **Fase 1, 4v2:** 4 arancioni fanno possesso nel quadrato piccolo contro 2 neri
+- **Fase 2, 6v4:** quando i neri recuperano palla si apre il quadrato medio: 6 neri fanno possesso contro 4 arancioni
+- **Fase 3, 10v6:** quando gli arancioni recuperano palla si apre il quadrato grande: 10 arancioni fanno possesso contro i 6 neri
+- ⚠️ **Misure:** la prima volta il campo era troppo piccolo e l'esercizio non girava. Sistemate le misure è andato meglio e nel finale lo facevano bene. Le misure giuste non sono state annotate: da segnare la prossima volta (indicativamente si può partire da 10x10 / 20x20 / 30x30 per il 10v6)
+- Il dump non dice come si torna alla fase 1 dopo il 10v6: da chiarire
+
 ## Obiettivi
 - Possesso sotto pressione in spazio stretto (quadrato interno) e largo (quadrato esterno)
 - Pressing di squadra e comunicazione senza palla
@@ -68,5 +77,5 @@ Due quadrati concentrici. Si parte con un rondo piccolo nel quadrato interno; qu
 - Prima volta che si usa: dopo l'allenamento vale la pena annotare se la transizione interno→esterno è stata capita o se ha creato confusione
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 0 · Stagioni: —
-Previsto inizialmente per l'[[sessions/20261005|allenamento 05/10/2026]] (slot possesso), poi rimandato a mercoledì 07/10 o giovedì 08/10 per i molti assenti attesi.
+Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Previsto inizialmente per l'[[sessions/20261005|allenamento 05/10/2026]] (slot possesso), poi rimandato. Usato per la prima volta il 12/10/2026 ([[sessions/20261012|allenamento]], 25') nella versione D a tre quadrati: partenza lenta per le misure sbagliate, poi è ingranato e verso la fine lo facevano bene.

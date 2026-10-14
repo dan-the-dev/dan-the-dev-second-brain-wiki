@@ -1,7 +1,7 @@
 ---
 title: Allenamenti — Juniores Regionali 2026/27
 season: 02-2026-2027-juniores
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Calendari allenamenti 2026/27
@@ -63,7 +63,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 07/10 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 08/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 10/10 | Sab | 15:00 | ⚽ partita | 🏠 G5 vs Accademia Bustese — [[matches/20261010\|📄 dettagli]] — **3-3 (P)** | 🟢 completato |
-| 12/10 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 12/10 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20261012\|📄 dettagli]] — Ospiate: rondo nel rondo nel rondo (4v2 → 6v4 → 10v6), allunghi 80 m 2×4', partitella · 14 presenti + 2 aggregati | 🟢 completato |
 | 14/10 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 15/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/10 | Sab | 18:00 | ⚽ partita | ✈️ G6 vs Accademia BMV | programmato |

@@ -1,7 +1,7 @@
 ---
 title: "Columpsi Gabriele"
 season: 02-2026-2027-juniores
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Columpsi Gabriele
@@ -28,6 +28,7 @@ updated: 2026-10-11
 | 24/09/2026 | allenamento | ❌ no |
 | 28/09/2026 | allenamento | ❌ no |
 | 01/10/2026 | allenamento | ✅ sì |
+| 12/10/2026 | allenamento | ❌ no (Muay Thai) |
 
 ---
 
@@ -58,6 +59,7 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 ## 📝 Note personali
 
+**12/10/2026** — Assente per la Muay Thai: il lunedì salterà spesso per questo motivo. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]])
 **10/10/2026** — Doppietta (61' e 66') che rimette in piedi la gara da 0-2 a 2-2, poi assist per il 3-2 di Banfi all'84'. Sbaglia però altre 3 occasioni (13', 62', 84'). Sale a 7 gol in 5 giornate di campionato. (fonte: [[seasons/02-2026-2027-juniores/matches/20261010|partita]])
 **03/10/2026** — Doppietta (11' e 58'). Avrebbe potuto segnare di più: colpo di testa fuori di poco al 30', tiro strozzato al 31', palo al 59'. (fonte: [[seasons/02-2026-2027-juniores/matches/20261003|partita]])
 **26/09/2026** — Entra al 55', segna il 3-3 al 72' su assist di Taronna. Al 95' si vede annullare per fuorigioco il gol del possibile pari. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
