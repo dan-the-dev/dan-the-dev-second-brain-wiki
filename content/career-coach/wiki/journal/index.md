@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-10-13
+updated: 2026-10-14
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20261014-levels-day23]] — 2026-10-14 · **Levels Day 23** · Giornata positiva: piano per le dashboard di metriche BI scritto; prima PR dell'epica deploy senza downtime creata (review + check con MCP AWS), portata in dev domani per non sovrapporsi al rilascio del servizio mail di Paolo; domani scelta con Dario tra le sue segnalazioni e il deploy, e mezza giornata con Emanuele per il kick off della repo design system e prototipi; con Dario da lavorare sulla gestione del backlog
 - [[20261013-levels-day22]] — 2026-10-13 · **Levels Day 22** · Giornata abbastanza positiva: annuncio dell'invito ai sub e secondo rilascio alle 18:30 a utenti spenti; analisi di notifiche, alert, statistiche e dashboard di prodotto con Dario, rimandate (per ora query in locale via tunnel, Dan scrive un piano); il deploy senza downtime slitta a domani; chiamata con Emanuele fissata per giovedì dopo lo stand-up
 - [[20261012-levels-day21]] — 2026-10-12 · **Levels Day 21** · Giornata positiva: WIP sulla UX dell'invito ai sub chiuso (rilascio alle 22), primo weekly del team, cinque obiettivi per la settimana. PR review ottima con Paolo ("ci eravamo davvero capiti"), planning con Albi off. Lezione sul feature flag: era su una tabella DB, non su PostHog, e l'ha scoperto la domanda di Alberto
 - [[20261009-levels-day20]] — 2026-10-09 · **Levels Day 20** · Fine di una settimana impegnativa, andata bene: piano per il codice del servizio mail con Paolo, piano dei prototipi con Emanuele, test e rilascio sul sito per i sub (anche la parte dell'invito), piano in 5 step per rilasciare in orario di lavoro, rivisto con tutto il team dev (sei punti deboli trovati). Unica frizione: un fix "piccolo" con dentro temi di UX, che Dario voleva gestire in fretta e che ha fatto perdere un po' di tempo
