@@ -103,7 +103,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta); raddoppio a mezzali o esterni alti a seconda del modulo |
 | [[possesso-attacco-esterno-cross-difesa-area\|Possesso, attacco sull'esterno, cross e difesa dell'area]] | tutta la squadra | Possesso → 1v1 in fascia → cross dal fondo e 3v3 in area, con tre difensori centrali che difendono a turno. Lavoro sul contatto con l'attaccante in area |
 | [[giro-palla\|Giro palla]] | squadra | Postura di chi riceve nel giro palla: corpo aperto e 2-3 m più bassi in posizione laterale, non avanzati e girati verso il portiere |
-| [[situazionale-4v3\|Esercizio situazionale 4 contro 3]] | gruppi da 7 (4+3) | Situazione in superiorità numerica da reel Instagram; ⚠️ regole da descrivere |
+| [[situazionale-4v3\|Esercizio situazionale 4 contro 3]] | gruppi da 7 (4+3) | Da metà campo: al via i difensori saltano un ostacolo e rientrano, palla su un esterno e 4v3 verso la porta; finita l'azione, secondo attacco sul lato opposto con un altro pallone |
 
 ## Calci piazzati
 
