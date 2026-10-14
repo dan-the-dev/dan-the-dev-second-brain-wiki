@@ -29,6 +29,7 @@ updated: 2026-10-14
 | 28/09/2026 | allenamento | ✅ sì |
 | 01/10/2026 | allenamento | ✅ sì |
 | 12/10/2026 | allenamento | ✅ sì |
+| 14/10/2026 | allenamento | ✅ sì |
 
 ✅ Assente dal 14/09 al 21/09/2026 per mononucleosi, rientrato in gruppo il 23/09/2026 (vedi tabella infortuni sotto).
 

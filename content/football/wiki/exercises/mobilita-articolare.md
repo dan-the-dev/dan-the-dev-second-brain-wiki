@@ -34,4 +34,4 @@ Tipicamente comprende: circonduzioni di caviglia, affondi con rotazione del bust
 - A corpo libero, in cerchio o in fila, nessun materiale necessario
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 9 · Stagioni: 02-2026-2027-juniores · Ultimo uso: 12/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]], 10')
+Score medio: — · Volte usato: 10 · Stagioni: 02-2026-2027-juniores · Ultimo uso: 14/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261014|allenamento]], 5')

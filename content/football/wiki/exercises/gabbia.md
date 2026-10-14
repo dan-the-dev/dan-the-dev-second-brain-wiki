@@ -1,7 +1,7 @@
 ---
 title: "Gabbia"
 slug: gabbia
-updated: 2026-09-09
+updated: 2026-10-14
 tags: [football, exercises, possesso]
 ---
 
@@ -25,11 +25,14 @@ Gioco di possesso/pressione a spazio ridotto, ispirato al concetto storico di "g
 
 ⚠️ Non confermato che sia la variante usata il 09/09/2026 — da aggiornare con i dettagli reali alla prossima indicazione di Daniele.
 
+### Variante 3 contro 3 di forza (14/10/2026)
+Usata come partita a tema dopo la [[exercises/forza-analitica|forza analitica]]: 3 contro 3 in spazio chiuso, con focus sulla forza (contrasti, protezione palla, duelli). Regole di dettaglio, spazi e durata delle serie non indicati.
+
 ### Obiettivi
 Mantenimento del possesso sotto pressione in spazio ridotto · intensità/continuità · appoggio dei compagni esterni · ricezione/gestione palla in pressione.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores · Usato il 09/09/2026 e il 14/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261014|allenamento]], 3v3 di forza, 20')
 
 ## Fonti
 - [Gabbia (calcio) — Wikipedia](https://it.wikipedia.org/wiki/Gabbia_(calcio))

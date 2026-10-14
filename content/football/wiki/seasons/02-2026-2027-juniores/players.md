@@ -31,7 +31,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 5 | [[players/edoardo-boniardi\|Boniardi E. Edoardo]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Forte in marcatura, veloce, aggressivo. Bene fisicamente anche nell'amichevole del 31/08 |
 | 6 | [[players/alessandro-cuzmin\|Cuzmin Alessandro]] | 2008 | Difensore centrale, adattabile terzino/quinto | ✓ confermato · Buona alternativa, adattato anche esterno. Amichevole 31/08: molto aggressivo, a volte troppo |
 | 7 | [[players/lorenzo-brana\|Brana Lorenzo]] | 2008 | Difensore centrale | ✓ confermato · Rientro da infortunio, molto grosso fisicamente · ⚠️ 12/10: secondo Daniele **probabilmente smette di giocare** |
-| 8 | [[players/francesco-lentini\|Lentini Francesco]] | 2009 | Difensore centrale, adattabile mediano | 🆕 nuovo · Bel difensore, bella mentalità, deve crescere |
+| 8 | [[players/francesco-lentini\|Lentini Francesco]] | 2009 | Difensore centrale, adattabile mediano | 🆕 nuovo · Bel difensore, bella mentalità, deve crescere · 🩹 14/10: infortunato (tipo non indicato) |
 | 9 | [[players/alessandro-riccio\|Riccio Alessandro]] | 2008 | Terzino | ✓ confermato · Buon tackle, ottimo in gruppo |
 | 10 | [[players/samuele-pedulla\|Pedullà Samuele]] | 2008 | Difensore centrale o laterale | ✓ confermato · Rincalzo di qualità, deve crescere |
 | 11 | [[players/guglielmo-capretti\|Capretti Guglielmo]] | 2009 | Difensore centrale | 🆕 nuovo (da Vigor) · Belle impressioni, personalità, visto titolare. Amichevole 31/08: molto bene su cambi di gioco, imbucate centrali e aggressione in avanti — tra i nuovi più positivi anche secondo Teo |

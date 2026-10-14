@@ -46,7 +46,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 
 | Titolo | N. giocatori | Descrizione |
 |--------|:---------------:|-------------|
-| [[gabbia\|Gabbia]] | variabile (es. 7+3) | Possesso/pressione a spazio ridotto ispirato al concetto storico di Corrado Orrico; ⚠️ variante specifica ancora da confermare |
+| [[gabbia\|Gabbia]] | variabile (es. 7+3, 3v3) | Possesso/pressione a spazio ridotto ispirato al concetto storico di Corrado Orrico; usata anche come 3v3 di forza (14/10). ⚠️ variante del 09/09 ancora da confermare |
 | [[rondo-4v1\|Rondo 4 contro 1 (Torello base)]] | 5 (4+1) | Possesso base in spazio ridotto, un centrale cerca di intercettare |
 | [[rondo-3v1\|Rondo 3 contro 1]] | 4 (3+1) | Come il 4v1 ma con un'opzione di passaggio in meno, più impegnativo |
 | [[rondo-4v4-piu-4\|Rondo 4 contro 4 più 4 jolly (rondo alla Guardiola)]] | 12 (4+4+4) | Il rondo più famoso: possesso sul perimetro con 4 jolly neutrali, pressing al centro, scambio di ruolo al recupero |
@@ -59,6 +59,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[rondo-spagnola-5v2-cono-centrale\|Rondo Federazione Spagnola — 5v2 con cono centrale ("Hit Middle Cone")]] | 7 (5+2) | Possesso con obiettivo di precisione: punti extra per il passaggio che colpisce il cono centrale, difensori in coppia a protezione |
 | [[possesso-4v4-piu-3-barcellona\|Possesso palla 4 contro 4 + 3 — Barcellona FC (Guardiola)]] | 11 (4+4+3) | Possesso 7v4 (4 attaccanti + 3 jolly contro 4 difendenti) in area 30x20m; ultimo minuto di ogni serie da 10' con obiettivo "passaggio veloce" (120 passaggi in 3'). Storicamente usato dal Barcellona di Guardiola (2007-08) |
 | [[possesso-5v2-transizione-doppio-campo\|Possesso 5 contro 2 con transizione a doppio campo]] | 20 (2 campi, 5v5 per campo) | 2 campi ~25x30m divisi in due metà: possesso 5 contro 2 in una metà, 1 punto se la squadra in inferiorità recupera senza tenerla, 3 punti se recupera e serve i compagni nell'altra metà (che riparte lì con ruoli invertiti). Sessioni 4-5' + 1' recupero |
+| [[possesso-tre-squadre-cambio-campo\|Possesso a 3 squadre con cambio campo]] | 3 squadre | Una squadra tiene palla contro un'altra in inferiorità: dopo 6 passaggi serve la terza nell'altra metà, dove va a pressare la squadra rimasta fuori. Chi recupera conquista il campo |
 | [[rondo-doppio-rondo-nel-rondo\|Double rondo — il rondo dentro il rondo (3v1 → 5v3 / 4v2 → 6v4 / 4v2 → 8v4)]] | 8, 10, 12 o 16 | Due quadrati concentrici: rondo piccolo nel quadrato interno, al recupero palla si apre nel quadrato esterno in superiorità (5v3 / 6v4 / 8v4). Variante di Daniele a tre quadrati 4v2 → 6v4 → 10v6, usata il 12/10. Possesso, pressing di squadra, reazione immediata alla perdita |
 | [[possesso-regola-5-secondi-riaggressione\|Possesso con regola dei 5 secondi — riaggressione immediata]] | da 9 a 16 | Possesso a due squadre + jolly: 1 punto ogni 6 passaggi, 2 punti a chi riconquista entro 5" dalla perdita. Progressione con porticine: gol entro 8" dalla riconquista vale 3 |
 | [[partita-a-tema-a-settori\|Partita a tema a settori — consolidare il possesso]] | 22 (11vs11) | Metà campo divisa in 3 settori: tocchi limitati (2 difesa, 3 centro, liberi in attacco), gol solo dopo 6 passaggi salvo recupero palla nel settore offensivo |
@@ -102,6 +103,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[principi-difensivi-palla-esterna\|Principi difensivi — difendere la porta con palla all'esterno]] | linea difensiva + squadra | Con palla sull'esterno si sta stretti: esce il terzino, il centrale copre il centro e non va al raddoppio (difende la porta); raddoppio a mezzali o esterni alti a seconda del modulo |
 | [[possesso-attacco-esterno-cross-difesa-area\|Possesso, attacco sull'esterno, cross e difesa dell'area]] | tutta la squadra | Possesso → 1v1 in fascia → cross dal fondo e 3v3 in area, con tre difensori centrali che difendono a turno. Lavoro sul contatto con l'attaccante in area |
 | [[giro-palla\|Giro palla]] | squadra | Postura di chi riceve nel giro palla: corpo aperto e 2-3 m più bassi in posizione laterale, non avanzati e girati verso il portiere |
+| [[situazionale-4v3\|Esercizio situazionale 4 contro 3]] | gruppi da 7 (4+3) | Situazione in superiorità numerica da reel Instagram; ⚠️ regole da descrivere |
 
 ## Calci piazzati
 

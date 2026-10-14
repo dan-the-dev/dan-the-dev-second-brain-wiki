@@ -1,7 +1,7 @@
 ---
 title: "Lavoro atletico — forza analitica"
 slug: forza-analitica
-updated: 2026-09-24
+updated: 2026-10-14
 tags: [football, exercises, preparazione-atletica]
 ---
 
@@ -34,4 +34,4 @@ Forza arti inferiori e stabilità del tronco sotto carico · forza reattiva e st
 - Balzi monopodalici: con giocatori reduci da problemi alla caviglia (al 23/09 Grosso e Pedullà) valutare una versione ridotta o esonerarli dalla stazione.
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 1 · Stagioni: 02-2026-2027-juniores
+Score medio: — · Volte usato: 2 · Stagioni: 02-2026-2027-juniores · Usato il 23/09/2026 (10') e il 14/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261014|allenamento]], 15', stazioni non indicate)

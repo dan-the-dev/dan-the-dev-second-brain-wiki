@@ -29,6 +29,7 @@ Elenco delle sessioni di allenamento con pagina dedicata (programma, presenze, n
 | 01/10/2026 | Gio | 🟢 Completato | [[sessions/20261001\|Allenamento 01/10]] |
 | 05/10/2026 | Lun | 🟡 Programmato | [[sessions/20261005\|Allenamento 05/10]] |
 | 12/10/2026 | Lun | 🟢 Completato | [[sessions/20261012\|Allenamento 12/10]] |
+| 14/10/2026 | Mer | 🟢 Completato | [[sessions/20261014\|Allenamento 14/10]] |
 
 ## Legenda stato
 - 🟡 Programmato / svolto senza dump — sessione pianificata o svolta ma non ancora completamente documentata

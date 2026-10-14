@@ -29,6 +29,7 @@ updated: 2026-10-14
 | 28/09/2026 | allenamento | ❌ no |
 | 01/10/2026 | allenamento | ✅ sì |
 | 12/10/2026 | allenamento | ❌ no (Muay Thai) |
+| 14/10/2026 | allenamento | ✅ sì |
 
 ---
 

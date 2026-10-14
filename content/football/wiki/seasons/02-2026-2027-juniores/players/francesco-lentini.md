@@ -29,6 +29,7 @@ updated: 2026-10-14
 | 28/09/2026 | allenamento | ✅ sì |
 | 01/10/2026 | allenamento | ✅ sì |
 | 12/10/2026 | allenamento | ✅ sì |
+| 14/10/2026 | allenamento | ❌ no (infortunio) |
 
 ---
 
@@ -53,10 +54,11 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| — | — | — | — |
+| ≤14/10/2026 | In corso | Infortunio (tipo non specificato) | 14/10/2026: assente all'allenamento per infortunio, segnalato da Daniele. |
 
 ---
 
 ## 📝 Note personali
 
+**14/10/2026** — Assente per infortunio. Tipo e data non indicati. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261014|allenamento]])
 **29/09/2026** — Prime presenze in gara ufficiale della stagione: entra al 69' al posto di Taronna, nel secondo tempo di sofferenza difensiva. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])

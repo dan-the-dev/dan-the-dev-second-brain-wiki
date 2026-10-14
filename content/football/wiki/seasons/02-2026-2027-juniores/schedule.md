@@ -64,7 +64,7 @@ Legenda: 🏋️ allenamento · 🤝 amichevole · ⚽ partita · 🏠 casa · �
 | 08/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 10/10 | Sab | 15:00 | ⚽ partita | 🏠 G5 vs Accademia Bustese — [[matches/20261010\|📄 dettagli]] — **3-3 (P)** | 🟢 completato |
 | 12/10 | Lun | 19:00–20:30 | 🏋️ allenamento | [[sessions/20261012\|📄 dettagli]] — Ospiate: rondo nel rondo nel rondo (4v2 → 6v4 → 10v6), allunghi 80 m 2×4', partitella · 14 presenti + 2 aggregati | 🟢 completato |
-| 14/10 | Mer | 19:00–20:30 | 🏋️ allenamento | — | programmato |
+| 14/10 | Mer | 19:00–20:30 | 🏋️ allenamento | [[sessions/20261014\|📄 dettagli]] — Polisportiva Ardor: possesso a 3 squadre, forza analitica, situazionale 4v3, gabbia 3v3 di forza, partitella · 14 presenti + 6 aggregati | 🟢 completato |
 | 15/10 | Gio | 19:00–20:30 | 🏋️ allenamento | — | programmato |
 | 17/10 | Sab | 18:00 | ⚽ partita | ✈️ G6 vs Accademia BMV | programmato |
 | 19/10 | Lun | 19:00–20:30 | 🏋️ allenamento | — | programmato |
