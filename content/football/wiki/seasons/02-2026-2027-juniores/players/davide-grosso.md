@@ -28,7 +28,7 @@ updated: 2026-10-14
 | 24/09/2026 | allenamento | ✅ sì |
 | 28/09/2026 | allenamento | ✅ sì |
 | 01/10/2026 | allenamento | ❌ no |
-| 12/10/2026 | allenamento | ❌ no (infortunio) |
+| 12/10/2026 | allenamento | ❌ no (caviglia) |
 
 ---
 
@@ -53,14 +53,13 @@ Tabella riservata alle gare ufficiali (Campionato e Coppa Lombardia).
 
 | Data inizio | Data fine | Descrizione | Ultimo aggiornamento |
 |:-----------:|:---------:|-------------|----------------------|
-| 15/09/2026 | 26/09/2026 | Problema alla caviglia rimediato nella gara di Coppa vs Leone XIII Sport (sostituito al 43') | ✅ Risolto. Il 23/09 si era fermato a metà seduta; allenamento del 24/09 svolto, rientro in campo il 26/09 vs Accademia Inveruno (8 minuti). |
-| ≤12/10/2026 | In corso | Nuovo infortunio (tipo non specificato) | 12/10/2026: assente all'allenamento per infortunio, segnalato da Daniele nel dump. Il 10/10 non era stato convocato (motivo non indicato). |
+| 15/09/2026 | In corso (fastidio) | Problema alla caviglia rimediato nella gara di Coppa vs Leone XIII Sport (sostituito al 43') | ⚠️ Non risolto del tutto. Il 23/09 si era fermato a metà seduta; allenamento del 24/09 svolto, rientro in campo il 26/09 vs Accademia Inveruno (8 minuti). 12/10/2026: Daniele precisa che la caviglia non è mai guarita del tutto dalla gara col Leone XIII. Da qualche settimana si allena a giorni alterni per il fastidio; assente il 12/10, non convocato il 10/10. |
 
 ---
 
 ## 📝 Note personali
 
-**12/10/2026** — Assente per infortunio. Tipo di infortunio e data non indicati: da chiarire. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]])
+**12/10/2026** — Assente. La caviglia gli dà ancora fastidio dalla gara col Leone XIII del 15/09: da qualche settimana si allena a giorni alterni. (fonte: [[seasons/02-2026-2027-juniores/sessions/20261012|allenamento]])
 **29/09/2026** — Non convocato per febbre. (fonte: [[seasons/02-2026-2027-juniores/matches/20260929|partita]])
 **26/09/2026** — Rientro in campo dopo il problema alla caviglia del 15/09: entra all'82' al posto di Lasagna. (fonte: [[seasons/02-2026-2027-juniores/matches/20260926|partita]])
 **23/09/2026** — Prova ad allenarsi ma si ferma a metà seduta, sempre per la caviglia (infortunio nella gara contro il Leone XIII). Da monitorare. (fonte: [[seasons/02-2026-2027-juniores/sessions/20260923|allenamento]])

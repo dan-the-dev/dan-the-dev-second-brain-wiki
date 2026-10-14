@@ -49,7 +49,7 @@ Ogni giocatore ha ora anche una pagina dedicata con storico presenze, presenze i
 | 15 | [[players/alessandro-lapiccirella\|Lapiccirella Alessandro]] | 2008 | Mediano / mezzala | ✓ confermato · Buona tecnica e temperamento, incostante |
 | 16 | [[players/gabriele-mingrone\|Mingrone G. Gabriele]] | 2008 | Mezzala / trequartista / seconda punta | ✓ confermato · **Il campione della squadra**. Gran partita nell'amichevole del 31/08: assist per il primo gol e rigore trasformato per il 2-0 — reparto offensivo con Sudano e Columpsi giudicato "un tridente forte vero" da Teo |
 | 17 | [[players/davide-curtarelli\|Curtarelli Davide]] | 2009 | Mezzala / esterno / attaccante / mediano | 🆕 nuovo · Amichevole 31/08: mezzala tipica, prende molte iniziative e va spesso al tiro |
-| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare (giudizio negativo confermato anche da Teo) · 🩹 12/10: di nuovo infortunato (tipo non indicato) |
+| 18 | [[players/davide-grosso\|Grosso Davide]] | 2009 | Mezzala | 🆕 nuovo (da Mazzo di Rho) · Amichevole 31/08: molto disordinato, anche provato in mezzo con esterno — da lavorare (giudizio negativo confermato anche da Teo) · 🩹 Caviglia: fastidio dalla gara col Leone XIII (15/09), da qualche settimana si allena a giorni alterni |
 | 19 | [[players/eric-grassi\|Grassi Eric]] | 2009 | Centrocampista centrale | 🆕 nuovo |
 | 20 | [[players/leonardo-di-bello\|Di Bello Leonardo]] | 2008 | Mezzala / esterno | 🆕 nuovo · Amichevole 31/08: molto bene (anche adattato quinto), ma a volte rischia troppo la giocata — tra i nuovi più positivi anche secondo Teo |
 

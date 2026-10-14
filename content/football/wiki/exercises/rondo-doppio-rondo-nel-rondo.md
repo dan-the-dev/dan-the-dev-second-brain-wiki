@@ -56,7 +56,7 @@ Variante inventata da Daniele e usata il 12/10/2026, partendo dalla versione C. 
 - **Fase 2, 6v4:** quando i neri recuperano palla si apre il quadrato medio: 6 neri fanno possesso contro 4 arancioni
 - **Fase 3, 10v6:** quando gli arancioni recuperano palla si apre il quadrato grande: 10 arancioni fanno possesso contro i 6 neri
 - ⚠️ **Misure:** la prima volta il campo era troppo piccolo e l'esercizio non girava. Sistemate le misure è andato meglio e nel finale lo facevano bene. Le misure giuste non sono state annotate: da segnare la prossima volta (indicativamente si può partire da 10x10 / 20x20 / 30x30 per il 10v6)
-- Il dump non dice come si torna alla fase 1 dopo il 10v6: da chiarire
+- **Ritorno alla fase 1:** dopo qualche minuto di possesso nel 10v6, l'allenatore fa ripartire il 4v2 a sua decisione, mettendo al centro 4 giocatori scelti a caso
 
 ## Obiettivi
 - Possesso sotto pressione in spazio stretto (quadrato interno) e largo (quadrato esterno)
