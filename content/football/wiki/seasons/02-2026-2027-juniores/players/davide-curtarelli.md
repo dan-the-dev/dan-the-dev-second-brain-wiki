@@ -1,7 +1,7 @@
 ---
 title: "Curtarelli Davide"
 season: 02-2026-2027-juniores
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Curtarelli Davide
@@ -30,6 +30,7 @@ updated: 2026-10-14
 | 01/10/2026 | allenamento | ✅ sì |
 | 12/10/2026 | allenamento | ✅ sì |
 | 14/10/2026 | allenamento | ✅ sì |
+| 15/10/2026 | allenamento | ✅ sì |
 
 ✅ Assente dal 14/09 al 21/09/2026 per mononucleosi, rientrato in gruppo il 23/09/2026 (vedi tabella infortuni sotto).
 

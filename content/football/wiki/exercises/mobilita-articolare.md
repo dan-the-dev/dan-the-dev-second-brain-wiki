@@ -2,7 +2,7 @@
 title: "Mobilità articolare"
 slug: mobilita-articolare
 categoria: riscaldamento-atletico
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Mobilità articolare
@@ -34,4 +34,4 @@ Tipicamente comprende: circonduzioni di caviglia, affondi con rotazione del bust
 - A corpo libero, in cerchio o in fila, nessun materiale necessario
 
 ## Statistiche d'uso
-Score medio: — · Volte usato: 10 · Stagioni: 02-2026-2027-juniores · Ultimo uso: 14/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261014|allenamento]], 5')
+Score medio: — · Volte usato: 11 · Stagioni: 02-2026-2027-juniores · Ultimo uso: 15/10/2026 ([[seasons/02-2026-2027-juniores/sessions/20261015|allenamento]], 5')

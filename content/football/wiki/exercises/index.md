@@ -1,6 +1,6 @@
 ---
 title: Esercizi
-updated: 2026-10-14
+updated: 2026-10-15
 tags: [football, exercises, index]
 ---
 
@@ -33,6 +33,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[riscaldamento-stazioni-passaggio-scambio-tommy\|Riscaldamento a stazioni — passaggio e scambio di posizione (Tommy)]] | tutta la squadra, a stazioni | Stazioni in cui si dà palla e ci si scambia di posizione, percorso meno lineare del solito; ⚠️ dettagli da completare |
 | [[riscaldamento-stazioni-esagono\|Riscaldamento tecnico a stazioni ad esagono]] | tutta la squadra, a stazioni | Circuito di passaggi a stazioni disposte ad esagono; ⚠️ da verificare se coincide con un riscaldamento già in libreria |
 | [[riscaldamento-stazioni-fallo-laterale-terzo-uomo\|Riscaldamento a stazioni: fallo laterale e scarico al terzo uomo]] | tutta la squadra, a stazioni | Stazioni che partono da una rimessa laterale con scarico al terzo uomo |
+| [[partitella-due-tocchi-campo-piccolo\|Partitella a due tocchi su campo piccolo]] | tutta la squadra | Partitella su campo ridotto con massimo due tocchi, usata come riscaldamento tecnico |
 
 ## Riscaldamento atletico
 
@@ -104,6 +105,7 @@ Libreria trasversale degli esercizi, condivisa tra tutte le stagioni. Ogni eserc
 | [[possesso-attacco-esterno-cross-difesa-area\|Possesso, attacco sull'esterno, cross e difesa dell'area]] | tutta la squadra | Possesso → 1v1 in fascia → cross dal fondo e 3v3 in area, con tre difensori centrali che difendono a turno. Lavoro sul contatto con l'attaccante in area |
 | [[giro-palla\|Giro palla]] | squadra | Postura di chi riceve nel giro palla: corpo aperto e 2-3 m più bassi in posizione laterale, non avanzati e girati verso il portiere |
 | [[situazionale-4v3\|Esercizio situazionale 4 contro 3]] | gruppi da 7 (4+3) | Da metà campo: al via i difensori saltano un ostacolo e rientrano, palla su un esterno e 4v3 verso la porta; finita l'azione, secondo attacco sul lato opposto con un altro pallone |
+| [[attacco-difesa-costruzione-basso-pressione-alta\|Attacco contro difesa: costruzione dal basso contro pressione alta]] | difesa + portiere vs attacco | La difesa prova a uscire palla a terra dal basso, l'attacco pressa alto per recuperare e segnare. Lavora insieme su costruzione e pressing |
 
 ## Calci piazzati
 

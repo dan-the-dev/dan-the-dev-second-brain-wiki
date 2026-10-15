@@ -1,7 +1,7 @@
 ---
 title: "Taronna Francesco"
 season: 02-2026-2027-juniores
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Taronna Francesco
@@ -30,6 +30,7 @@ updated: 2026-10-14
 | 01/10/2026 | allenamento | ❌ no |
 | 12/10/2026 | allenamento | ✅ sì |
 | 14/10/2026 | allenamento | ✅ sì |
+| 15/10/2026 | allenamento | ✅ sì |
 
 ---
 
