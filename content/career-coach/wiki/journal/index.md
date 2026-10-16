@@ -1,6 +1,6 @@
 ---
 title: Journal — Storico compilato
-updated: 2026-10-15
+updated: 2026-10-16
 tags: [journal, index]
 ---
 
@@ -11,6 +11,7 @@ I raw originali sono nelle rispettive cartelle raw/journal/{n-company}/ (es. 4-m
 
 ## Entries recenti
 
+- [[20261016-levels-day25]] — 2026-10-16 · **Levels Day 25** · Obiettivi raggiunti: PR dell'update component su OS Design, primo step del deploy rilasciato in Prod in pausa pranzo, PR dei controlli sulle migration mergiata su Dev; chiacchierata con Alberto sul "sommerso" del piano del deploy; primo refinement dell'accesso al cantiere andato bene, si parte con la discovery
 - [[20261015-levels-day24]] — 2026-10-15 · **Levels Day 24** · Giornata molto buona: primo step del deploy senza downtime mergiato (test veloce, da approfondire e rilasciare in Prod prima del weekend); PR sui controlli delle migration (timestamp duplicati) da mergiare su Dev solo dopo il rilascio in Prod; kick off di OS Design con Emanuele (scaffolding e prime skill), walking skeleton e piano a batch di componenti 1 → 2-3 → 7-8
 - [[20261014-levels-day23]] — 2026-10-14 · **Levels Day 23** · Giornata positiva: piano per le dashboard di metriche BI scritto; prima PR dell'epica deploy senza downtime creata (review + check con MCP AWS), portata in dev domani per non sovrapporsi al rilascio del servizio mail di Paolo; domani scelta con Dario tra le sue segnalazioni e il deploy, e mezza giornata con Emanuele per il kick off della repo design system e prototipi; con Dario da lavorare sulla gestione del backlog
 - [[20261013-levels-day22]] — 2026-10-13 · **Levels Day 22** · Giornata abbastanza positiva: annuncio dell'invito ai sub e secondo rilascio alle 18:30 a utenti spenti; analisi di notifiche, alert, statistiche e dashboard di prodotto con Dario, rimandate (per ora query in locale via tunnel, Dan scrive un piano); il deploy senza downtime slitta a domani; chiamata con Emanuele fissata per giovedì dopo lo stand-up
